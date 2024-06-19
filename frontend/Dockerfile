@@ -1,4 +1,4 @@
-# myfrontend/Dockerfile
+#image node
 FROM node:21.7.3-alpine AS build
 
 # Set the working directory
@@ -16,11 +16,14 @@ COPY . .
 # Build the application
 RUN npm run build --prod
 
+# Image nginx
 FROM nginx:alpine
 
+#Copy the files built in the previous step
 COPY --from=build /app/www /usr/share/nginx/html
 
 # Expose port 80
 EXPOSE 80
 
+# Default command to run Nginx
 CMD ["nginx", "-g", "daemon off;"]
