@@ -1,0 +1,340 @@
+,team
+0,Real Madrid
+1,Milan
+2,Hibernian
+3,Reims
+4,Partizan
+5,MTK
+6,Rapid Wien
+7,Djurgården
+8,Saarbrücken
+9,PSV
+10,Anderlecht
+11,Gwardia
+12,AGF
+13,Essen
+14,Servette
+15,Sporting CP
+16,Man United
+17,Fiorentina
+18,Crvena zvezda
+19,Nice
+20,Grasshoppers
+21,CSKA Sofia
+22,Athletic Club
+23,Dinamo Bucureşti
+24,Honvéd
+25,Norrköping
+26,Dortmund
+27,Rapid
+28,Rangers
+29,Slovan Bratislava
+30,Vasas
+31,Sevilla
+32,Ajax
+33,Young Boys
+34,Aue
+35,Antwerp
+36,FCSB
+37,Dukla
+38,Atlético de Madrid
+39,Wiener SC
+40,Standard Liège
+41,Schalke
+42,Wolves
+43,Göteborg
+44,HPS
+45,Beşiktaş
+46,Barcelona
+47,Eintracht Frankfurt
+48,Sparta
+49,Fenerbahçe
+50,B 1909
+51,Senica
+52,Jeunesse Esch
+53,Benfica
+54,Hamburg
+55,IFK Malmö
+56,Hradec Králové
+57,Burnley
+58,Panathinaikos
+59,Újpest
+60,Fredrikstad
+61,Tottenham
+62,Juventus
+63,Nürnberg
+64,Haka
+65,Vorwärts
+66,Feyenoord
+67,Austria Wien
+68,B 1913
+69,Dundee
+70,Galatasaray
+71,Esbjerg
+72,Ipswich
+73,Polonia Bytom
+74,Inter
+75,Zürich
+76,Monaco
+77,Spartak Plovdiv
+78,Górnik Zabrze
+79,Liverpool
+80,Győr
+81,Amsterdam
+82,Köln
+83,Lokomotiv Sofia
+84,Lyn
+85,Chaux-de-Fonds
+86,Ferencváros
+87,Sparta Praha
+88,Bremen
+89,Kilmarnock
+90,Levski
+91,Celtic
+92,Linfield
+93,Vojvodina
+94,Nantes
+95,1860 München
+96,Vålerenga
+97,Malmö
+98,KR Reykjavik
+99,Admira
+100,Aris
+101,Petrolul
+102,Torpedo Moskva
+103,Olympiacos
+104,Omonoia
+105,Braunschweig
+106,Rapid Bucureşti
+107,St-Étienne
+108,Valur
+109,Dynamo Kyiv
+110,Sarajevo
+111,Hvidovre
+112,KuPS
+113,Hibernians
+114,Botev Plovdiv
+115,Chemnitz
+116,Basel
+117,Dundalk
+118,Olympiakos
+119,Skeid
+120,Glentoran
+121,Spartak Trnava
+122,AEK Athens
+123,AB
+124,Reipas
+125,AEL
+126,Waterford
+127,Rosenborg
+128,Man City
+129,Floriana
+130,Leeds
+131,Legia
+132,Öster
+133,KB
+134,Tirana
+135,Avenir
+136,Bayern
+137,UTA
+138,Jena
+139,Everton
+140,Cagliari
+141,Mönchengladbach
+142,KPV
+143,Keflavík
+144,B 1903
+145,Spartak Moskva
+146,Pezoporikou
+147,Arsenal
+148,Sliema
+149,Valencia
+150,Marseille
+151,CSKA Moskva
+152,Dresden
+153,Hajduk Split
+154,Partizani
+155,ÍA
+156,Wacker
+157,Strømsgodset
+158,Cork Hibs
+159,Derby
+160,Magdeburg
+161,ACS Campionii FC Arges
+162,VB
+163,Željezničar
+164,TPS
+165,Zorya Luhansk
+166,Club Brugge
+167,Åtvidaberg
+168,Stal
+169,APOEL
+170,Viking
+171,Crusaders
+172,Fram
+173,Ararat
+174,Ruch
+175,Cork Celtic
+176,HJK
+177,Coleraine
+178,Linz
+179,Valletta
+180,U Craiova
+181,Brussels
+182,Bohemians
+183,PAOK
+184,Torino
+185,Baník
+186,Trabzonspor
+187,Køge
+188,Halmstad
+189,Sligo
+190,Śląsk
+191,Lillestrøm
+192,Nottm Forest
+193,Wisła Kraków
+194,Brno
+195,FC Porto
+196,Progrès
+197,OB
+198,Vllaznia
+199,Berlin
+200,Strasbourg
+201,Dinamo Tbilisi
+202,Beveren
+203,Differdange
+204,Start
+205,Szombierki
+206,Aberdeen
+207,ÍBV
+208,Limerick
+209,Oulu
+210,Dinamo Tirana
+211,Aston Villa
+212,AZ Alkmaar
+213,Real Sociedad
+214,Athlone
+215,Widzew
+216,Víkingur Reykjavík
+217,Dinamo Zagreb
+218,Roma
+219,Dundee United
+220,Dinamo Minsk
+221,Bohemians Praha
+222,Lech Poznań
+223,Hamrun Spartans
+224,Lahti
+225,Bordeaux
+226,Dnipro
+227,Lyngby
+228,Stuttgart
+229,Shamrock Rovers
+230,Tampere United
+231,Elbasan
+232,Verona
+233,Zenit
+234,Rabat
+235,Brøndby
+236,Karviná
+237,Paris
+238,Örgryte
+239,Beroe
+240,Xamax
+241,Napoli
+242,Vardar
+243,Moss
+244,Pezoporikos
+245,Larissa
+246,Mechelen
+247,Luzern
+248,Spora
+249,Derry
+250,Portadown
+251,St Patrick's
+252,KA
+253,US Luxembourg
+254,Sampdoria
+255,Kaiserslautern
+256,Apollon
+257,Hansa
+258,Etar
+259,Flamurtari
+260,Zagłębie
+261,Sion
+262,Olimpija Ljubljana
+263,Tavriya
+264,Žalgiris Vilnius
+265,Skonto
+266,Maccabi Tel Aviv
+267,Copenhagen
+268,Cork
+269,Beitar Jerusalem
+270,Aarau
+271,AIK
+272,Salzburg
+273,Blackburn
+274,AaB
+275,Auxerre
+276,Leverkusen
+277,Newcastle
+278,Košice
+279,Parma
+280,Lierse
+281,Lens
+282,Sturm Graz
+283,Lazio
+284,Chelsea
+285,Hertha
+286,Willem II
+287,Molde
+288,Boavista
+289,Maribor
+290,Deportivo
+291,Lyon
+292,Helsingborg
+293,Shakhtar Donetsk
+294,Heerenveen
+295,Lille
+296,Mallorca
+297,Lokomotiv Moskva
+298,Genk
+299,Maccabi Haifa
+300,Celta
+301,Villarreal
+302,Udinese
+303,Petržalka
+304,Real Betis
+305,Thun
+306,Slavia Praha
+307,Anorthosis
+308,CFR Cluj
+309,BATE Borisov
+310,Wolfsburg
+311,Unirea Urziceni
+312,Debrecen
+313,Rubin
+314,Žilina
+315,Bursaspor
+316,Twente
+317,H. Tel Aviv
+318,Braga
+319,Viktoria Plzeň
+320,Oţelul
+321,Málaga
+322,Montpellier
+323,Nordsjælland
+324,Ludogorets
+325,Gent
+326,Astana
+327,Leicester
+328,Rostov
+329,Leipzig
+330,Qarabağ
+331,Hoffenheim
+332,Atalanta
+333,Midtjylland
+334,Rennes
+335,İstanbul Başakşehir
+336,Krasnodar
+337,Sheriff
+338,Union Berlin

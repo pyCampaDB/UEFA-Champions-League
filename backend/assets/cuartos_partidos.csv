@@ -1,0 +1,589 @@
+_id,home,away,goalHome,goalAway,season,round,winner
+5,Milan,Rapid Wien,7,2,1956,cuartos de final,Milan
+6,Partizan,Real Madrid,3,0,1956,cuartos de final,Partizan
+7,MTK,Reims,4,4,1956,cuartos de final,empate
+8,Hibernian,Djurgården,1,0,1956,cuartos de final,Hibernian
+9,Rapid Wien,Milan,1,1,1956,cuartos de final,empate
+10,Real Madrid,Partizan,4,0,1956,cuartos de final,Real Madrid
+11,Reims,MTK,4,2,1956,cuartos de final,Reims
+12,Djurgården,Hibernian,1,3,1956,cuartos de final,Hibernian
+34,Nice,Real Madrid,2,3,1957,cuartos de final,Real Madrid
+35,Grasshoppers,Fiorentina,2,2,1957,cuartos de final,empate
+36,CSKA Sofia,Crvena zvezda,2,1,1957,cuartos de final,CSKA Sofia
+37,Man United,Athletic Club,3,0,1957,cuartos de final,Man United
+38,Crvena zvezda,CSKA Sofia,3,1,1957,cuartos de final,Crvena zvezda
+39,Real Madrid,Nice,3,0,1957,cuartos de final,Real Madrid
+40,Fiorentina,Grasshoppers,3,1,1957,cuartos de final,Fiorentina
+41,Athletic Club,Man United,5,3,1957,cuartos de final,Athletic Club
+65,Milan,Dortmund,4,1,1958,cuartos de final,Milan
+66,Vasas,Ajax,4,0,1958,cuartos de final,Vasas
+67,Sevilla,Real Madrid,2,2,1958,cuartos de final,empate
+68,Crvena zvezda,Man United,3,3,1958,cuartos de final,empate
+69,Dortmund,Milan,1,1,1958,cuartos de final,empate
+70,Ajax,Vasas,2,2,1958,cuartos de final,empate
+71,Real Madrid,Sevilla,8,0,1958,cuartos de final,Real Madrid
+72,Man United,Crvena zvezda,2,1,1958,cuartos de final,Man United
+96,Young Boys,Aue,2,1,1959,cuartos de final,Young Boys
+97,Young Boys,Aue,2,2,1959,cuartos de final,empate
+98,Atlético de Madrid,Schalke,3,0,1959,cuartos de final,Atlético de Madrid
+99,Wiener SC,Real Madrid,0,0,1959,cuartos de final,empate
+100,Standard Liège,Reims,2,0,1959,cuartos de final,Standard Liège
+101,Real Madrid,Wiener SC,7,1,1959,cuartos de final,Real Madrid
+102,Aue,Young Boys,0,0,1959,cuartos de final,empate
+103,Schalke,Atlético de Madrid,1,1,1959,cuartos de final,empate
+104,Reims,Standard Liège,3,0,1959,cuartos de final,Reims
+125,Real Madrid,Barcelona,3,1,1960,cuartos de final,Real Madrid
+126,Eintracht Frankfurt,Rangers,6,1,1960,cuartos de final,Eintracht Frankfurt
+127,Rangers,Sparta,3,2,1960,cuartos de final,Rangers
+128,Sparta,Rangers,2,3,1960,cuartos de final,Rangers
+129,Eintracht Frankfurt,Wiener SC,2,1,1960,cuartos de final,Eintracht Frankfurt
+130,Barcelona,Wolves,4,0,1960,cuartos de final,Barcelona
+131,Nice,Real Madrid,3,2,1960,cuartos de final,Nice
+132,Rangers,Sparta,0,1,1960,cuartos de final,Sparta
+133,Wiener SC,Eintracht Frankfurt,1,1,1960,cuartos de final,empate
+134,Wolves,Barcelona,2,5,1960,cuartos de final,Barcelona
+135,Real Madrid,Nice,4,0,1960,cuartos de final,Real Madrid
+160,IFK Malmö,Rapid Wien,0,2,1961,cuartos de final,Rapid Wien
+161,AGF,Benfica,1,4,1961,cuartos de final,Benfica
+162,Hamburg,Burnley,4,1,1961,cuartos de final,Hamburg
+163,Hradec Králové,Barcelona,1,1,1961,cuartos de final,empate
+164,Rapid Wien,IFK Malmö,2,0,1961,cuartos de final,Rapid Wien
+165,Benfica,AGF,3,1,1961,cuartos de final,Benfica
+166,Barcelona,Hradec Králové,4,0,1961,cuartos de final,Barcelona
+167,Burnley,Hamburg,3,1,1961,cuartos de final,Burnley
+190,Real Madrid,Juventus,3,1,1962,cuartos de final,Real Madrid
+191,Juventus,Real Madrid,0,1,1962,cuartos de final,Real Madrid
+192,Dukla,Tottenham,1,0,1962,cuartos de final,Dukla
+193,Standard Liège,Rangers,4,1,1962,cuartos de final,Standard Liège
+194,Nürnberg,Benfica,3,1,1962,cuartos de final,Nürnberg
+195,Tottenham,Dukla,4,1,1962,cuartos de final,Tottenham
+196,Benfica,Nürnberg,6,0,1962,cuartos de final,Benfica
+197,Real Madrid,Juventus,0,1,1962,cuartos de final,Juventus
+198,Rangers,Standard Liège,2,0,1962,cuartos de final,Rangers
+220,Milan,Galatasaray,5,0,1963,cuartos de final,Milan
+221,Feyenoord,Reims,1,1,1963,cuartos de final,empate
+222,Dukla,Benfica,0,0,1963,cuartos de final,empate
+223,Dundee,Anderlecht,2,1,1963,cuartos de final,Dundee
+224,Benfica,Dukla,2,1,1963,cuartos de final,Benfica
+225,Anderlecht,Dundee,1,4,1963,cuartos de final,Dundee
+226,Reims,Feyenoord,0,1,1963,cuartos de final,Feyenoord
+227,Galatasaray,Milan,1,3,1963,cuartos de final,Milan
+250,Dortmund,Dukla,1,3,1964,cuartos de final,Dukla
+251,Zürich,PSV,3,1,1964,cuartos de final,Zürich
+252,Inter,Partizan,2,1,1964,cuartos de final,Inter
+253,Milan,Real Madrid,2,0,1964,cuartos de final,Milan
+254,Dukla,Dortmund,0,4,1964,cuartos de final,Dortmund
+255,PSV,Zürich,1,0,1964,cuartos de final,PSV
+256,Partizan,Inter,0,2,1964,cuartos de final,Inter
+257,Real Madrid,Milan,4,1,1964,cuartos de final,Real Madrid
+280,Liverpool,Köln,2,2,1965,cuartos de final,empate
+281,Real Madrid,Benfica,2,1,1965,cuartos de final,Real Madrid
+282,Liverpool,Köln,0,0,1965,cuartos de final,empate
+283,Győr,Amsterdam,1,0,1965,cuartos de final,Győr
+284,Rangers,Inter,1,0,1965,cuartos de final,Rangers
+285,Benfica,Real Madrid,5,1,1965,cuartos de final,Benfica
+286,Amsterdam,Győr,1,1,1965,cuartos de final,empate
+287,Inter,Rangers,3,1,1965,cuartos de final,Inter
+288,Köln,Liverpool,0,0,1965,cuartos de final,empate
+310,Partizan,Sparta Praha,5,0,1966,cuartos de final,Partizan
+311,Real Madrid,Anderlecht,4,2,1966,cuartos de final,Real Madrid
+312,Benfica,Man United,1,5,1966,cuartos de final,Man United
+313,Ferencváros,Inter,1,1,1966,cuartos de final,empate
+314,Sparta Praha,Partizan,4,1,1966,cuartos de final,Sparta Praha
+315,Anderlecht,Real Madrid,1,0,1966,cuartos de final,Anderlecht
+316,Inter,Ferencváros,4,0,1966,cuartos de final,Inter
+317,Man United,Benfica,3,2,1966,cuartos de final,Man United
+340,CSKA Sofia,Linfield,1,0,1967,cuartos de final,CSKA Sofia
+341,Celtic,Vojvodina,2,0,1967,cuartos de final,Celtic
+342,Dukla,Ajax,2,1,1967,cuartos de final,Dukla
+343,Real Madrid,Inter,0,2,1967,cuartos de final,Inter
+344,Linfield,CSKA Sofia,2,2,1967,cuartos de final,empate
+345,Vojvodina,Celtic,1,0,1967,cuartos de final,Vojvodina
+346,Ajax,Dukla,1,1,1967,cuartos de final,empate
+347,Inter,Real Madrid,1,0,1967,cuartos de final,Inter
+402,Juventus,Braunschweig,1,0,1968,cuartos de final,Juventus
+403,Sparta Praha,Real Madrid,2,1,1968,cuartos de final,Sparta Praha
+404,Benfica,Vasas,3,0,1968,cuartos de final,Benfica
+405,Górnik Zabrze,Man United,1,0,1968,cuartos de final,Górnik Zabrze
+406,Juventus,Braunschweig,1,0,1968,cuartos de final,Juventus
+407,Real Madrid,Sparta Praha,3,0,1968,cuartos de final,Real Madrid
+408,Vasas,Benfica,0,0,1968,cuartos de final,empate
+409,Man United,Górnik Zabrze,2,0,1968,cuartos de final,Man United
+410,Braunschweig,Juventus,3,2,1968,cuartos de final,Braunschweig
+464,AEK Athens,Spartak Trnava,1,1,1969,cuartos de final,empate
+465,Celtic,Milan,0,1,1969,cuartos de final,Milan
+466,Ajax,Benfica,3,0,1969,cuartos de final,Ajax
+467,Rapid Wien,Man United,0,0,1969,cuartos de final,empate
+468,Benfica,Ajax,1,3,1969,cuartos de final,Ajax
+469,Spartak Trnava,AEK Athens,2,1,1969,cuartos de final,Spartak Trnava
+470,Man United,Rapid Wien,3,0,1969,cuartos de final,Man United
+471,Milan,Celtic,0,0,1969,cuartos de final,empate
+472,Ajax,Benfica,1,3,1969,cuartos de final,Benfica
+522,Fiorentina,Celtic,1,0,1970,cuartos de final,Fiorentina
+523,Leeds,Standard Liège,1,0,1970,cuartos de final,Leeds
+524,Feyenoord,Vorwärts,2,0,1970,cuartos de final,Feyenoord
+525,Legia,Galatasaray,2,0,1970,cuartos de final,Legia
+526,Celtic,Fiorentina,3,0,1970,cuartos de final,Celtic
+527,Standard Liège,Leeds,0,1,1970,cuartos de final,Leeds
+528,Galatasaray,Legia,1,1,1970,cuartos de final,empate
+529,Vorwärts,Feyenoord,1,0,1970,cuartos de final,Vorwärts
+583,Celtic,Ajax,1,0,1971,cuartos de final,Celtic
+584,Legia,Atlético de Madrid,2,1,1971,cuartos de final,Legia
+585,Crvena zvezda,Jena,4,0,1971,cuartos de final,Crvena zvezda
+586,Panathinaikos,Everton,0,0,1971,cuartos de final,empate
+587,Atlético de Madrid,Legia,1,0,1971,cuartos de final,Atlético de Madrid
+588,Ajax,Celtic,3,0,1971,cuartos de final,Ajax
+589,Jena,Crvena zvezda,3,2,1971,cuartos de final,Jena
+590,Everton,Panathinaikos,1,1,1971,cuartos de final,empate
+645,Benfica,Feyenoord,5,1,1972,cuartos de final,Benfica
+646,Celtic,Újpest,1,1,1972,cuartos de final,empate
+647,Arsenal,Ajax,0,1,1972,cuartos de final,Ajax
+648,Standard Liège,Inter,2,1,1972,cuartos de final,Standard Liège
+649,Inter,Standard Liège,1,0,1972,cuartos de final,Inter
+650,Feyenoord,Benfica,1,0,1972,cuartos de final,Feyenoord
+651,Ajax,Arsenal,2,1,1972,cuartos de final,Ajax
+652,Újpest,Celtic,1,2,1972,cuartos de final,Celtic
+707,Real Madrid,Dynamo Kyiv,3,0,1973,cuartos de final,Real Madrid
+708,Derby,Spartak Trnava,2,0,1973,cuartos de final,Derby
+709,Bayern,Ajax,2,1,1973,cuartos de final,Bayern
+710,Újpest,Juventus,2,2,1973,cuartos de final,empate
+711,Juventus,Újpest,0,0,1973,cuartos de final,empate
+712,Ajax,Bayern,4,0,1973,cuartos de final,Ajax
+713,Dynamo Kyiv,Real Madrid,0,0,1973,cuartos de final,empate
+714,Spartak Trnava,Derby,1,0,1973,cuartos de final,Spartak Trnava
+765,Atlético de Madrid,Crvena zvezda,0,0,1974,cuartos de final,empate
+766,Celtic,Basel,4,2,1974,cuartos de final,Celtic
+767,Újpest,Spartak Trnava,1,1,1974,cuartos de final,empate
+768,CSKA Sofia,Bayern,2,1,1974,cuartos de final,CSKA Sofia
+769,Crvena zvezda,Atlético de Madrid,0,2,1974,cuartos de final,Atlético de Madrid
+770,Spartak Trnava,Újpest,1,1,1974,cuartos de final,empate
+771,Bayern,CSKA Sofia,4,1,1974,cuartos de final,Bayern
+772,Basel,Celtic,3,2,1974,cuartos de final,Basel
+826,St-Étienne,Ruch,2,0,1975,cuartos de final,St-Étienne
+827,Anderlecht,Leeds,0,1,1975,cuartos de final,Leeds
+828,Ararat,Bayern,1,0,1975,cuartos de final,Ararat
+829,Åtvidaberg,Barcelona,0,3,1975,cuartos de final,Barcelona
+830,Leeds,Anderlecht,3,0,1975,cuartos de final,Leeds
+831,Bayern,Ararat,2,0,1975,cuartos de final,Bayern
+832,Ruch,St-Étienne,3,2,1975,cuartos de final,Ruch
+833,Barcelona,Åtvidaberg,2,0,1975,cuartos de final,Barcelona
+883,Real Madrid,Mönchengladbach,1,1,1976,cuartos de final,empate
+884,St-Étienne,Dynamo Kyiv,3,0,1976,cuartos de final,St-Étienne
+885,Bayern,Benfica,5,1,1976,cuartos de final,Bayern
+886,PSV,Hajduk Split,3,0,1976,cuartos de final,PSV
+887,Benfica,Bayern,0,0,1976,cuartos de final,empate
+888,Mönchengladbach,Real Madrid,2,2,1976,cuartos de final,empate
+889,Dynamo Kyiv,St-Étienne,2,0,1976,cuartos de final,Dynamo Kyiv
+890,Hajduk Split,PSV,2,0,1976,cuartos de final,Hajduk Split
+945,Liverpool,St-Étienne,3,1,1977,cuartos de final,Liverpool
+946,Club Brugge,Mönchengladbach,0,1,1977,cuartos de final,Mönchengladbach
+947,Dynamo Kyiv,Bayern,2,0,1977,cuartos de final,Dynamo Kyiv
+948,Dresden,Zürich,3,2,1977,cuartos de final,Dresden
+949,St-Étienne,Liverpool,1,0,1977,cuartos de final,St-Étienne
+950,Zürich,Dresden,2,1,1977,cuartos de final,Zürich
+951,Mönchengladbach,Club Brugge,2,2,1977,cuartos de final,empate
+952,Bayern,Dynamo Kyiv,1,0,1977,cuartos de final,Bayern
+1006,Atlético de Madrid,Club Brugge,3,2,1978,cuartos de final,Atlético de Madrid
+1007,Liverpool,Benfica,4,1,1978,cuartos de final,Liverpool
+1008,Juventus,Ajax,1,1,1978,cuartos de final,empate
+1009,Mönchengladbach,Wacker,2,0,1978,cuartos de final,Mönchengladbach
+1010,Benfica,Liverpool,1,2,1978,cuartos de final,Liverpool
+1011,Ajax,Juventus,1,1,1978,cuartos de final,empate
+1012,Club Brugge,Atlético de Madrid,2,0,1978,cuartos de final,Club Brugge
+1013,Wacker,Mönchengladbach,3,1,1978,cuartos de final,Wacker
+1067,Rangers,Köln,1,1,1979,cuartos de final,empate
+1068,Grasshoppers,Nottm Forest,1,1,1979,cuartos de final,empate
+1069,Malmö,Wisła Kraków,4,1,1979,cuartos de final,Malmö
+1070,Dresden,Austria Wien,1,0,1979,cuartos de final,Dresden
+1071,Nottm Forest,Grasshoppers,4,1,1979,cuartos de final,Nottm Forest
+1072,Austria Wien,Dresden,3,1,1979,cuartos de final,Austria Wien
+1073,Wisła Kraków,Malmö,2,1,1979,cuartos de final,Wisła Kraków
+1074,Köln,Rangers,1,0,1979,cuartos de final,Köln
+1129,Ajax,Strasbourg,4,0,1980,cuartos de final,Ajax
+1130,Hajduk Split,Hamburg,3,2,1980,cuartos de final,Hajduk Split
+1131,Berlin,Nottm Forest,1,3,1980,cuartos de final,Nottm Forest
+1132,Real Madrid,Celtic,3,0,1980,cuartos de final,Real Madrid
+1133,Celtic,Real Madrid,2,0,1980,cuartos de final,Celtic
+1134,Strasbourg,Ajax,0,0,1980,cuartos de final,empate
+1135,Nottm Forest,Berlin,0,1,1980,cuartos de final,Berlin
+1136,Hamburg,Hajduk Split,1,0,1980,cuartos de final,Hamburg
+1190,Real Madrid,Spartak Moskva,2,0,1981,cuartos de final,Real Madrid
+1191,Crvena zvezda,Inter,0,1,1981,cuartos de final,Inter
+1192,CSKA Sofia,Liverpool,0,1,1981,cuartos de final,Liverpool
+1193,Baník,Bayern,2,4,1981,cuartos de final,Bayern
+1194,Inter,Crvena zvezda,1,1,1981,cuartos de final,empate
+1195,Liverpool,CSKA Sofia,5,1,1981,cuartos de final,Liverpool
+1196,Bayern,Baník,2,0,1981,cuartos de final,Bayern
+1197,Spartak Moskva,Real Madrid,0,0,1981,cuartos de final,empate
+1251,Aston Villa,Dynamo Kyiv,2,0,1982,cuartos de final,Aston Villa
+1252,Bayern,U Craiova,1,1,1982,cuartos de final,empate
+1253,CSKA Sofia,Liverpool,2,0,1982,cuartos de final,CSKA Sofia
+1254,Crvena zvezda,Anderlecht,1,2,1982,cuartos de final,Anderlecht
+1255,Liverpool,CSKA Sofia,1,0,1982,cuartos de final,Liverpool
+1256,Anderlecht,Crvena zvezda,2,1,1982,cuartos de final,Anderlecht
+1257,Dynamo Kyiv,Aston Villa,0,0,1982,cuartos de final,empate
+1258,U Craiova,Bayern,0,2,1982,cuartos de final,Bayern
+1312,Juventus,Aston Villa,3,1,1983,cuartos de final,Juventus
+1313,Liverpool,Widzew,3,2,1983,cuartos de final,Liverpool
+1314,Real Sociedad,Sporting CP,2,0,1983,cuartos de final,Real Sociedad
+1315,Hamburg,Dynamo Kyiv,1,2,1983,cuartos de final,Dynamo Kyiv
+1316,Sporting CP,Real Sociedad,1,0,1983,cuartos de final,Sporting CP
+1317,Aston Villa,Juventus,1,2,1983,cuartos de final,Juventus
+1318,Widzew,Liverpool,2,0,1983,cuartos de final,Widzew
+1319,Dynamo Kyiv,Hamburg,0,3,1983,cuartos de final,Hamburg
+1373,Benfica,Liverpool,1,4,1984,cuartos de final,Liverpool
+1374,Dundee United,Rapid Wien,1,0,1984,cuartos de final,Dundee United
+1375,Berlin,Roma,2,1,1984,cuartos de final,Berlin
+1376,Dinamo Bucureşti,Dinamo Minsk,1,0,1984,cuartos de final,Dinamo Bucureşti
+1377,Liverpool,Benfica,1,0,1984,cuartos de final,Liverpool
+1378,Rapid Wien,Dundee United,2,1,1984,cuartos de final,Rapid Wien
+1379,Dinamo Minsk,Dinamo Bucureşti,1,1,1984,cuartos de final,empate
+1380,Roma,Berlin,3,0,1984,cuartos de final,Roma
+1433,Liverpool,Austria Wien,4,1,1985,cuartos de final,Liverpool
+1434,Panathinaikos,Göteborg,2,2,1985,cuartos de final,empate
+1435,Dnipro,Bordeaux,1,1,1985,cuartos de final,empate
+1436,Sparta Praha,Juventus,1,0,1985,cuartos de final,Sparta Praha
+1437,Juventus,Sparta Praha,3,0,1985,cuartos de final,Juventus
+1438,Bordeaux,Dnipro,1,1,1985,cuartos de final,empate
+1439,Austria Wien,Liverpool,1,1,1985,cuartos de final,empate
+1440,Göteborg,Panathinaikos,0,1,1985,cuartos de final,Panathinaikos
+1496,Juventus,Barcelona,1,1,1986,cuartos de final,empate
+1497,Anderlecht,Bayern,2,0,1986,cuartos de final,Anderlecht
+1498,Göteborg,Aberdeen,0,0,1986,cuartos de final,empate
+1499,Lahti,FCSB,0,1,1986,cuartos de final,FCSB
+1500,Barcelona,Juventus,1,0,1986,cuartos de final,Barcelona
+1501,Aberdeen,Göteborg,2,2,1986,cuartos de final,empate
+1502,Bayern,Anderlecht,2,1,1986,cuartos de final,Bayern
+1503,FCSB,Lahti,0,0,1986,cuartos de final,empate
+1557,Real Madrid,Crvena zvezda,2,0,1987,cuartos de final,Real Madrid
+1558,Anderlecht,Bayern,2,2,1987,cuartos de final,empate
+1559,Brøndby,FC Porto,1,1,1987,cuartos de final,empate
+1560,Dynamo Kyiv,Beşiktaş,2,0,1987,cuartos de final,Dynamo Kyiv
+1561,FC Porto,Brøndby,1,0,1987,cuartos de final,FC Porto
+1562,Bayern,Anderlecht,5,0,1987,cuartos de final,Bayern
+1563,Crvena zvezda,Real Madrid,4,2,1987,cuartos de final,Crvena zvezda
+1564,Beşiktaş,Dynamo Kyiv,0,5,1987,cuartos de final,Dynamo Kyiv
+1617,Real Madrid,Bayern,2,0,1988,cuartos de final,Real Madrid
+1618,Rangers,FCSB,2,1,1988,cuartos de final,Rangers
+1619,Anderlecht,Benfica,1,0,1988,cuartos de final,Anderlecht
+1620,PSV,Bordeaux,0,0,1988,cuartos de final,empate
+1621,Benfica,Anderlecht,2,0,1988,cuartos de final,Benfica
+1622,Bordeaux,PSV,1,1,1988,cuartos de final,empate
+1623,Bayern,Real Madrid,3,2,1988,cuartos de final,Bayern
+1624,FCSB,Rangers,2,0,1988,cuartos de final,FCSB
+1679,Real Madrid,PSV,2,1,1989,cuartos de final,Real Madrid
+1680,Milan,Bremen,1,0,1989,cuartos de final,Milan
+1681,Galatasaray,Monaco,1,1,1989,cuartos de final,empate
+1682,FCSB,Göteborg,5,1,1989,cuartos de final,FCSB
+1683,Monaco,Galatasaray,0,1,1989,cuartos de final,Galatasaray
+1684,Bremen,Milan,0,0,1989,cuartos de final,empate
+1685,PSV,Real Madrid,1,1,1989,cuartos de final,empate
+1686,Göteborg,FCSB,1,0,1989,cuartos de final,Göteborg
+1741,Milan,Mechelen,2,0,1990,cuartos de final,Milan
+1742,Marseille,CSKA Sofia,3,1,1990,cuartos de final,Marseille
+1743,PSV,Bayern,0,1,1990,cuartos de final,Bayern
+1744,Dnipro,Benfica,0,3,1990,cuartos de final,Benfica
+1745,Benfica,Dnipro,1,0,1990,cuartos de final,Benfica
+1746,Bayern,PSV,2,1,1990,cuartos de final,Bayern
+1747,Mechelen,Milan,0,0,1990,cuartos de final,empate
+1748,CSKA Sofia,Marseille,0,1,1990,cuartos de final,Marseille
+1802,FC Porto,Bayern,0,2,1991,cuartos de final,Bayern
+1803,Real Madrid,Spartak Moskva,1,3,1991,cuartos de final,Spartak Moskva
+1804,Marseille,Milan,1,0,1991,cuartos de final,Marseille
+1805,Dresden,Crvena zvezda,0,3,1991,cuartos de final,Crvena zvezda
+1806,Milan,Marseille,1,1,1991,cuartos de final,empate
+1807,Bayern,FC Porto,1,1,1991,cuartos de final,empate
+1808,Spartak Moskva,Real Madrid,0,0,1991,cuartos de final,empate
+1809,Crvena zvezda,Dresden,3,0,1991,cuartos de final,Crvena zvezda
+1884,Arsenal,Benfica,1,3,1992,cuartos de final,Benfica
+1885,Sampdoria,Honvéd,3,1,1992,cuartos de final,Sampdoria
+1886,Kaiserslautern,Barcelona,3,1,1992,cuartos de final,Kaiserslautern
+1887,Anderlecht,PSV,2,0,1992,cuartos de final,Anderlecht
+1888,Brøndby,Dynamo Kyiv,0,1,1992,cuartos de final,Dynamo Kyiv
+1889,Göteborg,Panathinaikos,2,2,1992,cuartos de final,empate
+1890,Apollon,Crvena zvezda,0,2,1992,cuartos de final,Crvena zvezda
+1891,Sparta Praha,Marseille,2,1,1992,cuartos de final,Sparta Praha
+1892,Benfica,Arsenal,1,1,1992,cuartos de final,empate
+1893,Barcelona,Kaiserslautern,2,0,1992,cuartos de final,Barcelona
+1894,Marseille,Sparta Praha,3,2,1992,cuartos de final,Marseille
+1895,Honvéd,Sampdoria,2,1,1992,cuartos de final,Honvéd
+1896,PSV,Anderlecht,0,0,1992,cuartos de final,empate
+1897,Panathinaikos,Göteborg,2,0,1992,cuartos de final,Panathinaikos
+1898,Crvena zvezda,Apollon,3,1,1992,cuartos de final,Crvena zvezda
+1899,Dynamo Kyiv,Brøndby,1,1,1992,cuartos de final,empate
+1957,FC Porto,Sion,4,0,1993,cuartos de final,FC Porto
+1958,Leeds,Rangers,1,2,1993,cuartos de final,Rangers
+1959,Barcelona,CSKA Moskva,2,3,1993,cuartos de final,CSKA Moskva
+1960,Milan,Slovan Bratislava,4,0,1993,cuartos de final,Milan
+1961,PSV,AEK Athens,3,0,1993,cuartos de final,PSV
+1962,Austria Wien,Club Brugge,3,1,1993,cuartos de final,Austria Wien
+1963,Marseille,Dinamo Bucureşti,2,0,1993,cuartos de final,Marseille
+1964,Lech Poznań,Göteborg,0,3,1993,cuartos de final,Göteborg
+1965,Rangers,Leeds,2,1,1993,cuartos de final,Rangers
+1966,Sion,FC Porto,2,2,1993,cuartos de final,empate
+1967,Club Brugge,Austria Wien,2,0,1993,cuartos de final,Club Brugge
+1968,Slovan Bratislava,Milan,0,1,1993,cuartos de final,Milan
+1969,Göteborg,Lech Poznań,1,0,1993,cuartos de final,Göteborg
+1970,CSKA Moskva,Barcelona,1,1,1993,cuartos de final,empate
+1971,AEK Athens,PSV,1,0,1993,cuartos de final,AEK Athens
+1972,Dinamo Bucureşti,Marseille,0,0,1993,cuartos de final,empate
+2009,Galatasaray,Spartak Moskva,1,2,1994,cuartos de final,Spartak Moskva
+2010,FC Porto,Milan,0,0,1994,cuartos de final,empate
+2011,Monaco,Barcelona,0,1,1994,cuartos de final,Barcelona
+2012,Anderlecht,Bremen,1,2,1994,cuartos de final,Bremen
+2013,Barcelona,Galatasaray,3,0,1994,cuartos de final,Barcelona
+2014,Bremen,FC Porto,0,5,1994,cuartos de final,FC Porto
+2015,Milan,Anderlecht,0,0,1994,cuartos de final,empate
+2016,Spartak Moskva,Monaco,0,0,1994,cuartos de final,empate
+2017,FC Porto,Anderlecht,2,0,1994,cuartos de final,FC Porto
+2018,Galatasaray,Monaco,0,2,1994,cuartos de final,Monaco
+2019,Barcelona,Spartak Moskva,5,1,1994,cuartos de final,Barcelona
+2020,Bremen,Milan,1,1,1994,cuartos de final,empate
+2021,Monaco,Galatasaray,3,0,1994,cuartos de final,Monaco
+2022,Anderlecht,FC Porto,1,0,1994,cuartos de final,Anderlecht
+2023,Milan,Bremen,2,1,1994,cuartos de final,Milan
+2024,Spartak Moskva,Barcelona,2,2,1994,cuartos de final,empate
+2025,Barcelona,Monaco,2,0,1994,cuartos de final,Barcelona
+2026,Bremen,Anderlecht,5,3,1994,cuartos de final,Bremen
+2027,Spartak Moskva,Galatasaray,0,0,1994,cuartos de final,empate
+2028,Milan,FC Porto,3,0,1994,cuartos de final,Milan
+2029,Galatasaray,Barcelona,0,0,1994,cuartos de final,empate
+2030,FC Porto,Bremen,3,2,1994,cuartos de final,FC Porto
+2031,Anderlecht,Milan,0,0,1994,cuartos de final,empate
+2032,Monaco,Spartak Moskva,4,1,1994,cuartos de final,Monaco
+2086,Benfica,Milan,0,0,1995,cuartos de final,empate
+2087,Paris,Barcelona,2,1,1995,cuartos de final,Paris
+2088,Ajax,Hajduk Split,3,0,1995,cuartos de final,Ajax
+2089,Göteborg,Bayern,2,2,1995,cuartos de final,empate
+2090,Milan,Benfica,2,0,1995,cuartos de final,Milan
+2091,Barcelona,Paris,1,1,1995,cuartos de final,empate
+2092,Hajduk Split,Ajax,0,0,1995,cuartos de final,empate
+2093,Bayern,Göteborg,0,0,1995,cuartos de final,empate
+2147,Juventus,Real Madrid,2,0,1996,cuartos de final,Juventus
+2148,Ajax,Dortmund,1,0,1996,cuartos de final,Ajax
+2149,Panathinaikos,Legia,3,0,1996,cuartos de final,Panathinaikos
+2150,Spartak Moskva,Nantes,2,2,1996,cuartos de final,empate
+2151,Nantes,Spartak Moskva,2,0,1996,cuartos de final,Nantes
+2152,Legia,Panathinaikos,0,0,1996,cuartos de final,empate
+2153,Real Madrid,Juventus,1,0,1996,cuartos de final,Real Madrid
+2154,Dortmund,Ajax,0,2,1996,cuartos de final,Ajax
+2209,FC Porto,Man United,0,0,1997,cuartos de final,empate
+2210,Juventus,Rosenborg,2,0,1997,cuartos de final,Juventus
+2211,Atlético de Madrid,Ajax,2,3,1997,cuartos de final,Ajax
+2212,Auxerre,Dortmund,0,1,1997,cuartos de final,Dortmund
+2213,Man United,FC Porto,4,0,1997,cuartos de final,Man United
+2214,Rosenborg,Juventus,1,1,1997,cuartos de final,empate
+2215,Ajax,Atlético de Madrid,1,1,1997,cuartos de final,empate
+2216,Dortmund,Auxerre,3,1,1997,cuartos de final,Dortmund
+2270,Man United,Monaco,1,1,1998,cuartos de final,empate
+2271,Dortmund,Bayern,1,0,1998,cuartos de final,Dortmund
+2272,Dynamo Kyiv,Juventus,1,4,1998,cuartos de final,Juventus
+2273,Real Madrid,Leverkusen,3,0,1998,cuartos de final,Real Madrid
+2274,Monaco,Man United,0,0,1998,cuartos de final,empate
+2275,Bayern,Dortmund,0,0,1998,cuartos de final,empate
+2276,Juventus,Dynamo Kyiv,1,1,1998,cuartos de final,empate
+2277,Leverkusen,Real Madrid,1,1,1998,cuartos de final,empate
+2355,Kaiserslautern,Bayern,0,4,1999,cuartos de final,Bayern
+2356,Olympiacos,Juventus,1,1,1999,cuartos de final,empate
+2357,Inter,Man United,1,1,1999,cuartos de final,empate
+2358,Dynamo Kyiv,Real Madrid,2,0,1999,cuartos de final,Dynamo Kyiv
+2359,Bayern,Kaiserslautern,2,0,1999,cuartos de final,Bayern
+2360,Juventus,Olympiacos,2,1,1999,cuartos de final,Juventus
+2361,Man United,Inter,2,0,1999,cuartos de final,Man United
+2362,Real Madrid,Dynamo Kyiv,1,1,1999,cuartos de final,empate
+2440,Bayern,FC Porto,2,1,2000,cuartos de final,Bayern
+2441,Man United,Real Madrid,2,3,2000,cuartos de final,Real Madrid
+2442,Lazio,Valencia,1,0,2000,cuartos de final,Lazio
+2443,Barcelona,Chelsea,5,1,2000,cuartos de final,Barcelona
+2444,Valencia,Lazio,5,2,2000,cuartos de final,Valencia
+2445,Chelsea,Barcelona,3,1,2000,cuartos de final,Chelsea
+2446,FC Porto,Bayern,1,1,2000,cuartos de final,empate
+2447,Real Madrid,Man United,0,0,2000,cuartos de final,empate
+2597,Real Madrid,Galatasaray,3,0,2001,cuartos de final,Real Madrid
+2598,Bayern,Man United,2,1,2001,cuartos de final,Bayern
+2599,Valencia,Arsenal,1,0,2001,cuartos de final,Valencia
+2600,Deportivo,Leeds,2,0,2001,cuartos de final,Deportivo
+2601,Arsenal,Valencia,2,1,2001,cuartos de final,Arsenal
+2602,Leeds,Deportivo,3,0,2001,cuartos de final,Leeds
+2603,Galatasaray,Real Madrid,3,2,2001,cuartos de final,Galatasaray
+2604,Man United,Bayern,0,1,2001,cuartos de final,Bayern
+2755,Man United,Deportivo,3,2,2002,cuartos de final,Man United
+2756,Real Madrid,Bayern,2,0,2002,cuartos de final,Real Madrid
+2757,Leverkusen,Liverpool,4,2,2002,cuartos de final,Leverkusen
+2758,Barcelona,Panathinaikos,3,1,2002,cuartos de final,Barcelona
+2759,Liverpool,Leverkusen,1,0,2002,cuartos de final,Liverpool
+2760,Panathinaikos,Barcelona,1,0,2002,cuartos de final,Panathinaikos
+2761,Deportivo,Man United,0,2,2002,cuartos de final,Man United
+2762,Bayern,Real Madrid,2,1,2002,cuartos de final,Bayern
+2912,Milan,Ajax,3,2,2003,cuartos de final,Milan
+2913,Man United,Real Madrid,4,3,2003,cuartos de final,Man United
+2914,Barcelona,Juventus,1,2,2003,cuartos de final,Juventus
+2915,Valencia,Inter,2,1,2003,cuartos de final,Valencia
+2916,Juventus,Barcelona,1,1,2003,cuartos de final,empate
+2917,Inter,Valencia,1,0,2003,cuartos de final,Inter
+2918,Ajax,Milan,0,0,2003,cuartos de final,empate
+2919,Real Madrid,Man United,3,1,2003,cuartos de final,Real Madrid
+3070,Deportivo,Milan,4,0,2004,cuartos de final,Deportivo
+3071,Lyon,FC Porto,2,2,2004,cuartos de final,empate
+3072,Arsenal,Chelsea,1,2,2004,cuartos de final,Chelsea
+3073,Monaco,Real Madrid,3,1,2004,cuartos de final,Monaco
+3074,Chelsea,Arsenal,1,1,2004,cuartos de final,empate
+3075,Real Madrid,Monaco,4,2,2004,cuartos de final,Real Madrid
+3076,Milan,Deportivo,4,1,2004,cuartos de final,Milan
+3077,FC Porto,Lyon,2,0,2004,cuartos de final,FC Porto
+3195,PSV,Lyon,1,1,2005,cuartos de final,empate
+3196,Juventus,Liverpool,0,0,2005,cuartos de final,empate
+3197,Bayern,Chelsea,3,2,2005,cuartos de final,Bayern
+3198,Inter,Milan,0,3,2005,cuartos de final,Milan
+3199,Chelsea,Bayern,4,2,2005,cuartos de final,Chelsea
+3200,Milan,Inter,2,0,2005,cuartos de final,Milan
+3201,Lyon,PSV,1,1,2005,cuartos de final,empate
+3202,Liverpool,Juventus,2,1,2005,cuartos de final,Liverpool
+3322,Juventus,Arsenal,0,0,2006,cuartos de final,empate
+3323,Barcelona,Benfica,2,0,2006,cuartos de final,Barcelona
+3324,Villarreal,Inter,1,0,2006,cuartos de final,Villarreal
+3325,Milan,Lyon,3,1,2006,cuartos de final,Milan
+3326,Inter,Villarreal,2,1,2006,cuartos de final,Inter
+3327,Lyon,Milan,0,0,2006,cuartos de final,empate
+3328,Arsenal,Juventus,2,0,2006,cuartos de final,Arsenal
+3329,Benfica,Barcelona,0,0,2006,cuartos de final,empate
+3447,Liverpool,PSV,1,0,2007,cuartos de final,Liverpool
+3448,Bayern,Milan,0,2,2007,cuartos de final,Milan
+3449,Valencia,Chelsea,1,2,2007,cuartos de final,Chelsea
+3450,Man United,Roma,7,1,2007,cuartos de final,Man United
+3451,Chelsea,Valencia,1,1,2007,cuartos de final,empate
+3452,Roma,Man United,2,1,2007,cuartos de final,Roma
+3453,PSV,Liverpool,0,3,2007,cuartos de final,Liverpool
+3454,Milan,Bayern,2,2,2007,cuartos de final,empate
+3573,Man United,Roma,1,0,2008,cuartos de final,Man United
+3574,Barcelona,Schalke,1,0,2008,cuartos de final,Barcelona
+3575,Liverpool,Arsenal,4,2,2008,cuartos de final,Liverpool
+3576,Chelsea,Fenerbahçe,2,0,2008,cuartos de final,Chelsea
+3577,Fenerbahçe,Chelsea,2,1,2008,cuartos de final,Fenerbahçe
+3578,Arsenal,Liverpool,1,1,2008,cuartos de final,empate
+3579,Schalke,Barcelona,0,1,2008,cuartos de final,Barcelona
+3580,Roma,Man United,0,2,2008,cuartos de final,Man United
+3701,FC Porto,Man United,0,1,2009,cuartos de final,Man United
+3702,Arsenal,Villarreal,3,0,2009,cuartos de final,Arsenal
+3703,Bayern,Barcelona,1,1,2009,cuartos de final,empate
+3704,Chelsea,Liverpool,4,4,2009,cuartos de final,empate
+3705,Barcelona,Bayern,4,0,2009,cuartos de final,Barcelona
+3706,Liverpool,Chelsea,1,3,2009,cuartos de final,Chelsea
+3707,Man United,FC Porto,2,2,2009,cuartos de final,empate
+3708,Villarreal,Arsenal,1,1,2009,cuartos de final,empate
+3827,Man United,Bayern,3,2,2010,cuartos de final,Man United
+3828,Bordeaux,Lyon,1,0,2010,cuartos de final,Bordeaux
+3829,Barcelona,Arsenal,4,1,2010,cuartos de final,Barcelona
+3830,CSKA Moskva,Inter,0,1,2010,cuartos de final,Inter
+3831,Inter,CSKA Moskva,1,0,2010,cuartos de final,Inter
+3832,Arsenal,Barcelona,2,2,2010,cuartos de final,empate
+3833,Bayern,Man United,2,1,2010,cuartos de final,Bayern
+3834,Lyon,Bordeaux,3,1,2010,cuartos de final,Lyon
+3952,Tottenham,Real Madrid,0,1,2011,cuartos de final,Real Madrid
+3953,Schalke,Inter,2,1,2011,cuartos de final,Schalke
+3954,Man United,Chelsea,2,1,2011,cuartos de final,Man United
+3955,Shakhtar Donetsk,Barcelona,0,1,2011,cuartos de final,Barcelona
+3956,Barcelona,Shakhtar Donetsk,5,1,2011,cuartos de final,Barcelona
+3957,Chelsea,Man United,0,1,2011,cuartos de final,Man United
+3958,Inter,Schalke,2,5,2011,cuartos de final,Schalke
+3959,Real Madrid,Tottenham,4,0,2011,cuartos de final,Real Madrid
+4077,Real Madrid,APOEL,5,2,2012,cuartos de final,Real Madrid
+4078,Chelsea,Benfica,2,1,2012,cuartos de final,Chelsea
+4079,Bayern,Marseille,2,0,2012,cuartos de final,Bayern
+4080,Barcelona,Milan,3,1,2012,cuartos de final,Barcelona
+4081,Milan,Barcelona,0,0,2012,cuartos de final,empate
+4082,Marseille,Bayern,0,2,2012,cuartos de final,Bayern
+4083,Benfica,Chelsea,0,1,2012,cuartos de final,Chelsea
+4084,APOEL,Real Madrid,0,3,2012,cuartos de final,Real Madrid
+4205,Juventus,Bayern,0,2,2013,cuartos de final,Bayern
+4206,Barcelona,Paris,1,1,2013,cuartos de final,empate
+4207,Galatasaray,Real Madrid,3,2,2013,cuartos de final,Galatasaray
+4208,Dortmund,Málaga,3,2,2013,cuartos de final,Dortmund
+4209,Real Madrid,Galatasaray,3,0,2013,cuartos de final,Real Madrid
+4210,Málaga,Dortmund,0,0,2013,cuartos de final,empate
+4211,Bayern,Juventus,2,0,2013,cuartos de final,Bayern
+4212,Paris,Barcelona,2,2,2013,cuartos de final,empate
+4330,Atlético de Madrid,Barcelona,1,0,2014,cuartos de final,Atlético de Madrid
+4331,Bayern,Man United,3,1,2014,cuartos de final,Bayern
+4332,Dortmund,Real Madrid,2,0,2014,cuartos de final,Dortmund
+4333,Chelsea,Paris,2,0,2014,cuartos de final,Chelsea
+4334,Paris,Chelsea,3,1,2014,cuartos de final,Paris
+4335,Real Madrid,Dortmund,3,0,2014,cuartos de final,Real Madrid
+4336,Man United,Bayern,1,1,2014,cuartos de final,empate
+4337,Barcelona,Atlético de Madrid,1,1,2014,cuartos de final,empate
+4455,Real Madrid,Atlético de Madrid,1,0,2015,cuartos de final,Real Madrid
+4456,Monaco,Juventus,0,0,2015,cuartos de final,empate
+4457,Barcelona,Paris,2,0,2015,cuartos de final,Barcelona
+4458,Bayern,FC Porto,6,1,2015,cuartos de final,Bayern
+4459,FC Porto,Bayern,3,1,2015,cuartos de final,FC Porto
+4460,Paris,Barcelona,1,3,2015,cuartos de final,Barcelona
+4461,Juventus,Monaco,1,0,2015,cuartos de final,Juventus
+4462,Atlético de Madrid,Real Madrid,0,0,2015,cuartos de final,empate
+4581,Benfica,Bayern,2,2,2016,cuartos de final,empate
+4582,Atlético de Madrid,Barcelona,2,0,2016,cuartos de final,Atlético de Madrid
+4583,Real Madrid,Wolfsburg,3,0,2016,cuartos de final,Real Madrid
+4584,Man City,Paris,1,0,2016,cuartos de final,Man City
+4585,Paris,Man City,2,2,2016,cuartos de final,empate
+4586,Wolfsburg,Real Madrid,2,0,2016,cuartos de final,Wolfsburg
+4587,Barcelona,Atlético de Madrid,2,1,2016,cuartos de final,Barcelona
+4588,Bayern,Benfica,1,0,2016,cuartos de final,Bayern
+4708,Monaco,Dortmund,3,1,2017,cuartos de final,Monaco
+4709,Barcelona,Juventus,0,0,2017,cuartos de final,empate
+4710,Leicester,Atlético de Madrid,1,1,2017,cuartos de final,empate
+4711,Real Madrid,Bayern,4,2,2017,cuartos de final,Real Madrid
+4712,Bayern,Real Madrid,1,2,2017,cuartos de final,Real Madrid
+4713,Atlético de Madrid,Leicester,1,0,2017,cuartos de final,Atlético de Madrid
+4714,Dortmund,Monaco,2,3,2017,cuartos de final,Monaco
+4715,Juventus,Barcelona,3,0,2017,cuartos de final,Juventus
+4833,Bayern,Sevilla,0,0,2018,cuartos de final,empate
+4834,Real Madrid,Juventus,1,3,2018,cuartos de final,Juventus
+4835,Roma,Barcelona,3,0,2018,cuartos de final,Roma
+4836,Man City,Liverpool,1,2,2018,cuartos de final,Liverpool
+4837,Liverpool,Man City,3,0,2018,cuartos de final,Liverpool
+4838,Barcelona,Roma,4,1,2018,cuartos de final,Barcelona
+4839,Juventus,Real Madrid,0,3,2018,cuartos de final,Real Madrid
+4840,Sevilla,Bayern,1,2,2018,cuartos de final,Bayern
+4958,FC Porto,Liverpool,1,4,2019,cuartos de final,Liverpool
+4959,Man City,Tottenham,4,3,2019,cuartos de final,Man City
+4960,Juventus,Ajax,1,2,2019,cuartos de final,Ajax
+4961,Barcelona,Man United,3,0,2019,cuartos de final,Barcelona
+4962,Man United,Barcelona,0,1,2019,cuartos de final,Barcelona
+4963,Ajax,Juventus,1,1,2019,cuartos de final,empate
+4964,Tottenham,Man City,1,0,2019,cuartos de final,Tottenham
+4965,Liverpool,FC Porto,2,0,2019,cuartos de final,Liverpool
+5081,Man City,Lyon,1,3,2020,cuartos de final,Lyon
+5082,Barcelona,Bayern,2,8,2020,cuartos de final,Bayern
+5083,Leipzig,Atlético de Madrid,2,1,2020,cuartos de final,Leipzig
+5084,Atalanta,Paris,1,2,2020,cuartos de final,Paris
+5202,Dortmund,Man City,1,2,2021,cuartos de final,Man City
+5203,Liverpool,Real Madrid,0,0,2021,cuartos de final,empate
+5204,Chelsea,FC Porto,0,1,2021,cuartos de final,FC Porto
+5205,Paris,Bayern,0,1,2021,cuartos de final,Bayern
+5206,Bayern,Paris,2,3,2021,cuartos de final,Paris
+5207,FC Porto,Chelsea,0,2,2021,cuartos de final,Chelsea
+5208,Real Madrid,Liverpool,3,1,2021,cuartos de final,Real Madrid
+5209,Man City,Dortmund,2,1,2021,cuartos de final,Man City
+5327,Atlético de Madrid,Man City,0,0,2022,cuartos de final,empate
+5328,Liverpool,Benfica,3,3,2022,cuartos de final,empate
+5329,Real Madrid,Chelsea,2,3,2022,cuartos de final,Chelsea
+5330,Bayern,Villarreal,1,1,2022,cuartos de final,empate
+5331,Villarreal,Bayern,1,0,2022,cuartos de final,Villarreal
+5332,Chelsea,Real Madrid,1,3,2022,cuartos de final,Real Madrid
+5333,Benfica,Liverpool,1,3,2022,cuartos de final,Liverpool
+5334,Man City,Atlético de Madrid,1,0,2022,cuartos de final,Man City
+5452,Inter,Benfica,3,3,2023,cuartos de final,empate
+5453,Bayern,Man City,1,1,2023,cuartos de final,empate
+5454,Chelsea,Real Madrid,0,2,2023,cuartos de final,Real Madrid
+5455,Napoli,Milan,1,1,2023,cuartos de final,empate
+5456,Milan,Napoli,1,0,2023,cuartos de final,Milan
+5457,Real Madrid,Chelsea,2,0,2023,cuartos de final,Real Madrid
+5458,Man City,Bayern,3,0,2023,cuartos de final,Man City
+5459,Benfica,Inter,0,2,2023,cuartos de final,Inter
+5686,Arsenal,Bayern,2,2,2024,cuartos de final,empate
+5687,Real Madrid,Man City,3,3,2024,cuartos de final,empate
+5688,Paris,Barcelona,2,3,2024,cuartos de final,Barcelona
+5689,Atlético de Madrid,Dortmund,2,1,2024,cuartos de final,Atlético de Madrid
+5690,Barcelona,Paris,1,4,2024,cuartos de final,Paris
+5691,Dortmund,Atlético de Madrid,4,2,2024,cuartos de final,Dortmund
+5692,Man City,Real Madrid,1,1,2024,cuartos de final,empate
+5693,Bayern,Arsenal,1,0,2024,cuartos de final,Bayern

@@ -1,0 +1,1597 @@
+,team,season,goals,goalsAgainst,classified
+0,Vorwärts,1967,4,6,False
+1,Vorwärts,1970,3,1,True
+2,Liverpool,1967,5,3,True
+3,Liverpool,1974,3,1,True
+4,Liverpool,1977,7,0,True
+5,Liverpool,1979,0,2,False
+6,Liverpool,1980,2,4,False
+7,Liverpool,1981,11,2,True
+8,Liverpool,1982,8,0,True
+9,Liverpool,1983,5,1,True
+10,Liverpool,1984,6,0,True
+11,Liverpool,1985,5,0,True
+12,Liverpool,2002,7,3,True
+13,Liverpool,2003,12,8,False
+14,Liverpool,2005,6,3,True
+15,Liverpool,2006,6,1,True
+16,Liverpool,2007,11,5,True
+17,Liverpool,2008,18,5,True
+18,Liverpool,2009,11,5,True
+19,Liverpool,2010,5,7,False
+20,Liverpool,2015,5,9,False
+21,Liverpool,2018,23,6,True
+22,Liverpool,2019,9,7,True
+23,Liverpool,2020,13,8,True
+24,Liverpool,2021,10,3,True
+25,Liverpool,2022,17,6,True
+26,Liverpool,2023,17,6,True
+27,Vasas,1967,7,0,True
+28,Vasas,1968,9,1,True
+29,Vasas,1978,1,4,False
+30,Malmö,1967,1,5,False
+31,Malmö,1969,3,5,False
+32,Malmö,1972,1,4,False
+33,Malmö,1973,2,4,False
+34,Malmö,1976,3,3,True
+35,Malmö,1977,2,3,False
+36,Malmö,1979,1,0,True
+37,Malmö,1988,1,2,False
+38,Malmö,1990,2,1,True
+39,Malmö,1991,5,4,True
+40,Malmö,2015,4,15,False
+41,Malmö,2016,1,21,False
+42,Malmö,2022,1,14,False
+43,Inter,1967,1,0,True
+44,Inter,1972,6,4,True
+45,Inter,1981,3,1,True
+46,Inter,1990,1,2,False
+47,Inter,2003,12,8,True
+48,Inter,2004,8,11,False
+49,Inter,2005,14,3,True
+50,Inter,2006,9,4,True
+51,Inter,2007,5,5,True
+52,Inter,2008,12,4,True
+53,Inter,2009,8,7,True
+54,Inter,2010,7,6,True
+55,Inter,2011,12,11,True
+56,Inter,2012,8,7,True
+57,Inter,2019,6,7,False
+58,Inter,2020,10,9,False
+59,Inter,2021,7,9,False
+60,Inter,2022,8,5,True
+61,Inter,2023,10,7,True
+62,Inter,2024,8,5,True
+63,Górnik Zabrze,1967,6,4,True
+64,Górnik Zabrze,1968,4,0,True
+65,Górnik Zabrze,1972,2,3,False
+66,Górnik Zabrze,1973,10,0,True
+67,Górnik Zabrze,1986,2,6,False
+68,Górnik Zabrze,1987,1,3,False
+69,Górnik Zabrze,1988,3,2,True
+70,Górnik Zabrze,1989,7,1,True
+71,CSKA Sofia,1967,3,2,True
+72,CSKA Sofia,1970,3,5,False
+73,CSKA Sofia,1972,4,0,True
+74,CSKA Sofia,1973,4,1,True
+75,CSKA Sofia,1974,4,0,True
+76,CSKA Sofia,1976,2,3,False
+77,CSKA Sofia,1977,0,1,False
+78,CSKA Sofia,1981,2,0,True
+79,CSKA Sofia,1982,1,0,True
+80,CSKA Sofia,1983,2,0,True
+81,CSKA Sofia,1984,4,4,True
+82,CSKA Sofia,1988,0,5,False
+83,CSKA Sofia,1990,6,2,True
+84,CSKA Sofia,1991,3,1,True
+85,Celtic,1967,5,0,True
+86,Celtic,1968,2,3,False
+87,Celtic,1969,4,2,True
+88,Celtic,1970,2,0,True
+89,Celtic,1971,14,0,True
+90,Celtic,1972,4,2,True
+91,Celtic,1973,5,2,True
+92,Celtic,1974,9,1,True
+93,Celtic,1975,1,3,False
+94,Celtic,1978,11,1,True
+95,Celtic,1980,4,2,True
+96,Celtic,1982,1,2,False
+97,Celtic,1983,4,3,True
+98,Celtic,1987,3,0,True
+99,Celtic,1989,4,1,True
+100,Celtic,2002,8,11,False
+101,Celtic,2004,8,7,False
+102,Celtic,2005,4,10,False
+103,Celtic,2007,8,9,True
+104,Celtic,2008,5,6,True
+105,Celtic,2009,4,7,False
+106,Celtic,2013,9,8,True
+107,Celtic,2014,3,14,False
+108,Celtic,2017,5,16,False
+109,Celtic,2018,5,18,False
+110,Celtic,2023,4,15,False
+111,Celtic,2024,5,15,False
+112,Ajax,1967,4,1,True
+113,Ajax,1968,2,3,False
+114,Ajax,1969,5,1,True
+115,Ajax,1971,4,2,True
+116,Ajax,1972,2,0,True
+117,Ajax,1978,4,2,True
+118,Ajax,1980,16,2,True
+119,Ajax,1981,3,0,True
+120,Ajax,1983,3,4,False
+121,Ajax,1984,0,2,False
+122,Ajax,1986,0,2,False
+123,Ajax,2003,6,5,True
+124,Ajax,2004,6,7,False
+125,Ajax,2005,6,10,False
+126,Ajax,2006,10,6,True
+127,Ajax,2011,6,10,False
+128,Ajax,2012,6,6,False
+129,Ajax,2013,8,16,False
+130,Ajax,2014,5,8,False
+131,Ajax,2015,8,10,False
+132,Ajax,2019,11,5,True
+133,Ajax,2020,12,6,False
+134,Ajax,2021,7,7,False
+135,Ajax,2022,20,5,True
+136,Ajax,2023,11,16,False
+137,Esbjerg,1967,0,6,False
+138,Esbjerg,1981,3,2,True
+139,1860 München,1967,10,1,True
+140,Haka,1967,1,12,False
+141,Haka,1979,1,4,False
+142,KR Reykjavik,1967,4,8,False
+143,KR Reykjavik,1970,2,16,False
+144,Admira,1967,0,1,False
+145,Aris,1967,4,9,False
+146,Aris,1973,0,6,False
+147,Sporting CP,1967,0,7,False
+148,Sporting CP,1971,9,0,True
+149,Sporting CP,1975,1,3,False
+150,Sporting CP,1981,0,3,False
+151,Sporting CP,1983,3,1,True
+152,Sporting CP,2001,5,15,False
+153,Sporting CP,2007,3,6,False
+154,Sporting CP,2008,9,8,False
+155,Sporting CP,2009,8,8,True
+156,Sporting CP,2015,12,12,False
+157,Sporting CP,2017,5,8,False
+158,Sporting CP,2018,8,9,False
+159,Sporting CP,2022,14,12,True
+160,Sporting CP,2023,8,9,False
+161,Atlético de Madrid,1967,5,1,True
+162,Atlético de Madrid,1971,4,1,True
+163,Atlético de Madrid,1974,1,0,True
+164,Atlético de Madrid,1978,3,2,True
+165,Atlético de Madrid,2009,9,4,True
+166,Atlético de Madrid,2010,3,12,False
+167,Atlético de Madrid,2014,15,3,True
+168,Atlético de Madrid,2015,14,3,True
+169,Atlético de Madrid,2016,11,3,True
+170,Atlético de Madrid,2017,7,2,True
+171,Atlético de Madrid,2018,5,4,False
+172,Atlético de Madrid,2019,9,6,True
+173,Atlético de Madrid,2020,8,5,True
+174,Atlético de Madrid,2021,7,8,True
+175,Atlético de Madrid,2022,7,8,True
+176,Atlético de Madrid,2023,5,9,False
+177,Atlético de Madrid,2024,17,6,True
+178,Petrolul,1967,3,5,False
+179,Torpedo Moskva,1967,0,1,False
+180,Torpedo Moskva,1978,0,0,False
+181,Olympiacos,1967,2,3,False
+182,Olympiacos,1968,0,2,False
+183,Olympiacos,1974,0,2,False
+184,Olympiacos,1975,3,1,True
+185,Olympiacos,1976,2,3,False
+186,Olympiacos,1981,2,7,False
+187,Olympiacos,1982,2,3,False
+188,Olympiacos,1983,2,1,True
+189,Olympiacos,1984,2,0,True
+190,Olympiacos,1988,2,3,False
+191,Olympiacos,2000,9,12,False
+192,Olympiacos,2001,6,5,False
+193,Olympiacos,2002,6,12,False
+194,Olympiacos,2003,11,17,False
+195,Olympiacos,2004,6,13,False
+196,Olympiacos,2005,5,5,False
+197,Olympiacos,2006,7,13,False
+198,Olympiacos,2007,6,11,False
+199,Olympiacos,2008,11,7,True
+200,Olympiacos,2010,4,5,True
+201,Olympiacos,2012,8,6,False
+202,Olympiacos,2013,9,9,False
+203,Olympiacos,2014,10,8,True
+204,Olympiacos,2015,10,13,False
+205,Olympiacos,2016,6,13,False
+206,Olympiacos,2018,4,13,False
+207,Olympiacos,2020,8,14,False
+208,Olympiacos,2021,2,10,False
+209,Zürich,1967,0,5,False
+210,Zürich,1969,3,4,False
+211,Zürich,1975,3,5,False
+212,Zürich,1976,5,5,False
+213,Zürich,1977,2,1,True
+214,Zürich,1982,3,3,False
+215,Zürich,2010,5,14,False
+216,Beşiktaş,1967,1,4,False
+217,Beşiktaş,1968,0,4,False
+218,Beşiktaş,1983,1,3,False
+219,Beşiktaş,1987,3,0,False
+220,Beşiktaş,1991,4,5,False
+221,Beşiktaş,2001,4,17,False
+222,Beşiktaş,2004,5,7,False
+223,Beşiktaş,2008,4,15,False
+224,Beşiktaş,2010,3,8,False
+225,Beşiktaş,2017,9,14,False
+226,Beşiktaş,2018,11,5,True
+227,Beşiktaş,2022,3,19,False
+228,Nantes,1967,8,4,True
+229,Nantes,1974,2,3,False
+230,Nantes,1978,1,1,True
+231,Nantes,1981,3,0,True
+232,Nantes,1984,3,4,False
+233,Nantes,2002,8,3,True
+234,Dukla,1967,6,0,True
+235,Dukla,1978,1,1,False
+236,Dukla,1980,4,3,True
+237,Dukla,1983,2,3,False
+238,Anderlecht,1967,12,1,True
+239,Anderlecht,1968,5,2,True
+240,Anderlecht,1969,5,2,True
+241,Anderlecht,1973,7,2,True
+242,Anderlecht,1975,5,5,True
+243,Anderlecht,1982,6,2,True
+244,Anderlecht,1987,3,1,True
+245,Anderlecht,1988,2,1,True
+246,Anderlecht,1994,6,0,True
+247,Anderlecht,2001,11,14,True
+248,Anderlecht,2002,4,13,False
+249,Anderlecht,2004,4,6,False
+250,Anderlecht,2005,4,17,False
+251,Anderlecht,2006,1,8,False
+252,Anderlecht,2007,7,11,False
+253,Anderlecht,2013,4,9,False
+254,Anderlecht,2014,4,17,False
+255,Anderlecht,2015,8,10,False
+256,Anderlecht,2018,2,17,False
+257,Omonoia,1967,1,10,False
+258,Omonoia,1973,3,2,True
+259,Omonoia,1976,2,5,False
+260,Omonoia,1977,1,3,False
+261,Omonoia,1978,0,5,False
+262,Omonoia,1979,2,2,False
+263,Omonoia,1980,7,3,True
+264,Omonoia,1982,0,4,False
+265,Omonoia,1983,2,3,False
+266,Omonoia,1984,4,4,False
+267,Omonoia,1985,3,5,False
+268,Omonoia,1986,10,0,True
+269,Omonoia,1988,1,0,True
+270,Omonoia,1990,2,9,False
+271,Vojvodina,1967,1,0,True
+272,Vojvodina,1990,2,2,False
+273,Linfield,1967,9,4,True
+274,Linfield,1970,2,12,False
+275,Linfield,1972,2,5,False
+276,Linfield,1976,1,10,False
+277,Linfield,1979,0,1,False
+278,Linfield,1981,0,3,False
+279,Linfield,1983,2,2,False
+280,Linfield,1984,2,6,False
+281,Linfield,1985,1,1,True
+282,Linfield,1986,3,4,False
+283,Linfield,1987,1,2,False
+284,Linfield,1988,3,5,False
+285,Linfield,1990,1,3,False
+286,Linfield,1994,3,4,False
+287,Rapid Bucureşti,1968,3,2,True
+288,Hvidovre,1968,5,4,True
+289,Hvidovre,1975,1,2,False
+290,Hvidovre,1983,4,7,False
+291,Sarajevo,1968,5,3,True
+292,Sarajevo,1986,2,4,False
+293,Real Madrid,1968,3,2,True
+294,Real Madrid,1969,12,0,True
+295,Real Madrid,1970,14,1,True
+296,Real Madrid,1973,4,0,True
+297,Real Madrid,1976,4,2,True
+298,Real Madrid,1977,3,1,True
+299,Real Madrid,1979,12,0,True
+300,Real Madrid,1980,3,0,True
+301,Real Madrid,1981,7,2,True
+302,Real Madrid,1987,5,1,True
+303,Real Madrid,1988,3,1,True
+304,Real Madrid,1989,4,0,True
+305,Real Madrid,1990,9,0,True
+306,Real Madrid,1991,10,1,True
+307,Real Madrid,2000,15,7,True
+308,Real Madrid,2001,15,8,True
+309,Real Madrid,2002,13,5,True
+310,Real Madrid,2003,15,7,True
+311,Real Madrid,2004,11,5,True
+312,Real Madrid,2005,11,8,True
+313,Real Madrid,2006,10,8,True
+314,Real Madrid,2007,14,8,True
+315,Real Madrid,2008,13,9,True
+316,Real Madrid,2009,9,5,True
+317,Real Madrid,2010,15,7,True
+318,Real Madrid,2011,15,2,True
+319,Real Madrid,2012,19,2,True
+320,Real Madrid,2013,15,9,True
+321,Real Madrid,2014,20,5,True
+322,Real Madrid,2015,16,2,True
+323,Real Madrid,2016,19,3,True
+324,Real Madrid,2017,16,10,True
+325,Real Madrid,2018,17,7,True
+326,Real Madrid,2019,12,5,True
+327,Real Madrid,2020,14,8,True
+328,Real Madrid,2021,11,9,True
+329,Real Madrid,2022,14,3,True
+330,Real Madrid,2023,15,6,True
+331,Real Madrid,2024,16,7,True
+332,Juventus,1968,2,0,True
+333,Juventus,1973,3,1,True
+334,Juventus,1974,3,4,False
+335,Juventus,1976,3,2,True
+336,Juventus,1978,5,0,True
+337,Juventus,1979,1,2,False
+338,Juventus,1982,2,1,True
+339,Juventus,1983,7,4,True
+340,Juventus,1985,6,1,True
+341,Juventus,1986,9,1,True
+342,Juventus,1987,11,0,True
+343,Juventus,2001,9,12,False
+344,Juventus,2002,11,8,True
+345,Juventus,2003,12,3,True
+346,Juventus,2004,15,6,True
+347,Juventus,2005,6,1,True
+348,Juventus,2006,12,5,True
+349,Juventus,2009,7,3,True
+350,Juventus,2010,4,7,False
+351,Juventus,2013,12,4,True
+352,Juventus,2014,9,9,False
+353,Juventus,2015,7,4,True
+354,Juventus,2016,6,3,True
+355,Juventus,2017,11,2,True
+356,Juventus,2018,7,5,True
+357,Juventus,2019,9,4,True
+358,Juventus,2020,12,4,True
+359,Juventus,2021,14,4,True
+360,Juventus,2022,10,6,True
+361,Juventus,2023,9,13,False
+362,Dynamo Kyiv,1968,3,2,True
+363,Dynamo Kyiv,1970,5,2,True
+364,Dynamo Kyiv,1973,3,0,True
+365,Dynamo Kyiv,1976,3,2,True
+366,Dynamo Kyiv,1977,5,0,True
+367,Dynamo Kyiv,1979,4,1,True
+368,Dynamo Kyiv,1982,2,1,True
+369,Dynamo Kyiv,1983,4,0,False
+370,Dynamo Kyiv,1987,3,1,True
+371,Dynamo Kyiv,1988,1,2,False
+372,Dynamo Kyiv,1994,4,5,False
+373,Dynamo Kyiv,2000,8,8,True
+374,Dynamo Kyiv,2001,7,8,False
+375,Dynamo Kyiv,2002,5,9,False
+376,Dynamo Kyiv,2003,6,9,False
+377,Dynamo Kyiv,2004,8,8,False
+378,Dynamo Kyiv,2005,11,8,False
+379,Dynamo Kyiv,2007,5,16,False
+380,Dynamo Kyiv,2008,4,19,False
+381,Dynamo Kyiv,2009,4,4,False
+382,Dynamo Kyiv,2010,7,9,False
+383,Dynamo Kyiv,2013,6,10,False
+384,Dynamo Kyiv,2016,8,4,True
+385,Dynamo Kyiv,2017,8,6,False
+386,Dynamo Kyiv,2021,4,13,False
+387,Dynamo Kyiv,2022,1,11,False
+388,KuPS,1968,0,5,False
+389,KuPS,1976,2,7,False
+390,KuPS,1978,2,9,False
+391,Sparta Praha,1968,2,1,True
+392,Sparta Praha,1985,5,3,True
+393,Sparta Praha,1986,2,2,False
+394,Sparta Praha,1988,10,0,True
+395,Sparta Praha,1989,3,7,False
+396,Sparta Praha,1990,5,2,True
+397,Sparta Praha,1991,0,4,False
+398,Sparta Praha,1994,2,1,True
+399,Sparta Praha,2000,14,6,True
+400,Sparta Praha,2001,6,13,False
+401,Sparta Praha,2002,10,3,True
+402,Sparta Praha,2004,5,5,True
+403,Sparta Praha,2005,2,13,False
+404,Sparta Praha,2006,2,9,False
+405,Djurgården,1968,0,4,False
+406,Benfica,1968,1,1,True
+407,Benfica,1969,8,1,False
+408,Benfica,1970,5,2,True
+409,Benfica,1972,7,1,True
+410,Benfica,1973,4,2,True
+411,Benfica,1974,2,0,True
+412,Benfica,1976,7,1,True
+413,Benfica,1977,0,2,False
+414,Benfica,1978,0,0,True
+415,Benfica,1982,4,0,True
+416,Benfica,1984,6,2,True
+417,Benfica,1985,4,3,True
+418,Benfica,1988,7,0,True
+419,Benfica,1990,6,1,True
+420,Benfica,2006,5,5,True
+421,Benfica,2007,7,8,False
+422,Benfica,2008,5,6,False
+423,Benfica,2011,7,12,False
+424,Benfica,2012,8,4,True
+425,Benfica,2013,5,5,False
+426,Benfica,2014,8,8,False
+427,Benfica,2015,2,6,False
+428,Benfica,2016,10,8,True
+429,Benfica,2017,10,10,True
+430,Benfica,2018,1,14,False
+431,Benfica,2019,6,11,False
+432,Benfica,2020,10,11,False
+433,Benfica,2022,7,9,True
+434,Benfica,2023,16,7,True
+435,Benfica,2024,7,11,False
+436,Jeunesse Esch,1968,4,4,False
+437,Jeunesse Esch,1969,3,5,False
+438,Jeunesse Esch,1971,1,7,False
+439,Jeunesse Esch,1974,1,3,False
+440,Jeunesse Esch,1975,2,5,False
+441,Jeunesse Esch,1976,1,8,False
+442,Jeunesse Esch,1977,3,11,False
+443,Jeunesse Esch,1978,1,11,False
+444,Jeunesse Esch,1981,0,9,False
+445,Jeunesse Esch,1984,1,6,False
+446,Jeunesse Esch,1986,1,9,False
+447,Jeunesse Esch,1988,2,4,False
+448,Jeunesse Esch,1989,1,7,False
+449,Hibernians,1968,0,4,False
+450,Hibernians,1970,2,6,False
+451,Hibernians,1980,1,2,False
+452,Hibernians,1982,2,10,False
+453,Hibernians,1983,2,7,False
+454,Rapid Wien,1968,4,0,True
+455,Rapid Wien,1969,6,4,True
+456,Rapid Wien,1983,13,0,True
+457,Rapid Wien,1984,4,3,True
+458,Rapid Wien,1988,7,0,True
+459,Rapid Wien,1989,2,3,False
+460,Rapid Wien,2006,3,15,False
+461,Botev Plovdiv,1968,2,3,False
+462,Botev Plovdiv,1986,3,5,False
+463,Chemnitz,1968,2,5,False
+464,Basel,1968,4,5,False
+465,Basel,1970,0,2,False
+466,Basel,1971,4,4,True
+467,Basel,1973,3,4,False
+468,Basel,1974,11,2,True
+469,Basel,1978,2,3,False
+470,Basel,1981,5,1,True
+471,Basel,2003,12,12,True
+472,Basel,2009,2,16,False
+473,Basel,2011,8,11,False
+474,Basel,2012,11,10,True
+475,Basel,2014,5,6,False
+476,Basel,2015,7,8,True
+477,Basel,2017,3,12,False
+478,Basel,2018,11,5,True
+479,Dundalk,1968,1,9,False
+480,Dundalk,1977,1,7,False
+481,Dundalk,1980,2,1,True
+482,Dundalk,1983,1,5,False
+483,Dundalk,1989,0,8,False
+484,Olympiakos,1968,3,5,False
+485,Olympiakos,1970,1,14,False
+486,Olympiakos,1972,0,17,False
+487,St-Étienne,1968,5,0,True
+488,St-Étienne,1969,2,4,False
+489,St-Étienne,1970,3,2,True
+490,St-Étienne,1971,1,3,False
+491,St-Étienne,1975,3,1,True
+492,St-Étienne,1976,5,1,True
+493,St-Étienne,1977,1,0,True
+494,Skeid,1968,1,2,False
+495,Man United,1968,4,0,True
+496,Man United,1969,10,2,True
+497,Man United,1994,5,3,True
+498,Man United,2000,9,4,True
+499,Man United,2001,11,7,True
+500,Man United,2002,10,6,True
+501,Man United,2003,16,8,True
+502,Man United,2004,13,2,True
+503,Man United,2005,14,9,True
+504,Man United,2006,3,4,False
+505,Man United,2007,10,5,True
+506,Man United,2008,13,4,True
+507,Man United,2009,9,3,True
+508,Man United,2010,10,6,True
+509,Man United,2011,7,1,True
+510,Man United,2012,11,8,False
+511,Man United,2013,9,6,True
+512,Man United,2014,12,3,True
+513,Man United,2016,7,7,False
+514,Man United,2018,12,3,True
+515,Man United,2019,7,4,True
+516,Man United,2021,15,10,False
+517,Man United,2022,11,8,True
+518,Man United,2024,12,15,False
+519,Valur,1968,4,4,True
+520,Valur,1969,1,8,False
+521,Valur,1978,1,2,False
+522,Valur,1980,1,5,False
+523,Valur,1982,0,7,False
+524,Valur,1987,0,11,False
+525,Valur,1989,1,2,False
+526,Glentoran,1968,1,1,False
+527,Glentoran,1969,2,5,False
+528,Glentoran,1971,1,4,False
+529,Glentoran,1978,2,1,True
+530,Glentoran,1982,5,1,True
+531,Glentoran,1989,1,3,False
+532,AB,1969,4,3,True
+533,Spartak Trnava,1969,5,3,True
+534,Spartak Trnava,1970,6,2,True
+535,Spartak Trnava,1972,2,2,False
+536,Spartak Trnava,1974,3,1,True
+537,Fenerbahçe,1969,2,1,True
+538,Fenerbahçe,1971,0,5,False
+539,Fenerbahçe,1975,5,2,True
+540,Fenerbahçe,1976,1,7,False
+541,Fenerbahçe,1979,3,7,False
+542,Fenerbahçe,1984,0,5,False
+543,Fenerbahçe,1986,3,2,True
+544,Fenerbahçe,1990,2,5,False
+545,Fenerbahçe,2002,3,12,False
+546,Fenerbahçe,2005,10,13,False
+547,Fenerbahçe,2006,7,14,False
+548,Fenerbahçe,2008,8,6,True
+549,Fenerbahçe,2009,4,11,False
+550,Milan,1969,5,3,False
+551,Milan,1970,8,0,True
+552,Milan,1980,0,1,False
+553,Milan,1989,7,2,True
+554,Milan,1990,5,0,True
+555,Milan,1994,1,0,True
+556,Milan,2000,6,7,False
+557,Milan,2001,12,6,True
+558,Milan,2003,12,7,True
+559,Milan,2004,4,3,True
+560,Milan,2005,10,3,True
+561,Milan,2006,12,6,True
+562,Milan,2007,8,4,True
+563,Milan,2008,12,5,True
+564,Milan,2010,8,7,True
+565,Milan,2011,7,7,True
+566,Milan,2012,11,8,True
+567,Milan,2013,7,6,True
+568,Milan,2014,8,5,True
+569,Milan,2022,6,9,False
+570,Milan,2023,12,7,True
+571,Milan,2024,5,8,False
+572,Reipas,1969,3,1,True
+573,Reipas,1972,1,9,False
+574,AEL,1969,0,12,False
+575,Waterford,1969,2,10,False
+576,Waterford,1970,2,5,False
+577,Waterford,1971,4,1,True
+578,Waterford,1973,2,3,False
+579,Waterford,1974,2,6,False
+580,Rosenborg,1969,4,6,False
+581,Rosenborg,1971,0,7,False
+582,Rosenborg,1973,2,5,False
+583,Rosenborg,1987,2,1,True
+584,Rosenborg,1990,0,5,False
+585,Rosenborg,1994,4,5,False
+586,Rosenborg,2000,12,5,True
+587,Rosenborg,2001,13,15,False
+588,Rosenborg,2002,4,6,False
+589,Rosenborg,2003,4,12,False
+590,Rosenborg,2005,6,13,False
+591,Rosenborg,2006,6,11,False
+592,Rosenborg,2008,6,10,False
+593,FCSB,1969,3,5,False
+594,FCSB,1977,2,3,False
+595,FCSB,1986,5,2,True
+596,FCSB,1988,4,2,True
+597,FCSB,1989,10,3,True
+598,FCSB,1990,5,0,True
+599,FCSB,1994,4,4,True
+600,FCSB,2007,7,11,False
+601,FCSB,2008,4,10,False
+602,FCSB,2009,3,12,False
+603,FCSB,2014,2,10,False
+604,Nürnberg,1969,1,5,False
+605,Man City,1969,1,2,False
+606,Man City,2012,9,6,False
+607,Man City,2013,7,11,False
+608,Man City,2014,18,10,True
+609,Man City,2015,9,8,True
+610,Man City,2016,12,8,True
+611,Man City,2017,12,10,True
+612,Man City,2018,14,5,True
+613,Man City,2019,16,6,True
+614,Man City,2020,16,4,True
+615,Man City,2021,13,1,True
+616,Man City,2022,18,10,True
+617,Man City,2023,14,2,True
+618,Man City,2024,18,7,True
+619,Floriana,1969,1,3,False
+620,Floriana,1971,0,9,False
+621,Floriana,1974,0,10,False
+622,Floriana,1976,0,8,False
+623,Floriana,1978,1,5,False
+624,Floriana,1994,0,2,False
+625,AEK Athens,1969,5,3,True
+626,AEK Athens,1972,4,6,False
+627,AEK Athens,1979,7,5,True
+628,AEK Athens,1980,2,3,False
+629,AEK Athens,1990,5,4,True
+630,AEK Athens,1994,1,2,False
+631,AEK Athens,2003,7,7,False
+632,AEK Athens,2004,1,11,False
+633,AEK Athens,2007,6,9,False
+634,AEK Athens,2019,2,13,False
+635,Panathinaikos,1970,1,3,False
+636,Panathinaikos,1971,7,1,True
+637,Panathinaikos,1973,1,4,False
+638,Panathinaikos,1978,5,1,True
+639,Panathinaikos,1985,2,1,True
+640,Panathinaikos,1987,2,4,False
+641,Panathinaikos,1991,1,5,False
+642,Panathinaikos,2001,6,5,True
+643,Panathinaikos,2002,8,3,True
+644,Panathinaikos,2004,5,13,False
+645,Panathinaikos,2005,11,8,False
+646,Panathinaikos,2006,4,16,False
+647,Panathinaikos,2009,8,7,True
+648,Panathinaikos,2011,2,13,False
+649,Öster,1970,1,3,False
+650,Öster,1980,1,3,False
+651,Öster,1982,0,6,False
+652,Öster,1983,1,2,False
+653,KB,1970,2,5,False
+654,KB,1976,1,5,False
+655,KB,1982,3,3,True
+656,Lyn,1970,0,16,False
+657,Ferencváros,1970,5,3,True
+658,Ferencváros,1977,11,3,True
+659,Ferencváros,1982,3,5,False
+660,Ferencváros,2021,5,17,False
+661,Legia,1970,10,1,True
+662,Legia,1971,6,1,True
+663,Legia,2017,9,24,False
+664,Tirana,1970,1,4,False
+665,Tirana,1971,2,4,False
+666,Tirana,1983,2,2,False
+667,Tirana,1989,3,2,True
+668,Tirana,1990,5,1,True
+669,Feyenoord,1970,16,2,True
+670,Feyenoord,1971,1,1,False
+671,Feyenoord,1972,17,0,True
+672,Feyenoord,1975,11,1,True
+673,Feyenoord,1985,1,2,False
+674,Feyenoord,1994,3,1,True
+675,Feyenoord,2000,7,6,True
+676,Feyenoord,2002,7,14,False
+677,Feyenoord,2003,4,8,False
+678,Feyenoord,2018,5,14,False
+679,Feyenoord,2024,9,10,False
+680,Avenir,1970,0,8,False
+681,Avenir,1983,0,13,False
+682,Avenir,1985,0,17,False
+683,Avenir,1987,0,6,False
+684,Fiorentina,1970,3,1,True
+685,Fiorentina,2000,9,7,True
+686,Fiorentina,2009,5,8,False
+687,Fiorentina,2010,14,7,True
+688,Leeds,1970,16,0,True
+689,Leeds,1975,5,3,True
+690,Leeds,2001,9,6,True
+691,Bayern,1970,2,3,False
+692,Bayern,1973,7,1,True
+693,Bayern,1974,4,4,True
+694,Bayern,1976,8,1,True
+695,Bayern,1977,7,1,True
+696,Bayern,1981,7,2,True
+697,Bayern,1982,6,0,True
+698,Bayern,1986,6,2,True
+699,Bayern,1987,2,0,True
+700,Bayern,1988,5,0,True
+701,Bayern,1990,3,1,True
+702,Bayern,1991,7,2,True
+703,Bayern,2000,7,6,True
+704,Bayern,2001,9,4,True
+705,Bayern,2002,14,5,True
+706,Bayern,2003,9,13,False
+707,Bayern,2004,6,5,True
+708,Bayern,2005,12,5,True
+709,Bayern,2006,10,4,True
+710,Bayern,2007,10,3,True
+711,Bayern,2009,12,4,True
+712,Bayern,2010,9,5,True
+713,Bayern,2011,16,6,True
+714,Bayern,2012,11,6,True
+715,Bayern,2013,15,7,True
+716,Bayern,2014,17,5,True
+717,Bayern,2015,16,4,True
+718,Bayern,2016,19,3,True
+719,Bayern,2017,14,6,True
+720,Bayern,2018,13,6,True
+721,Bayern,2019,15,5,True
+722,Bayern,2020,24,5,True
+723,Bayern,2021,18,5,True
+724,Bayern,2022,22,3,True
+725,Bayern,2023,18,2,True
+726,Bayern,2024,12,6,True
+727,Austria Wien,1970,2,5,False
+728,Austria Wien,1971,1,4,False
+729,Austria Wien,1977,1,3,False
+730,Austria Wien,1979,4,3,True
+731,Austria Wien,1980,3,4,False
+732,Austria Wien,1981,0,1,False
+733,Austria Wien,1982,3,2,True
+734,Austria Wien,1985,8,0,True
+735,Austria Wien,1986,4,1,True
+736,Austria Wien,1987,6,0,True
+737,Austria Wien,1994,5,4,True
+738,Austria Wien,2014,5,10,False
+739,Standard Liège,1970,4,1,True
+740,Standard Liège,1971,7,0,True
+741,Standard Liège,1972,5,2,True
+742,Standard Liège,1983,5,3,True
+743,Standard Liège,1984,11,4,True
+744,Standard Liège,2010,7,9,False
+745,Galatasaray,1970,5,2,True
+746,Galatasaray,1972,1,4,False
+747,Galatasaray,1973,1,7,False
+748,Galatasaray,1974,0,1,False
+749,Galatasaray,1988,2,3,False
+750,Galatasaray,1989,3,2,True
+751,Galatasaray,1994,3,1,True
+752,Galatasaray,2000,10,13,False
+753,Galatasaray,2001,10,13,True
+754,Galatasaray,2002,5,4,True
+755,Galatasaray,2003,5,10,False
+756,Galatasaray,2004,6,8,False
+757,Galatasaray,2007,7,12,False
+758,Galatasaray,2013,7,6,True
+759,Galatasaray,2014,8,14,True
+760,Galatasaray,2015,4,19,False
+761,Galatasaray,2016,6,10,False
+762,Galatasaray,2019,5,8,False
+763,Galatasaray,2020,1,14,False
+764,Galatasaray,2024,10,13,False
+765,Crvena zvezda,1970,12,2,True
+766,Crvena zvezda,1971,4,2,True
+767,Crvena zvezda,1974,3,1,True
+768,Crvena zvezda,1978,6,0,True
+769,Crvena zvezda,1981,7,3,True
+770,Crvena zvezda,1982,10,2,True
+771,Crvena zvezda,1985,3,4,False
+772,Crvena zvezda,1987,4,2,True
+773,Crvena zvezda,1989,8,0,True
+774,Crvena zvezda,1991,5,2,True
+775,Crvena zvezda,2019,5,17,False
+776,Crvena zvezda,2020,3,20,False
+777,Crvena zvezda,2024,7,15,False
+778,UTA,1970,1,10,False
+779,UTA,1971,1,1,True
+780,KPV,1971,0,14,False
+781,Jena,1971,5,0,True
+782,Keflavík,1971,2,9,False
+783,Keflavík,1973,0,4,False
+784,Keflavík,1975,1,9,False
+785,B 1903,1971,3,4,False
+786,B 1903,1972,2,4,False
+787,B 1903,1978,2,1,True
+788,Mönchengladbach,1971,16,0,True
+789,Mönchengladbach,1972,7,1,True
+790,Mönchengladbach,1976,7,2,True
+791,Mönchengladbach,1977,3,1,True
+792,Mönchengladbach,1978,4,1,True
+793,Mönchengladbach,2016,8,12,False
+794,Mönchengladbach,2017,5,12,False
+795,Mönchengladbach,2021,16,9,True
+796,Cagliari,1971,3,1,True
+797,Újpest,1971,2,4,False
+798,Újpest,1972,4,1,True
+799,Újpest,1973,4,3,True
+800,Újpest,1974,6,2,True
+801,Újpest,1975,7,1,True
+802,Újpest,1976,5,5,True
+803,Újpest,1979,2,4,False
+804,Újpest,1980,3,4,False
+805,Újpest,1991,0,5,False
+806,Spartak Moskva,1971,4,4,False
+807,Spartak Moskva,1981,9,0,True
+808,Spartak Moskva,1989,3,4,True
+809,Spartak Moskva,1991,4,0,True
+810,Spartak Moskva,1994,9,0,True
+811,Spartak Moskva,2000,9,12,False
+812,Spartak Moskva,2001,9,3,True
+813,Spartak Moskva,2002,7,16,False
+814,Spartak Moskva,2003,1,18,False
+815,Spartak Moskva,2007,7,11,False
+816,Spartak Moskva,2011,7,10,False
+817,Spartak Moskva,2013,7,14,False
+818,Spartak Moskva,2018,9,13,False
+819,Göteborg,1971,1,6,False
+820,Göteborg,1984,2,4,False
+821,Göteborg,1985,17,0,True
+822,Göteborg,1986,5,3,True
+823,Göteborg,1989,7,2,True
+824,Everton,1971,9,2,True
+825,Slovan Bratislava,1971,4,3,True
+826,Slovan Bratislava,1975,5,5,False
+827,Slovan Bratislava,1976,1,3,False
+828,Pezoporikou,1971,0,16,False
+829,Arsenal,1972,7,1,True
+830,Arsenal,2000,9,9,False
+831,Arsenal,2001,11,8,True
+832,Arsenal,2002,9,9,True
+833,Arsenal,2003,9,4,True
+834,Arsenal,2004,9,6,True
+835,Arsenal,2005,11,6,True
+836,Arsenal,2006,10,2,True
+837,Arsenal,2007,7,3,True
+838,Arsenal,2008,14,4,True
+839,Arsenal,2009,11,5,True
+840,Arsenal,2010,12,5,True
+841,Arsenal,2011,18,7,True
+842,Arsenal,2012,7,6,True
+843,Arsenal,2013,10,8,True
+844,Arsenal,2014,8,5,True
+845,Arsenal,2015,15,8,True
+846,Arsenal,2016,12,10,True
+847,Arsenal,2017,18,6,True
+848,Arsenal,2024,16,4,True
+849,Grasshoppers,1972,9,1,True
+850,Grasshoppers,1979,13,3,True
+851,Grasshoppers,1983,0,4,False
+852,Grasshoppers,1984,2,3,False
+853,Grasshoppers,1985,4,3,True
+854,Grasshoppers,1991,2,5,False
+855,Dresden,1972,0,2,False
+856,Dresden,1974,4,3,True
+857,Dresden,1977,2,0,True
+858,Dresden,1978,3,2,True
+859,Dresden,1979,2,2,True
+860,Dresden,1990,4,5,False
+861,Dresden,1991,6,1,True
+862,Hajduk Split,1972,1,1,False
+863,Hajduk Split,1975,9,1,True
+864,Hajduk Split,1976,8,0,True
+865,Hajduk Split,1980,2,0,True
+866,CSKA Moskva,1972,4,1,True
+867,CSKA Moskva,2005,5,5,False
+868,CSKA Moskva,2007,4,5,False
+869,CSKA Moskva,2008,7,14,False
+870,CSKA Moskva,2010,10,10,True
+871,CSKA Moskva,2012,9,8,True
+872,CSKA Moskva,2014,8,17,False
+873,CSKA Moskva,2015,6,13,False
+874,CSKA Moskva,2016,5,9,False
+875,CSKA Moskva,2017,5,11,False
+876,CSKA Moskva,2018,8,10,False
+877,CSKA Moskva,2019,8,9,False
+878,Partizani,1972,0,4,False
+879,Partizani,1980,2,4,False
+880,Partizani,1982,2,3,False
+881,Partizani,1988,0,7,False
+882,Sliema,1972,4,0,True
+883,Sliema,1973,0,10,False
+884,Sliema,1977,2,2,False
+885,Sliema,1990,1,5,False
+886,ÍA,1972,0,4,False
+887,ÍA,1976,5,2,True
+888,ÍA,1977,3,6,False
+889,ÍA,1979,2,5,False
+890,ÍA,1985,2,7,False
+891,ÍA,1986,2,7,False
+892,ÍA,1994,1,3,False
+893,Valencia,1972,1,1,True
+894,Valencia,2000,8,4,True
+895,Valencia,2001,7,4,True
+896,Valencia,2003,17,4,True
+897,Valencia,2005,6,10,False
+898,Valencia,2007,12,6,True
+899,Valencia,2008,2,6,False
+900,Valencia,2011,15,4,True
+901,Valencia,2012,12,7,False
+902,Valencia,2013,12,5,True
+903,Valencia,2016,5,9,False
+904,Valencia,2019,6,6,False
+905,Valencia,2020,9,7,True
+906,Marseille,1972,3,2,True
+907,Marseille,1973,1,3,False
+908,Marseille,1990,4,1,True
+909,Marseille,1991,5,1,True
+910,Marseille,2000,10,8,True
+911,Marseille,2004,9,11,False
+912,Marseille,2008,6,9,False
+913,Marseille,2009,5,7,False
+914,Marseille,2010,10,10,False
+915,Marseille,2011,12,3,True
+916,Marseille,2012,7,4,True
+917,Marseille,2014,5,14,False
+918,Marseille,2021,2,13,False
+919,Marseille,2023,8,8,False
+920,Wacker,1972,1,7,False
+921,Wacker,1973,0,3,False
+922,Wacker,1974,0,4,False
+923,Wacker,1976,2,7,False
+924,Wacker,1978,3,2,True
+925,Wacker,1990,9,2,True
+926,Wacker,1991,7,1,True
+927,Strømsgodset,1972,1,7,False
+928,Cork Hibs,1972,1,7,False
+929,Dinamo Bucureşti,1972,2,2,True
+930,Dinamo Bucureşti,1974,12,0,True
+931,Dinamo Bucureşti,1976,2,4,False
+932,Dinamo Bucureşti,1978,2,3,False
+933,Dinamo Bucureşti,1983,3,2,True
+934,Dinamo Bucureşti,1984,4,0,True
+935,Dinamo Bucureşti,1985,5,3,True
+936,Dinamo Bucureşti,1991,5,1,True
+937,VB,1973,2,7,False
+938,VB,1974,3,2,True
+939,VB,1980,4,3,True
+940,VB,1986,2,5,False
+941,Željezničar,1973,1,4,False
+942,TPS,1973,1,9,False
+943,TPS,1974,1,9,False
+944,TPS,1977,2,2,True
+945,ACS Campionii FC Arges,1973,6,0,True
+946,ACS Campionii FC Arges,1980,3,2,True
+947,Derby,1973,4,1,True
+948,Derby,1976,3,1,True
+949,Magdeburg,1973,9,1,True
+950,Magdeburg,1976,3,3,False
+951,Åtvidaberg,1974,4,4,False
+952,Åtvidaberg,1975,4,3,True
+953,Stal,1974,1,3,False
+954,Stal,1977,1,3,False
+955,APOEL,1974,0,3,False
+956,APOEL,1981,2,4,False
+957,APOEL,1987,3,3,False
+958,APOEL,1991,2,7,False
+959,APOEL,2010,4,7,False
+960,APOEL,2012,6,6,True
+961,APOEL,2015,1,12,False
+962,APOEL,2018,2,17,False
+963,Club Brugge,1974,10,0,True
+964,Club Brugge,1977,3,2,True
+965,Club Brugge,1978,9,2,True
+966,Club Brugge,1979,3,4,False
+967,Club Brugge,1981,1,5,False
+968,Club Brugge,1989,2,2,True
+969,Club Brugge,1991,3,1,True
+970,Club Brugge,2003,5,7,False
+971,Club Brugge,2004,5,6,False
+972,Club Brugge,2006,6,7,False
+973,Club Brugge,2017,2,14,False
+974,Club Brugge,2019,6,5,False
+975,Club Brugge,2020,4,12,False
+976,Club Brugge,2021,8,10,False
+977,Club Brugge,2022,6,20,False
+978,Club Brugge,2023,7,4,True
+979,Viking,1974,1,3,False
+980,Viking,1975,2,6,False
+981,Viking,1976,2,4,False
+982,Viking,1977,2,3,False
+983,Viking,1981,3,7,False
+984,Viking,1984,1,5,False
+985,Zorya Luhansk,1974,3,0,True
+986,Crusaders,1974,0,12,False
+987,Crusaders,1977,0,7,False
+988,Fram,1974,2,11,False
+989,Fram,1988,0,10,False
+990,Fram,1990,0,5,False
+991,Barcelona,1975,5,0,True
+992,Barcelona,1986,2,2,True
+993,Barcelona,1994,5,4,True
+994,Barcelona,2000,19,9,True
+995,Barcelona,2001,13,9,False
+996,Barcelona,2002,12,5,True
+997,Barcelona,2003,13,4,True
+998,Barcelona,2005,9,6,True
+999,Barcelona,2006,16,2,True
+1000,Barcelona,2007,12,4,True
+1001,Barcelona,2008,12,3,True
+1002,Barcelona,2009,18,8,True
+1003,Barcelona,2010,7,3,True
+1004,Barcelona,2011,14,3,True
+1005,Barcelona,2012,20,4,True
+1006,Barcelona,2013,11,5,True
+1007,Barcelona,2014,16,5,True
+1008,Barcelona,2015,15,5,True
+1009,Barcelona,2016,15,4,True
+1010,Barcelona,2017,20,4,True
+1011,Barcelona,2018,9,1,True
+1012,Barcelona,2019,14,5,True
+1013,Barcelona,2020,9,4,True
+1014,Barcelona,2021,16,5,True
+1015,Barcelona,2022,2,9,False
+1016,Barcelona,2023,12,12,False
+1017,Barcelona,2024,12,6,True
+1018,Coleraine,1975,1,11,False
+1019,Ruch,1975,2,1,True
+1020,Ruch,1976,7,2,True
+1021,Ruch,1980,1,4,False
+1022,Ruch,1990,2,6,False
+1023,HJK,1975,4,2,True
+1024,HJK,1980,2,16,False
+1025,HJK,1983,3,2,True
+1026,HJK,1987,3,3,False
+1027,HJK,1989,2,3,False
+1028,HJK,1990,0,5,False
+1029,HJK,1994,0,6,False
+1030,Ararat,1975,6,2,True
+1031,Linz,1975,0,5,False
+1032,Valletta,1975,2,4,False
+1033,Valletta,1979,3,13,False
+1034,Valletta,1985,0,8,False
+1035,Valletta,1991,0,10,False
+1036,Levski,1975,1,7,False
+1037,Levski,1978,5,2,True
+1038,Levski,1980,0,3,False
+1039,Levski,1985,3,3,True
+1040,Levski,1989,2,7,False
+1041,Levski,1994,4,4,True
+1042,Levski,2007,1,17,False
+1043,U Craiova,1975,3,4,False
+1044,U Craiova,1981,1,3,False
+1045,U Craiova,1982,3,2,True
+1046,Bohemians,1976,2,5,False
+1047,Bohemians,1979,2,2,True
+1048,PSV,1976,10,1,True
+1049,PSV,1977,7,1,True
+1050,PSV,1979,7,3,True
+1051,PSV,1987,0,2,False
+1052,PSV,1988,3,2,True
+1053,PSV,1990,5,0,True
+1054,PSV,2000,5,10,False
+1055,PSV,2001,9,9,False
+1056,PSV,2002,6,9,False
+1057,PSV,2003,5,8,False
+1058,PSV,2004,8,7,False
+1059,PSV,2005,6,7,True
+1060,PSV,2006,4,6,True
+1061,PSV,2007,6,6,True
+1062,PSV,2008,3,6,False
+1063,PSV,2009,5,14,False
+1064,PSV,2016,8,7,True
+1065,PSV,2017,4,11,False
+1066,PSV,2019,6,13,False
+1067,PSV,2024,8,10,True
+1068,Rangers,1976,5,2,True
+1069,Rangers,1977,1,2,False
+1070,Rangers,1979,2,1,True
+1071,Rangers,1988,2,1,True
+1072,Rangers,1990,1,3,False
+1073,Rangers,1991,10,0,True
+1074,Rangers,1994,4,4,False
+1075,Rangers,2000,7,7,False
+1076,Rangers,2001,10,7,False
+1077,Rangers,2004,4,10,False
+1078,Rangers,2006,7,7,True
+1079,Rangers,2008,7,9,False
+1080,Rangers,2010,4,13,False
+1081,Rangers,2011,3,6,False
+1082,Rangers,2023,2,22,False
+1083,Brussels,1976,4,2,True
+1084,PAOK,1977,3,1,True
+1085,PAOK,1986,2,5,False
+1086,Partizan,1977,0,5,False
+1087,Partizan,1979,2,2,False
+1088,Partizan,1984,5,1,True
+1089,Partizan,2004,3,8,False
+1090,Partizan,2011,2,13,False
+1091,Baník,1977,3,2,True
+1092,Baník,1981,2,1,True
+1093,Baník,1982,5,3,True
+1094,Trabzonspor,1977,6,3,True
+1095,Trabzonspor,1978,1,2,False
+1096,Trabzonspor,1980,0,2,False
+1097,Trabzonspor,1981,2,4,False
+1098,Trabzonspor,1982,1,2,False
+1099,Trabzonspor,1985,1,3,False
+1100,Trabzonspor,2012,3,5,False
+1101,Torino,1977,3,2,True
+1102,Køge,1977,1,7,False
+1103,Halmstad,1978,2,3,False
+1104,Halmstad,1981,2,3,False
+1105,Sligo,1978,0,6,False
+1106,Śląsk,1978,2,5,False
+1107,Lillestrøm,1978,2,4,False
+1108,Lillestrøm,1979,1,0,True
+1109,Lillestrøm,1988,5,3,True
+1110,Lillestrøm,1991,1,3,False
+1111,FC Porto,1979,5,7,False
+1112,FC Porto,1980,1,0,True
+1113,FC Porto,1986,2,0,True
+1114,FC Porto,1987,10,0,True
+1115,FC Porto,1988,6,0,True
+1116,FC Porto,1989,3,2,True
+1117,FC Porto,1991,13,1,True
+1118,FC Porto,1994,2,0,True
+1119,FC Porto,2000,9,6,True
+1120,FC Porto,2002,7,5,True
+1121,FC Porto,2004,9,8,True
+1122,FC Porto,2005,4,6,True
+1123,FC Porto,2006,8,9,False
+1124,FC Porto,2007,9,4,True
+1125,FC Porto,2008,8,7,True
+1126,FC Porto,2009,9,8,True
+1127,FC Porto,2010,8,3,True
+1128,FC Porto,2012,7,7,False
+1129,FC Porto,2013,10,4,True
+1130,FC Porto,2014,4,7,False
+1131,FC Porto,2015,16,4,True
+1132,FC Porto,2016,9,8,False
+1133,FC Porto,2017,9,3,True
+1134,FC Porto,2018,15,10,True
+1135,FC Porto,2019,15,6,True
+1136,FC Porto,2021,10,3,True
+1137,FC Porto,2022,4,11,False
+1138,FC Porto,2023,12,7,True
+1139,FC Porto,2024,15,8,True
+1140,Monaco,1979,0,1,False
+1141,Monaco,1983,0,2,False
+1142,Monaco,1989,2,1,True
+1143,Monaco,1994,2,1,True
+1144,Monaco,2001,13,10,False
+1145,Monaco,2004,15,6,True
+1146,Monaco,2005,10,4,True
+1147,Monaco,2015,4,1,True
+1148,Monaco,2017,9,7,True
+1149,Monaco,2018,6,16,False
+1150,Monaco,2019,2,14,False
+1151,Progrès,1979,0,12,False
+1152,Progrès,1982,1,5,False
+1153,Lokomotiv Sofia,1979,4,3,True
+1154,Wisła Kraków,1979,4,3,True
+1155,Nottm Forest,1979,2,0,True
+1156,Nottm Forest,1980,3,1,True
+1157,Nottm Forest,1981,0,2,False
+1158,OB,1979,3,4,False
+1159,OB,1984,0,6,False
+1160,OB,1991,1,10,False
+1161,Köln,1979,5,2,True
+1162,Vllaznia,1979,3,4,False
+1163,Brno,1979,4,2,True
+1164,Strasbourg,1980,6,1,True
+1165,Beveren,1980,2,4,False
+1166,Beveren,1985,7,2,True
+1167,Hamburg,1980,5,1,True
+1168,Hamburg,1983,3,1,True
+1169,Hamburg,2001,9,9,False
+1170,Hamburg,2007,7,15,False
+1171,Dinamo Tbilisi,1980,4,2,True
+1172,Servette,1980,4,2,True
+1173,Servette,1986,4,3,True
+1174,Differdange,1980,3,7,False
+1175,Berlin,1980,4,1,True
+1176,Berlin,1981,4,2,True
+1177,Berlin,1982,3,3,True
+1178,Berlin,1983,1,3,False
+1179,Berlin,1984,6,1,True
+1180,Berlin,1985,3,3,True
+1181,Berlin,1986,1,4,False
+1182,Berlin,1987,7,3,True
+1183,Berlin,1988,0,4,False
+1184,Berlin,1989,3,5,False
+1185,Start,1980,1,6,False
+1186,Start,1982,1,4,False
+1187,Honvéd,1981,3,0,True
+1188,Honvéd,1985,3,4,False
+1189,Honvéd,1986,5,1,True
+1190,Honvéd,1987,3,6,False
+1191,Honvéd,1989,1,4,False
+1192,Honvéd,1990,2,2,True
+1193,Honvéd,1994,3,5,False
+1194,Szombierki,1981,4,2,True
+1195,Aberdeen,1981,1,0,True
+1196,Aberdeen,1985,3,3,False
+1197,Aberdeen,1986,7,2,True
+1198,ÍBV,1981,1,2,False
+1199,Limerick,1981,2,7,False
+1200,Oulu,1981,2,11,False
+1201,Oulu,1982,0,8,False
+1202,Dinamo Tirana,1981,0,3,False
+1203,Dinamo Tirana,1987,0,3,False
+1204,Dinamo Tirana,1991,1,5,False
+1205,AZ Alkmaar,1982,4,1,True
+1206,AZ Alkmaar,2010,4,8,False
+1207,Real Sociedad,1982,0,1,False
+1208,Real Sociedad,1983,4,2,True
+1209,Real Sociedad,2004,8,8,True
+1210,Real Sociedad,2014,1,10,False
+1211,Real Sociedad,2024,7,2,True
+1212,Athlone,1982,3,3,False
+1213,Athlone,1984,4,11,False
+1214,Aston Villa,1982,7,0,True
+1215,Aston Villa,1983,3,1,True
+1216,Widzew,1982,2,6,False
+1217,Widzew,1983,7,2,True
+1218,Győr,1983,3,5,False
+1219,Győr,1984,4,1,True
+1220,Víkingur Reykjavík,1983,2,4,False
+1221,Víkingur Reykjavík,1984,1,4,False
+1222,Dinamo Zagreb,1983,1,3,False
+1223,Dinamo Zagreb,1994,4,4,False
+1224,Dinamo Zagreb,2000,7,7,False
+1225,Dinamo Zagreb,2012,3,22,False
+1226,Dinamo Zagreb,2013,1,14,False
+1227,Dinamo Zagreb,2016,3,14,False
+1228,Dinamo Zagreb,2017,0,15,False
+1229,Dinamo Zagreb,2020,10,13,False
+1230,Dinamo Zagreb,2023,4,11,False
+1231,Athletic Club,1984,4,2,True
+1232,Athletic Club,1985,2,3,False
+1233,Athletic Club,2015,5,6,False
+1234,Dundee United,1984,6,0,True
+1235,Bohemians Praha,1984,5,0,True
+1236,Lech Poznań,1984,2,4,False
+1237,Lech Poznań,1985,0,5,False
+1238,Lech Poznań,1991,5,1,True
+1239,Lech Poznań,1994,7,2,True
+1240,Dinamo Minsk,1984,3,2,True
+1241,Dinamo Minsk,1994,3,6,False
+1242,Hamrun Spartans,1984,0,6,False
+1243,Hamrun Spartans,1988,0,7,False
+1244,Hamrun Spartans,1989,2,3,False
+1245,Lahti,1984,0,4,False
+1246,Lahti,1986,4,2,True
+1247,Lahti,1988,2,6,False
+1248,Lahti,1991,1,7,False
+1249,Roma,1984,4,2,True
+1250,Roma,2002,6,5,True
+1251,Roma,2003,3,4,True
+1252,Roma,2005,4,16,False
+1253,Roma,2007,8,4,True
+1254,Roma,2008,11,6,True
+1255,Roma,2009,12,6,True
+1256,Roma,2011,10,11,True
+1257,Roma,2015,8,14,False
+1258,Roma,2016,11,16,True
+1259,Roma,2018,9,6,True
+1260,Roma,2019,11,8,True
+1261,Stuttgart,1985,3,3,False
+1262,Stuttgart,2004,9,6,True
+1263,Stuttgart,2008,7,15,False
+1264,Stuttgart,2010,9,7,True
+1265,Lyngby,1985,6,0,True
+1266,Dnipro,1985,3,1,True
+1267,Dnipro,1990,3,1,True
+1268,Shamrock Rovers,1985,1,1,False
+1269,Shamrock Rovers,1986,1,5,False
+1270,Shamrock Rovers,1987,0,3,False
+1271,Shamrock Rovers,1988,0,1,False
+1272,Bordeaux,1985,3,2,True
+1273,Bordeaux,1986,2,3,False
+1274,Bordeaux,1988,4,0,True
+1275,Bordeaux,2000,7,4,True
+1276,Bordeaux,2007,6,7,False
+1277,Bordeaux,2009,5,11,False
+1278,Bordeaux,2010,9,2,True
+1279,Tampere United,1985,1,6,False
+1280,Vålerenga,1985,3,5,False
+1281,Vålerenga,1986,0,4,False
+1282,Elbasan,1985,0,6,False
+1283,Verona,1986,5,2,True
+1284,Zenit,1986,4,0,True
+1285,Zenit,2009,4,7,False
+1286,Zenit,2012,7,5,True
+1287,Zenit,2013,6,9,False
+1288,Zenit,2014,5,9,True
+1289,Zenit,2015,4,6,False
+1290,Zenit,2016,13,6,True
+1291,Zenit,2020,7,9,False
+1292,Zenit,2021,4,13,False
+1293,Zenit,2022,10,10,False
+1294,Rabat,1986,0,10,False
+1295,Rabat,1987,0,10,False
+1296,Karviná,1987,3,2,True
+1297,Paris,1987,2,3,False
+1298,Paris,2001,14,9,True
+1299,Paris,2005,3,8,False
+1300,Paris,2013,14,3,True
+1301,Paris,2014,16,5,True
+1302,Paris,2015,10,7,True
+1303,Paris,2016,12,1,True
+1304,Paris,2017,13,7,True
+1305,Paris,2018,25,4,True
+1306,Paris,2019,17,9,True
+1307,Paris,2020,17,2,True
+1308,Paris,2021,13,6,True
+1309,Paris,2022,13,8,True
+1310,Paris,2023,16,7,True
+1311,Paris,2024,9,8,True
+1312,Young Boys,1987,1,5,False
+1313,Young Boys,2019,4,12,False
+1314,Young Boys,2022,7,12,False
+1315,Young Boys,2024,7,13,False
+1316,Örgryte,1987,3,7,False
+1317,Brøndby,1987,6,3,True
+1318,Brøndby,1989,2,2,False
+1319,Brøndby,1990,1,4,False
+1320,Beroe,1987,1,3,False
+1321,Napoli,1988,1,3,False
+1322,Napoli,1991,5,0,True
+1323,Napoli,2012,10,6,True
+1324,Napoli,2014,10,9,False
+1325,Napoli,2017,11,8,True
+1326,Napoli,2018,11,11,False
+1327,Napoli,2019,7,5,False
+1328,Napoli,2020,11,4,True
+1329,Napoli,2023,20,6,True
+1330,Napoli,2024,10,9,True
+1331,MTK,1988,2,4,False
+1332,Vardar,1988,0,6,False
+1333,Xamax,1988,6,2,True
+1334,Xamax,1989,3,3,True
+1335,AGF,1988,4,2,True
+1336,Bremen,1989,5,3,True
+1337,Bremen,1994,6,3,True
+1338,Bremen,2005,12,6,True
+1339,Bremen,2006,12,12,True
+1340,Bremen,2007,7,5,False
+1341,Bremen,2008,8,13,False
+1342,Bremen,2009,7,9,False
+1343,Bremen,2011,6,12,False
+1344,Moss,1989,0,4,False
+1345,Pezoporikos,1989,2,7,False
+1346,Larissa,1989,3,3,False
+1347,Mechelen,1990,5,0,True
+1348,Luzern,1990,0,5,False
+1349,Spora,1990,0,9,False
+1350,Derry,1990,1,6,False
+1351,Portadown,1991,1,13,False
+1352,St Patrick's,1991,1,5,False
+1353,KA,1991,1,3,False
+1354,US Luxembourg,1991,1,6,False
+1355,Copenhagen,1994,4,3,True
+1356,Copenhagen,2007,5,8,False
+1357,Copenhagen,2011,7,5,True
+1358,Copenhagen,2014,4,13,False
+1359,Copenhagen,2017,7,2,False
+1360,Copenhagen,2023,1,12,False
+1361,Copenhagen,2024,8,8,True
+1362,Cork,1994,1,3,False
+1363,Beitar Jerusalem,1994,2,7,False
+1364,Aarau,1994,0,1,False
+1365,AIK,1994,1,2,False
+1366,AIK,2000,4,16,False
+1367,Skonto,1994,0,9,False
+1368,Chelsea,2000,10,3,True
+1369,Chelsea,2004,9,3,True
+1370,Chelsea,2005,10,3,True
+1371,Chelsea,2006,7,1,True
+1372,Chelsea,2007,10,4,True
+1373,Chelsea,2008,9,2,True
+1374,Chelsea,2009,9,5,True
+1375,Chelsea,2010,11,4,True
+1376,Chelsea,2011,14,4,True
+1377,Chelsea,2012,13,4,True
+1378,Chelsea,2013,16,10,False
+1379,Chelsea,2014,12,3,True
+1380,Chelsea,2015,17,3,True
+1381,Chelsea,2016,13,3,True
+1382,Chelsea,2018,16,8,True
+1383,Chelsea,2020,11,9,True
+1384,Chelsea,2021,14,2,True
+1385,Chelsea,2022,13,4,True
+1386,Chelsea,2023,10,4,True
+1387,Willem II,2000,7,15,False
+1388,Molde,2000,6,14,False
+1389,Boavista,2000,4,10,False
+1390,Boavista,2002,8,7,True
+1391,Leverkusen,2000,7,7,False
+1392,Leverkusen,2001,9,12,False
+1393,Leverkusen,2002,10,9,True
+1394,Leverkusen,2003,9,11,True
+1395,Leverkusen,2005,13,7,True
+1396,Leverkusen,2012,8,8,True
+1397,Leverkusen,2014,9,10,True
+1398,Leverkusen,2015,7,4,True
+1399,Leverkusen,2016,13,12,False
+1400,Leverkusen,2017,8,4,True
+1401,Leverkusen,2020,5,9,False
+1402,Leverkusen,2023,4,8,False
+1403,Sturm Graz,2000,5,12,False
+1404,Sturm Graz,2001,9,12,True
+1405,Dortmund,2000,7,9,False
+1406,Dortmund,2002,6,7,False
+1407,Dortmund,2003,8,7,True
+1408,Dortmund,2012,6,12,False
+1409,Dortmund,2013,11,5,True
+1410,Dortmund,2014,11,6,True
+1411,Dortmund,2015,14,4,True
+1412,Dortmund,2017,21,9,True
+1413,Dortmund,2018,7,13,False
+1414,Dortmund,2019,10,2,True
+1415,Dortmund,2020,8,8,True
+1416,Dortmund,2021,12,5,True
+1417,Dortmund,2022,10,11,False
+1418,Dortmund,2023,10,5,True
+1419,Dortmund,2024,7,4,True
+1420,Maribor,2000,2,12,False
+1421,Maribor,2015,4,13,False
+1422,Maribor,2018,3,16,False
+1423,Lazio,2000,13,3,True
+1424,Lazio,2001,13,4,True
+1425,Lazio,2002,4,7,False
+1426,Lazio,2004,6,10,False
+1427,Lazio,2008,8,11,False
+1428,Lazio,2021,11,7,True
+1429,Lazio,2024,7,7,True
+1430,Hertha,2000,7,10,True
+1431,Helsingborg,2001,6,14,False
+1432,Lyon,2001,8,6,True
+1433,Lyon,2002,10,9,False
+1434,Lyon,2003,12,9,False
+1435,Lyon,2004,7,7,True
+1436,Lyon,2005,17,8,True
+1437,Lyon,2006,13,4,True
+1438,Lyon,2007,12,3,True
+1439,Lyon,2008,11,10,True
+1440,Lyon,2009,14,10,True
+1441,Lyon,2010,12,3,True
+1442,Lyon,2011,11,10,True
+1443,Lyon,2012,9,7,True
+1444,Lyon,2016,5,9,False
+1445,Lyon,2017,5,3,False
+1446,Lyon,2019,12,11,True
+1447,Lyon,2020,9,8,True
+1448,Shakhtar Donetsk,2001,10,15,False
+1449,Shakhtar Donetsk,2005,5,9,False
+1450,Shakhtar Donetsk,2007,6,11,False
+1451,Shakhtar Donetsk,2008,6,11,False
+1452,Shakhtar Donetsk,2009,11,7,False
+1453,Shakhtar Donetsk,2011,12,6,True
+1454,Shakhtar Donetsk,2012,6,8,False
+1455,Shakhtar Donetsk,2013,12,8,True
+1456,Shakhtar Donetsk,2014,7,6,False
+1457,Shakhtar Donetsk,2015,15,4,True
+1458,Shakhtar Donetsk,2016,7,14,False
+1459,Shakhtar Donetsk,2018,9,9,True
+1460,Shakhtar Donetsk,2019,8,16,False
+1461,Shakhtar Donetsk,2020,8,13,False
+1462,Shakhtar Donetsk,2021,5,12,False
+1463,Shakhtar Donetsk,2022,2,12,False
+1464,Shakhtar Donetsk,2023,8,10,False
+1465,Shakhtar Donetsk,2024,10,12,False
+1466,Heerenveen,2001,3,9,False
+1467,Deportivo,2001,6,4,True
+1468,Deportivo,2002,10,8,True
+1469,Deportivo,2003,11,12,True
+1470,Deportivo,2004,12,12,True
+1471,Deportivo,2005,0,9,False
+1472,Lille,2002,7,7,False
+1473,Lille,2006,1,2,False
+1474,Lille,2007,8,5,True
+1475,Lille,2012,6,6,False
+1476,Lille,2013,4,13,False
+1477,Lille,2020,4,14,False
+1478,Lille,2022,7,4,True
+1479,Mallorca,2002,4,9,False
+1480,Schalke,2002,9,9,False
+1481,Schalke,2006,12,9,False
+1482,Schalke,2008,5,4,True
+1483,Schalke,2011,10,3,True
+1484,Schalke,2013,10,6,True
+1485,Schalke,2014,6,6,True
+1486,Schalke,2015,9,14,True
+1487,Schalke,2019,6,4,True
+1488,Lokomotiv Moskva,2002,9,9,False
+1489,Lokomotiv Moskva,2003,5,7,True
+1490,Lokomotiv Moskva,2004,7,7,True
+1491,Lokomotiv Moskva,2019,4,12,False
+1492,Lokomotiv Moskva,2020,4,11,False
+1493,Lokomotiv Moskva,2021,5,10,False
+1494,Genk,2003,2,9,False
+1495,Genk,2012,2,16,False
+1496,Genk,2020,5,20,False
+1497,Auxerre,2003,4,7,False
+1498,Auxerre,2011,3,12,False
+1499,Newcastle,2003,6,8,True
+1500,Newcastle,2024,6,7,False
+1501,Lens,2003,11,11,False
+1502,Lens,2024,6,11,False
+1503,Maccabi Haifa,2003,12,12,False
+1504,Maccabi Haifa,2010,0,8,False
+1505,Maccabi Haifa,2023,7,21,False
+1506,Celta,2004,7,6,True
+1507,Maccabi Tel Aviv,2005,4,12,False
+1508,Maccabi Tel Aviv,2016,1,16,False
+1509,Villarreal,2006,3,1,True
+1510,Villarreal,2009,9,7,True
+1511,Villarreal,2012,2,14,False
+1512,Villarreal,2022,12,9,True
+1513,Udinese,2006,10,12,False
+1514,Petržalka,2006,5,9,False
+1515,Real Betis,2006,3,7,False
+1516,Thun,2006,4,9,False
+1517,Slavia Praha,2008,5,16,False
+1518,Slavia Praha,2020,4,10,False
+1519,Sevilla,2008,14,7,True
+1520,Sevilla,2010,11,4,True
+1521,Sevilla,2016,8,11,False
+1522,Sevilla,2017,7,3,True
+1523,Sevilla,2018,12,12,True
+1524,Sevilla,2021,9,8,True
+1525,Sevilla,2022,5,5,False
+1526,Sevilla,2023,6,12,False
+1527,Sevilla,2024,7,12,False
+1528,Anorthosis,2009,8,8,False
+1529,CFR Cluj,2009,5,9,False
+1530,CFR Cluj,2011,6,12,False
+1531,CFR Cluj,2013,9,7,False
+1532,BATE Borisov,2009,3,8,False
+1533,BATE Borisov,2012,2,14,False
+1534,BATE Borisov,2013,9,15,False
+1535,BATE Borisov,2015,2,24,False
+1536,BATE Borisov,2016,5,12,False
+1537,AaB,2009,9,14,False
+1538,Wolfsburg,2010,9,8,False
+1539,Wolfsburg,2016,9,6,True
+1540,Wolfsburg,2022,5,10,False
+1541,Unirea Urziceni,2010,8,8,False
+1542,Debrecen,2010,5,19,False
+1543,Rubin,2010,4,7,False
+1544,Rubin,2011,2,4,False
+1545,Žilina,2011,3,19,False
+1546,Bursaspor,2011,2,16,False
+1547,Twente,2011,9,11,False
+1548,H. Tel Aviv,2011,7,10,False
+1549,Tottenham,2011,18,11,True
+1550,Tottenham,2017,6,6,False
+1551,Tottenham,2018,15,4,True
+1552,Tottenham,2019,9,10,True
+1553,Tottenham,2020,18,14,True
+1554,Tottenham,2023,8,6,True
+1555,Braga,2011,5,11,False
+1556,Braga,2013,7,13,False
+1557,Braga,2024,6,12,False
+1558,Viktoria Plzeň,2012,4,11,False
+1559,Viktoria Plzeň,2014,6,17,False
+1560,Viktoria Plzeň,2019,7,16,False
+1561,Viktoria Plzeň,2023,5,24,False
+1562,Oţelul,2012,3,11,False
+1563,Málaga,2013,12,5,True
+1564,Montpellier,2013,6,12,False
+1565,Nordsjælland,2013,4,22,False
+1566,Ludogorets,2015,5,14,False
+1567,Ludogorets,2017,6,15,False
+1568,Gent,2016,8,7,True
+1569,Astana,2016,5,11,False
+1570,Rostov,2017,6,12,False
+1571,Leicester,2017,7,6,True
+1572,Leipzig,2018,10,11,False
+1573,Leipzig,2020,10,8,True
+1574,Leipzig,2021,11,12,True
+1575,Leipzig,2022,15,14,False
+1576,Leipzig,2023,13,9,True
+1577,Leipzig,2024,13,10,True
+1578,Qarabağ,2018,2,14,False
+1579,Hoffenheim,2019,11,14,False
+1580,Salzburg,2020,16,13,False
+1581,Salzburg,2021,10,17,False
+1582,Salzburg,2022,8,6,True
+1583,Salzburg,2023,5,9,False
+1584,Salzburg,2024,4,8,False
+1585,Atalanta,2020,8,12,True
+1586,Atalanta,2021,10,8,True
+1587,Atalanta,2022,12,13,False
+1588,Midtjylland,2021,4,13,False
+1589,Rennes,2021,3,11,False
+1590,İstanbul Başakşehir,2021,7,18,False
+1591,Krasnodar,2021,6,11,False
+1592,Sheriff,2022,7,11,False
+1593,Eintracht Frankfurt,2023,7,8,True
+1594,Union Berlin,2024,6,10,False
+1595,Antwerp,2024,6,17,False

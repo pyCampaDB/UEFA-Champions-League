@@ -1,0 +1,1474 @@
+_id,home,away,goalHome,goalAway,season,round,winner
+13,Saarbrücken,Milan,1,4,1956,octavos de final,Milan
+14,PSV,Rapid Wien,1,0,1956,octavos de final,PSV
+15,Reims,AGF,2,2,1956,octavos de final,empate
+16,Anderlecht,MTK,1,4,1956,octavos de final,MTK
+17,Hibernian,Essen,1,1,1956,octavos de final,empate
+18,Gwardia,Djurgården,1,4,1956,octavos de final,Djurgården
+19,Real Madrid,Servette,5,0,1956,octavos de final,Real Madrid
+20,Partizan,Sporting CP,5,2,1956,octavos de final,Partizan
+21,Milan,Saarbrücken,3,4,1956,octavos de final,Saarbrücken
+22,AGF,Reims,0,2,1956,octavos de final,Reims
+23,Rapid Wien,PSV,6,1,1956,octavos de final,Rapid Wien
+24,Djurgården,Gwardia,0,0,1956,octavos de final,empate
+25,Essen,Hibernian,0,4,1956,octavos de final,Hibernian
+26,Servette,Real Madrid,0,2,1956,octavos de final,Real Madrid
+27,MTK,Anderlecht,6,3,1956,octavos de final,MTK
+28,Sporting CP,Partizan,3,3,1956,octavos de final,empate
+42,Dinamo Bucureşti,CSKA Sofia,3,2,1957,octavos de final,Dinamo Bucureşti
+43,Honvéd,Athletic Club,3,3,1957,octavos de final,empate
+44,Grasshoppers,Slovan Bratislava,2,0,1957,octavos de final,Grasshoppers
+45,Norrköping,Fiorentina,0,1,1957,octavos de final,Fiorentina
+46,Dortmund,Man United,0,0,1957,octavos de final,empate
+47,Nice,Rangers,2,1,1957,octavos de final,Nice
+48,Rapid Wien,Real Madrid,3,1,1957,octavos de final,Rapid Wien
+49,Crvena zvezda,Rapid,2,0,1957,octavos de final,Crvena zvezda
+50,Real Madrid,Rapid Wien,2,0,1957,octavos de final,Real Madrid
+51,Nice,Rangers,3,1,1957,octavos de final,Nice
+52,Athletic Club,Honvéd,3,2,1957,octavos de final,Athletic Club
+53,Fiorentina,Norrköping,1,1,1957,octavos de final,empate
+54,Rapid,Crvena zvezda,3,4,1957,octavos de final,Crvena zvezda
+55,Real Madrid,Rapid Wien,4,2,1957,octavos de final,Real Madrid
+56,Rangers,Nice,2,1,1957,octavos de final,Rangers
+57,Slovan Bratislava,Grasshoppers,1,0,1957,octavos de final,Slovan Bratislava
+58,CSKA Sofia,Dinamo Bucureşti,8,1,1957,octavos de final,CSKA Sofia
+59,Man United,Dortmund,3,2,1957,octavos de final,Man United
+73,Dortmund,FCSB,3,1,1958,octavos de final,Dortmund
+74,Rangers,Milan,1,4,1958,octavos de final,Milan
+75,Dortmund,FCSB,4,2,1958,octavos de final,Dortmund
+76,Sevilla,AGF,4,0,1958,octavos de final,Sevilla
+77,Man United,Dukla,3,0,1958,octavos de final,Man United
+78,Young Boys,Vasas,1,1,1958,octavos de final,empate
+79,Aue,Ajax,1,3,1958,octavos de final,Ajax
+80,Norrköping,Crvena zvezda,2,2,1958,octavos de final,empate
+81,Antwerp,Real Madrid,1,2,1958,octavos de final,Real Madrid
+82,Milan,Rangers,2,0,1958,octavos de final,Milan
+83,FCSB,Dortmund,3,1,1958,octavos de final,FCSB
+84,Dukla,Man United,1,0,1958,octavos de final,Dukla
+85,AGF,Sevilla,2,0,1958,octavos de final,AGF
+86,Vasas,Young Boys,2,1,1958,octavos de final,Vasas
+87,Real Madrid,Antwerp,6,0,1958,octavos de final,Real Madrid
+88,Ajax,Aue,1,0,1958,octavos de final,Ajax
+89,Crvena zvezda,Norrköping,2,1,1958,octavos de final,Crvena zvezda
+105,Atlético de Madrid,CSKA Sofia,3,1,1959,octavos de final,Atlético de Madrid
+106,Reims,HPS,4,0,1959,octavos de final,Reims
+107,Real Madrid,Beşiktaş,2,0,1959,octavos de final,Real Madrid
+108,Wolves,Schalke,2,2,1959,octavos de final,empate
+109,Göteborg,Aue,2,2,1959,octavos de final,empate
+110,Atlético de Madrid,CSKA Sofia,2,1,1959,octavos de final,Atlético de Madrid
+111,MTK,Young Boys,1,2,1959,octavos de final,Young Boys
+112,Wiener SC,Dukla,3,1,1959,octavos de final,Wiener SC
+113,Sporting CP,Standard Liège,2,3,1959,octavos de final,Standard Liège
+114,HPS,Reims,0,3,1959,octavos de final,Reims
+115,Beşiktaş,Real Madrid,1,1,1959,octavos de final,empate
+116,Young Boys,MTK,4,1,1959,octavos de final,Young Boys
+117,CSKA Sofia,Atlético de Madrid,1,0,1959,octavos de final,CSKA Sofia
+118,Dukla,Wiener SC,1,0,1959,octavos de final,Dukla
+119,Schalke,Wolves,2,1,1959,octavos de final,Schalke
+120,Aue,Göteborg,4,0,1959,octavos de final,Aue
+121,Standard Liège,Sporting CP,3,0,1959,octavos de final,Standard Liège
+136,Nice,Fenerbahçe,5,1,1960,octavos de final,Nice
+137,Sparta,Göteborg,3,1,1960,octavos de final,Sparta
+138,Fenerbahçe,Nice,2,1,1960,octavos de final,Fenerbahçe
+139,Rangers,Senica,4,3,1960,octavos de final,Rangers
+140,Crvena zvezda,Wolves,1,1,1960,octavos de final,empate
+141,Young Boys,Eintracht Frankfurt,1,4,1960,octavos de final,Eintracht Frankfurt
+142,Milan,Barcelona,0,2,1960,octavos de final,Barcelona
+143,Sparta,Göteborg,3,1,1960,octavos de final,Sparta
+144,Real Madrid,Jeunesse Esch,7,0,1960,octavos de final,Real Madrid
+145,B 1909,Wiener SC,0,3,1960,octavos de final,Wiener SC
+146,Nice,Fenerbahçe,2,1,1960,octavos de final,Nice
+147,Barcelona,Milan,5,1,1960,octavos de final,Barcelona
+148,Eintracht Frankfurt,Young Boys,1,1,1960,octavos de final,empate
+149,Wolves,Crvena zvezda,3,0,1960,octavos de final,Wolves
+150,Senica,Rangers,1,1,1960,octavos de final,empate
+151,Göteborg,Sparta,3,1,1960,octavos de final,Göteborg
+152,Jeunesse Esch,Real Madrid,2,5,1960,octavos de final,Real Madrid
+153,Wiener SC,B 1909,2,2,1960,octavos de final,empate
+168,Rapid Wien,Aue,1,0,1961,octavos de final,Rapid Wien
+169,Burnley,Reims,2,0,1961,octavos de final,Burnley
+170,Real Madrid,Barcelona,2,2,1961,octavos de final,empate
+171,Rapid Wien,Aue,3,1,1961,octavos de final,Rapid Wien
+172,Benfica,Újpest,6,2,1961,octavos de final,Benfica
+173,Hradec Králové,Panathinaikos,1,0,1961,octavos de final,Hradec Králové
+174,Young Boys,Hamburg,0,5,1961,octavos de final,Hamburg
+175,IFK Malmö,CSKA Sofia,1,0,1961,octavos de final,IFK Malmö
+176,AGF,Fredrikstad,3,0,1961,octavos de final,AGF
+177,Panathinaikos,Hradec Králové,0,0,1961,octavos de final,empate
+178,Újpest,Benfica,2,1,1961,octavos de final,Újpest
+179,Reims,Burnley,3,2,1961,octavos de final,Reims
+180,Hamburg,Young Boys,3,3,1961,octavos de final,empate
+181,Barcelona,Real Madrid,2,1,1961,octavos de final,Barcelona
+182,Aue,Rapid Wien,2,0,1961,octavos de final,Aue
+183,CSKA Sofia,IFK Malmö,1,1,1961,octavos de final,empate
+184,Fredrikstad,AGF,0,1,1961,octavos de final,AGF
+199,Nürnberg,Fenerbahçe,1,0,1962,octavos de final,Nürnberg
+200,Rangers,Vorwärts,4,1,1962,octavos de final,Rangers
+201,Dukla,Servette,2,0,1962,octavos de final,Dukla
+202,Tottenham,Feyenoord,1,1,1962,octavos de final,empate
+203,Juventus,Partizan,5,0,1962,octavos de final,Juventus
+204,Benfica,Austria Wien,5,1,1962,octavos de final,Benfica
+205,Haka,Standard Liège,0,2,1962,octavos de final,Standard Liège
+206,Real Madrid,B 1913,9,0,1962,octavos de final,Real Madrid
+207,Vorwärts,Rangers,1,2,1962,octavos de final,Rangers
+208,Partizan,Juventus,1,2,1962,octavos de final,Juventus
+209,Servette,Dukla,4,3,1962,octavos de final,Servette
+210,Feyenoord,Tottenham,1,3,1962,octavos de final,Tottenham
+211,Austria Wien,Benfica,1,1,1962,octavos de final,empate
+212,Standard Liège,Haka,5,1,1962,octavos de final,Standard Liège
+213,B 1913,Real Madrid,0,3,1962,octavos de final,Real Madrid
+214,Fenerbahçe,Nürnberg,1,2,1962,octavos de final,Nürnberg
+228,Feyenoord,Vasas,1,0,1963,octavos de final,Feyenoord
+229,Feyenoord,Vasas,1,1,1963,octavos de final,empate
+230,Milan,Ipswich,3,0,1963,octavos de final,Milan
+231,Galatasaray,Polonia Bytom,4,1,1963,octavos de final,Galatasaray
+232,Esbjerg,Dukla,0,0,1963,octavos de final,empate
+233,Norrköping,Benfica,1,1,1963,octavos de final,empate
+234,CSKA Sofia,Anderlecht,2,2,1963,octavos de final,empate
+235,Sporting CP,Dundee,1,0,1963,octavos de final,Sporting CP
+236,Austria Wien,Reims,3,2,1963,octavos de final,Austria Wien
+237,Vasas,Feyenoord,2,2,1963,octavos de final,empate
+238,Ipswich,Milan,2,1,1963,octavos de final,Ipswich
+239,Benfica,Norrköping,5,1,1963,octavos de final,Benfica
+240,Polonia Bytom,Galatasaray,1,0,1963,octavos de final,Polonia Bytom
+241,Dukla,Esbjerg,5,0,1963,octavos de final,Dukla
+242,Anderlecht,CSKA Sofia,2,0,1963,octavos de final,Anderlecht
+243,Reims,Austria Wien,5,0,1963,octavos de final,Reims
+244,Dundee,Sporting CP,4,1,1963,octavos de final,Dundee
+258,Real Madrid,Dinamo Bucureşti,5,3,1964,octavos de final,Real Madrid
+259,Monaco,Inter,1,3,1964,octavos de final,Inter
+260,Milan,Norrköping,5,2,1964,octavos de final,Milan
+261,Dortmund,Benfica,5,0,1964,octavos de final,Dortmund
+262,Galatasaray,Zürich,2,0,1964,octavos de final,Galatasaray
+263,Partizan,Jeunesse Esch,6,2,1964,octavos de final,Partizan
+264,PSV,Spartak Plovdiv,0,0,1964,octavos de final,empate
+265,Dukla,Górnik Zabrze,4,1,1964,octavos de final,Dukla
+266,Zürich,Galatasaray,2,2,1964,octavos de final,empate
+267,Inter,Monaco,1,0,1964,octavos de final,Inter
+268,Norrköping,Milan,1,1,1964,octavos de final,empate
+269,Jeunesse Esch,Partizan,2,1,1964,octavos de final,Jeunesse Esch
+270,Zürich,Galatasaray,2,0,1964,octavos de final,Zürich
+271,Dinamo Bucureşti,Real Madrid,1,3,1964,octavos de final,Real Madrid
+272,Spartak Plovdiv,PSV,0,1,1964,octavos de final,PSV
+273,Górnik Zabrze,Dukla,2,0,1964,octavos de final,Górnik Zabrze
+274,Benfica,Dortmund,2,1,1964,octavos de final,Benfica
+289,Anderlecht,Liverpool,0,1,1965,octavos de final,Liverpool
+290,Benfica,Chaux-de-Fonds,5,0,1965,octavos de final,Benfica
+291,Rapid Wien,Rangers,0,2,1965,octavos de final,Rangers
+292,Lokomotiv Sofia,Győr,4,3,1965,octavos de final,Lokomotiv Sofia
+293,Dinamo Bucureşti,Inter,0,1,1965,octavos de final,Inter
+294,Dukla,Real Madrid,2,2,1965,octavos de final,empate
+295,Köln,Panathinaikos,2,1,1965,octavos de final,Köln
+296,Lyn,Amsterdam,1,3,1965,octavos de final,Amsterdam
+297,Liverpool,Anderlecht,3,0,1965,octavos de final,Liverpool
+298,Rangers,Rapid Wien,1,0,1965,octavos de final,Rangers
+299,Real Madrid,Dukla,4,0,1965,octavos de final,Real Madrid
+300,Győr,Lokomotiv Sofia,5,3,1965,octavos de final,Győr
+301,Inter,Dinamo Bucureşti,6,0,1965,octavos de final,Inter
+302,Panathinaikos,Köln,1,1,1965,octavos de final,empate
+303,Chaux-de-Fonds,Benfica,1,1,1965,octavos de final,empate
+304,Amsterdam,Lyn,5,0,1965,octavos de final,Amsterdam
+319,Inter,Dinamo Bucureşti,2,0,1966,octavos de final,Inter
+320,Benfica,Levski,3,2,1966,octavos de final,Benfica
+321,Man United,Vorwärts,3,1,1966,octavos de final,Man United
+322,Real Madrid,Kilmarnock,5,1,1966,octavos de final,Real Madrid
+323,Górnik Zabrze,Sparta Praha,1,2,1966,octavos de final,Sparta Praha
+324,Panathinaikos,Ferencváros,1,3,1966,octavos de final,Ferencváros
+325,Bremen,Partizan,1,0,1966,octavos de final,Bremen
+326,Dinamo Bucureşti,Inter,2,1,1966,octavos de final,Dinamo Bucureşti
+327,Sparta Praha,Górnik Zabrze,3,0,1966,octavos de final,Sparta Praha
+328,Anderlecht,Derry,9,0,1966,octavos de final,Anderlecht
+329,Vorwärts,Man United,0,2,1966,octavos de final,Man United
+330,Kilmarnock,Real Madrid,2,2,1966,octavos de final,empate
+331,Levski,Benfica,2,2,1966,octavos de final,empate
+332,Ferencváros,Panathinaikos,0,0,1966,octavos de final,empate
+333,Partizan,Bremen,3,0,1966,octavos de final,Partizan
+348,Atlético de Madrid,Vojvodina,2,3,1967,octavos de final,Vojvodina
+349,Ajax,Liverpool,5,1,1967,octavos de final,Ajax
+350,Nantes,Celtic,1,3,1967,octavos de final,Celtic
+351,CSKA Sofia,Górnik Zabrze,4,0,1967,octavos de final,CSKA Sofia
+352,1860 München,Real Madrid,1,0,1967,octavos de final,1860 München
+353,Dukla,Anderlecht,4,1,1967,octavos de final,Dukla
+354,Vojvodina,Atlético de Madrid,3,1,1967,octavos de final,Vojvodina
+355,Inter,Vasas,2,1,1967,octavos de final,Inter
+356,Vålerenga,Linfield,1,4,1967,octavos de final,Linfield
+357,Liverpool,Ajax,2,2,1967,octavos de final,empate
+358,Atlético de Madrid,Vojvodina,2,0,1967,octavos de final,Atlético de Madrid
+359,Vasas,Inter,0,2,1967,octavos de final,Inter
+360,Celtic,Nantes,3,1,1967,octavos de final,Celtic
+361,Górnik Zabrze,CSKA Sofia,3,0,1967,octavos de final,Górnik Zabrze
+362,Anderlecht,Dukla,1,2,1967,octavos de final,Dukla
+363,Real Madrid,1860 München,3,1,1967,octavos de final,Real Madrid
+364,Linfield,Vålerenga,1,1,1967,octavos de final,empate
+411,Rapid Bucureşti,Juventus,0,0,1968,octavos de final,empate
+412,Anderlecht,Sparta Praha,3,3,1968,octavos de final,empate
+413,St-Étienne,Benfica,1,0,1968,octavos de final,St-Étienne
+414,Górnik Zabrze,Dynamo Kyiv,1,1,1968,octavos de final,empate
+415,Man United,Sarajevo,2,1,1968,octavos de final,Man United
+416,Braunschweig,Rapid Wien,2,0,1968,octavos de final,Braunschweig
+417,Real Madrid,Hvidovre,4,1,1968,octavos de final,Real Madrid
+418,Valur,Vasas,1,5,1968,octavos de final,Vasas
+419,Juventus,Rapid Bucureşti,1,0,1968,octavos de final,Juventus
+420,Sparta Praha,Anderlecht,3,2,1968,octavos de final,Sparta Praha
+421,Dynamo Kyiv,Górnik Zabrze,1,2,1968,octavos de final,Górnik Zabrze
+422,Benfica,St-Étienne,2,0,1968,octavos de final,Benfica
+423,Vasas,Valur,6,0,1968,octavos de final,Vasas
+424,Sarajevo,Man United,0,0,1968,octavos de final,empate
+425,Rapid Wien,Braunschweig,1,0,1968,octavos de final,Rapid Wien
+426,Hvidovre,Real Madrid,2,2,1968,octavos de final,empate
+473,Real Madrid,Rapid Wien,2,1,1969,octavos de final,Real Madrid
+474,Spartak Trnava,Reipas,7,1,1969,octavos de final,Spartak Trnava
+475,Crvena zvezda,Celtic,1,1,1969,octavos de final,empate
+476,Anderlecht,Man United,3,1,1969,octavos de final,Anderlecht
+477,Fenerbahçe,Ajax,0,2,1969,octavos de final,Ajax
+478,AB,AEK Athens,0,2,1969,octavos de final,AEK Athens
+479,Rapid Wien,Real Madrid,1,0,1969,octavos de final,Rapid Wien
+480,Reipas,Spartak Trnava,1,9,1969,octavos de final,Spartak Trnava
+481,Celtic,Crvena zvezda,5,1,1969,octavos de final,Celtic
+482,Man United,Anderlecht,3,0,1969,octavos de final,Man United
+483,Ajax,Fenerbahçe,2,0,1969,octavos de final,Ajax
+484,AEK Athens,AB,0,0,1969,octavos de final,empate
+530,Real Madrid,Standard Liège,2,3,1970,octavos de final,Standard Liège
+531,Benfica,Celtic,3,0,1970,octavos de final,Benfica
+532,Feyenoord,Milan,2,0,1970,octavos de final,Feyenoord
+533,Fiorentina,Dynamo Kyiv,0,0,1970,octavos de final,empate
+534,Galatasaray,Spartak Trnava,1,0,1970,octavos de final,Galatasaray
+535,Ferencváros,Leeds,0,3,1970,octavos de final,Leeds
+536,St-Étienne,Legia,0,1,1970,octavos de final,Legia
+537,Crvena zvezda,Vorwärts,3,2,1970,octavos de final,Crvena zvezda
+538,Standard Liège,Real Madrid,1,0,1970,octavos de final,Standard Liège
+539,Celtic,Benfica,3,0,1970,octavos de final,Celtic
+540,Leeds,Ferencváros,3,0,1970,octavos de final,Leeds
+541,Legia,St-Étienne,2,1,1970,octavos de final,Legia
+542,Dynamo Kyiv,Fiorentina,1,2,1970,octavos de final,Fiorentina
+543,Milan,Feyenoord,1,0,1970,octavos de final,Milan
+544,Vorwärts,Crvena zvezda,2,1,1970,octavos de final,Vorwärts
+545,Spartak Trnava,Galatasaray,1,0,1970,octavos de final,Spartak Trnava
+591,Atlético de Madrid,Cagliari,3,0,1971,octavos de final,Atlético de Madrid
+592,Celtic,Waterford,3,2,1971,octavos de final,Celtic
+593,Everton,Mönchengladbach,1,1,1971,octavos de final,empate
+594,Basel,Ajax,1,2,1971,octavos de final,Ajax
+595,UTA,Crvena zvezda,1,3,1971,octavos de final,Crvena zvezda
+596,Sporting CP,Jena,1,2,1971,octavos de final,Jena
+597,Slovan Bratislava,Panathinaikos,2,1,1971,octavos de final,Slovan Bratislava
+598,Legia,Standard Liège,2,0,1971,octavos de final,Legia
+599,Ajax,Basel,3,0,1971,octavos de final,Ajax
+600,Cagliari,Atlético de Madrid,2,1,1971,octavos de final,Cagliari
+601,Mönchengladbach,Everton,1,1,1971,octavos de final,empate
+602,Waterford,Celtic,0,7,1971,octavos de final,Celtic
+603,Crvena zvezda,UTA,3,0,1971,octavos de final,Crvena zvezda
+604,Jena,Sporting CP,2,1,1971,octavos de final,Jena
+605,Panathinaikos,Slovan Bratislava,3,0,1971,octavos de final,Panathinaikos
+606,Standard Liège,Legia,1,0,1971,octavos de final,Standard Liège
+653,Mönchengladbach,Inter,0,0,1972,octavos de final,empate
+654,Arsenal,Grasshoppers,3,0,1972,octavos de final,Arsenal
+655,Feyenoord,Dinamo Bucureşti,2,0,1972,octavos de final,Feyenoord
+656,Ajax,Marseille,4,1,1972,octavos de final,Ajax
+657,Standard Liège,CSKA Moskva,2,0,1972,octavos de final,Standard Liège
+658,CSKA Sofia,Benfica,0,0,1972,octavos de final,empate
+659,Újpest,Valencia,2,1,1972,octavos de final,Újpest
+660,Sliema,Celtic,1,2,1972,octavos de final,Celtic
+661,Inter,Mönchengladbach,4,2,1972,octavos de final,Inter
+662,Benfica,CSKA Sofia,2,1,1972,octavos de final,Benfica
+663,Celtic,Sliema,5,0,1972,octavos de final,Celtic
+664,Valencia,Újpest,0,1,1972,octavos de final,Újpest
+665,Marseille,Ajax,1,2,1972,octavos de final,Ajax
+666,Grasshoppers,Arsenal,0,2,1972,octavos de final,Arsenal
+667,CSKA Moskva,Standard Liège,1,0,1972,octavos de final,CSKA Moskva
+668,Dinamo Bucureşti,Feyenoord,0,3,1972,octavos de final,Feyenoord
+715,Ajax,CSKA Sofia,3,0,1973,octavos de final,Ajax
+716,Real Madrid,ACS Campionii FC Arges,3,1,1973,octavos de final,Real Madrid
+717,Benfica,Derby,0,0,1973,octavos de final,empate
+718,Anderlecht,Spartak Trnava,0,1,1973,octavos de final,Spartak Trnava
+719,Magdeburg,Juventus,0,1,1973,octavos de final,Juventus
+720,Újpest,Celtic,3,0,1973,octavos de final,Újpest
+721,Górnik Zabrze,Dynamo Kyiv,2,1,1973,octavos de final,Górnik Zabrze
+722,Omonoia,Bayern,0,4,1973,octavos de final,Bayern
+723,CSKA Sofia,Ajax,1,3,1973,octavos de final,Ajax
+724,Celtic,Újpest,2,1,1973,octavos de final,Celtic
+725,Juventus,Magdeburg,1,0,1973,octavos de final,Juventus
+726,Derby,Benfica,3,0,1973,octavos de final,Derby
+727,Dynamo Kyiv,Górnik Zabrze,2,0,1973,octavos de final,Dynamo Kyiv
+728,Spartak Trnava,Anderlecht,1,0,1973,octavos de final,Spartak Trnava
+729,ACS Campionii FC Arges,Real Madrid,2,1,1973,octavos de final,ACS Campionii FC Arges
+730,Bayern,Omonoia,9,0,1973,octavos de final,Bayern
+773,Atlético de Madrid,Dinamo Bucureşti,2,2,1974,octavos de final,empate
+774,Basel,Club Brugge,6,4,1974,octavos de final,Basel
+775,Dresden,Bayern,3,3,1974,octavos de final,empate
+776,CSKA Sofia,Ajax,2,0,1974,octavos de final,CSKA Sofia
+777,Újpest,Benfica,2,0,1974,octavos de final,Újpest
+778,Zorya Luhansk,Spartak Trnava,0,1,1974,octavos de final,Spartak Trnava
+779,Liverpool,Crvena zvezda,1,2,1974,octavos de final,Crvena zvezda
+780,VB,Celtic,0,1,1974,octavos de final,Celtic
+781,Benfica,Újpest,1,1,1974,octavos de final,empate
+782,Celtic,VB,0,0,1974,octavos de final,empate
+783,Ajax,CSKA Sofia,1,0,1974,octavos de final,Ajax
+784,Bayern,Dresden,4,3,1974,octavos de final,Bayern
+785,Club Brugge,Basel,2,1,1974,octavos de final,Club Brugge
+786,Crvena zvezda,Liverpool,2,1,1974,octavos de final,Crvena zvezda
+787,Spartak Trnava,Zorya Luhansk,0,0,1974,octavos de final,empate
+788,Dinamo Bucureşti,Atlético de Madrid,0,2,1974,octavos de final,Atlético de Madrid
+834,St-Étienne,Hajduk Split,5,1,1975,octavos de final,St-Étienne
+835,Leeds,Újpest,3,0,1975,octavos de final,Leeds
+836,Magdeburg,Bayern,1,2,1975,octavos de final,Bayern
+837,Åtvidaberg,HJK,1,0,1975,octavos de final,Åtvidaberg
+838,Fenerbahçe,Ruch,0,2,1975,octavos de final,Ruch
+839,Ararat,Cork Celtic,5,0,1975,octavos de final,Ararat
+840,Olympiacos,Anderlecht,3,0,1975,octavos de final,Olympiacos
+841,Barcelona,Feyenoord,3,0,1975,octavos de final,Barcelona
+842,Anderlecht,Olympiacos,5,1,1975,octavos de final,Anderlecht
+843,Bayern,Magdeburg,3,2,1975,octavos de final,Bayern
+844,Cork Celtic,Ararat,1,2,1975,octavos de final,Ararat
+845,HJK,Åtvidaberg,0,3,1975,octavos de final,Åtvidaberg
+846,Ruch,Fenerbahçe,2,1,1975,octavos de final,Ruch
+847,Újpest,Leeds,1,2,1975,octavos de final,Leeds
+848,Hajduk Split,St-Étienne,4,1,1975,octavos de final,Hajduk Split
+849,Feyenoord,Barcelona,0,0,1975,octavos de final,empate
+891,Real Madrid,Derby,5,1,1976,octavos de final,Real Madrid
+892,Rangers,St-Étienne,1,2,1976,octavos de final,St-Étienne
+893,Juventus,Mönchengladbach,2,2,1976,octavos de final,empate
+894,PSV,Ruch,4,0,1976,octavos de final,PSV
+895,ÍA,Dynamo Kyiv,0,2,1976,octavos de final,Dynamo Kyiv
+896,Brussels,Hajduk Split,2,3,1976,octavos de final,Hajduk Split
+897,Bayern,Malmö,2,0,1976,octavos de final,Bayern
+898,Újpest,Benfica,3,1,1976,octavos de final,Újpest
+899,Benfica,Újpest,5,2,1976,octavos de final,Benfica
+900,St-Étienne,Rangers,2,0,1976,octavos de final,St-Étienne
+901,Derby,Real Madrid,4,1,1976,octavos de final,Derby
+902,Mönchengladbach,Juventus,2,0,1976,octavos de final,Mönchengladbach
+903,Malmö,Bayern,1,0,1976,octavos de final,Malmö
+904,Dynamo Kyiv,ÍA,3,0,1976,octavos de final,Dynamo Kyiv
+905,Ruch,PSV,1,3,1976,octavos de final,PSV
+906,Hajduk Split,Brussels,4,0,1976,octavos de final,Hajduk Split
+953,Liverpool,Trabzonspor,3,0,1977,octavos de final,Liverpool
+954,Club Brugge,Real Madrid,2,0,1977,octavos de final,Club Brugge
+955,PSV,St-Étienne,0,0,1977,octavos de final,empate
+956,Mönchengladbach,Torino,0,0,1977,octavos de final,empate
+957,Bayern,Baník,5,0,1977,octavos de final,Bayern
+958,PAOK,Dynamo Kyiv,0,2,1977,octavos de final,Dynamo Kyiv
+959,TPS,Zürich,0,1,1977,octavos de final,Zürich
+960,Dresden,Ferencváros,4,0,1977,octavos de final,Dresden
+961,Real Madrid,Club Brugge,0,0,1977,octavos de final,empate
+962,St-Étienne,PSV,1,0,1977,octavos de final,St-Étienne
+963,Torino,Mönchengladbach,1,2,1977,octavos de final,Mönchengladbach
+964,Zürich,TPS,2,0,1977,octavos de final,Zürich
+965,Dynamo Kyiv,PAOK,4,0,1977,octavos de final,Dynamo Kyiv
+966,Baník,Bayern,2,1,1977,octavos de final,Baník
+967,Ferencváros,Dresden,1,0,1977,octavos de final,Ferencváros
+968,Trabzonspor,Liverpool,1,0,1977,octavos de final,Trabzonspor
+1014,Atlético de Madrid,Nantes,2,1,1978,octavos de final,Atlético de Madrid
+1015,Juventus,Glentoran,5,0,1978,octavos de final,Juventus
+1016,Ajax,Levski,2,1,1978,octavos de final,Ajax
+1017,Mönchengladbach,Crvena zvezda,5,1,1978,octavos de final,Mönchengladbach
+1018,B 1903,Benfica,0,1,1978,octavos de final,Benfica
+1019,Wacker,Celtic,3,0,1978,octavos de final,Wacker
+1020,Dresden,Liverpool,2,1,1978,octavos de final,Dresden
+1021,Panathinaikos,Club Brugge,1,0,1978,octavos de final,Panathinaikos
+1022,Benfica,B 1903,1,0,1978,octavos de final,Benfica
+1023,Nantes,Atlético de Madrid,1,1,1978,octavos de final,empate
+1024,Celtic,Wacker,2,1,1978,octavos de final,Celtic
+1025,Glentoran,Juventus,0,1,1978,octavos de final,Juventus
+1026,Liverpool,Dresden,5,1,1978,octavos de final,Liverpool
+1027,Club Brugge,Panathinaikos,2,0,1978,octavos de final,Club Brugge
+1028,Crvena zvezda,Mönchengladbach,0,3,1978,octavos de final,Mönchengladbach
+1029,Levski,Ajax,1,2,1978,octavos de final,Ajax
+1075,Nottm Forest,AEK Athens,5,1,1979,octavos de final,Nottm Forest
+1076,PSV,Rangers,2,3,1979,octavos de final,Rangers
+1077,Grasshoppers,Real Madrid,2,0,1979,octavos de final,Grasshoppers
+1078,Malmö,Dynamo Kyiv,2,0,1979,octavos de final,Malmö
+1079,Lillestrøm,Austria Wien,0,0,1979,octavos de final,empate
+1080,Köln,Lokomotiv Sofia,4,0,1979,octavos de final,Köln
+1081,Dresden,Bohemians,6,0,1979,octavos de final,Dresden
+1082,Wisła Kraków,Brno,1,1,1979,octavos de final,empate
+1083,Bohemians,Dresden,0,0,1979,octavos de final,empate
+1084,Real Madrid,Grasshoppers,3,1,1979,octavos de final,Real Madrid
+1085,Rangers,PSV,0,0,1979,octavos de final,empate
+1086,Austria Wien,Lillestrøm,4,1,1979,octavos de final,Austria Wien
+1087,AEK Athens,Nottm Forest,1,2,1979,octavos de final,Nottm Forest
+1088,Dynamo Kyiv,Malmö,0,0,1979,octavos de final,empate
+1089,Lokomotiv Sofia,Köln,0,1,1979,octavos de final,Köln
+1090,Brno,Wisła Kraków,2,2,1979,octavos de final,empate
+1137,Real Madrid,FC Porto,1,0,1980,octavos de final,Real Madrid
+1138,Dundalk,Celtic,0,0,1980,octavos de final,empate
+1139,Servette,Berlin,2,2,1980,octavos de final,empate
+1140,Strasbourg,Dukla,2,0,1980,octavos de final,Strasbourg
+1141,Omonoia,Ajax,4,0,1980,octavos de final,Omonoia
+1142,Hajduk Split,VB,1,2,1980,octavos de final,VB
+1143,Dinamo Tbilisi,Hamburg,2,3,1980,octavos de final,Hamburg
+1144,ACS Campionii FC Arges,Nottm Forest,1,2,1980,octavos de final,Nottm Forest
+1145,FC Porto,Real Madrid,2,1,1980,octavos de final,FC Porto
+1146,Nottm Forest,ACS Campionii FC Arges,2,0,1980,octavos de final,Nottm Forest
+1147,Celtic,Dundalk,3,2,1980,octavos de final,Celtic
+1148,Ajax,Omonoia,10,0,1980,octavos de final,Ajax
+1149,Hamburg,Dinamo Tbilisi,3,1,1980,octavos de final,Hamburg
+1150,VB,Hajduk Split,0,3,1980,octavos de final,Hajduk Split
+1151,Dukla,Strasbourg,1,0,1980,octavos de final,Dukla
+1152,Berlin,Servette,2,1,1980,octavos de final,Berlin
+1198,Inter,Nantes,1,1,1981,octavos de final,empate
+1199,Liverpool,Aberdeen,4,0,1981,octavos de final,Liverpool
+1200,Ajax,Bayern,2,1,1981,octavos de final,Ajax
+1201,Esbjerg,Spartak Moskva,2,0,1981,octavos de final,Esbjerg
+1202,Crvena zvezda,Basel,2,0,1981,octavos de final,Crvena zvezda
+1203,Szombierki,CSKA Sofia,0,1,1981,octavos de final,CSKA Sofia
+1204,Berlin,Baník,1,1,1981,octavos de final,empate
+1205,Honvéd,Real Madrid,0,2,1981,octavos de final,Real Madrid
+1206,Nantes,Inter,1,2,1981,octavos de final,Inter
+1207,Aberdeen,Liverpool,0,1,1981,octavos de final,Liverpool
+1208,Real Madrid,Honvéd,1,0,1981,octavos de final,Real Madrid
+1209,Basel,Crvena zvezda,1,0,1981,octavos de final,Basel
+1210,Bayern,Ajax,5,1,1981,octavos de final,Bayern
+1211,Spartak Moskva,Esbjerg,3,0,1981,octavos de final,Spartak Moskva
+1212,CSKA Sofia,Szombierki,4,0,1981,octavos de final,CSKA Sofia
+1213,Baník,Berlin,0,0,1981,octavos de final,empate
+1259,Aston Villa,Berlin,0,1,1982,octavos de final,Berlin
+1260,Glentoran,CSKA Sofia,2,1,1982,octavos de final,Glentoran
+1261,Liverpool,AZ Alkmaar,3,2,1982,octavos de final,Liverpool
+1262,Juventus,Anderlecht,1,1,1982,octavos de final,empate
+1263,Bayern,Benfica,4,1,1982,octavos de final,Bayern
+1264,Dynamo Kyiv,Austria Wien,1,1,1982,octavos de final,empate
+1265,Crvena zvezda,Baník,3,0,1982,octavos de final,Crvena zvezda
+1266,U Craiova,KB,4,1,1982,octavos de final,U Craiova
+1267,Benfica,Bayern,0,0,1982,octavos de final,empate
+1268,AZ Alkmaar,Liverpool,2,2,1982,octavos de final,empate
+1269,Berlin,Aston Villa,1,2,1982,octavos de final,Aston Villa
+1270,Anderlecht,Juventus,3,1,1982,octavos de final,Anderlecht
+1271,KB,U Craiova,1,0,1982,octavos de final,KB
+1272,Austria Wien,Dynamo Kyiv,0,1,1982,octavos de final,Dynamo Kyiv
+1273,CSKA Sofia,Glentoran,2,0,1982,octavos de final,CSKA Sofia
+1274,Baník,Crvena zvezda,3,1,1982,octavos de final,Baník
+1321,Sporting CP,CSKA Sofia,0,0,1983,octavos de final,empate
+1322,Celtic,Real Sociedad,2,1,1983,octavos de final,Celtic
+1323,Aston Villa,Dinamo Bucureşti,4,2,1983,octavos de final,Aston Villa
+1324,Juventus,Standard Liège,2,0,1983,octavos de final,Juventus
+1325,Olympiacos,Hamburg,0,4,1983,octavos de final,Hamburg
+1326,Widzew,Rapid Wien,5,3,1983,octavos de final,Widzew
+1327,Liverpool,HJK,5,0,1983,octavos de final,Liverpool
+1329,Hamburg,Olympiacos,1,0,1983,octavos de final,Hamburg
+1330,Real Sociedad,Celtic,2,0,1983,octavos de final,Real Sociedad
+1331,Standard Liège,Juventus,1,1,1983,octavos de final,empate
+1332,Rapid Wien,Widzew,2,1,1983,octavos de final,Rapid Wien
+1333,Dinamo Bucureşti,Aston Villa,0,2,1983,octavos de final,Aston Villa
+1334,CSKA Sofia,Sporting CP,2,2,1983,octavos de final,empate
+1335,HJK,Liverpool,1,0,1983,octavos de final,HJK
+1381,Benfica,Olympiacos,3,0,1984,octavos de final,Benfica
+1382,Dundee United,Standard Liège,4,0,1984,octavos de final,Dundee United
+1383,Hamburg,Dinamo Bucureşti,3,2,1984,octavos de final,Hamburg
+1384,Athletic Club,Liverpool,0,1,1984,octavos de final,Liverpool
+1385,Rapid Wien,Bohemians Praha,1,0,1984,octavos de final,Rapid Wien
+1386,Partizan,Berlin,1,0,1984,octavos de final,Partizan
+1387,Dinamo Minsk,Győr,3,1,1984,octavos de final,Dinamo Minsk
+1388,Roma,CSKA Sofia,1,0,1984,octavos de final,Roma
+1389,Liverpool,Athletic Club,0,0,1984,octavos de final,empate
+1390,Berlin,Partizan,2,0,1984,octavos de final,Berlin
+1391,Standard Liège,Dundee United,0,0,1984,octavos de final,empate
+1392,Olympiacos,Benfica,1,0,1984,octavos de final,Olympiacos
+1393,Győr,Dinamo Minsk,3,6,1984,octavos de final,Dinamo Minsk
+1394,CSKA Sofia,Roma,0,1,1984,octavos de final,Roma
+1395,Bohemians Praha,Rapid Wien,2,1,1984,octavos de final,Bohemians Praha
+1396,Dinamo Bucureşti,Hamburg,3,0,1984,octavos de final,Dinamo Bucureşti
+1441,Benfica,Liverpool,1,0,1985,octavos de final,Benfica
+1442,Linfield,Panathinaikos,3,3,1985,octavos de final,empate
+1443,Grasshoppers,Juventus,2,4,1985,octavos de final,Juventus
+1444,Beveren,Göteborg,2,1,1985,octavos de final,Beveren
+1445,Austria Wien,Berlin,2,1,1985,octavos de final,Austria Wien
+1446,Lyngby,Sparta Praha,1,2,1985,octavos de final,Sparta Praha
+1447,Dinamo Bucureşti,Bordeaux,1,1,1985,octavos de final,empate
+1448,Dnipro,Levski,2,0,1985,octavos de final,Dnipro
+1449,Juventus,Grasshoppers,2,0,1985,octavos de final,Juventus
+1450,Bordeaux,Dinamo Bucureşti,1,0,1985,octavos de final,Bordeaux
+1451,Liverpool,Benfica,3,1,1985,octavos de final,Liverpool
+1452,Göteborg,Beveren,1,0,1985,octavos de final,Göteborg
+1453,Panathinaikos,Linfield,2,1,1985,octavos de final,Panathinaikos
+1454,Levski,Dnipro,3,1,1985,octavos de final,Levski
+1455,Berlin,Austria Wien,3,3,1985,octavos de final,empate
+1456,Sparta Praha,Lyngby,0,0,1985,octavos de final,empate
+1504,FC Porto,Barcelona,3,1,1986,octavos de final,FC Porto
+1505,Austria Wien,Bayern,3,3,1986,octavos de final,empate
+1506,Omonoia,Anderlecht,1,3,1986,octavos de final,Anderlecht
+1507,Aberdeen,Servette,1,0,1986,octavos de final,Aberdeen
+1508,Lahti,Zenit,3,1,1986,octavos de final,Lahti
+1509,Juventus,Verona,2,0,1986,octavos de final,Juventus
+1510,Fenerbahçe,Göteborg,2,1,1986,octavos de final,Fenerbahçe
+1511,FCSB,Honvéd,4,1,1986,octavos de final,FCSB
+1512,Barcelona,FC Porto,2,0,1986,octavos de final,Barcelona
+1513,Verona,Juventus,0,0,1986,octavos de final,empate
+1514,Servette,Aberdeen,0,0,1986,octavos de final,empate
+1515,Anderlecht,Omonoia,1,0,1986,octavos de final,Anderlecht
+1516,Bayern,Austria Wien,4,2,1986,octavos de final,Bayern
+1517,Göteborg,Fenerbahçe,4,0,1986,octavos de final,Göteborg
+1518,Honvéd,FCSB,1,0,1986,octavos de final,Honvéd
+1519,Zenit,Lahti,2,1,1986,octavos de final,Zenit
+1566,FC Porto,Karviná,3,0,1987,octavos de final,FC Porto
+1567,Juventus,Real Madrid,1,0,1987,octavos de final,Juventus
+1568,Austria Wien,Bayern,1,1,1987,octavos de final,empate
+1569,Dynamo Kyiv,Celtic,3,1,1987,octavos de final,Dynamo Kyiv
+1570,Crvena zvezda,Rosenborg,4,1,1987,octavos de final,Crvena zvezda
+1571,Berlin,Brøndby,1,1,1987,octavos de final,empate
+1572,FCSB,Anderlecht,1,0,1987,octavos de final,FCSB
+1574,Real Madrid,Juventus,1,0,1987,octavos de final,Real Madrid
+1575,Celtic,Dynamo Kyiv,1,1,1987,octavos de final,empate
+1576,Anderlecht,FCSB,3,0,1987,octavos de final,Anderlecht
+1577,Bayern,Austria Wien,2,0,1987,octavos de final,Bayern
+1578,Rosenborg,Crvena zvezda,0,3,1987,octavos de final,Crvena zvezda
+1579,Brøndby,Berlin,2,1,1987,octavos de final,Brøndby
+1580,Karviná,FC Porto,1,0,1987,octavos de final,Karviná
+1625,FC Porto,Real Madrid,1,2,1988,octavos de final,Real Madrid
+1626,Benfica,AGF,1,0,1988,octavos de final,Benfica
+1627,Anderlecht,Sparta Praha,1,0,1988,octavos de final,Anderlecht
+1628,Bayern,Xamax,2,0,1988,octavos de final,Bayern
+1629,PSV,Rapid Wien,2,0,1988,octavos de final,PSV
+1630,Omonoia,FCSB,0,2,1988,octavos de final,FCSB
+1631,Bordeaux,Lillestrøm,1,0,1988,octavos de final,Bordeaux
+1632,Górnik Zabrze,Rangers,1,1,1988,octavos de final,empate
+1633,Real Madrid,FC Porto,2,1,1988,octavos de final,Real Madrid
+1634,Rangers,Górnik Zabrze,3,1,1988,octavos de final,Rangers
+1635,Xamax,Bayern,2,1,1988,octavos de final,Xamax
+1636,Rapid Wien,PSV,1,2,1988,octavos de final,PSV
+1637,AGF,Benfica,0,0,1988,octavos de final,empate
+1638,Lillestrøm,Bordeaux,0,0,1988,octavos de final,empate
+1639,Sparta Praha,Anderlecht,1,2,1988,octavos de final,Anderlecht
+1640,FCSB,Omonoia,3,1,1988,octavos de final,FCSB
+1688,Real Madrid,Górnik Zabrze,3,2,1989,octavos de final,Real Madrid
+1689,Crvena zvezda,Milan,1,1,1989,octavos de final,empate
+1690,FC Porto,PSV,2,0,1989,octavos de final,FC Porto
+1691,Monaco,Club Brugge,6,1,1989,octavos de final,Monaco
+1692,Göteborg,Tirana,1,0,1989,octavos de final,Göteborg
+1693,Spartak Moskva,FCSB,1,2,1989,octavos de final,FCSB
+1694,Galatasaray,Xamax,5,0,1989,octavos de final,Galatasaray
+1695,Bremen,Celtic,0,0,1989,octavos de final,empate
+1696,Celtic,Bremen,0,1,1989,octavos de final,Bremen
+1697,Milan,Crvena zvezda,1,1,1989,octavos de final,empate
+1698,Club Brugge,Monaco,1,0,1989,octavos de final,Club Brugge
+1699,Xamax,Galatasaray,3,0,1989,octavos de final,Xamax
+1700,PSV,FC Porto,5,0,1989,octavos de final,PSV
+1701,Górnik Zabrze,Real Madrid,0,1,1989,octavos de final,Real Madrid
+1702,Tirana,Göteborg,0,3,1989,octavos de final,Göteborg
+1749,Real Madrid,Milan,1,0,1990,octavos de final,Real Madrid
+1750,AEK Athens,Marseille,1,1,1990,octavos de final,empate
+1751,Mechelen,Malmö,4,1,1990,octavos de final,Mechelen
+1752,PSV,FCSB,5,1,1990,octavos de final,PSV
+1753,Wacker,Dnipro,2,2,1990,octavos de final,empate
+1754,CSKA Sofia,Sparta Praha,3,0,1990,octavos de final,CSKA Sofia
+1755,Benfica,Honvéd,7,0,1990,octavos de final,Benfica
+1756,Tirana,Bayern,0,3,1990,octavos de final,Bayern
+1757,Marseille,AEK Athens,2,0,1990,octavos de final,Marseille
+1758,Milan,Real Madrid,2,0,1990,octavos de final,Milan
+1759,Bayern,Tirana,3,1,1990,octavos de final,Bayern
+1760,Sparta Praha,CSKA Sofia,2,2,1990,octavos de final,empate
+1761,Malmö,Mechelen,0,0,1990,octavos de final,empate
+1762,Dnipro,Wacker,2,0,1990,octavos de final,Dnipro
+1763,Honvéd,Benfica,0,2,1990,octavos de final,Benfica
+1764,FCSB,PSV,1,0,1990,octavos de final,FCSB
+1810,FC Porto,Dinamo Bucureşti,4,0,1991,octavos de final,FC Porto
+1811,Marseille,Lech Poznań,6,1,1991,octavos de final,Marseille
+1812,Rangers,Crvena zvezda,1,1,1991,octavos de final,empate
+1813,Club Brugge,Milan,0,1,1991,octavos de final,Milan
+1814,Wacker,Real Madrid,2,2,1991,octavos de final,empate
+1815,Malmö,Dresden,1,1,1991,octavos de final,empate
+1816,Spartak Moskva,Napoli,0,0,1991,octavos de final,empate
+1817,CSKA Sofia,Bayern,0,3,1991,octavos de final,Bayern
+1818,Lech Poznań,Marseille,3,2,1991,octavos de final,Lech Poznań
+1819,Real Madrid,Wacker,9,1,1991,octavos de final,Real Madrid
+1820,Milan,Club Brugge,0,0,1991,octavos de final,empate
+1821,Napoli,Spartak Moskva,0,0,1991,octavos de final,empate
+1822,Dresden,Malmö,1,1,1991,octavos de final,empate
+1823,Crvena zvezda,Rangers,3,0,1991,octavos de final,Crvena zvezda
+1824,Dinamo Bucureşti,FC Porto,0,0,1991,octavos de final,empate
+1825,Bayern,CSKA Sofia,4,0,1991,octavos de final,Bayern
+1900,Benfica,Hamrun Spartans,4,0,1992,octavos de final,Benfica
+1901,Portadown,Crvena zvezda,0,4,1992,octavos de final,Crvena zvezda
+1902,Rangers,Sparta Praha,2,1,1992,octavos de final,Rangers
+1903,Dundalk,Honvéd,0,2,1992,octavos de final,Honvéd
+1904,Hansa,Barcelona,1,0,1992,octavos de final,Hansa
+1905,Grasshoppers,Anderlecht,0,3,1992,octavos de final,Anderlecht
+1906,PSV,Beşiktaş,2,1,1992,octavos de final,PSV
+1907,Austria Wien,Arsenal,1,0,1992,octavos de final,Austria Wien
+1908,Panathinaikos,Fram,0,0,1992,octavos de final,empate
+1909,Rosenborg,Sampdoria,1,2,1992,octavos de final,Sampdoria
+1910,Marseille,US Luxembourg,5,0,1992,octavos de final,Marseille
+1911,Dynamo Kyiv,HJK,3,0,1992,octavos de final,Dynamo Kyiv
+1912,Etar,Kaiserslautern,1,1,1992,octavos de final,empate
+1913,Flamurtari,Göteborg,1,1,1992,octavos de final,empate
+1914,Apollon,U Craiova,3,0,1992,octavos de final,Apollon
+1915,Zagłębie,Brøndby,2,1,1992,octavos de final,Zagłębie
+1916,Arsenal,Austria Wien,6,1,1992,octavos de final,Arsenal
+1917,Barcelona,Hansa,3,0,1992,octavos de final,Barcelona
+1918,Sampdoria,Rosenborg,5,0,1992,octavos de final,Sampdoria
+1919,US Luxembourg,Marseille,0,5,1992,octavos de final,Marseille
+1920,Anderlecht,Grasshoppers,1,1,1992,octavos de final,empate
+1921,Fram,Panathinaikos,2,2,1992,octavos de final,empate
+1922,HJK,Dynamo Kyiv,0,1,1992,octavos de final,Dynamo Kyiv
+1923,Göteborg,Flamurtari,0,0,1992,octavos de final,empate
+1924,Honvéd,Dundalk,1,1,1992,octavos de final,empate
+1925,Brøndby,Zagłębie,3,0,1992,octavos de final,Brøndby
+1926,Beşiktaş,PSV,1,1,1992,octavos de final,empate
+1927,Sparta Praha,Rangers,1,0,1992,octavos de final,Sparta Praha
+1928,Hamrun Spartans,Benfica,0,6,1992,octavos de final,Benfica
+1929,U Craiova,Apollon,2,0,1992,octavos de final,U Craiova
+1930,Kaiserslautern,Etar,2,0,1992,octavos de final,Kaiserslautern
+1931,Crvena zvezda,Portadown,4,0,1992,octavos de final,Crvena zvezda
+1973,Stuttgart,Leeds,1,2,1993,octavos de final,Leeds
+1974,FC Porto,US Luxembourg,5,0,1993,octavos de final,FC Porto
+1975,Club Brugge,Maccabi Tel Aviv,3,0,1993,octavos de final,Club Brugge
+1976,Olimpija Ljubljana,Milan,0,3,1993,octavos de final,Milan
+1977,Viking,Barcelona,0,0,1993,octavos de final,empate
+1978,Beşiktaş,Göteborg,2,1,1993,octavos de final,Beşiktaş
+1979,Marseille,Glentoran,3,0,1993,octavos de final,Marseille
+1980,Ferencváros,Slovan Bratislava,0,0,1993,octavos de final,empate
+1981,Lyngby,Rangers,0,1,1993,octavos de final,Rangers
+1982,APOEL,AEK Athens,2,2,1993,octavos de final,empate
+1983,CSKA Sofia,Austria Wien,3,2,1993,octavos de final,CSKA Sofia
+1984,Tavriya,Sion,1,3,1993,octavos de final,Sion
+1985,Žalgiris Vilnius,PSV,0,2,1993,octavos de final,PSV
+1986,Skonto,Lech Poznań,0,0,1993,octavos de final,empate
+1987,CSKA Moskva,Víkingur Reykjavík,4,2,1993,octavos de final,CSKA Moskva
+1988,Dinamo Bucureşti,Lahti,2,0,1993,octavos de final,Dinamo Bucureşti
+1989,Leeds,Stuttgart,3,0,1993,octavos de final,Leeds
+1990,Barcelona,Viking,1,0,1993,octavos de final,Barcelona
+1991,Milan,Olimpija Ljubljana,4,0,1993,octavos de final,Milan
+1992,Glentoran,Marseille,0,5,1993,octavos de final,Marseille
+1993,US Luxembourg,FC Porto,1,4,1993,octavos de final,FC Porto
+1994,Rangers,Lyngby,2,0,1993,octavos de final,Rangers
+1995,Stuttgart,Leeds,3,0,1993,octavos de final,Stuttgart
+1996,PSV,Žalgiris Vilnius,6,0,1993,octavos de final,PSV
+1997,Sion,Tavriya,4,1,1993,octavos de final,Sion
+1998,Víkingur Reykjavík,CSKA Moskva,0,1,1993,octavos de final,CSKA Moskva
+1999,Austria Wien,CSKA Sofia,3,1,1993,octavos de final,Austria Wien
+2000,Lech Poznań,Skonto,2,0,1993,octavos de final,Lech Poznań
+2001,Göteborg,Beşiktaş,2,0,1993,octavos de final,Göteborg
+2002,AEK Athens,APOEL,1,1,1993,octavos de final,empate
+2003,Lahti,Dinamo Bucureşti,1,0,1993,octavos de final,Lahti
+2004,Slovan Bratislava,Ferencváros,4,1,1993,octavos de final,Slovan Bratislava
+2005,Maccabi Tel Aviv,Club Brugge,0,1,1993,octavos de final,Club Brugge
+2033,Milan,Copenhagen,1,0,1994,octavos de final,Milan
+2034,Anderlecht,Sparta Praha,4,2,1994,octavos de final,Anderlecht
+2035,Feyenoord,FC Porto,0,0,1994,octavos de final,empate
+2036,Austria Wien,Barcelona,1,2,1994,octavos de final,Barcelona
+2037,Bremen,Levski,1,0,1994,octavos de final,Bremen
+2038,Galatasaray,Man United,0,0,1994,octavos de final,empate
+2039,FCSB,Monaco,1,0,1994,octavos de final,FCSB
+2040,Spartak Moskva,Lech Poznań,2,1,1994,octavos de final,Spartak Moskva
+2041,FC Porto,Feyenoord,1,0,1994,octavos de final,FC Porto
+2042,Man United,Galatasaray,3,3,1994,octavos de final,empate
+2043,Barcelona,Austria Wien,3,0,1994,octavos de final,Barcelona
+2044,Monaco,FCSB,4,1,1994,octavos de final,Monaco
+2045,Copenhagen,Milan,0,6,1994,octavos de final,Milan
+2046,Levski,Bremen,2,2,1994,octavos de final,empate
+2047,Lech Poznań,Spartak Moskva,1,5,1994,octavos de final,Spartak Moskva
+2048,Sparta Praha,Anderlecht,0,1,1994,octavos de final,Anderlecht
+2094,Man United,Galatasaray,4,0,1995,octavos de final,Man United
+2095,Ajax,AEK Athens,2,0,1995,octavos de final,Ajax
+2096,Salzburg,Milan,0,1,1995,octavos de final,Milan
+2097,Anderlecht,Benfica,1,1,1995,octavos de final,empate
+2098,Hajduk Split,FCSB,1,4,1995,octavos de final,FCSB
+2099,Paris,Spartak Moskva,4,1,1995,octavos de final,Paris
+2100,Barcelona,Göteborg,1,1,1995,octavos de final,empate
+2101,Dynamo Kyiv,Bayern,1,4,1995,octavos de final,Bayern
+2102,Benfica,Hajduk Split,2,1,1995,octavos de final,Benfica
+2103,Milan,Ajax,0,2,1995,octavos de final,Ajax
+2104,FCSB,Anderlecht,1,1,1995,octavos de final,empate
+2105,Bayern,Paris,0,1,1995,octavos de final,Paris
+2106,Göteborg,Man United,3,1,1995,octavos de final,Göteborg
+2107,AEK Athens,Salzburg,1,3,1995,octavos de final,Salzburg
+2108,Galatasaray,Barcelona,2,1,1995,octavos de final,Galatasaray
+2109,Spartak Moskva,Dynamo Kyiv,1,0,1995,octavos de final,Spartak Moskva
+2110,Ajax,Salzburg,1,1,1995,octavos de final,empate
+2111,Milan,AEK Athens,2,1,1995,octavos de final,Milan
+2112,Anderlecht,Hajduk Split,0,0,1995,octavos de final,empate
+2113,FCSB,Benfica,1,1,1995,octavos de final,empate
+2114,Paris,Dynamo Kyiv,1,0,1995,octavos de final,Paris
+2115,Bayern,Spartak Moskva,2,2,1995,octavos de final,empate
+2116,Barcelona,Man United,4,0,1995,octavos de final,Barcelona
+2117,Galatasaray,Göteborg,0,1,1995,octavos de final,Göteborg
+2118,Benfica,FCSB,2,1,1995,octavos de final,Benfica
+2119,Man United,Barcelona,2,2,1995,octavos de final,empate
+2120,Salzburg,Ajax,0,0,1995,octavos de final,empate
+2121,AEK Athens,Milan,0,0,1995,octavos de final,empate
+2122,Hajduk Split,Anderlecht,2,1,1995,octavos de final,Hajduk Split
+2123,Göteborg,Galatasaray,1,0,1995,octavos de final,Göteborg
+2124,Dynamo Kyiv,Paris,1,2,1995,octavos de final,Paris
+2125,Spartak Moskva,Bayern,1,1,1995,octavos de final,empate
+2126,Benfica,Anderlecht,3,1,1995,octavos de final,Benfica
+2127,AEK Athens,Ajax,1,2,1995,octavos de final,Ajax
+2128,Milan,Salzburg,3,0,1995,octavos de final,Milan
+2129,Bayern,Dynamo Kyiv,1,0,1995,octavos de final,Bayern
+2130,Göteborg,Barcelona,2,1,1995,octavos de final,Göteborg
+2131,FCSB,Hajduk Split,0,1,1995,octavos de final,Hajduk Split
+2132,Galatasaray,Man United,0,0,1995,octavos de final,empate
+2133,Spartak Moskva,Paris,1,2,1995,octavos de final,Paris
+2134,Man United,Göteborg,4,2,1995,octavos de final,Man United
+2135,Ajax,Milan,2,0,1995,octavos de final,Ajax
+2136,Salzburg,AEK Athens,0,0,1995,octavos de final,empate
+2137,Anderlecht,FCSB,0,0,1995,octavos de final,empate
+2138,Hajduk Split,Benfica,0,0,1995,octavos de final,empate
+2139,Paris,Bayern,2,0,1995,octavos de final,Paris
+2140,Barcelona,Galatasaray,2,1,1995,octavos de final,Barcelona
+2141,Dynamo Kyiv,Spartak Moskva,3,2,1995,octavos de final,Dynamo Kyiv
+2155,Blackburn,Rosenborg,4,1,1996,octavos de final,Blackburn
+2156,Grasshoppers,Real Madrid,0,2,1996,octavos de final,Real Madrid
+2157,Ajax,Ferencváros,4,0,1996,octavos de final,Ajax
+2158,Dortmund,Rangers,2,2,1996,octavos de final,empate
+2159,Legia,Spartak Moskva,0,1,1996,octavos de final,Spartak Moskva
+2160,AaB,FC Porto,2,2,1996,octavos de final,empate
+2161,Nantes,Panathinaikos,0,0,1996,octavos de final,empate
+2162,FCSB,Juventus,0,0,1996,octavos de final,empate
+2163,Rangers,FCSB,1,1,1996,octavos de final,empate
+2164,FC Porto,Nantes,2,2,1996,octavos de final,empate
+2165,Real Madrid,Ajax,0,2,1996,octavos de final,Ajax
+2166,Ferencváros,Grasshoppers,3,3,1996,octavos de final,empate
+2167,Juventus,Dortmund,1,2,1996,octavos de final,Dortmund
+2168,Rosenborg,Legia,4,0,1996,octavos de final,Rosenborg
+2169,Panathinaikos,AaB,2,0,1996,octavos de final,Panathinaikos
+2170,Spartak Moskva,Blackburn,3,0,1996,octavos de final,Spartak Moskva
+2171,Rangers,Juventus,0,4,1996,octavos de final,Juventus
+2172,Blackburn,Legia,0,0,1996,octavos de final,empate
+2173,Grasshoppers,Ajax,0,0,1996,octavos de final,empate
+2174,Ferencváros,Real Madrid,1,1,1996,octavos de final,empate
+2175,AaB,Nantes,0,2,1996,octavos de final,Nantes
+2176,FCSB,Dortmund,0,0,1996,octavos de final,empate
+2177,Panathinaikos,FC Porto,0,0,1996,octavos de final,empate
+2178,Spartak Moskva,Rosenborg,4,1,1996,octavos de final,Spartak Moskva
+2179,AaB,Panathinaikos,2,1,1996,octavos de final,AaB
+2180,Blackburn,Spartak Moskva,0,1,1996,octavos de final,Spartak Moskva
+2181,Grasshoppers,Ferencváros,0,3,1996,octavos de final,Ferencváros
+2182,Ajax,Real Madrid,1,0,1996,octavos de final,Ajax
+2183,Dortmund,Juventus,1,3,1996,octavos de final,Juventus
+2184,Legia,Rosenborg,3,1,1996,octavos de final,Legia
+2185,Nantes,FC Porto,0,0,1996,octavos de final,empate
+2186,FCSB,Rangers,1,0,1996,octavos de final,FCSB
+2187,FC Porto,Panathinaikos,0,1,1996,octavos de final,Panathinaikos
+2188,Real Madrid,Ferencváros,6,1,1996,octavos de final,Real Madrid
+2189,Ajax,Grasshoppers,3,0,1996,octavos de final,Ajax
+2190,Juventus,Rangers,4,1,1996,octavos de final,Juventus
+2191,Dortmund,FCSB,1,0,1996,octavos de final,Dortmund
+2192,Rosenborg,Spartak Moskva,2,4,1996,octavos de final,Spartak Moskva
+2193,Legia,Blackburn,1,0,1996,octavos de final,Legia
+2194,Nantes,AaB,3,1,1996,octavos de final,Nantes
+2195,Rangers,Dortmund,2,2,1996,octavos de final,empate
+2196,FC Porto,AaB,2,0,1996,octavos de final,FC Porto
+2197,Real Madrid,Grasshoppers,2,0,1996,octavos de final,Real Madrid
+2198,Ferencváros,Ajax,1,5,1996,octavos de final,Ajax
+2199,Juventus,FCSB,3,0,1996,octavos de final,Juventus
+2200,Rosenborg,Blackburn,2,1,1996,octavos de final,Rosenborg
+2201,Panathinaikos,Nantes,3,1,1996,octavos de final,Panathinaikos
+2202,Spartak Moskva,Legia,2,1,1996,octavos de final,Spartak Moskva
+2217,Milan,Rosenborg,1,2,1997,octavos de final,Rosenborg
+2218,Göteborg,FC Porto,0,2,1997,octavos de final,FC Porto
+2219,Juventus,Fenerbahçe,2,0,1997,octavos de final,Juventus
+2220,Rapid Wien,Man United,0,2,1997,octavos de final,Man United
+2221,Dortmund,FCSB,5,3,1997,octavos de final,Dortmund
+2222,Atlético de Madrid,Widzew,1,0,1997,octavos de final,Atlético de Madrid
+2223,Grasshoppers,Ajax,0,1,1997,octavos de final,Ajax
+2224,Auxerre,Rangers,2,1,1997,octavos de final,Auxerre
+2225,FC Porto,Milan,1,1,1997,octavos de final,empate
+2226,Man United,Juventus,0,1,1997,octavos de final,Juventus
+2227,Rosenborg,Göteborg,1,0,1997,octavos de final,Rosenborg
+2228,Widzew,Dortmund,2,2,1997,octavos de final,empate
+2229,Rangers,Grasshoppers,2,1,1997,octavos de final,Rangers
+2230,Ajax,Auxerre,1,2,1997,octavos de final,Auxerre
+2231,Fenerbahçe,Rapid Wien,1,0,1997,octavos de final,Fenerbahçe
+2232,FCSB,Atlético de Madrid,1,1,1997,octavos de final,empate
+2233,FC Porto,Rosenborg,3,0,1997,octavos de final,FC Porto
+2234,Man United,Fenerbahçe,0,1,1997,octavos de final,Fenerbahçe
+2235,Milan,Göteborg,4,2,1997,octavos de final,Milan
+2236,Juventus,Rapid Wien,5,0,1997,octavos de final,Juventus
+2237,Dortmund,Atlético de Madrid,1,2,1997,octavos de final,Atlético de Madrid
+2238,Widzew,FCSB,2,0,1997,octavos de final,Widzew
+2239,Grasshoppers,Auxerre,3,1,1997,octavos de final,Grasshoppers
+2240,Rangers,Ajax,0,1,1997,octavos de final,Ajax
+2241,Göteborg,Milan,2,1,1997,octavos de final,Göteborg
+2242,Rosenborg,FC Porto,0,1,1997,octavos de final,FC Porto
+2243,Rapid Wien,Juventus,1,1,1997,octavos de final,empate
+2244,Atlético de Madrid,Dortmund,0,1,1997,octavos de final,Dortmund
+2245,Auxerre,Grasshoppers,1,0,1997,octavos de final,Auxerre
+2246,Ajax,Rangers,4,1,1997,octavos de final,Ajax
+2247,Fenerbahçe,Man United,0,2,1997,octavos de final,Man United
+2248,FCSB,Widzew,1,0,1997,octavos de final,FCSB
+2249,FC Porto,Göteborg,2,1,1997,octavos de final,FC Porto
+2250,Man United,Rapid Wien,2,0,1997,octavos de final,Man United
+2251,Rosenborg,Milan,1,4,1997,octavos de final,Milan
+2252,Widzew,Atlético de Madrid,1,4,1997,octavos de final,Atlético de Madrid
+2253,Ajax,Grasshoppers,0,1,1997,octavos de final,Grasshoppers
+2254,Rangers,Auxerre,1,2,1997,octavos de final,Auxerre
+2255,Fenerbahçe,Juventus,0,1,1997,octavos de final,Juventus
+2256,FCSB,Dortmund,0,3,1997,octavos de final,Dortmund
+2257,Milan,FC Porto,2,3,1997,octavos de final,FC Porto
+2258,Göteborg,Rosenborg,2,3,1997,octavos de final,Rosenborg
+2259,Juventus,Man United,1,0,1997,octavos de final,Juventus
+2260,Rapid Wien,Fenerbahçe,1,1,1997,octavos de final,empate
+2261,Dortmund,Widzew,2,1,1997,octavos de final,Dortmund
+2262,Atlético de Madrid,FCSB,4,0,1997,octavos de final,Atlético de Madrid
+2263,Grasshoppers,Rangers,3,0,1997,octavos de final,Grasshoppers
+2264,Auxerre,Ajax,0,1,1997,octavos de final,Ajax
+2278,Leverkusen,Monaco,2,2,1998,octavos de final,empate
+2279,Sporting CP,Lierse,2,1,1998,octavos de final,Sporting CP
+2280,Paris,Beşiktaş,2,1,1998,octavos de final,Paris
+2281,Bayern,Göteborg,0,1,1998,octavos de final,Göteborg
+2282,Olympiacos,Rosenborg,2,2,1998,octavos de final,empate
+2283,Real Madrid,FC Porto,4,0,1998,octavos de final,Real Madrid
+2284,Newcastle,Dynamo Kyiv,2,0,1998,octavos de final,Newcastle
+2285,PSV,Barcelona,2,2,1998,octavos de final,empate
+2286,Juventus,Man United,1,0,1998,octavos de final,Juventus
+2287,Košice,Feyenoord,0,1,1998,octavos de final,Feyenoord
+2288,Galatasaray,Parma,1,1,1998,octavos de final,empate
+2289,Sparta Praha,Dortmund,0,3,1998,octavos de final,Dortmund
+2290,FC Porto,Olympiacos,2,1,1998,octavos de final,FC Porto
+2291,Rosenborg,Real Madrid,2,0,1998,octavos de final,Rosenborg
+2292,Dynamo Kyiv,PSV,1,1,1998,octavos de final,empate
+2293,Man United,Košice,3,0,1998,octavos de final,Man United
+2294,Dortmund,Galatasaray,4,1,1998,octavos de final,Dortmund
+2295,Parma,Sparta Praha,2,2,1998,octavos de final,empate
+2296,Lierse,Leverkusen,0,2,1998,octavos de final,Leverkusen
+2297,Monaco,Sporting CP,3,2,1998,octavos de final,Monaco
+2298,Göteborg,Paris,0,1,1998,octavos de final,Paris
+2299,Beşiktaş,Bayern,0,2,1998,octavos de final,Bayern
+2300,Barcelona,Newcastle,1,0,1998,octavos de final,Barcelona
+2301,Feyenoord,Juventus,2,0,1998,octavos de final,Feyenoord
+2302,Leverkusen,Sporting CP,4,1,1998,octavos de final,Leverkusen
+2303,Lierse,Monaco,0,1,1998,octavos de final,Monaco
+2304,Paris,Bayern,3,1,1998,octavos de final,Paris
+2305,Göteborg,Beşiktaş,2,1,1998,octavos de final,Göteborg
+2306,Olympiacos,Real Madrid,0,0,1998,octavos de final,empate
+2307,FC Porto,Rosenborg,1,1,1998,octavos de final,empate
+2308,Newcastle,PSV,0,2,1998,octavos de final,PSV
+2309,Barcelona,Dynamo Kyiv,0,4,1998,octavos de final,Dynamo Kyiv
+2310,Juventus,Košice,3,2,1998,octavos de final,Juventus
+2311,Feyenoord,Man United,1,3,1998,octavos de final,Man United
+2312,Galatasaray,Sparta Praha,2,0,1998,octavos de final,Galatasaray
+2313,Dortmund,Parma,2,0,1998,octavos de final,Dortmund
+2314,Sporting CP,Leverkusen,0,2,1998,octavos de final,Leverkusen
+2315,Monaco,Lierse,5,1,1998,octavos de final,Monaco
+2316,Bayern,Paris,5,1,1998,octavos de final,Bayern
+2317,Beşiktaş,Göteborg,1,0,1998,octavos de final,Beşiktaş
+2318,Real Madrid,Olympiacos,5,1,1998,octavos de final,Real Madrid
+2319,Rosenborg,FC Porto,2,0,1998,octavos de final,Rosenborg
+2320,PSV,Newcastle,1,0,1998,octavos de final,PSV
+2321,Dynamo Kyiv,Barcelona,3,0,1998,octavos de final,Dynamo Kyiv
+2322,Košice,Juventus,0,1,1998,octavos de final,Juventus
+2323,Man United,Feyenoord,2,1,1998,octavos de final,Man United
+2324,Sparta Praha,Galatasaray,3,0,1998,octavos de final,Sparta Praha
+2325,Parma,Dortmund,1,0,1998,octavos de final,Parma
+2326,Monaco,Leverkusen,4,0,1998,octavos de final,Monaco
+2327,Lierse,Sporting CP,1,1,1998,octavos de final,empate
+2328,Beşiktaş,Paris,3,1,1998,octavos de final,Beşiktaş
+2329,Göteborg,Bayern,1,3,1998,octavos de final,Bayern
+2330,Rosenborg,Olympiacos,5,1,1998,octavos de final,Rosenborg
+2331,FC Porto,Real Madrid,0,2,1998,octavos de final,Real Madrid
+2332,Dynamo Kyiv,Newcastle,2,2,1998,octavos de final,empate
+2333,Barcelona,PSV,2,2,1998,octavos de final,empate
+2334,Man United,Juventus,3,2,1998,octavos de final,Man United
+2335,Feyenoord,Košice,2,0,1998,octavos de final,Feyenoord
+2336,Parma,Galatasaray,2,0,1998,octavos de final,Parma
+2337,Dortmund,Sparta Praha,4,1,1998,octavos de final,Dortmund
+2338,Leverkusen,Lierse,1,0,1998,octavos de final,Leverkusen
+2339,Sporting CP,Monaco,3,0,1998,octavos de final,Sporting CP
+2340,Paris,Göteborg,3,0,1998,octavos de final,Paris
+2341,Bayern,Beşiktaş,2,0,1998,octavos de final,Bayern
+2342,Olympiacos,FC Porto,1,0,1998,octavos de final,Olympiacos
+2343,Real Madrid,Rosenborg,4,1,1998,octavos de final,Real Madrid
+2344,Newcastle,Barcelona,3,2,1998,octavos de final,Newcastle
+2345,PSV,Dynamo Kyiv,1,3,1998,octavos de final,Dynamo Kyiv
+2346,Juventus,Feyenoord,5,1,1998,octavos de final,Juventus
+2347,Košice,Man United,0,3,1998,octavos de final,Man United
+2348,Sparta Praha,Parma,0,0,1998,octavos de final,empate
+2349,Galatasaray,Dortmund,0,1,1998,octavos de final,Dortmund
+2363,Kaiserslautern,HJK,5,2,1999,octavos de final,Kaiserslautern
+2364,PSV,Benfica,2,2,1999,octavos de final,empate
+2365,Panathinaikos,Arsenal,1,3,1999,octavos de final,Arsenal
+2366,Lens,Dynamo Kyiv,1,3,1999,octavos de final,Dynamo Kyiv
+2367,Man United,Bayern,1,1,1999,octavos de final,empate
+2368,Brøndby,Barcelona,0,2,1999,octavos de final,Barcelona
+2369,Sturm Graz,Inter,0,2,1999,octavos de final,Inter
+2370,Real Madrid,Spartak Moskva,2,1,1999,octavos de final,Real Madrid
+2371,Juventus,Rosenborg,2,0,1999,octavos de final,Juventus
+2372,Athletic Club,Galatasaray,1,0,1999,octavos de final,Athletic Club
+2373,Dinamo Zagreb,Olympiacos,1,1,1999,octavos de final,empate
+2374,FC Porto,Ajax,3,0,1999,octavos de final,FC Porto
+2375,Galatasaray,Juventus,1,1,1999,octavos de final,empate
+2376,Benfica,Kaiserslautern,2,1,1999,octavos de final,Benfica
+2377,Arsenal,Lens,0,1,1999,octavos de final,Lens
+2378,Barcelona,Man United,3,3,1999,octavos de final,empate
+2379,Bayern,Brøndby,2,0,1999,octavos de final,Bayern
+2380,Inter,Real Madrid,3,1,1999,octavos de final,Inter
+2381,Rosenborg,Athletic Club,2,1,1999,octavos de final,Rosenborg
+2382,Ajax,Dinamo Zagreb,0,1,1999,octavos de final,Dinamo Zagreb
+2383,Olympiacos,FC Porto,2,1,1999,octavos de final,Olympiacos
+2384,HJK,PSV,1,3,1999,octavos de final,PSV
+2385,Dynamo Kyiv,Panathinaikos,2,1,1999,octavos de final,Dynamo Kyiv
+2386,Spartak Moskva,Sturm Graz,0,0,1999,octavos de final,empate
+2387,Sturm Graz,Real Madrid,1,5,1999,octavos de final,Real Madrid
+2388,Kaiserslautern,PSV,3,1,1999,octavos de final,Kaiserslautern
+2389,Benfica,HJK,2,2,1999,octavos de final,empate
+2390,Panathinaikos,Lens,1,0,1999,octavos de final,Panathinaikos
+2391,Dynamo Kyiv,Arsenal,3,1,1999,octavos de final,Dynamo Kyiv
+2392,Man United,Brøndby,5,0,1999,octavos de final,Man United
+2393,Barcelona,Bayern,1,2,1999,octavos de final,Bayern
+2394,Juventus,Athletic Club,1,1,1999,octavos de final,empate
+2395,Galatasaray,Rosenborg,3,0,1999,octavos de final,Galatasaray
+2396,Dinamo Zagreb,FC Porto,3,1,1999,octavos de final,Dinamo Zagreb
+2397,Ajax,Olympiacos,2,0,1999,octavos de final,Ajax
+2398,Spartak Moskva,Inter,1,1,1999,octavos de final,empate
+2399,PSV,Kaiserslautern,1,2,1999,octavos de final,Kaiserslautern
+2400,HJK,Benfica,2,0,1999,octavos de final,HJK
+2401,Lens,Panathinaikos,1,0,1999,octavos de final,Lens
+2402,Arsenal,Dynamo Kyiv,1,1,1999,octavos de final,empate
+2403,Brøndby,Man United,2,6,1999,octavos de final,Man United
+2404,Bayern,Barcelona,1,0,1999,octavos de final,Bayern
+2405,Real Madrid,Sturm Graz,6,1,1999,octavos de final,Real Madrid
+2406,Inter,Spartak Moskva,2,1,1999,octavos de final,Inter
+2407,Athletic Club,Juventus,0,0,1999,octavos de final,empate
+2408,Rosenborg,Galatasaray,3,0,1999,octavos de final,Rosenborg
+2409,FC Porto,Dinamo Zagreb,3,0,1999,octavos de final,FC Porto
+2410,Olympiacos,Ajax,1,0,1999,octavos de final,Olympiacos
+2411,HJK,Kaiserslautern,0,0,1999,octavos de final,empate
+2412,Benfica,PSV,2,1,1999,octavos de final,Benfica
+2413,Arsenal,Panathinaikos,2,1,1999,octavos de final,Arsenal
+2414,Dynamo Kyiv,Lens,1,1,1999,octavos de final,empate
+2415,Bayern,Man United,2,2,1999,octavos de final,empate
+2416,Barcelona,Brøndby,2,0,1999,octavos de final,Barcelona
+2417,Inter,Sturm Graz,1,0,1999,octavos de final,Inter
+2418,Rosenborg,Juventus,1,1,1999,octavos de final,empate
+2419,Galatasaray,Athletic Club,2,1,1999,octavos de final,Galatasaray
+2420,Olympiacos,Dinamo Zagreb,2,0,1999,octavos de final,Olympiacos
+2421,Ajax,FC Porto,2,1,1999,octavos de final,Ajax
+2422,Spartak Moskva,Real Madrid,2,1,1999,octavos de final,Spartak Moskva
+2423,Kaiserslautern,Benfica,1,0,1999,octavos de final,Kaiserslautern
+2424,PSV,HJK,2,1,1999,octavos de final,PSV
+2425,Panathinaikos,Dynamo Kyiv,2,1,1999,octavos de final,Panathinaikos
+2426,Lens,Arsenal,1,1,1999,octavos de final,empate
+2427,Man United,Barcelona,3,3,1999,octavos de final,empate
+2428,Brøndby,Bayern,2,1,1999,octavos de final,Brøndby
+2429,Sturm Graz,Spartak Moskva,0,2,1999,octavos de final,Spartak Moskva
+2430,Real Madrid,Inter,2,0,1999,octavos de final,Real Madrid
+2431,Juventus,Galatasaray,2,2,1999,octavos de final,empate
+2432,Athletic Club,Rosenborg,1,1,1999,octavos de final,empate
+2433,Dinamo Zagreb,Ajax,0,0,1999,octavos de final,empate
+2434,FC Porto,Olympiacos,2,2,1999,octavos de final,empate
+2448,Chelsea,Lazio,1,2,2000,octavos de final,Lazio
+2449,Marseille,Feyenoord,0,0,2000,octavos de final,empate
+2450,Rosenborg,Real Madrid,0,1,2000,octavos de final,Real Madrid
+2451,Dynamo Kyiv,Bayern,2,0,2000,octavos de final,Dynamo Kyiv
+2452,Valencia,Man United,0,0,2000,octavos de final,empate
+2453,Fiorentina,Bordeaux,3,3,2000,octavos de final,empate
+2454,Hertha,FC Porto,0,1,2000,octavos de final,FC Porto
+2455,Sparta Praha,Barcelona,1,2,2000,octavos de final,Barcelona
+2456,Bordeaux,Valencia,1,4,2000,octavos de final,Valencia
+2457,Man United,Fiorentina,3,1,2000,octavos de final,Man United
+2458,FC Porto,Sparta Praha,2,2,2000,octavos de final,empate
+2459,Barcelona,Hertha,3,1,2000,octavos de final,Barcelona
+2460,Feyenoord,Chelsea,1,3,2000,octavos de final,Chelsea
+2461,Lazio,Marseille,5,1,2000,octavos de final,Lazio
+2462,Bayern,Rosenborg,2,1,2000,octavos de final,Bayern
+2463,Real Madrid,Dynamo Kyiv,2,2,2000,octavos de final,empate
+2464,Chelsea,Marseille,1,0,2000,octavos de final,Chelsea
+2465,Feyenoord,Lazio,0,0,2000,octavos de final,empate
+2466,Rosenborg,Dynamo Kyiv,1,2,2000,octavos de final,Dynamo Kyiv
+2467,Bayern,Real Madrid,4,1,2000,octavos de final,Bayern
+2468,Valencia,Fiorentina,2,0,2000,octavos de final,Valencia
+2469,Bordeaux,Man United,1,2,2000,octavos de final,Man United
+2470,Sparta Praha,Hertha,1,0,2000,octavos de final,Sparta Praha
+2471,FC Porto,Barcelona,0,2,2000,octavos de final,Barcelona
+2472,Man United,Bordeaux,2,0,2000,octavos de final,Man United
+2473,Fiorentina,Valencia,1,0,2000,octavos de final,Fiorentina
+2474,Hertha,Sparta Praha,1,1,2000,octavos de final,empate
+2475,Barcelona,FC Porto,4,2,2000,octavos de final,Barcelona
+2476,Marseille,Chelsea,1,0,2000,octavos de final,Marseille
+2477,Lazio,Feyenoord,1,2,2000,octavos de final,Feyenoord
+2478,Real Madrid,Bayern,2,4,2000,octavos de final,Bayern
+2479,Dynamo Kyiv,Rosenborg,2,1,2000,octavos de final,Dynamo Kyiv
+2480,Man United,Valencia,3,0,2000,octavos de final,Man United
+2481,Bordeaux,Fiorentina,0,0,2000,octavos de final,empate
+2482,Barcelona,Sparta Praha,5,0,2000,octavos de final,Barcelona
+2483,FC Porto,Hertha,1,0,2000,octavos de final,FC Porto
+2484,Lazio,Chelsea,0,0,2000,octavos de final,empate
+2485,Feyenoord,Marseille,3,0,2000,octavos de final,Feyenoord
+2486,Real Madrid,Rosenborg,3,1,2000,octavos de final,Real Madrid
+2487,Bayern,Dynamo Kyiv,2,1,2000,octavos de final,Bayern
+2488,Chelsea,Feyenoord,3,1,2000,octavos de final,Chelsea
+2489,Marseille,Lazio,0,2,2000,octavos de final,Lazio
+2490,Rosenborg,Bayern,1,1,2000,octavos de final,empate
+2491,Dynamo Kyiv,Real Madrid,1,2,2000,octavos de final,Real Madrid
+2492,Valencia,Bordeaux,3,0,2000,octavos de final,Valencia
+2493,Fiorentina,Man United,2,0,2000,octavos de final,Fiorentina
+2494,Sparta Praha,FC Porto,0,2,2000,octavos de final,FC Porto
+2495,Hertha,Barcelona,1,1,2000,octavos de final,empate
+2605,Anderlecht,Real Madrid,2,0,2001,octavos de final,Anderlecht
+2606,Leeds,Lazio,3,3,2001,octavos de final,empate
+2607,Spartak Moskva,Lyon,1,1,2001,octavos de final,empate
+2608,Bayern,Arsenal,1,0,2001,octavos de final,Bayern
+2609,Paris,Galatasaray,2,0,2001,octavos de final,Paris
+2610,Milan,Deportivo,1,1,2001,octavos de final,empate
+2611,Man United,Sturm Graz,3,0,2001,octavos de final,Man United
+2612,Valencia,Panathinaikos,2,1,2001,octavos de final,Valencia
+2613,Deportivo,Paris,4,3,2001,octavos de final,Deportivo
+2614,Galatasaray,Milan,2,0,2001,octavos de final,Galatasaray
+2615,Panathinaikos,Man United,1,1,2001,octavos de final,empate
+2616,Sturm Graz,Valencia,0,5,2001,octavos de final,Valencia
+2617,Lazio,Anderlecht,2,1,2001,octavos de final,Lazio
+2618,Real Madrid,Leeds,3,2,2001,octavos de final,Real Madrid
+2619,Arsenal,Spartak Moskva,1,0,2001,octavos de final,Arsenal
+2620,Lyon,Bayern,3,0,2001,octavos de final,Lyon
+2621,Anderlecht,Leeds,1,4,2001,octavos de final,Leeds
+2622,Lazio,Real Madrid,2,2,2001,octavos de final,empate
+2623,Arsenal,Lyon,1,1,2001,octavos de final,empate
+2624,Spartak Moskva,Bayern,0,3,2001,octavos de final,Bayern
+2625,Paris,Milan,1,1,2001,octavos de final,empate
+2626,Deportivo,Galatasaray,2,0,2001,octavos de final,Deportivo
+2627,Man United,Valencia,1,1,2001,octavos de final,empate
+2628,Panathinaikos,Sturm Graz,1,2,2001,octavos de final,Sturm Graz
+2629,Milan,Paris,1,1,2001,octavos de final,empate
+2630,Galatasaray,Deportivo,1,0,2001,octavos de final,Galatasaray
+2631,Valencia,Man United,0,0,2001,octavos de final,empate
+2632,Sturm Graz,Panathinaikos,2,0,2001,octavos de final,Sturm Graz
+2633,Leeds,Anderlecht,2,1,2001,octavos de final,Leeds
+2634,Real Madrid,Lazio,3,2,2001,octavos de final,Real Madrid
+2635,Bayern,Spartak Moskva,1,0,2001,octavos de final,Bayern
+2636,Lyon,Arsenal,0,1,2001,octavos de final,Arsenal
+2637,Galatasaray,Paris,1,0,2001,octavos de final,Galatasaray
+2638,Deportivo,Milan,0,1,2001,octavos de final,Milan
+2639,Sturm Graz,Man United,0,2,2001,octavos de final,Man United
+2640,Panathinaikos,Valencia,0,0,2001,octavos de final,empate
+2641,Arsenal,Bayern,2,2,2001,octavos de final,empate
+2642,Real Madrid,Anderlecht,4,1,2001,octavos de final,Real Madrid
+2643,Lazio,Leeds,0,1,2001,octavos de final,Leeds
+2644,Lyon,Spartak Moskva,3,0,2001,octavos de final,Lyon
+2645,Anderlecht,Lazio,1,0,2001,octavos de final,Anderlecht
+2646,Leeds,Real Madrid,0,2,2001,octavos de final,Real Madrid
+2647,Bayern,Lyon,1,0,2001,octavos de final,Bayern
+2648,Spartak Moskva,Arsenal,4,1,2001,octavos de final,Spartak Moskva
+2649,Paris,Deportivo,1,3,2001,octavos de final,Deportivo
+2650,Milan,Galatasaray,2,2,2001,octavos de final,empate
+2651,Man United,Panathinaikos,3,1,2001,octavos de final,Man United
+2652,Valencia,Sturm Graz,2,0,2001,octavos de final,Valencia
+2763,Deportivo,Leverkusen,1,3,2002,octavos de final,Leverkusen
+2764,Juventus,Arsenal,1,0,2002,octavos de final,Juventus
+2765,Panathinaikos,Real Madrid,2,2,2002,octavos de final,empate
+2766,Sparta Praha,FC Porto,2,0,2002,octavos de final,Sparta Praha
+2767,Galatasaray,Barcelona,0,1,2002,octavos de final,Barcelona
+2768,Liverpool,Roma,2,0,2002,octavos de final,Liverpool
+2769,Bayern,Nantes,2,1,2002,octavos de final,Bayern
+2770,Boavista,Man United,0,3,2002,octavos de final,Man United
+2771,Roma,Galatasaray,1,1,2002,octavos de final,empate
+2772,Barcelona,Liverpool,0,0,2002,octavos de final,empate
+2773,Man United,Bayern,0,0,2002,octavos de final,empate
+2774,Nantes,Boavista,1,1,2002,octavos de final,empate
+2775,Arsenal,Deportivo,0,2,2002,octavos de final,Deportivo
+2776,Leverkusen,Juventus,3,1,2002,octavos de final,Leverkusen
+2777,FC Porto,Panathinaikos,2,1,2002,octavos de final,FC Porto
+2778,Real Madrid,Sparta Praha,3,0,2002,octavos de final,Real Madrid
+2779,Deportivo,Juventus,2,0,2002,octavos de final,Deportivo
+2780,Arsenal,Leverkusen,4,1,2002,octavos de final,Arsenal
+2781,Panathinaikos,Sparta Praha,2,1,2002,octavos de final,Panathinaikos
+2782,FC Porto,Real Madrid,1,2,2002,octavos de final,Real Madrid
+2783,Galatasaray,Liverpool,1,1,2002,octavos de final,empate
+2784,Roma,Barcelona,3,0,2002,octavos de final,Roma
+2785,Bayern,Boavista,1,0,2002,octavos de final,Bayern
+2786,Man United,Nantes,5,1,2002,octavos de final,Man United
+2787,Liverpool,Galatasaray,0,0,2002,octavos de final,empate
+2788,Barcelona,Roma,1,1,2002,octavos de final,empate
+2789,Boavista,Bayern,0,0,2002,octavos de final,empate
+2790,Nantes,Man United,1,1,2002,octavos de final,empate
+2791,Juventus,Deportivo,0,0,2002,octavos de final,empate
+2792,Leverkusen,Arsenal,1,1,2002,octavos de final,empate
+2793,Sparta Praha,Panathinaikos,0,2,2002,octavos de final,Panathinaikos
+2794,Real Madrid,FC Porto,1,0,2002,octavos de final,Real Madrid
+2795,Barcelona,Galatasaray,2,2,2002,octavos de final,empate
+2796,Roma,Liverpool,0,0,2002,octavos de final,empate
+2797,Nantes,Bayern,0,1,2002,octavos de final,Bayern
+2798,Man United,Boavista,3,0,2002,octavos de final,Man United
+2799,Leverkusen,Deportivo,3,0,2002,octavos de final,Leverkusen
+2800,Arsenal,Juventus,3,1,2002,octavos de final,Arsenal
+2801,Real Madrid,Panathinaikos,3,0,2002,octavos de final,Real Madrid
+2802,FC Porto,Sparta Praha,0,1,2002,octavos de final,Sparta Praha
+2803,Juventus,Leverkusen,4,0,2002,octavos de final,Juventus
+2804,Deportivo,Arsenal,2,0,2002,octavos de final,Deportivo
+2805,Panathinaikos,FC Porto,0,0,2002,octavos de final,empate
+2806,Sparta Praha,Real Madrid,2,3,2002,octavos de final,Real Madrid
+2807,Galatasaray,Roma,1,1,2002,octavos de final,empate
+2808,Liverpool,Barcelona,1,3,2002,octavos de final,Barcelona
+2809,Bayern,Man United,1,1,2002,octavos de final,empate
+2810,Boavista,Nantes,1,0,2002,octavos de final,Boavista
+2920,Valencia,Arsenal,2,1,2003,octavos de final,Valencia
+2921,Roma,Ajax,1,1,2003,octavos de final,empate
+2922,Newcastle,Barcelona,0,2,2003,octavos de final,Barcelona
+2923,Leverkusen,Inter,0,2,2003,octavos de final,Inter
+2924,Deportivo,Man United,2,0,2003,octavos de final,Deportivo
+2925,Basel,Juventus,2,1,2003,octavos de final,Basel
+2926,Lokomotiv Moskva,Real Madrid,0,1,2003,octavos de final,Real Madrid
+2927,Milan,Dortmund,0,1,2003,octavos de final,Dortmund
+2928,Juventus,Deportivo,3,2,2003,octavos de final,Juventus
+2929,Man United,Basel,1,1,2003,octavos de final,empate
+2930,Dortmund,Lokomotiv Moskva,3,0,2003,octavos de final,Dortmund
+2931,Real Madrid,Milan,3,1,2003,octavos de final,Real Madrid
+2932,Ajax,Valencia,1,1,2003,octavos de final,empate
+2933,Arsenal,Roma,1,1,2003,octavos de final,empate
+2934,Inter,Newcastle,2,2,2003,octavos de final,empate
+2935,Barcelona,Leverkusen,2,0,2003,octavos de final,Barcelona
+2936,Valencia,Roma,0,3,2003,octavos de final,Roma
+2937,Ajax,Arsenal,0,0,2003,octavos de final,empate
+2938,Newcastle,Leverkusen,3,1,2003,octavos de final,Newcastle
+2939,Inter,Barcelona,0,0,2003,octavos de final,empate
+2940,Deportivo,Basel,1,0,2003,octavos de final,Deportivo
+2941,Juventus,Man United,0,3,2003,octavos de final,Man United
+2942,Dortmund,Real Madrid,1,1,2003,octavos de final,empate
+2943,Lokomotiv Moskva,Milan,0,1,2003,octavos de final,Milan
+2944,Basel,Deportivo,1,0,2003,octavos de final,Basel
+2945,Man United,Juventus,2,1,2003,octavos de final,Man United
+2946,Milan,Lokomotiv Moskva,1,0,2003,octavos de final,Milan
+2947,Real Madrid,Dortmund,2,1,2003,octavos de final,Real Madrid
+2948,Roma,Valencia,0,1,2003,octavos de final,Valencia
+2949,Arsenal,Ajax,1,1,2003,octavos de final,empate
+2950,Leverkusen,Newcastle,1,3,2003,octavos de final,Newcastle
+2951,Barcelona,Inter,3,0,2003,octavos de final,Barcelona
+2952,Man United,Deportivo,2,0,2003,octavos de final,Man United
+2953,Juventus,Basel,4,0,2003,octavos de final,Juventus
+2954,Real Madrid,Lokomotiv Moskva,2,2,2003,octavos de final,empate
+2955,Dortmund,Milan,0,1,2003,octavos de final,Milan
+2956,Barcelona,Newcastle,3,1,2003,octavos de final,Barcelona
+2957,Arsenal,Valencia,0,0,2003,octavos de final,empate
+2958,Ajax,Roma,2,1,2003,octavos de final,Ajax
+2959,Inter,Leverkusen,3,2,2003,octavos de final,Inter
+2960,Valencia,Ajax,1,1,2003,octavos de final,empate
+2961,Roma,Arsenal,1,3,2003,octavos de final,Arsenal
+2962,Newcastle,Inter,1,4,2003,octavos de final,Inter
+2963,Leverkusen,Barcelona,1,2,2003,octavos de final,Barcelona
+2964,Deportivo,Juventus,2,2,2003,octavos de final,empate
+2965,Basel,Man United,1,3,2003,octavos de final,Man United
+2966,Milan,Real Madrid,1,0,2003,octavos de final,Milan
+2967,Lokomotiv Moskva,Dortmund,1,2,2003,octavos de final,Dortmund
+3078,Monaco,Lokomotiv Moskva,1,0,2004,octavos de final,Monaco
+3079,Milan,Sparta Praha,4,1,2004,octavos de final,Milan
+3080,Real Madrid,Bayern,1,0,2004,octavos de final,Real Madrid
+3081,Arsenal,Celta,2,0,2004,octavos de final,Arsenal
+3082,Juventus,Deportivo,0,1,2004,octavos de final,Deportivo
+3083,Lyon,Real Sociedad,1,0,2004,octavos de final,Lyon
+3084,Man United,FC Porto,1,1,2004,octavos de final,empate
+3085,Chelsea,Stuttgart,0,0,2004,octavos de final,empate
+3086,Deportivo,Juventus,1,0,2004,octavos de final,Deportivo
+3087,Real Sociedad,Lyon,0,1,2004,octavos de final,Lyon
+3088,FC Porto,Man United,2,1,2004,octavos de final,FC Porto
+3089,Stuttgart,Chelsea,0,1,2004,octavos de final,Chelsea
+3090,Sparta Praha,Milan,0,0,2004,octavos de final,empate
+3091,Bayern,Real Madrid,1,1,2004,octavos de final,empate
+3092,Celta,Arsenal,2,3,2004,octavos de final,Arsenal
+3093,Lokomotiv Moskva,Monaco,2,1,2004,octavos de final,Lokomotiv Moskva
+3203,Inter,FC Porto,3,1,2005,octavos de final,Inter
+3204,Arsenal,Bayern,1,0,2005,octavos de final,Arsenal
+3205,Monaco,PSV,0,2,2005,octavos de final,PSV
+3206,Leverkusen,Liverpool,1,3,2005,octavos de final,Liverpool
+3207,Juventus,Real Madrid,2,0,2005,octavos de final,Juventus
+3208,Lyon,Bremen,7,2,2005,octavos de final,Lyon
+3209,Milan,Man United,1,0,2005,octavos de final,Milan
+3210,Chelsea,Barcelona,4,2,2005,octavos de final,Chelsea
+3211,Bremen,Lyon,0,3,2005,octavos de final,Lyon
+3212,Man United,Milan,0,1,2005,octavos de final,Milan
+3213,Barcelona,Chelsea,2,1,2005,octavos de final,Barcelona
+3214,FC Porto,Inter,1,1,2005,octavos de final,empate
+3215,Bayern,Arsenal,3,1,2005,octavos de final,Bayern
+3216,PSV,Monaco,1,0,2005,octavos de final,PSV
+3217,Liverpool,Leverkusen,3,1,2005,octavos de final,Liverpool
+3218,Real Madrid,Juventus,1,0,2005,octavos de final,Real Madrid
+3330,Inter,Ajax,1,0,2006,octavos de final,Inter
+3331,Liverpool,Benfica,0,2,2006,octavos de final,Benfica
+3332,Lyon,PSV,4,0,2006,octavos de final,Lyon
+3333,Milan,Bayern,4,1,2006,octavos de final,Milan
+3334,Arsenal,Real Madrid,0,0,2006,octavos de final,empate
+3335,Villarreal,Rangers,1,1,2006,octavos de final,empate
+3336,Juventus,Bremen,2,1,2006,octavos de final,Juventus
+3337,Barcelona,Chelsea,1,1,2006,octavos de final,empate
+3338,Rangers,Villarreal,2,2,2006,octavos de final,empate
+3339,Ajax,Inter,2,2,2006,octavos de final,empate
+3340,Bremen,Juventus,3,2,2006,octavos de final,Bremen
+3341,Chelsea,Barcelona,1,2,2006,octavos de final,Barcelona
+3342,Benfica,Liverpool,1,0,2006,octavos de final,Benfica
+3343,PSV,Lyon,0,1,2006,octavos de final,Lyon
+3344,Bayern,Milan,1,1,2006,octavos de final,empate
+3345,Real Madrid,Arsenal,0,1,2006,octavos de final,Arsenal
+3455,Bayern,Real Madrid,2,1,2007,octavos de final,Bayern
+3456,Man United,Lille,1,0,2007,octavos de final,Man United
+3457,Arsenal,PSV,1,1,2007,octavos de final,empate
+3458,Milan,Celtic,1,0,2007,octavos de final,Milan
+3459,Valencia,Inter,0,0,2007,octavos de final,empate
+3460,Chelsea,FC Porto,2,1,2007,octavos de final,Chelsea
+3461,Liverpool,Barcelona,0,1,2007,octavos de final,Barcelona
+3462,Lyon,Roma,0,2,2007,octavos de final,Roma
+3463,Inter,Valencia,2,2,2007,octavos de final,empate
+3464,FC Porto,Chelsea,1,1,2007,octavos de final,empate
+3465,Barcelona,Liverpool,1,2,2007,octavos de final,Liverpool
+3466,Roma,Lyon,0,0,2007,octavos de final,empate
+3467,Real Madrid,Bayern,3,2,2007,octavos de final,Real Madrid
+3468,Lille,Man United,0,1,2007,octavos de final,Man United
+3469,PSV,Arsenal,1,0,2007,octavos de final,PSV
+3470,Celtic,Milan,0,0,2007,octavos de final,empate
+3581,Inter,Liverpool,0,1,2008,octavos de final,Liverpool
+3582,FC Porto,Schalke,1,0,2008,octavos de final,FC Porto
+3583,Chelsea,Olympiacos,3,0,2008,octavos de final,Chelsea
+3584,Real Madrid,Roma,1,2,2008,octavos de final,Roma
+3585,Man United,Lyon,1,0,2008,octavos de final,Man United
+3586,Barcelona,Celtic,1,0,2008,octavos de final,Barcelona
+3587,Sevilla,Fenerbahçe,3,2,2008,octavos de final,Sevilla
+3588,Milan,Arsenal,0,2,2008,octavos de final,Arsenal
+3589,Fenerbahçe,Sevilla,3,2,2008,octavos de final,Fenerbahçe
+3590,Arsenal,Milan,0,0,2008,octavos de final,empate
+3591,Lyon,Man United,1,1,2008,octavos de final,empate
+3592,Celtic,Barcelona,2,3,2008,octavos de final,Barcelona
+3593,Olympiacos,Chelsea,0,0,2008,octavos de final,empate
+3594,Roma,Real Madrid,2,1,2008,octavos de final,Roma
+3595,Liverpool,Inter,2,0,2008,octavos de final,Liverpool
+3596,Schalke,FC Porto,1,0,2008,octavos de final,Schalke
+3709,FC Porto,Atlético de Madrid,0,0,2009,octavos de final,empate
+3710,Man United,Inter,2,0,2009,octavos de final,Man United
+3711,Roma,Arsenal,1,0,2009,octavos de final,Roma
+3712,Barcelona,Lyon,5,2,2009,octavos de final,Barcelona
+3713,Bayern,Sporting CP,7,1,2009,octavos de final,Bayern
+3714,Panathinaikos,Villarreal,1,2,2009,octavos de final,Villarreal
+3715,Juventus,Chelsea,2,2,2009,octavos de final,empate
+3716,Liverpool,Real Madrid,4,0,2009,octavos de final,Liverpool
+3717,Real Madrid,Liverpool,0,1,2009,octavos de final,Liverpool
+3718,Sporting CP,Bayern,0,5,2009,octavos de final,Bayern
+3719,Villarreal,Panathinaikos,1,1,2009,octavos de final,empate
+3720,Chelsea,Juventus,1,0,2009,octavos de final,Chelsea
+3721,Inter,Man United,0,0,2009,octavos de final,empate
+3722,Arsenal,Roma,1,0,2009,octavos de final,Arsenal
+3723,Lyon,Barcelona,1,1,2009,octavos de final,empate
+3724,Atlético de Madrid,FC Porto,2,2,2009,octavos de final,empate
+3835,Bordeaux,Olympiacos,2,1,2010,octavos de final,Bordeaux
+3836,Barcelona,Stuttgart,4,0,2010,octavos de final,Barcelona
+3837,Chelsea,Inter,0,1,2010,octavos de final,Inter
+3838,Sevilla,CSKA Moskva,1,2,2010,octavos de final,CSKA Moskva
+3839,Man United,Milan,4,0,2010,octavos de final,Man United
+3840,Real Madrid,Lyon,1,1,2010,octavos de final,empate
+3841,Fiorentina,Bayern,3,2,2010,octavos de final,Fiorentina
+3842,Arsenal,FC Porto,5,0,2010,octavos de final,Arsenal
+3843,Inter,Chelsea,2,1,2010,octavos de final,Inter
+3844,CSKA Moskva,Sevilla,1,1,2010,octavos de final,empate
+3845,Olympiacos,Bordeaux,0,1,2010,octavos de final,Bordeaux
+3846,Stuttgart,Barcelona,1,1,2010,octavos de final,empate
+3847,FC Porto,Arsenal,2,1,2010,octavos de final,FC Porto
+3848,Bayern,Fiorentina,2,1,2010,octavos de final,Bayern
+3849,Milan,Man United,2,3,2010,octavos de final,Man United
+3850,Lyon,Real Madrid,1,0,2010,octavos de final,Lyon
+3960,Real Madrid,Lyon,3,0,2011,octavos de final,Real Madrid
+3961,Chelsea,Copenhagen,0,0,2011,octavos de final,empate
+3962,Bayern,Inter,2,3,2011,octavos de final,Inter
+3963,Man United,Marseille,2,1,2011,octavos de final,Man United
+3964,Schalke,Valencia,3,1,2011,octavos de final,Schalke
+3965,Tottenham,Milan,0,0,2011,octavos de final,empate
+3966,Barcelona,Arsenal,3,1,2011,octavos de final,Barcelona
+3967,Shakhtar Donetsk,Roma,3,0,2011,octavos de final,Shakhtar Donetsk
+3968,Inter,Bayern,0,1,2011,octavos de final,Bayern
+3969,Marseille,Man United,0,0,2011,octavos de final,empate
+3970,Lyon,Real Madrid,1,1,2011,octavos de final,empate
+3971,Copenhagen,Chelsea,0,2,2011,octavos de final,Chelsea
+3972,Arsenal,Barcelona,2,1,2011,octavos de final,Arsenal
+3973,Roma,Shakhtar Donetsk,2,3,2011,octavos de final,Shakhtar Donetsk
+3974,Valencia,Schalke,1,1,2011,octavos de final,empate
+3975,Milan,Tottenham,0,1,2011,octavos de final,Tottenham
+4085,Real Madrid,CSKA Moskva,4,1,2012,octavos de final,Real Madrid
+4086,Chelsea,Napoli,4,1,2012,octavos de final,Chelsea
+4087,Bayern,Basel,7,0,2012,octavos de final,Bayern
+4088,Inter,Marseille,2,1,2012,octavos de final,Inter
+4089,Barcelona,Leverkusen,7,1,2012,octavos de final,Barcelona
+4090,APOEL,Lyon,1,0,2012,octavos de final,APOEL
+4091,Arsenal,Milan,3,0,2012,octavos de final,Arsenal
+4092,Benfica,Zenit,2,0,2012,octavos de final,Benfica
+4093,Basel,Bayern,1,0,2012,octavos de final,Basel
+4094,Marseille,Inter,1,0,2012,octavos de final,Marseille
+4095,Napoli,Chelsea,3,1,2012,octavos de final,Napoli
+4096,CSKA Moskva,Real Madrid,1,1,2012,octavos de final,empate
+4097,Milan,Arsenal,4,0,2012,octavos de final,Milan
+4098,Zenit,Benfica,3,2,2012,octavos de final,Zenit
+4099,Leverkusen,Barcelona,1,3,2012,octavos de final,Barcelona
+4100,Lyon,APOEL,1,0,2012,octavos de final,Lyon
+4213,Bayern,Arsenal,0,2,2013,octavos de final,Arsenal
+4214,Málaga,FC Porto,2,0,2013,octavos de final,Málaga
+4215,Barcelona,Milan,4,0,2013,octavos de final,Barcelona
+4216,Schalke,Galatasaray,2,3,2013,octavos de final,Galatasaray
+4217,Juventus,Celtic,2,0,2013,octavos de final,Juventus
+4218,Paris,Valencia,1,1,2013,octavos de final,empate
+4219,Dortmund,Shakhtar Donetsk,3,0,2013,octavos de final,Dortmund
+4220,Man United,Real Madrid,1,2,2013,octavos de final,Real Madrid
+4221,Milan,Barcelona,2,0,2013,octavos de final,Milan
+4222,Galatasaray,Schalke,1,1,2013,octavos de final,empate
+4223,Arsenal,Bayern,1,3,2013,octavos de final,Bayern
+4224,FC Porto,Málaga,1,0,2013,octavos de final,FC Porto
+4225,Real Madrid,Man United,1,1,2013,octavos de final,empate
+4226,Shakhtar Donetsk,Dortmund,2,2,2013,octavos de final,empate
+4227,Valencia,Paris,1,2,2013,octavos de final,Paris
+4228,Celtic,Juventus,0,3,2013,octavos de final,Juventus
+4338,Man United,Olympiacos,3,0,2014,octavos de final,Man United
+4339,Dortmund,Zenit,1,2,2014,octavos de final,Zenit
+4340,Real Madrid,Schalke,3,1,2014,octavos de final,Real Madrid
+4341,Chelsea,Galatasaray,2,0,2014,octavos de final,Chelsea
+4342,Paris,Leverkusen,2,1,2014,octavos de final,Paris
+4343,Barcelona,Man City,2,1,2014,octavos de final,Barcelona
+4344,Atlético de Madrid,Milan,4,1,2014,octavos de final,Atlético de Madrid
+4345,Bayern,Arsenal,1,1,2014,octavos de final,empate
+4346,Schalke,Real Madrid,1,6,2014,octavos de final,Real Madrid
+4347,Galatasaray,Chelsea,1,1,2014,octavos de final,empate
+4348,Olympiacos,Man United,2,0,2014,octavos de final,Olympiacos
+4349,Zenit,Dortmund,2,4,2014,octavos de final,Dortmund
+4350,Milan,Atlético de Madrid,0,1,2014,octavos de final,Atlético de Madrid
+4351,Arsenal,Bayern,0,2,2014,octavos de final,Bayern
+4352,Leverkusen,Paris,0,4,2014,octavos de final,Paris
+4353,Man City,Barcelona,0,2,2014,octavos de final,Barcelona
+4463,Dortmund,Juventus,0,3,2015,octavos de final,Juventus
+4464,Barcelona,Man City,1,0,2015,octavos de final,Barcelona
+4465,Atlético de Madrid,Leverkusen,1,0,2015,octavos de final,Atlético de Madrid
+4466,Monaco,Arsenal,0,2,2015,octavos de final,Arsenal
+4467,Bayern,Shakhtar Donetsk,7,0,2015,octavos de final,Bayern
+4468,Chelsea,Paris,2,2,2015,octavos de final,empate
+4469,Real Madrid,Schalke,3,4,2015,octavos de final,Schalke
+4470,FC Porto,Basel,4,0,2015,octavos de final,FC Porto
+4471,Leverkusen,Atlético de Madrid,1,0,2015,octavos de final,Leverkusen
+4472,Arsenal,Monaco,1,3,2015,octavos de final,Monaco
+4473,Juventus,Dortmund,2,1,2015,octavos de final,Juventus
+4474,Man City,Barcelona,1,2,2015,octavos de final,Barcelona
+4475,Schalke,Real Madrid,0,2,2015,octavos de final,Real Madrid
+4476,Basel,FC Porto,1,1,2015,octavos de final,empate
+4477,Shakhtar Donetsk,Bayern,0,0,2015,octavos de final,empate
+4478,Paris,Chelsea,1,1,2015,octavos de final,empate
+4589,Barcelona,Arsenal,3,1,2016,octavos de final,Barcelona
+4590,Bayern,Juventus,4,2,2016,octavos de final,Bayern
+4591,Atlético de Madrid,PSV,0,0,2016,octavos de final,empate
+4592,Man City,Dynamo Kyiv,0,0,2016,octavos de final,empate
+4593,Chelsea,Paris,1,2,2016,octavos de final,Paris
+4594,Zenit,Benfica,1,2,2016,octavos de final,Benfica
+4595,Real Madrid,Roma,2,0,2016,octavos de final,Real Madrid
+4596,Wolfsburg,Gent,1,0,2016,octavos de final,Wolfsburg
+4597,PSV,Atlético de Madrid,0,0,2016,octavos de final,empate
+4598,Dynamo Kyiv,Man City,1,3,2016,octavos de final,Man City
+4599,Juventus,Bayern,2,2,2016,octavos de final,empate
+4600,Arsenal,Barcelona,0,2,2016,octavos de final,Barcelona
+4601,Roma,Real Madrid,0,2,2016,octavos de final,Real Madrid
+4602,Gent,Wolfsburg,2,3,2016,octavos de final,Wolfsburg
+4603,Paris,Chelsea,2,1,2016,octavos de final,Paris
+4604,Benfica,Zenit,1,0,2016,octavos de final,Benfica
+4716,Atlético de Madrid,Leverkusen,0,0,2017,octavos de final,empate
+4717,Monaco,Man City,3,1,2017,octavos de final,Monaco
+4718,Juventus,FC Porto,1,0,2017,octavos de final,Juventus
+4719,Leicester,Sevilla,2,0,2017,octavos de final,Leicester
+4720,Dortmund,Benfica,4,0,2017,octavos de final,Dortmund
+4721,Barcelona,Paris,6,1,2017,octavos de final,Barcelona
+4722,Arsenal,Bayern,1,5,2017,octavos de final,Bayern
+4723,Napoli,Real Madrid,1,3,2017,octavos de final,Real Madrid
+4724,FC Porto,Juventus,0,2,2017,octavos de final,Juventus
+4725,Sevilla,Leicester,2,1,2017,octavos de final,Sevilla
+4726,Leverkusen,Atlético de Madrid,2,4,2017,octavos de final,Atlético de Madrid
+4727,Man City,Monaco,5,3,2017,octavos de final,Man City
+4728,Bayern,Arsenal,5,1,2017,octavos de final,Bayern
+4729,Real Madrid,Napoli,3,1,2017,octavos de final,Real Madrid
+4730,Benfica,Dortmund,1,0,2017,octavos de final,Benfica
+4731,Paris,Barcelona,4,0,2017,octavos de final,Paris
+4841,Barcelona,Chelsea,3,0,2018,octavos de final,Barcelona
+4842,Beşiktaş,Bayern,1,3,2018,octavos de final,Bayern
+4843,Man United,Sevilla,1,2,2018,octavos de final,Sevilla
+4844,Roma,Shakhtar Donetsk,1,0,2018,octavos de final,Roma
+4845,Man City,Basel,1,2,2018,octavos de final,Basel
+4846,Tottenham,Juventus,1,2,2018,octavos de final,Juventus
+4847,Liverpool,FC Porto,0,0,2018,octavos de final,empate
+4848,Paris,Real Madrid,1,2,2018,octavos de final,Real Madrid
+4849,Shakhtar Donetsk,Roma,2,1,2018,octavos de final,Shakhtar Donetsk
+4850,Sevilla,Man United,0,0,2018,octavos de final,empate
+4851,Bayern,Beşiktaş,5,0,2018,octavos de final,Bayern
+4852,Chelsea,Barcelona,1,1,2018,octavos de final,empate
+4853,Real Madrid,Paris,3,1,2018,octavos de final,Real Madrid
+4854,FC Porto,Liverpool,0,5,2018,octavos de final,Liverpool
+4855,Basel,Man City,0,4,2018,octavos de final,Man City
+4856,Juventus,Tottenham,2,2,2018,octavos de final,empate
+4966,Barcelona,Lyon,5,1,2019,octavos de final,Barcelona
+4967,Bayern,Liverpool,1,3,2019,octavos de final,Liverpool
+4968,Juventus,Atlético de Madrid,3,0,2019,octavos de final,Juventus
+4969,Man City,Schalke,7,0,2019,octavos de final,Man City
+4970,Paris,Man United,1,3,2019,octavos de final,Man United
+4971,FC Porto,Roma,3,1,2019,octavos de final,FC Porto
+4972,Dortmund,Tottenham,0,1,2019,octavos de final,Tottenham
+4973,Real Madrid,Ajax,1,4,2019,octavos de final,Ajax
+4974,Atlético de Madrid,Juventus,2,0,2019,octavos de final,Atlético de Madrid
+4975,Schalke,Man City,2,3,2019,octavos de final,Man City
+4976,Lyon,Barcelona,0,0,2019,octavos de final,empate
+4977,Liverpool,Bayern,0,0,2019,octavos de final,empate
+4978,Tottenham,Dortmund,3,0,2019,octavos de final,Tottenham
+4979,Ajax,Real Madrid,1,2,2019,octavos de final,Real Madrid
+4980,Roma,FC Porto,2,1,2019,octavos de final,Roma
+4981,Man United,Paris,0,2,2019,octavos de final,Paris
+5085,Bayern,Chelsea,4,1,2020,octavos de final,Bayern
+5086,Barcelona,Napoli,3,1,2020,octavos de final,Barcelona
+5087,Juventus,Lyon,2,1,2020,octavos de final,Juventus
+5088,Man City,Real Madrid,2,1,2020,octavos de final,Man City
+5089,Liverpool,Atlético de Madrid,2,3,2020,octavos de final,Atlético de Madrid
+5090,Paris,Dortmund,2,0,2020,octavos de final,Paris
+5091,Valencia,Atalanta,3,4,2020,octavos de final,Atalanta
+5092,Leipzig,Tottenham,3,0,2020,octavos de final,Leipzig
+5093,Lyon,Juventus,1,0,2020,octavos de final,Lyon
+5094,Real Madrid,Man City,1,2,2020,octavos de final,Man City
+5095,Chelsea,Bayern,0,3,2020,octavos de final,Bayern
+5096,Napoli,Barcelona,1,1,2020,octavos de final,empate
+5097,Atalanta,Valencia,4,1,2020,octavos de final,Atalanta
+5098,Tottenham,Leipzig,0,1,2020,octavos de final,Leipzig
+5099,Atlético de Madrid,Liverpool,1,0,2020,octavos de final,Atlético de Madrid
+5100,Dortmund,Paris,2,1,2020,octavos de final,Dortmund
+5210,Chelsea,Atlético de Madrid,2,0,2021,octavos de final,Chelsea
+5211,Bayern,Lazio,2,1,2021,octavos de final,Bayern
+5212,Man City,Mönchengladbach,2,0,2021,octavos de final,Man City
+5213,Real Madrid,Atalanta,3,1,2021,octavos de final,Real Madrid
+5214,Liverpool,Leipzig,2,0,2021,octavos de final,Liverpool
+5215,Paris,Barcelona,1,1,2021,octavos de final,empate
+5216,Juventus,FC Porto,3,2,2021,octavos de final,Juventus
+5217,Dortmund,Sevilla,2,2,2021,octavos de final,empate
+5218,Atalanta,Real Madrid,0,1,2021,octavos de final,Real Madrid
+5219,Mönchengladbach,Man City,0,2,2021,octavos de final,Man City
+5220,Atlético de Madrid,Chelsea,0,1,2021,octavos de final,Chelsea
+5221,Lazio,Bayern,1,4,2021,octavos de final,Bayern
+5222,FC Porto,Juventus,2,1,2021,octavos de final,FC Porto
+5223,Sevilla,Dortmund,2,3,2021,octavos de final,Dortmund
+5224,Barcelona,Paris,1,4,2021,octavos de final,Paris
+5225,Leipzig,Liverpool,0,2,2021,octavos de final,Liverpool
+5335,Lille,Chelsea,1,2,2022,octavos de final,Chelsea
+5336,Juventus,Villarreal,0,3,2022,octavos de final,Villarreal
+5337,Ajax,Benfica,0,1,2022,octavos de final,Benfica
+5338,Man United,Atlético de Madrid,0,1,2022,octavos de final,Atlético de Madrid
+5339,Man City,Sporting CP,0,0,2022,octavos de final,empate
+5340,Real Madrid,Paris,3,1,2022,octavos de final,Real Madrid
+5341,Bayern,Salzburg,7,1,2022,octavos de final,Bayern
+5342,Liverpool,Inter,0,1,2022,octavos de final,Inter
+5343,Atlético de Madrid,Man United,1,1,2022,octavos de final,empate
+5344,Benfica,Ajax,2,2,2022,octavos de final,empate
+5345,Villarreal,Juventus,1,1,2022,octavos de final,empate
+5346,Chelsea,Lille,2,0,2022,octavos de final,Chelsea
+5347,Inter,Liverpool,0,2,2022,octavos de final,Liverpool
+5348,Salzburg,Bayern,1,1,2022,octavos de final,empate
+5349,Paris,Real Madrid,1,0,2022,octavos de final,Paris
+5350,Sporting CP,Man City,0,5,2022,octavos de final,Man City
+5460,Napoli,Eintracht Frankfurt,3,0,2023,octavos de final,Napoli
+5461,Real Madrid,Liverpool,1,0,2023,octavos de final,Real Madrid
+5462,FC Porto,Inter,0,0,2023,octavos de final,empate
+5463,Man City,Leipzig,7,0,2023,octavos de final,Man City
+5464,Tottenham,Milan,0,0,2023,octavos de final,empate
+5465,Bayern,Paris,2,0,2023,octavos de final,Bayern
+5466,Chelsea,Dortmund,2,0,2023,octavos de final,Chelsea
+5467,Benfica,Club Brugge,5,1,2023,octavos de final,Benfica
+5468,Inter,FC Porto,1,0,2023,octavos de final,Inter
+5469,Leipzig,Man City,1,1,2023,octavos de final,empate
+5470,Eintracht Frankfurt,Napoli,0,2,2023,octavos de final,Napoli
+5471,Liverpool,Real Madrid,2,5,2023,octavos de final,Real Madrid
+5472,Dortmund,Chelsea,1,0,2023,octavos de final,Dortmund
+5473,Club Brugge,Benfica,0,2,2023,octavos de final,Benfica
+5474,Paris,Bayern,0,1,2023,octavos de final,Bayern
+5475,Milan,Tottenham,1,0,2023,octavos de final,Milan
+5668,Leipzig,Real Madrid,0,1,2024,octavos de final,Real Madrid
+5669,Copenhagen,Man City,1,3,2024,octavos de final,Man City
+5670,Lazio,Bayern,1,0,2024,octavos de final,Lazio
+5671,Paris,Real Sociedad,2,0,2024,octavos de final,Paris
+5672,Inter,Atlético de Madrid,1,0,2024,octavos de final,Inter
+5673,PSV,Dortmund,1,1,2024,octavos de final,empate
+5674,FC Porto,Arsenal,1,0,2024,octavos de final,FC Porto
+5675,Napoli,Barcelona,1,1,2024,octavos de final,empate
+5676,Bayern,Lazio,3,0,2024,octavos de final,Bayern
+5677,Real Sociedad,Paris,1,2,2024,octavos de final,Paris
+5678,Real Madrid,Leipzig,1,1,2024,octavos de final,empate
+5679,Man City,Copenhagen,3,1,2024,octavos de final,Man City
+5680,Arsenal,FC Porto,1,0,2024,octavos de final,Arsenal
+5681,Barcelona,Napoli,3,1,2024,octavos de final,Barcelona
+5682,Atlético de Madrid,Inter,2,1,2024,octavos de final,Atlético de Madrid
+5683,Dortmund,PSV,2,0,2024,octavos de final,Dortmund

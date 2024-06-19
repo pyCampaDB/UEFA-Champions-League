@@ -1,0 +1,70 @@
+_id,home,away,goalHome,goalAway,season,round,winner
+0,Real Madrid,Reims,4,3,1956,final,Real Madrid
+29,Real Madrid,Fiorentina,2,0,1957,final,Real Madrid
+60,Real Madrid,Milan,3,2,1958,final,Real Madrid
+90,Real Madrid,Reims,2,0,1959,final,Real Madrid
+122,Real Madrid,Eintracht Frankfurt,7,3,1960,final,Real Madrid
+154,Benfica,Barcelona,3,2,1961,final,Benfica
+185,Benfica,Real Madrid,5,3,1962,final,Benfica
+215,Milan,Benfica,2,1,1963,final,Milan
+245,Inter,Real Madrid,3,1,1964,final,Inter
+275,Inter,Benfica,1,0,1965,final,Inter
+305,Real Madrid,Partizan,2,1,1966,final,Real Madrid
+334,Celtic,Inter,2,1,1967,final,Celtic
+397,Man United,Benfica,4,1,1968,final,Man United
+459,Milan,Ajax,4,1,1969,final,Milan
+517,Feyenoord,Celtic,2,1,1970,final,Feyenoord
+578,Ajax,Panathinaikos,2,0,1971,final,Ajax
+640,Ajax,Inter,2,0,1972,final,Ajax
+702,Ajax,Juventus,1,0,1973,final,Ajax
+759,Atlético de Madrid,Bayern,0,4,1974,final,Bayern
+760,Bayern,Atlético de Madrid,1,1,1974,final,empate
+821,Bayern,Leeds,2,0,1975,final,Bayern
+878,Bayern,St-Étienne,1,0,1976,final,Bayern
+940,Liverpool,Mönchengladbach,3,1,1977,final,Liverpool
+1001,Liverpool,Club Brugge,1,0,1978,final,Liverpool
+1062,Nottm Forest,Malmö,1,0,1979,final,Nottm Forest
+1124,Nottm Forest,Hamburg,1,0,1980,final,Nottm Forest
+1185,Liverpool,Real Madrid,1,0,1981,final,Liverpool
+1246,Aston Villa,Bayern,1,0,1982,final,Aston Villa
+1307,Hamburg,Juventus,1,0,1983,final,Hamburg
+1368,Roma,Liverpool,1,1,1984,final,empate
+1428,Juventus,Liverpool,1,0,1985,final,Juventus
+1491,FCSB,Barcelona,0,0,1986,final,empate
+1552,Bayern,FC Porto,1,2,1987,final,FC Porto
+1612,PSV,Benfica,0,0,1988,final,empate
+1674,FCSB,Milan,0,4,1989,final,Milan
+1736,Milan,Benfica,1,0,1990,final,Milan
+1797,Crvena zvezda,Marseille,0,0,1991,final,empate
+1859,Sampdoria,Barcelona,0,1,1992,final,Barcelona
+1932,Marseille,Milan,1,0,1993,final,Marseille
+2006,Milan,Barcelona,4,0,1994,final,Milan
+2081,Ajax,Milan,1,0,1995,final,Ajax
+2142,Ajax,Juventus,1,1,1996,final,empate
+2204,Dortmund,Juventus,3,1,1997,final,Dortmund
+2265,Juventus,Real Madrid,0,1,1998,final,Real Madrid
+2350,Man United,Bayern,2,1,1999,final,Man United
+2435,Real Madrid,Valencia,3,0,2000,final,Real Madrid
+2592,Bayern,Valencia,1,1,2001,final,empate
+2750,Leverkusen,Real Madrid,1,2,2002,final,Real Madrid
+2907,Juventus,Milan,0,0,2003,final,empate
+3065,Monaco,FC Porto,0,3,2004,final,FC Porto
+3190,Milan,Liverpool,3,3,2005,final,empate
+3317,Barcelona,Arsenal,2,1,2006,final,Barcelona
+3442,Milan,Liverpool,2,1,2007,final,Milan
+3568,Man United,Chelsea,1,1,2008,final,empate
+3696,Barcelona,Man United,2,0,2009,final,Barcelona
+3822,Bayern,Inter,0,2,2010,final,Inter
+3947,Barcelona,Man United,3,1,2011,final,Barcelona
+4072,Bayern,Chelsea,1,1,2012,final,empate
+4200,Dortmund,Bayern,1,2,2013,final,Bayern
+4325,Real Madrid,Atlético de Madrid,4,1,2014,final,Real Madrid
+4450,Juventus,Barcelona,1,3,2015,final,Barcelona
+4576,Real Madrid,Atlético de Madrid,1,1,2016,final,empate
+4703,Juventus,Real Madrid,1,4,2017,final,Real Madrid
+4828,Real Madrid,Liverpool,3,1,2018,final,Real Madrid
+4953,Tottenham,Liverpool,0,2,2019,final,Liverpool
+5078,Paris,Bayern,0,1,2020,final,Bayern
+5197,Man City,Chelsea,0,1,2021,final,Chelsea
+5322,Liverpool,Real Madrid,0,1,2022,final,Real Madrid
+5447,Man City,Inter,1,0,2023,final,Man City

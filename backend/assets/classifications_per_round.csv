@@ -1,0 +1,3589 @@
+id,team,season,goals,goalsAgainst,classified,round
+139,1860 München,1966/67,10,1,True,fase de grupos
+657,1860 München,1966/67,2,3,False,octavos de final
+532,AB,1968/69,4,3,True,fase de grupos
+705,AB,1968/69,0,2,False,octavos de final
+946,ACS Campionii FC Arges,1979/80,3,2,True,fase de grupos
+788,ACS Campionii FC Arges,1979/80,1,4,False,octavos de final
+945,ACS Campionii FC Arges,1972/73,6,0,True,fase de grupos
+787,ACS Campionii FC Arges,1972/73,3,4,False,octavos de final
+634,AEK Athens,2018/19,2,13,False,fase de grupos
+633,AEK Athens,2006/07,6,9,False,fase de grupos
+632,AEK Athens,2003/04,1,11,False,fase de grupos
+631,AEK Athens,2002/03,7,7,False,fase de grupos
+711,AEK Athens,1994/95,3,9,False,octavos de final
+630,AEK Athens,1993/94,1,2,False,fase de grupos
+710,AEK Athens,1992/93,3,3,True,octavos de final
+331,AEK Athens,1992/93,1,3,False,cuartos de final
+629,AEK Athens,1989/90,5,4,True,fase de grupos
+709,AEK Athens,1989/90,1,3,False,octavos de final
+628,AEK Athens,1979/80,2,3,False,fase de grupos
+627,AEK Athens,1978/79,7,5,True,fase de grupos
+708,AEK Athens,1978/79,2,7,False,octavos de final
+626,AEK Athens,1971/72,4,6,False,fase de grupos
+625,AEK Athens,1968/69,5,3,True,fase de grupos
+707,AEK Athens,1968/69,2,0,True,octavos de final
+330,AEK Athens,1968/69,2,3,False,cuartos de final
+574,AEL,1968/69,0,12,False,fase de grupos
+1335,AGF,1987/88,4,2,True,fase de grupos
+128,AGF,1987/88,0,1,False,octavos de final
+127,AGF,1960/61,4,0,True,octavos de final
+197,AGF,1960/61,2,7,False,cuartos de final
+126,AGF,1957/58,2,4,False,octavos de final
+125,AGF,1955/56,2,4,False,octavos de final
+1366,AIK,1999/00,4,16,False,fase de grupos
+1365,AIK,1993/94,1,2,False,fase de grupos
+962,APOEL,2017/18,2,17,False,fase de grupos
+961,APOEL,2014/15,1,12,False,fase de grupos
+960,APOEL,2011/12,6,6,True,fase de grupos
+1023,APOEL,2011/12,1,1,True,octavos de final
+553,APOEL,2011/12,2,8,False,cuartos de final
+959,APOEL,2009/10,4,7,False,fase de grupos
+1022,APOEL,1992/93,3,3,False,octavos de final
+958,APOEL,1990/91,2,7,False,fase de grupos
+957,APOEL,1986/87,3,3,False,fase de grupos
+956,APOEL,1980/81,2,4,False,fase de grupos
+955,APOEL,1973/74,0,3,False,fase de grupos
+1206,AZ Alkmaar,2009/10,4,8,False,fase de grupos
+1205,AZ Alkmaar,1981/82,4,1,True,fase de grupos
+943,AZ Alkmaar,1981/82,4,5,False,octavos de final
+1537,AaB,2008/09,9,14,False,fase de grupos
+1051,AaB,1995/96,5,12,False,octavos de final
+1364,Aarau,1993/94,0,1,False,fase de grupos
+1197,Aberdeen,1985/86,7,2,True,fase de grupos
+930,Aberdeen,1985/86,1,0,True,octavos de final
+467,Aberdeen,1985/86,2,2,False,cuartos de final
+1196,Aberdeen,1984/85,3,3,False,fase de grupos
+1195,Aberdeen,1980/81,1,0,True,fase de grupos
+929,Aberdeen,1980/81,0,5,False,octavos de final
+144,Admira,1966/67,0,1,False,fase de grupos
+136,Ajax,2022/23,11,16,False,fase de grupos
+135,Ajax,2021/22,20,5,True,fase de grupos
+333,Ajax,2021/22,2,3,False,octavos de final
+134,Ajax,2020/21,7,7,False,fase de grupos
+133,Ajax,2019/20,12,6,False,fase de grupos
+132,Ajax,2018/19,11,5,True,fase de grupos
+332,Ajax,2018/19,5,3,True,octavos de final
+137,Ajax,2018/19,3,2,True,cuartos de final
+169,Ajax,2018/19,3,3,False,semifinal
+131,Ajax,2014/15,8,10,False,fase de grupos
+130,Ajax,2013/14,5,8,False,fase de grupos
+129,Ajax,2012/13,8,16,False,fase de grupos
+128,Ajax,2011/12,6,6,False,fase de grupos
+127,Ajax,2010/11,6,10,False,fase de grupos
+126,Ajax,2005/06,10,6,True,fase de grupos
+331,Ajax,2005/06,2,3,False,octavos de final
+125,Ajax,2004/05,6,10,False,fase de grupos
+124,Ajax,2003/04,6,7,False,fase de grupos
+123,Ajax,2002/03,6,5,True,fase de grupos
+330,Ajax,2002/03,6,5,True,octavos de final
+136,Ajax,2002/03,2,3,False,cuartos de final
+329,Ajax,1998/99,4,6,False,octavos de final
+328,Ajax,1996/97,8,4,True,octavos de final
+135,Ajax,1996/97,4,3,True,cuartos de final
+168,Ajax,1996/97,2,6,False,semifinal
+327,Ajax,1995/96,15,1,True,octavos de final
+134,Ajax,1995/96,3,0,True,cuartos de final
+167,Ajax,1995/96,3,1,True,semifinal
+326,Ajax,1994/95,9,2,True,octavos de final
+133,Ajax,1994/95,3,0,True,cuartos de final
+166,Ajax,1994/95,5,2,True,semifinal
+122,Ajax,1985/86,0,2,False,fase de grupos
+121,Ajax,1983/84,0,2,False,fase de grupos
+120,Ajax,1982/83,3,4,False,fase de grupos
+119,Ajax,1980/81,3,0,True,fase de grupos
+325,Ajax,1980/81,3,6,False,octavos de final
+118,Ajax,1979/80,16,2,True,fase de grupos
+324,Ajax,1979/80,10,4,True,octavos de final
+132,Ajax,1979/80,4,0,True,cuartos de final
+165,Ajax,1979/80,1,2,False,semifinal
+117,Ajax,1977/78,4,2,True,fase de grupos
+323,Ajax,1977/78,4,2,True,octavos de final
+131,Ajax,1977/78,2,2,False,cuartos de final
+322,Ajax,1973/74,1,2,False,octavos de final
+321,Ajax,1972/73,6,1,True,octavos de final
+130,Ajax,1972/73,5,2,True,cuartos de final
+164,Ajax,1972/73,3,1,True,semifinal
+116,Ajax,1971/72,2,0,True,fase de grupos
+320,Ajax,1971/72,6,2,True,octavos de final
+129,Ajax,1971/72,3,1,True,cuartos de final
+163,Ajax,1971/72,1,0,True,semifinal
+115,Ajax,1970/71,4,2,True,fase de grupos
+319,Ajax,1970/71,5,1,True,octavos de final
+128,Ajax,1970/71,3,1,True,cuartos de final
+162,Ajax,1970/71,3,1,True,semifinal
+114,Ajax,1968/69,5,1,True,fase de grupos
+318,Ajax,1968/69,4,0,True,octavos de final
+127,Ajax,1968/69,7,4,True,cuartos de final
+161,Ajax,1968/69,3,2,True,semifinal
+113,Ajax,1967/68,2,3,False,fase de grupos
+112,Ajax,1966/67,4,1,True,fase de grupos
+317,Ajax,1966/67,7,3,True,octavos de final
+126,Ajax,1966/67,2,3,False,cuartos de final
+316,Ajax,1957/58,4,1,True,octavos de final
+125,Ajax,1957/58,2,6,False,cuartos de final
+625,Amsterdam,1964/65,8,1,True,octavos de final
+311,Amsterdam,1964/65,1,2,False,cuartos de final
+256,Anderlecht,2017/18,2,17,False,fase de grupos
+255,Anderlecht,2014/15,8,10,False,fase de grupos
+254,Anderlecht,2013/14,4,17,False,fase de grupos
+253,Anderlecht,2012/13,4,9,False,fase de grupos
+252,Anderlecht,2006/07,7,11,False,fase de grupos
+251,Anderlecht,2005/06,1,8,False,fase de grupos
+250,Anderlecht,2004/05,4,17,False,fase de grupos
+249,Anderlecht,2003/04,4,6,False,fase de grupos
+248,Anderlecht,2001/02,4,13,False,fase de grupos
+247,Anderlecht,2000/01,11,14,True,fase de grupos
+38,Anderlecht,2000/01,7,12,False,octavos de final
+37,Anderlecht,1994/95,4,7,False,octavos de final
+246,Anderlecht,1993/94,6,0,True,fase de grupos
+36,Anderlecht,1993/94,5,2,True,octavos de final
+262,Anderlecht,1993/94,5,9,False,cuartos de final
+35,Anderlecht,1991/92,4,1,True,octavos de final
+261,Anderlecht,1991/92,2,0,True,cuartos de final
+221,Anderlecht,1991/92,8,9,False,semifinal
+245,Anderlecht,1987/88,2,1,True,fase de grupos
+34,Anderlecht,1987/88,3,1,True,octavos de final
+260,Anderlecht,1987/88,1,2,False,cuartos de final
+244,Anderlecht,1986/87,3,1,True,fase de grupos
+33,Anderlecht,1986/87,3,1,True,octavos de final
+259,Anderlecht,1986/87,2,7,False,cuartos de final
+32,Anderlecht,1985/86,4,1,True,octavos de final
+258,Anderlecht,1985/86,3,2,True,cuartos de final
+220,Anderlecht,1985/86,1,3,False,semifinal
+243,Anderlecht,1981/82,6,2,True,fase de grupos
+31,Anderlecht,1981/82,4,2,True,octavos de final
+257,Anderlecht,1981/82,4,2,True,cuartos de final
+219,Anderlecht,1981/82,0,1,False,semifinal
+242,Anderlecht,1974/75,5,5,True,fase de grupos
+30,Anderlecht,1974/75,5,4,True,octavos de final
+256,Anderlecht,1974/75,0,4,False,cuartos de final
+241,Anderlecht,1972/73,7,2,True,fase de grupos
+29,Anderlecht,1972/73,0,2,False,octavos de final
+240,Anderlecht,1968/69,5,2,True,fase de grupos
+28,Anderlecht,1968/69,3,4,False,octavos de final
+239,Anderlecht,1967/68,5,2,True,fase de grupos
+27,Anderlecht,1967/68,5,6,False,octavos de final
+238,Anderlecht,1966/67,12,1,True,fase de grupos
+26,Anderlecht,1966/67,2,6,False,octavos de final
+25,Anderlecht,1965/66,9,0,True,octavos de final
+255,Anderlecht,1965/66,3,4,False,cuartos de final
+24,Anderlecht,1964/65,0,4,False,octavos de final
+23,Anderlecht,1962/63,4,2,True,octavos de final
+254,Anderlecht,1962/63,2,6,False,cuartos de final
+22,Anderlecht,1955/56,4,10,False,octavos de final
+1528,Anorthosis,2008/09,8,8,False,fase de grupos
+1595,Antwerp,2023/24,6,17,False,fase de grupos
+293,Antwerp,1957/58,1,8,False,octavos de final
+1008,Apollon,1991/92,3,2,True,octavos de final
+502,Apollon,1991/92,1,5,False,cuartos de final
+1030,Ararat,1974/75,6,2,True,fase de grupos
+843,Ararat,1974/75,7,1,True,octavos de final
+410,Ararat,1974/75,1,2,False,cuartos de final
+146,Aris,1972/73,0,6,False,fase de grupos
+145,Aris,1966/67,4,9,False,fase de grupos
+848,Arsenal,2023/24,16,4,True,fase de grupos
+757,Arsenal,2023/24,1,1,True,octavos de final
+358,Arsenal,2023/24,2,3,False,cuartos de final
+847,Arsenal,2016/17,18,6,True,fase de grupos
+756,Arsenal,2016/17,2,10,False,octavos de final
+846,Arsenal,2015/16,12,10,True,fase de grupos
+755,Arsenal,2015/16,1,5,False,octavos de final
+845,Arsenal,2014/15,15,8,True,fase de grupos
+754,Arsenal,2014/15,3,3,False,octavos de final
+844,Arsenal,2013/14,8,5,True,fase de grupos
+753,Arsenal,2013/14,1,3,False,octavos de final
+843,Arsenal,2012/13,10,8,True,fase de grupos
+752,Arsenal,2012/13,3,3,False,octavos de final
+842,Arsenal,2011/12,7,6,True,fase de grupos
+751,Arsenal,2011/12,3,4,False,octavos de final
+841,Arsenal,2010/11,18,7,True,fase de grupos
+750,Arsenal,2010/11,3,4,False,octavos de final
+840,Arsenal,2009/10,12,5,True,fase de grupos
+749,Arsenal,2009/10,6,2,True,octavos de final
+357,Arsenal,2009/10,3,6,False,cuartos de final
+839,Arsenal,2008/09,11,5,True,fase de grupos
+748,Arsenal,2008/09,1,1,True,octavos de final
+356,Arsenal,2008/09,4,1,True,cuartos de final
+270,Arsenal,2008/09,1,4,False,semifinal
+838,Arsenal,2007/08,14,4,True,fase de grupos
+747,Arsenal,2007/08,2,0,True,octavos de final
+355,Arsenal,2007/08,3,5,False,cuartos de final
+837,Arsenal,2006/07,7,3,True,fase de grupos
+746,Arsenal,2006/07,1,2,False,octavos de final
+836,Arsenal,2005/06,10,2,True,fase de grupos
+745,Arsenal,2005/06,1,0,True,octavos de final
+354,Arsenal,2005/06,2,0,True,cuartos de final
+269,Arsenal,2005/06,1,0,True,semifinal
+835,Arsenal,2004/05,11,6,True,fase de grupos
+744,Arsenal,2004/05,2,3,False,octavos de final
+834,Arsenal,2003/04,9,6,True,fase de grupos
+743,Arsenal,2003/04,5,2,True,octavos de final
+353,Arsenal,2003/04,2,3,False,cuartos de final
+833,Arsenal,2002/03,9,4,True,fase de grupos
+742,Arsenal,2002/03,6,5,False,octavos de final
+832,Arsenal,2001/02,9,9,True,fase de grupos
+741,Arsenal,2001/02,8,8,False,octavos de final
+831,Arsenal,2000/01,11,8,True,fase de grupos
+740,Arsenal,2000/01,6,8,True,octavos de final
+352,Arsenal,2000/01,2,2,False,cuartos de final
+830,Arsenal,1999/00,9,9,False,fase de grupos
+739,Arsenal,1998/99,8,8,False,octavos de final
+738,Arsenal,1991/92,6,2,True,octavos de final
+351,Arsenal,1991/92,2,4,False,cuartos de final
+829,Arsenal,1971/72,7,1,True,fase de grupos
+737,Arsenal,1971/72,5,0,True,octavos de final
+350,Arsenal,1971/72,1,3,False,cuartos de final
+1569,Astana,2015/16,5,11,False,fase de grupos
+1215,Aston Villa,1982/83,3,1,True,fase de grupos
+940,Aston Villa,1982/83,6,2,True,octavos de final
+442,Aston Villa,1982/83,2,5,False,cuartos de final
+1214,Aston Villa,1981/82,7,0,True,fase de grupos
+939,Aston Villa,1981/82,2,2,True,octavos de final
+441,Aston Villa,1981/82,2,0,True,cuartos de final
+222,Aston Villa,1981/82,1,0,True,semifinal
+1587,Atalanta,2021/22,12,13,False,fase de grupos
+1586,Atalanta,2020/21,10,8,True,fase de grupos
+1142,Atalanta,2020/21,1,4,False,octavos de final
+1585,Atalanta,2019/20,8,12,True,fase de grupos
+1141,Atalanta,2019/20,8,4,True,octavos de final
+566,Atalanta,2019/20,1,2,False,cuartos de final
+1233,Athletic Club,2014/15,5,6,False,fase de grupos
+216,Athletic Club,1998/99,5,6,False,octavos de final
+1232,Athletic Club,1984/85,2,3,False,fase de grupos
+1231,Athletic Club,1983/84,4,2,True,fase de grupos
+215,Athletic Club,1983/84,0,1,False,octavos de final
+214,Athletic Club,1956/57,6,5,True,octavos de final
+110,Athletic Club,1956/57,5,6,False,cuartos de final
+1213,Athlone,1983/84,4,11,False,fase de grupos
+1212,Athlone,1981/82,3,3,False,fase de grupos
+177,Atlético de Madrid,2023/24,17,6,True,fase de grupos
+349,Atlético de Madrid,2023/24,2,2,True,octavos de final
+150,Atlético de Madrid,2023/24,4,5,False,cuartos de final
+176,Atlético de Madrid,2022/23,5,9,False,fase de grupos
+175,Atlético de Madrid,2021/22,7,8,True,fase de grupos
+348,Atlético de Madrid,2021/22,2,1,True,octavos de final
+149,Atlético de Madrid,2021/22,0,1,False,cuartos de final
+174,Atlético de Madrid,2020/21,7,8,True,fase de grupos
+347,Atlético de Madrid,2020/21,0,3,False,octavos de final
+173,Atlético de Madrid,2019/20,8,5,True,fase de grupos
+346,Atlético de Madrid,2019/20,4,2,True,octavos de final
+148,Atlético de Madrid,2019/20,1,2,False,cuartos de final
+172,Atlético de Madrid,2018/19,9,6,True,fase de grupos
+345,Atlético de Madrid,2018/19,2,3,False,octavos de final
+171,Atlético de Madrid,2017/18,5,4,False,fase de grupos
+170,Atlético de Madrid,2016/17,7,2,True,fase de grupos
+344,Atlético de Madrid,2016/17,4,2,True,octavos de final
+147,Atlético de Madrid,2016/17,2,1,True,cuartos de final
+72,Atlético de Madrid,2016/17,2,4,False,semifinal
+169,Atlético de Madrid,2015/16,11,3,True,fase de grupos
+343,Atlético de Madrid,2015/16,0,0,True,octavos de final
+146,Atlético de Madrid,2015/16,3,2,True,cuartos de final
+71,Atlético de Madrid,2015/16,2,2,True,semifinal
+168,Atlético de Madrid,2014/15,14,3,True,fase de grupos
+342,Atlético de Madrid,2014/15,1,1,True,octavos de final
+145,Atlético de Madrid,2014/15,0,1,False,cuartos de final
+167,Atlético de Madrid,2013/14,15,3,True,fase de grupos
+341,Atlético de Madrid,2013/14,5,1,True,octavos de final
+144,Atlético de Madrid,2013/14,2,1,True,cuartos de final
+70,Atlético de Madrid,2013/14,3,1,True,semifinal
+166,Atlético de Madrid,2009/10,3,12,False,fase de grupos
+165,Atlético de Madrid,2008/09,9,4,True,fase de grupos
+340,Atlético de Madrid,2008/09,2,2,False,octavos de final
+339,Atlético de Madrid,1996/97,12,4,True,octavos de final
+143,Atlético de Madrid,1996/97,3,4,False,cuartos de final
+164,Atlético de Madrid,1977/78,3,2,True,fase de grupos
+338,Atlético de Madrid,1977/78,3,2,True,octavos de final
+142,Atlético de Madrid,1977/78,3,4,False,cuartos de final
+163,Atlético de Madrid,1973/74,1,0,True,fase de grupos
+337,Atlético de Madrid,1973/74,4,2,True,octavos de final
+141,Atlético de Madrid,1973/74,2,0,True,cuartos de final
+69,Atlético de Madrid,1973/74,2,0,True,semifinal
+162,Atlético de Madrid,1970/71,4,1,True,fase de grupos
+336,Atlético de Madrid,1970/71,4,2,True,octavos de final
+140,Atlético de Madrid,1970/71,2,2,True,cuartos de final
+68,Atlético de Madrid,1970/71,1,3,False,semifinal
+161,Atlético de Madrid,1966/67,5,1,True,fase de grupos
+335,Atlético de Madrid,1966/67,5,6,False,octavos de final
+334,Atlético de Madrid,1958/59,5,3,True,octavos de final
+139,Atlético de Madrid,1958/59,4,1,True,cuartos de final
+67,Atlético de Madrid,1958/59,3,4,False,semifinal
+292,Aue,1960/61,3,4,False,octavos de final
+291,Aue,1958/59,6,2,True,octavos de final
+157,Aue,1958/59,3,4,False,cuartos de final
+290,Aue,1957/58,1,4,False,octavos de final
+738,Austria Wien,2013/14,5,10,False,fase de grupos
+737,Austria Wien,1993/94,5,4,True,fase de grupos
+539,Austria Wien,1993/94,1,5,False,octavos de final
+538,Austria Wien,1992/93,5,4,True,octavos de final
+431,Austria Wien,1992/93,3,3,False,cuartos de final
+537,Austria Wien,1991/92,2,6,False,octavos de final
+736,Austria Wien,1986/87,6,0,True,fase de grupos
+536,Austria Wien,1986/87,1,3,False,octavos de final
+735,Austria Wien,1985/86,4,1,True,fase de grupos
+535,Austria Wien,1985/86,5,7,False,octavos de final
+734,Austria Wien,1984/85,8,0,True,fase de grupos
+534,Austria Wien,1984/85,5,4,True,octavos de final
+430,Austria Wien,1984/85,2,5,False,cuartos de final
+733,Austria Wien,1981/82,3,2,True,fase de grupos
+533,Austria Wien,1981/82,1,2,False,octavos de final
+732,Austria Wien,1980/81,0,1,False,fase de grupos
+731,Austria Wien,1979/80,3,4,False,fase de grupos
+730,Austria Wien,1978/79,4,3,True,fase de grupos
+532,Austria Wien,1978/79,4,1,True,octavos de final
+429,Austria Wien,1978/79,3,2,True,cuartos de final
+218,Austria Wien,1978/79,0,1,False,semifinal
+729,Austria Wien,1976/77,1,3,False,fase de grupos
+728,Austria Wien,1970/71,1,4,False,fase de grupos
+727,Austria Wien,1969/70,2,5,False,fase de grupos
+531,Austria Wien,1962/63,3,7,False,octavos de final
+530,Austria Wien,1961/62,2,6,False,octavos de final
+1498,Auxerre,2010/11,3,12,False,fase de grupos
+1497,Auxerre,2002/03,4,7,False,fase de grupos
+1052,Auxerre,1996/97,8,7,True,octavos de final
+518,Auxerre,1996/97,1,4,False,cuartos de final
+683,Avenir,1986/87,0,6,False,fase de grupos
+682,Avenir,1984/85,0,17,False,fase de grupos
+681,Avenir,1982/83,0,13,False,fase de grupos
+680,Avenir,1969/70,0,8,False,fase de grupos
+787,B 1903,1977/78,2,1,True,fase de grupos
+876,B 1903,1977/78,0,2,False,octavos de final
+786,B 1903,1971/72,2,4,False,fase de grupos
+785,B 1903,1970/71,3,4,False,fase de grupos
+392,B 1909,1959/60,2,5,False,octavos de final
+540,B 1913,1961/62,0,12,False,octavos de final
+1536,BATE Borisov,2015/16,5,12,False,fase de grupos
+1535,BATE Borisov,2014/15,2,24,False,fase de grupos
+1534,BATE Borisov,2012/13,9,15,False,fase de grupos
+1533,BATE Borisov,2011/12,2,14,False,fase de grupos
+1532,BATE Borisov,2008/09,3,8,False,fase de grupos
+1093,Baník,1981/82,5,3,True,fase de grupos
+874,Baník,1981/82,3,4,False,octavos de final
+1092,Baník,1980/81,2,1,True,fase de grupos
+873,Baník,1980/81,1,1,True,octavos de final
+436,Baník,1980/81,2,6,False,cuartos de final
+1091,Baník,1976/77,3,2,True,fase de grupos
+872,Baník,1976/77,2,6,False,octavos de final
+1017,Barcelona,2023/24,12,6,True,fase de grupos
+423,Barcelona,2023/24,4,2,True,octavos de final
+194,Barcelona,2023/24,4,6,False,cuartos de final
+1016,Barcelona,2022/23,12,12,False,fase de grupos
+1015,Barcelona,2021/22,2,9,False,fase de grupos
+1014,Barcelona,2020/21,16,5,True,fase de grupos
+422,Barcelona,2020/21,2,5,False,octavos de final
+1013,Barcelona,2019/20,9,4,True,fase de grupos
+421,Barcelona,2019/20,4,2,True,octavos de final
+193,Barcelona,2019/20,2,8,False,cuartos de final
+1012,Barcelona,2018/19,14,5,True,fase de grupos
+420,Barcelona,2018/19,5,1,True,octavos de final
+192,Barcelona,2018/19,4,0,True,cuartos de final
+92,Barcelona,2018/19,3,4,False,semifinal
+1011,Barcelona,2017/18,9,1,True,fase de grupos
+419,Barcelona,2017/18,4,1,True,octavos de final
+191,Barcelona,2017/18,4,4,False,cuartos de final
+1010,Barcelona,2016/17,20,4,True,fase de grupos
+418,Barcelona,2016/17,6,5,True,octavos de final
+190,Barcelona,2016/17,0,3,False,cuartos de final
+1009,Barcelona,2015/16,15,4,True,fase de grupos
+417,Barcelona,2015/16,5,1,True,octavos de final
+189,Barcelona,2015/16,2,3,False,cuartos de final
+1008,Barcelona,2014/15,15,5,True,fase de grupos
+416,Barcelona,2014/15,3,1,True,octavos de final
+188,Barcelona,2014/15,5,1,True,cuartos de final
+91,Barcelona,2014/15,5,3,True,semifinal
+1007,Barcelona,2013/14,16,5,True,fase de grupos
+415,Barcelona,2013/14,4,1,True,octavos de final
+187,Barcelona,2013/14,1,2,False,cuartos de final
+1006,Barcelona,2012/13,11,5,True,fase de grupos
+414,Barcelona,2012/13,4,2,True,octavos de final
+186,Barcelona,2012/13,3,3,True,cuartos de final
+90,Barcelona,2012/13,0,7,False,semifinal
+1005,Barcelona,2011/12,20,4,True,fase de grupos
+413,Barcelona,2011/12,10,2,True,octavos de final
+185,Barcelona,2011/12,3,1,True,cuartos de final
+89,Barcelona,2011/12,2,3,False,semifinal
+1004,Barcelona,2010/11,14,3,True,fase de grupos
+412,Barcelona,2010/11,4,3,True,octavos de final
+184,Barcelona,2010/11,6,1,True,cuartos de final
+88,Barcelona,2010/11,3,1,True,semifinal
+1003,Barcelona,2009/10,7,3,True,fase de grupos
+411,Barcelona,2009/10,5,1,True,octavos de final
+183,Barcelona,2009/10,6,3,True,cuartos de final
+87,Barcelona,2009/10,2,3,False,semifinal
+1002,Barcelona,2008/09,18,8,True,fase de grupos
+410,Barcelona,2008/09,6,3,True,octavos de final
+182,Barcelona,2008/09,5,1,True,cuartos de final
+86,Barcelona,2008/09,1,1,True,semifinal
+1001,Barcelona,2007/08,12,3,True,fase de grupos
+409,Barcelona,2007/08,4,2,True,octavos de final
+181,Barcelona,2007/08,2,0,True,cuartos de final
+85,Barcelona,2007/08,0,1,False,semifinal
+1000,Barcelona,2006/07,12,4,True,fase de grupos
+408,Barcelona,2006/07,2,2,False,octavos de final
+999,Barcelona,2005/06,16,2,True,fase de grupos
+407,Barcelona,2005/06,3,2,True,octavos de final
+180,Barcelona,2005/06,2,0,True,cuartos de final
+84,Barcelona,2005/06,1,0,True,semifinal
+998,Barcelona,2004/05,9,6,True,fase de grupos
+406,Barcelona,2004/05,4,5,False,octavos de final
+997,Barcelona,2002/03,13,4,True,fase de grupos
+405,Barcelona,2002/03,12,2,True,octavos de final
+179,Barcelona,2002/03,2,3,False,cuartos de final
+996,Barcelona,2001/02,12,5,True,fase de grupos
+404,Barcelona,2001/02,7,7,True,octavos de final
+178,Barcelona,2001/02,3,2,True,cuartos de final
+83,Barcelona,2001/02,1,3,False,semifinal
+995,Barcelona,2000/01,13,9,False,fase de grupos
+994,Barcelona,1999/00,19,9,True,fase de grupos
+403,Barcelona,1999/00,17,5,True,octavos de final
+177,Barcelona,1999/00,6,4,True,cuartos de final
+82,Barcelona,1999/00,3,5,False,semifinal
+402,Barcelona,1998/99,11,9,False,octavos de final
+401,Barcelona,1997/98,7,14,False,octavos de final
+400,Barcelona,1994/95,11,8,True,octavos de final
+176,Barcelona,1994/95,2,3,False,cuartos de final
+993,Barcelona,1993/94,5,4,True,fase de grupos
+399,Barcelona,1993/94,5,1,True,octavos de final
+175,Barcelona,1993/94,13,3,True,cuartos de final
+81,Barcelona,1993/94,3,0,True,semifinal
+398,Barcelona,1992/93,1,0,True,octavos de final
+174,Barcelona,1992/93,3,4,False,cuartos de final
+397,Barcelona,1991/92,3,1,True,octavos de final
+173,Barcelona,1991/92,3,3,True,cuartos de final
+80,Barcelona,1991/92,10,4,True,semifinal
+992,Barcelona,1985/86,2,2,True,fase de grupos
+396,Barcelona,1985/86,3,3,True,octavos de final
+172,Barcelona,1985/86,2,1,True,cuartos de final
+79,Barcelona,1985/86,3,3,True,semifinal
+991,Barcelona,1974/75,5,0,True,fase de grupos
+395,Barcelona,1974/75,3,0,True,octavos de final
+171,Barcelona,1974/75,5,0,True,cuartos de final
+78,Barcelona,1974/75,2,3,False,semifinal
+394,Barcelona,1960/61,4,3,True,octavos de final
+170,Barcelona,1960/61,5,1,True,cuartos de final
+77,Barcelona,1960/61,3,2,True,semifinal
+393,Barcelona,1959/60,7,1,True,octavos de final
+169,Barcelona,1959/60,10,5,True,cuartos de final
+76,Barcelona,1959/60,1,3,False,semifinal
+478,Basel,2017/18,11,5,True,fase de grupos
+726,Basel,2017/18,2,5,False,octavos de final
+477,Basel,2016/17,3,12,False,fase de grupos
+476,Basel,2014/15,7,8,True,fase de grupos
+725,Basel,2014/15,1,5,False,octavos de final
+475,Basel,2013/14,5,6,False,fase de grupos
+474,Basel,2011/12,11,10,True,fase de grupos
+724,Basel,2011/12,1,7,False,octavos de final
+473,Basel,2010/11,8,11,False,fase de grupos
+472,Basel,2008/09,2,16,False,fase de grupos
+471,Basel,2002/03,12,12,True,fase de grupos
+723,Basel,2002/03,5,10,False,octavos de final
+470,Basel,1980/81,5,1,True,fase de grupos
+722,Basel,1980/81,1,2,False,octavos de final
+469,Basel,1977/78,2,3,False,fase de grupos
+468,Basel,1973/74,11,2,True,fase de grupos
+721,Basel,1973/74,7,6,True,octavos de final
+406,Basel,1973/74,5,6,False,cuartos de final
+467,Basel,1972/73,3,4,False,fase de grupos
+466,Basel,1970/71,4,4,True,fase de grupos
+720,Basel,1970/71,1,5,False,octavos de final
+465,Basel,1969/70,0,2,False,fase de grupos
+464,Basel,1967/68,4,5,False,fase de grupos
+726,Bayern,2023/24,12,6,True,fase de grupos
+826,Bayern,2023/24,3,1,True,octavos de final
+396,Bayern,2023/24,3,2,True,cuartos de final
+725,Bayern,2022/23,18,2,True,fase de grupos
+825,Bayern,2022/23,3,0,True,octavos de final
+395,Bayern,2022/23,1,4,False,cuartos de final
+724,Bayern,2021/22,22,3,True,fase de grupos
+824,Bayern,2021/22,8,2,True,octavos de final
+394,Bayern,2021/22,1,2,False,cuartos de final
+723,Bayern,2020/21,18,5,True,fase de grupos
+823,Bayern,2020/21,6,2,True,octavos de final
+393,Bayern,2020/21,3,3,False,cuartos de final
+722,Bayern,2019/20,24,5,True,fase de grupos
+822,Bayern,2019/20,7,1,True,octavos de final
+392,Bayern,2019/20,8,2,True,cuartos de final
+198,Bayern,2019/20,3,0,True,semifinal
+721,Bayern,2018/19,15,5,True,fase de grupos
+821,Bayern,2018/19,1,3,False,octavos de final
+720,Bayern,2017/18,13,6,True,fase de grupos
+820,Bayern,2017/18,8,1,True,octavos de final
+391,Bayern,2017/18,2,1,True,cuartos de final
+197,Bayern,2017/18,3,4,False,semifinal
+719,Bayern,2016/17,14,6,True,fase de grupos
+819,Bayern,2016/17,10,2,True,octavos de final
+390,Bayern,2016/17,3,6,False,cuartos de final
+718,Bayern,2015/16,19,3,True,fase de grupos
+818,Bayern,2015/16,6,4,True,octavos de final
+389,Bayern,2015/16,3,2,True,cuartos de final
+196,Bayern,2015/16,2,2,False,semifinal
+717,Bayern,2014/15,16,4,True,fase de grupos
+817,Bayern,2014/15,7,0,True,octavos de final
+388,Bayern,2014/15,7,4,True,cuartos de final
+195,Bayern,2014/15,3,5,False,semifinal
+716,Bayern,2013/14,17,5,True,fase de grupos
+816,Bayern,2013/14,3,1,True,octavos de final
+387,Bayern,2013/14,4,2,True,cuartos de final
+194,Bayern,2013/14,0,5,False,semifinal
+715,Bayern,2012/13,15,7,True,fase de grupos
+815,Bayern,2012/13,3,3,True,octavos de final
+386,Bayern,2012/13,4,0,True,cuartos de final
+193,Bayern,2012/13,7,0,True,semifinal
+714,Bayern,2011/12,11,6,True,fase de grupos
+814,Bayern,2011/12,7,1,True,octavos de final
+385,Bayern,2011/12,4,0,True,cuartos de final
+192,Bayern,2011/12,3,3,True,semifinal
+713,Bayern,2010/11,16,6,True,fase de grupos
+813,Bayern,2010/11,3,3,False,octavos de final
+712,Bayern,2009/10,9,5,True,fase de grupos
+812,Bayern,2009/10,4,4,True,octavos de final
+384,Bayern,2009/10,4,4,True,cuartos de final
+191,Bayern,2009/10,4,0,True,semifinal
+711,Bayern,2008/09,12,4,True,fase de grupos
+811,Bayern,2008/09,12,1,True,octavos de final
+383,Bayern,2008/09,1,5,False,cuartos de final
+710,Bayern,2006/07,10,3,True,fase de grupos
+810,Bayern,2006/07,4,4,True,octavos de final
+382,Bayern,2006/07,2,4,False,cuartos de final
+709,Bayern,2005/06,10,4,True,fase de grupos
+809,Bayern,2005/06,2,5,False,octavos de final
+708,Bayern,2004/05,12,5,True,fase de grupos
+808,Bayern,2004/05,3,2,True,octavos de final
+381,Bayern,2004/05,5,6,False,cuartos de final
+707,Bayern,2003/04,6,5,True,fase de grupos
+807,Bayern,2003/04,1,2,False,octavos de final
+706,Bayern,2002/03,9,13,False,fase de grupos
+705,Bayern,2001/02,14,5,True,fase de grupos
+806,Bayern,2001/02,5,2,True,octavos de final
+380,Bayern,2001/02,2,3,False,cuartos de final
+704,Bayern,2000/01,9,4,True,fase de grupos
+805,Bayern,2000/01,8,5,True,octavos de final
+379,Bayern,2000/01,3,1,True,cuartos de final
+190,Bayern,2000/01,3,1,True,semifinal
+703,Bayern,1999/00,7,6,True,fase de grupos
+804,Bayern,1999/00,13,8,True,octavos de final
+378,Bayern,1999/00,3,2,True,cuartos de final
+189,Bayern,1999/00,2,3,False,semifinal
+803,Bayern,1998/99,9,6,True,octavos de final
+377,Bayern,1998/99,6,0,True,cuartos de final
+188,Bayern,1998/99,4,3,True,semifinal
+802,Bayern,1997/98,13,6,True,octavos de final
+376,Bayern,1997/98,0,1,False,cuartos de final
+801,Bayern,1994/95,8,7,True,octavos de final
+375,Bayern,1994/95,2,2,True,cuartos de final
+187,Bayern,1994/95,2,5,False,semifinal
+702,Bayern,1990/91,7,2,True,fase de grupos
+800,Bayern,1990/91,7,0,True,octavos de final
+374,Bayern,1990/91,3,1,True,cuartos de final
+186,Bayern,1990/91,3,4,False,semifinal
+701,Bayern,1989/90,3,1,True,fase de grupos
+799,Bayern,1989/90,6,1,True,octavos de final
+373,Bayern,1989/90,3,1,True,cuartos de final
+185,Bayern,1989/90,2,2,False,semifinal
+700,Bayern,1987/88,5,0,True,fase de grupos
+798,Bayern,1987/88,3,2,True,octavos de final
+372,Bayern,1987/88,3,4,False,cuartos de final
+699,Bayern,1986/87,2,0,True,fase de grupos
+797,Bayern,1986/87,3,1,True,octavos de final
+371,Bayern,1986/87,7,2,True,cuartos de final
+184,Bayern,1986/87,4,2,True,semifinal
+698,Bayern,1985/86,6,2,True,fase de grupos
+796,Bayern,1985/86,7,5,True,octavos de final
+370,Bayern,1985/86,2,3,False,cuartos de final
+697,Bayern,1981/82,6,0,True,fase de grupos
+795,Bayern,1981/82,4,1,True,octavos de final
+369,Bayern,1981/82,3,1,True,cuartos de final
+183,Bayern,1981/82,7,4,True,semifinal
+696,Bayern,1980/81,7,2,True,fase de grupos
+794,Bayern,1980/81,6,3,True,octavos de final
+368,Bayern,1980/81,6,2,True,cuartos de final
+182,Bayern,1980/81,1,1,False,semifinal
+695,Bayern,1976/77,7,1,True,fase de grupos
+793,Bayern,1976/77,6,2,True,octavos de final
+367,Bayern,1976/77,1,2,False,cuartos de final
+694,Bayern,1975/76,8,1,True,fase de grupos
+792,Bayern,1975/76,2,1,True,octavos de final
+366,Bayern,1975/76,5,1,True,cuartos de final
+181,Bayern,1975/76,3,1,True,semifinal
+791,Bayern,1974/75,5,3,True,octavos de final
+365,Bayern,1974/75,2,1,True,cuartos de final
+180,Bayern,1974/75,2,0,True,semifinal
+693,Bayern,1973/74,4,4,True,fase de grupos
+790,Bayern,1973/74,7,6,True,octavos de final
+364,Bayern,1973/74,5,3,True,cuartos de final
+179,Bayern,1973/74,4,1,True,semifinal
+692,Bayern,1972/73,7,1,True,fase de grupos
+789,Bayern,1972/73,13,0,True,octavos de final
+363,Bayern,1972/73,2,5,False,cuartos de final
+691,Bayern,1969/70,2,3,False,fase de grupos
+1363,Beitar Jerusalem,1993/94,2,7,False,fase de grupos
+435,Benfica,2023/24,7,11,False,fase de grupos
+434,Benfica,2022/23,16,7,True,fase de grupos
+456,Benfica,2022/23,7,1,True,octavos de final
+221,Benfica,2022/23,3,5,False,cuartos de final
+433,Benfica,2021/22,7,9,True,fase de grupos
+455,Benfica,2021/22,3,2,True,octavos de final
+220,Benfica,2021/22,4,6,False,cuartos de final
+432,Benfica,2019/20,10,11,False,fase de grupos
+431,Benfica,2018/19,6,11,False,fase de grupos
+430,Benfica,2017/18,1,14,False,fase de grupos
+429,Benfica,2016/17,10,10,True,fase de grupos
+454,Benfica,2016/17,1,4,False,octavos de final
+428,Benfica,2015/16,10,8,True,fase de grupos
+453,Benfica,2015/16,3,1,True,octavos de final
+219,Benfica,2015/16,2,3,False,cuartos de final
+427,Benfica,2014/15,2,6,False,fase de grupos
+426,Benfica,2013/14,8,8,False,fase de grupos
+425,Benfica,2012/13,5,5,False,fase de grupos
+424,Benfica,2011/12,8,4,True,fase de grupos
+452,Benfica,2011/12,4,3,True,octavos de final
+218,Benfica,2011/12,1,3,False,cuartos de final
+423,Benfica,2010/11,7,12,False,fase de grupos
+422,Benfica,2007/08,5,6,False,fase de grupos
+421,Benfica,2006/07,7,8,False,fase de grupos
+420,Benfica,2005/06,5,5,True,fase de grupos
+451,Benfica,2005/06,3,0,True,octavos de final
+217,Benfica,2005/06,0,2,False,cuartos de final
+450,Benfica,1998/99,8,9,False,octavos de final
+449,Benfica,1994/95,9,5,True,octavos de final
+216,Benfica,1994/95,0,2,False,cuartos de final
+448,Benfica,1991/92,10,0,True,octavos de final
+215,Benfica,1991/92,4,2,True,cuartos de final
+105,Benfica,1991/92,8,5,False,semifinal
+419,Benfica,1989/90,6,1,True,fase de grupos
+447,Benfica,1989/90,9,0,True,octavos de final
+214,Benfica,1989/90,4,0,True,cuartos de final
+104,Benfica,1989/90,2,2,True,semifinal
+418,Benfica,1987/88,7,0,True,fase de grupos
+446,Benfica,1987/88,1,0,True,octavos de final
+213,Benfica,1987/88,2,1,True,cuartos de final
+103,Benfica,1987/88,2,0,True,semifinal
+417,Benfica,1984/85,4,3,True,fase de grupos
+445,Benfica,1984/85,2,3,False,octavos de final
+416,Benfica,1983/84,6,2,True,fase de grupos
+444,Benfica,1983/84,3,1,True,octavos de final
+212,Benfica,1983/84,1,5,False,cuartos de final
+415,Benfica,1981/82,4,0,True,fase de grupos
+443,Benfica,1981/82,1,4,False,octavos de final
+414,Benfica,1977/78,0,0,True,fase de grupos
+442,Benfica,1977/78,2,0,True,octavos de final
+211,Benfica,1977/78,2,6,False,cuartos de final
+413,Benfica,1976/77,0,2,False,fase de grupos
+412,Benfica,1975/76,7,1,True,fase de grupos
+441,Benfica,1975/76,6,5,True,octavos de final
+210,Benfica,1975/76,1,5,False,cuartos de final
+411,Benfica,1973/74,2,0,True,fase de grupos
+440,Benfica,1973/74,1,3,False,octavos de final
+410,Benfica,1972/73,4,2,True,fase de grupos
+439,Benfica,1972/73,0,3,False,octavos de final
+409,Benfica,1971/72,7,1,True,fase de grupos
+438,Benfica,1971/72,2,1,True,octavos de final
+209,Benfica,1971/72,5,2,True,cuartos de final
+102,Benfica,1971/72,0,1,False,semifinal
+408,Benfica,1969/70,5,2,True,fase de grupos
+437,Benfica,1969/70,3,3,False,octavos de final
+407,Benfica,1968/69,8,1,False,fase de grupos
+208,Benfica,1968/69,4,7,False,cuartos de final
+406,Benfica,1967/68,1,1,True,fase de grupos
+436,Benfica,1967/68,2,1,True,octavos de final
+207,Benfica,1967/68,3,0,True,cuartos de final
+101,Benfica,1967/68,3,0,True,semifinal
+435,Benfica,1965/66,5,4,True,octavos de final
+206,Benfica,1965/66,3,8,False,cuartos de final
+434,Benfica,1964/65,6,1,True,octavos de final
+205,Benfica,1964/65,6,3,True,cuartos de final
+100,Benfica,1964/65,5,0,True,semifinal
+433,Benfica,1963/64,2,6,False,octavos de final
+432,Benfica,1962/63,6,2,True,octavos de final
+204,Benfica,1962/63,2,1,True,cuartos de final
+99,Benfica,1962/63,3,1,True,semifinal
+431,Benfica,1961/62,6,2,True,octavos de final
+203,Benfica,1961/62,7,3,True,cuartos de final
+98,Benfica,1961/62,4,3,True,semifinal
+430,Benfica,1960/61,7,4,True,octavos de final
+202,Benfica,1960/61,7,2,True,cuartos de final
+97,Benfica,1960/61,4,1,True,semifinal
+1184,Berlin,1988/89,3,5,False,fase de grupos
+1183,Berlin,1987/88,0,4,False,fase de grupos
+1182,Berlin,1986/87,7,3,True,fase de grupos
+927,Berlin,1986/87,2,3,False,octavos de final
+1181,Berlin,1985/86,1,4,False,fase de grupos
+1180,Berlin,1984/85,3,3,True,fase de grupos
+926,Berlin,1984/85,4,5,False,octavos de final
+1179,Berlin,1983/84,6,1,True,fase de grupos
+925,Berlin,1983/84,2,1,True,octavos de final
+434,Berlin,1983/84,2,4,False,cuartos de final
+1178,Berlin,1982/83,1,3,False,fase de grupos
+1177,Berlin,1981/82,3,3,True,fase de grupos
+924,Berlin,1981/82,2,2,False,octavos de final
+1176,Berlin,1980/81,4,2,True,fase de grupos
+923,Berlin,1980/81,1,1,False,octavos de final
+1175,Berlin,1979/80,4,1,True,fase de grupos
+922,Berlin,1979/80,4,3,True,octavos de final
+433,Berlin,1979/80,2,3,False,cuartos de final
+1320,Beroe,1986/87,1,3,False,fase de grupos
+1166,Beveren,1984/85,7,2,True,fase de grupos
+963,Beveren,1984/85,2,2,False,octavos de final
+1165,Beveren,1979/80,2,4,False,fase de grupos
+227,Beşiktaş,2021/22,3,19,False,fase de grupos
+226,Beşiktaş,2017/18,11,5,True,fase de grupos
+369,Beşiktaş,2017/18,1,8,False,octavos de final
+225,Beşiktaş,2016/17,9,14,False,fase de grupos
+224,Beşiktaş,2009/10,3,8,False,fase de grupos
+223,Beşiktaş,2007/08,4,15,False,fase de grupos
+222,Beşiktaş,2003/04,5,7,False,fase de grupos
+221,Beşiktaş,2000/01,4,17,False,fase de grupos
+368,Beşiktaş,1997/98,6,9,False,octavos de final
+367,Beşiktaş,1992/93,2,3,False,octavos de final
+366,Beşiktaş,1991/92,2,3,False,octavos de final
+220,Beşiktaş,1990/91,4,5,False,fase de grupos
+219,Beşiktaş,1986/87,3,0,False,fase de grupos
+484,Beşiktaş,1986/87,0,7,False,cuartos de final
+218,Beşiktaş,1982/83,1,3,False,fase de grupos
+217,Beşiktaş,1967/68,0,4,False,fase de grupos
+216,Beşiktaş,1966/67,1,4,False,fase de grupos
+365,Beşiktaş,1958/59,1,3,False,octavos de final
+1050,Blackburn,1995/96,5,8,False,octavos de final
+1390,Boavista,2001/02,8,7,True,fase de grupos
+1109,Boavista,2001/02,2,8,False,octavos de final
+1389,Boavista,1999/00,4,10,False,fase de grupos
+1047,Bohemians,1978/79,2,2,True,fase de grupos
+888,Bohemians,1978/79,0,6,False,octavos de final
+1046,Bohemians,1975/76,2,5,False,fase de grupos
+1235,Bohemians Praha,1983/84,5,0,True,fase de grupos
+962,Bohemians Praha,1983/84,2,2,False,octavos de final
+1278,Bordeaux,2009/10,9,2,True,fase de grupos
+971,Bordeaux,2009/10,3,1,True,octavos de final
+459,Bordeaux,2009/10,2,3,False,cuartos de final
+1277,Bordeaux,2008/09,5,11,False,fase de grupos
+1276,Bordeaux,2006/07,6,7,False,fase de grupos
+1275,Bordeaux,1999/00,7,4,True,fase de grupos
+970,Bordeaux,1999/00,5,14,False,octavos de final
+1274,Bordeaux,1987/88,4,0,True,fase de grupos
+969,Bordeaux,1987/88,1,0,True,octavos de final
+458,Bordeaux,1987/88,1,1,False,cuartos de final
+1273,Bordeaux,1985/86,2,3,False,fase de grupos
+1272,Bordeaux,1984/85,3,2,True,fase de grupos
+968,Bordeaux,1984/85,2,1,True,octavos de final
+457,Bordeaux,1984/85,2,2,True,cuartos de final
+229,Bordeaux,1984/85,2,3,False,semifinal
+462,Botev Plovdiv,1985/86,3,5,False,fase de grupos
+461,Botev Plovdiv,1967/68,2,3,False,fase de grupos
+1557,Braga,2023/24,6,12,False,fase de grupos
+1556,Braga,2012/13,7,13,False,fase de grupos
+1555,Braga,2010/11,5,11,False,fase de grupos
+683,Braunschweig,1967/68,2,1,True,octavos de final
+329,Braunschweig,1967/68,3,4,False,cuartos de final
+1343,Bremen,2010/11,6,12,False,fase de grupos
+1342,Bremen,2008/09,7,9,False,fase de grupos
+1341,Bremen,2007/08,8,13,False,fase de grupos
+1340,Bremen,2006/07,7,5,False,fase de grupos
+1339,Bremen,2005/06,12,12,True,fase de grupos
+630,Bremen,2005/06,4,4,False,octavos de final
+1338,Bremen,2004/05,12,6,True,fase de grupos
+629,Bremen,2004/05,2,10,False,octavos de final
+1337,Bremen,1993/94,6,3,True,fase de grupos
+628,Bremen,1993/94,3,2,True,octavos de final
+492,Bremen,1993/94,11,15,False,cuartos de final
+1336,Bremen,1988/89,5,3,True,fase de grupos
+627,Bremen,1988/89,1,0,True,octavos de final
+491,Bremen,1988/89,0,1,False,cuartos de final
+626,Bremen,1965/66,1,3,False,octavos de final
+1163,Brno,1978/79,4,2,True,fase de grupos
+889,Brno,1978/79,3,3,False,octavos de final
+1083,Brussels,1975/76,4,2,True,fase de grupos
+864,Brussels,1975/76,2,7,False,octavos de final
+988,Brøndby,1998/99,4,18,False,octavos de final
+987,Brøndby,1991/92,4,2,True,octavos de final
+472,Brøndby,1991/92,1,2,False,cuartos de final
+1319,Brøndby,1989/90,1,4,False,fase de grupos
+1318,Brøndby,1988/89,2,2,False,fase de grupos
+1317,Brøndby,1986/87,6,3,True,fase de grupos
+986,Brøndby,1986/87,3,2,True,octavos de final
+471,Brøndby,1986/87,1,2,False,cuartos de final
+429,Burnley,1960/61,4,3,True,octavos de final
+222,Burnley,1960/61,4,5,False,cuartos de final
+1546,Bursaspor,2010/11,2,16,False,fase de grupos
+1531,CFR Cluj,2012/13,9,7,False,fase de grupos
+1530,CFR Cluj,2010/11,6,12,False,fase de grupos
+1529,CFR Cluj,2008/09,5,9,False,fase de grupos
+877,CSKA Moskva,2018/19,8,9,False,fase de grupos
+876,CSKA Moskva,2017/18,8,10,False,fase de grupos
+875,CSKA Moskva,2016/17,5,11,False,fase de grupos
+874,CSKA Moskva,2015/16,5,9,False,fase de grupos
+873,CSKA Moskva,2014/15,6,13,False,fase de grupos
+872,CSKA Moskva,2013/14,8,17,False,fase de grupos
+871,CSKA Moskva,2011/12,9,8,True,fase de grupos
+778,CSKA Moskva,2011/12,2,5,False,octavos de final
+870,CSKA Moskva,2009/10,10,10,True,fase de grupos
+777,CSKA Moskva,2009/10,3,2,True,octavos de final
+508,CSKA Moskva,2009/10,0,2,False,cuartos de final
+869,CSKA Moskva,2007/08,7,14,False,fase de grupos
+868,CSKA Moskva,2006/07,4,5,False,fase de grupos
+867,CSKA Moskva,2004/05,5,5,False,fase de grupos
+776,CSKA Moskva,1992/93,5,2,True,octavos de final
+507,CSKA Moskva,1992/93,4,3,True,cuartos de final
+246,CSKA Moskva,1992/93,2,11,False,semifinal
+866,CSKA Moskva,1971/72,4,1,True,fase de grupos
+775,CSKA Moskva,1971/72,1,2,False,octavos de final
+253,CSKA Sofia,1992/93,4,5,False,octavos de final
+84,CSKA Sofia,1990/91,3,1,True,fase de grupos
+252,CSKA Sofia,1990/91,0,7,False,octavos de final
+83,CSKA Sofia,1989/90,6,2,True,fase de grupos
+251,CSKA Sofia,1989/90,5,2,True,octavos de final
+79,CSKA Sofia,1989/90,1,4,False,cuartos de final
+82,CSKA Sofia,1987/88,0,5,False,fase de grupos
+81,CSKA Sofia,1983/84,4,4,True,fase de grupos
+250,CSKA Sofia,1983/84,0,2,False,octavos de final
+80,CSKA Sofia,1982/83,2,0,True,fase de grupos
+249,CSKA Sofia,1982/83,2,2,False,octavos de final
+79,CSKA Sofia,1981/82,1,0,True,fase de grupos
+248,CSKA Sofia,1981/82,3,2,True,octavos de final
+78,CSKA Sofia,1981/82,2,1,True,cuartos de final
+146,CSKA Sofia,1981/82,4,7,False,semifinal
+78,CSKA Sofia,1980/81,2,0,True,fase de grupos
+247,CSKA Sofia,1980/81,5,0,True,octavos de final
+77,CSKA Sofia,1980/81,1,6,False,cuartos de final
+77,CSKA Sofia,1976/77,0,1,False,fase de grupos
+76,CSKA Sofia,1975/76,2,3,False,fase de grupos
+75,CSKA Sofia,1973/74,4,0,True,fase de grupos
+246,CSKA Sofia,1973/74,2,1,True,octavos de final
+76,CSKA Sofia,1973/74,3,5,False,cuartos de final
+74,CSKA Sofia,1972/73,4,1,True,fase de grupos
+245,CSKA Sofia,1972/73,1,6,False,octavos de final
+73,CSKA Sofia,1971/72,4,0,True,fase de grupos
+244,CSKA Sofia,1971/72,1,2,False,octavos de final
+72,CSKA Sofia,1969/70,3,5,False,fase de grupos
+71,CSKA Sofia,1966/67,3,2,True,fase de grupos
+243,CSKA Sofia,1966/67,4,3,True,octavos de final
+75,CSKA Sofia,1966/67,3,2,True,cuartos de final
+145,CSKA Sofia,1966/67,2,3,False,semifinal
+242,CSKA Sofia,1962/63,2,4,False,octavos de final
+241,CSKA Sofia,1960/61,1,2,False,octavos de final
+240,CSKA Sofia,1958/59,3,5,False,octavos de final
+239,CSKA Sofia,1956/57,10,4,True,octavos de final
+74,CSKA Sofia,1956/57,3,4,False,cuartos de final
+796,Cagliari,1970/71,3,1,True,fase de grupos
+728,Cagliari,1970/71,2,4,False,octavos de final
+1506,Celta,2003/04,7,6,True,fase de grupos
+1112,Celta,2003/04,2,5,False,octavos de final
+111,Celtic,2023/24,5,15,False,fase de grupos
+110,Celtic,2022/23,4,15,False,fase de grupos
+109,Celtic,2017/18,5,18,False,fase de grupos
+108,Celtic,2016/17,5,16,False,fase de grupos
+107,Celtic,2013/14,3,14,False,fase de grupos
+106,Celtic,2012/13,9,8,True,fase de grupos
+674,Celtic,2012/13,0,5,False,octavos de final
+105,Celtic,2008/09,4,7,False,fase de grupos
+104,Celtic,2007/08,5,6,True,fase de grupos
+673,Celtic,2007/08,2,4,False,octavos de final
+103,Celtic,2006/07,8,9,True,fase de grupos
+672,Celtic,2006/07,0,1,False,octavos de final
+102,Celtic,2004/05,4,10,False,fase de grupos
+101,Celtic,2003/04,8,7,False,fase de grupos
+100,Celtic,2001/02,8,11,False,fase de grupos
+99,Celtic,1988/89,4,1,True,fase de grupos
+671,Celtic,1988/89,0,1,False,octavos de final
+98,Celtic,1986/87,3,0,True,fase de grupos
+670,Celtic,1986/87,2,4,False,octavos de final
+97,Celtic,1982/83,4,3,True,fase de grupos
+669,Celtic,1982/83,2,3,False,octavos de final
+96,Celtic,1981/82,1,2,False,fase de grupos
+95,Celtic,1979/80,4,2,True,fase de grupos
+668,Celtic,1979/80,3,2,True,octavos de final
+325,Celtic,1979/80,2,3,False,cuartos de final
+94,Celtic,1977/78,11,1,True,fase de grupos
+667,Celtic,1977/78,2,4,False,octavos de final
+93,Celtic,1974/75,1,3,False,fase de grupos
+92,Celtic,1973/74,9,1,True,fase de grupos
+666,Celtic,1973/74,1,0,True,octavos de final
+324,Celtic,1973/74,6,5,True,cuartos de final
+144,Celtic,1973/74,0,2,False,semifinal
+91,Celtic,1972/73,5,2,True,fase de grupos
+665,Celtic,1972/73,2,4,False,octavos de final
+90,Celtic,1971/72,4,2,True,fase de grupos
+664,Celtic,1971/72,7,1,True,octavos de final
+323,Celtic,1971/72,3,2,True,cuartos de final
+143,Celtic,1971/72,0,0,False,semifinal
+89,Celtic,1970/71,14,0,True,fase de grupos
+663,Celtic,1970/71,10,2,True,octavos de final
+322,Celtic,1970/71,1,3,False,cuartos de final
+88,Celtic,1969/70,2,0,True,fase de grupos
+662,Celtic,1969/70,3,3,True,octavos de final
+321,Celtic,1969/70,3,1,True,cuartos de final
+142,Celtic,1969/70,3,1,True,semifinal
+87,Celtic,1968/69,4,2,True,fase de grupos
+661,Celtic,1968/69,6,2,True,octavos de final
+320,Celtic,1968/69,0,1,False,cuartos de final
+86,Celtic,1967/68,2,3,False,fase de grupos
+85,Celtic,1966/67,5,0,True,fase de grupos
+660,Celtic,1966/67,6,2,True,octavos de final
+319,Celtic,1966/67,2,1,True,cuartos de final
+141,Celtic,1966/67,3,1,True,semifinal
+624,Chaux-de-Fonds,1964/65,1,6,False,octavos de final
+1386,Chelsea,2022/23,10,4,True,fase de grupos
+1087,Chelsea,2022/23,2,1,True,octavos de final
+539,Chelsea,2022/23,0,4,False,cuartos de final
+1385,Chelsea,2021/22,13,4,True,fase de grupos
+1086,Chelsea,2021/22,4,1,True,octavos de final
+538,Chelsea,2021/22,4,5,False,cuartos de final
+1384,Chelsea,2020/21,14,2,True,fase de grupos
+1085,Chelsea,2020/21,3,0,True,octavos de final
+537,Chelsea,2020/21,2,1,True,cuartos de final
+265,Chelsea,2020/21,3,1,True,semifinal
+1383,Chelsea,2019/20,11,9,True,fase de grupos
+1084,Chelsea,2019/20,1,7,False,octavos de final
+1382,Chelsea,2017/18,16,8,True,fase de grupos
+1083,Chelsea,2017/18,1,4,False,octavos de final
+1381,Chelsea,2015/16,13,3,True,fase de grupos
+1082,Chelsea,2015/16,2,4,False,octavos de final
+1380,Chelsea,2014/15,17,3,True,fase de grupos
+1081,Chelsea,2014/15,3,3,False,octavos de final
+1379,Chelsea,2013/14,12,3,True,fase de grupos
+1080,Chelsea,2013/14,3,1,True,octavos de final
+536,Chelsea,2013/14,3,3,True,cuartos de final
+264,Chelsea,2013/14,1,3,False,semifinal
+1378,Chelsea,2012/13,16,10,False,fase de grupos
+1377,Chelsea,2011/12,13,4,True,fase de grupos
+1079,Chelsea,2011/12,5,4,True,octavos de final
+535,Chelsea,2011/12,3,1,True,cuartos de final
+263,Chelsea,2011/12,3,2,True,semifinal
+1376,Chelsea,2010/11,14,4,True,fase de grupos
+1078,Chelsea,2010/11,2,0,True,octavos de final
+534,Chelsea,2010/11,1,3,False,cuartos de final
+1375,Chelsea,2009/10,11,4,True,fase de grupos
+1077,Chelsea,2009/10,1,3,False,octavos de final
+1374,Chelsea,2008/09,9,5,True,fase de grupos
+1076,Chelsea,2008/09,3,2,True,octavos de final
+533,Chelsea,2008/09,7,5,True,cuartos de final
+262,Chelsea,2008/09,1,1,False,semifinal
+1373,Chelsea,2007/08,9,2,True,fase de grupos
+1075,Chelsea,2007/08,3,0,True,octavos de final
+532,Chelsea,2007/08,3,2,True,cuartos de final
+261,Chelsea,2007/08,4,3,True,semifinal
+1372,Chelsea,2006/07,10,4,True,fase de grupos
+1074,Chelsea,2006/07,3,2,True,octavos de final
+531,Chelsea,2006/07,3,2,True,cuartos de final
+260,Chelsea,2006/07,1,1,False,semifinal
+1371,Chelsea,2005/06,7,1,True,fase de grupos
+1073,Chelsea,2005/06,2,3,False,octavos de final
+1370,Chelsea,2004/05,10,3,True,fase de grupos
+1072,Chelsea,2004/05,5,4,True,octavos de final
+530,Chelsea,2004/05,6,5,True,cuartos de final
+259,Chelsea,2004/05,0,1,False,semifinal
+1369,Chelsea,2003/04,9,3,True,fase de grupos
+1071,Chelsea,2003/04,1,0,True,octavos de final
+529,Chelsea,2003/04,3,2,True,cuartos de final
+258,Chelsea,2003/04,3,5,False,semifinal
+1368,Chelsea,1999/00,10,3,True,fase de grupos
+1070,Chelsea,1999/00,8,5,True,octavos de final
+528,Chelsea,1999/00,4,6,False,cuartos de final
+463,Chemnitz,1967/68,2,5,False,fase de grupos
+978,Club Brugge,2022/23,7,4,True,fase de grupos
+841,Club Brugge,2022/23,1,7,False,octavos de final
+977,Club Brugge,2021/22,6,20,False,fase de grupos
+976,Club Brugge,2020/21,8,10,False,fase de grupos
+975,Club Brugge,2019/20,4,12,False,fase de grupos
+974,Club Brugge,2018/19,6,5,False,fase de grupos
+973,Club Brugge,2016/17,2,14,False,fase de grupos
+972,Club Brugge,2005/06,6,7,False,fase de grupos
+971,Club Brugge,2003/04,5,6,False,fase de grupos
+970,Club Brugge,2002/03,5,7,False,fase de grupos
+840,Club Brugge,1992/93,4,0,True,octavos de final
+421,Club Brugge,1992/93,3,3,True,cuartos de final
+213,Club Brugge,1992/93,5,8,False,semifinal
+969,Club Brugge,1990/91,3,1,True,fase de grupos
+839,Club Brugge,1990/91,0,1,False,octavos de final
+968,Club Brugge,1988/89,2,2,True,fase de grupos
+838,Club Brugge,1988/89,2,6,False,octavos de final
+967,Club Brugge,1980/81,1,5,False,fase de grupos
+966,Club Brugge,1978/79,3,4,False,fase de grupos
+965,Club Brugge,1977/78,9,2,True,fase de grupos
+837,Club Brugge,1977/78,2,1,True,octavos de final
+420,Club Brugge,1977/78,4,3,True,cuartos de final
+212,Club Brugge,1977/78,2,1,True,semifinal
+964,Club Brugge,1976/77,3,2,True,fase de grupos
+836,Club Brugge,1976/77,2,0,True,octavos de final
+419,Club Brugge,1976/77,2,3,False,cuartos de final
+963,Club Brugge,1973/74,10,0,True,fase de grupos
+835,Club Brugge,1973/74,6,7,False,octavos de final
+1018,Coleraine,1974/75,1,11,False,fase de grupos
+1361,Copenhagen,2023/24,8,8,True,fase de grupos
+1032,Copenhagen,2023/24,2,6,False,octavos de final
+1360,Copenhagen,2022/23,1,12,False,fase de grupos
+1359,Copenhagen,2016/17,7,2,False,fase de grupos
+1358,Copenhagen,2013/14,4,13,False,fase de grupos
+1357,Copenhagen,2010/11,7,5,True,fase de grupos
+1031,Copenhagen,2010/11,0,2,False,octavos de final
+1356,Copenhagen,2006/07,5,8,False,fase de grupos
+1355,Copenhagen,1993/94,4,3,True,fase de grupos
+1030,Copenhagen,1993/94,0,7,False,octavos de final
+1362,Cork,1993/94,1,3,False,fase de grupos
+852,Cork Celtic,1974/75,1,7,False,octavos de final
+928,Cork Hibs,1971/72,1,7,False,fase de grupos
+987,Crusaders,1976/77,0,7,False,fase de grupos
+986,Crusaders,1973/74,0,12,False,fase de grupos
+777,Crvena zvezda,2023/24,7,15,False,fase de grupos
+776,Crvena zvezda,2019/20,3,20,False,fase de grupos
+775,Crvena zvezda,2018/19,5,17,False,fase de grupos
+213,Crvena zvezda,1991/92,8,0,True,octavos de final
+107,Crvena zvezda,1991/92,5,1,True,cuartos de final
+65,Crvena zvezda,1991/92,9,10,False,semifinal
+774,Crvena zvezda,1990/91,5,2,True,fase de grupos
+212,Crvena zvezda,1990/91,4,1,True,octavos de final
+106,Crvena zvezda,1990/91,6,0,True,cuartos de final
+64,Crvena zvezda,1990/91,4,3,True,semifinal
+773,Crvena zvezda,1988/89,8,0,True,fase de grupos
+211,Crvena zvezda,1988/89,2,2,False,octavos de final
+772,Crvena zvezda,1986/87,4,2,True,fase de grupos
+210,Crvena zvezda,1986/87,7,1,True,octavos de final
+105,Crvena zvezda,1986/87,4,4,False,cuartos de final
+771,Crvena zvezda,1984/85,3,4,False,fase de grupos
+770,Crvena zvezda,1981/82,10,2,True,fase de grupos
+209,Crvena zvezda,1981/82,4,3,True,octavos de final
+104,Crvena zvezda,1981/82,2,4,False,cuartos de final
+769,Crvena zvezda,1980/81,7,3,True,fase de grupos
+208,Crvena zvezda,1980/81,2,1,True,octavos de final
+103,Crvena zvezda,1980/81,1,2,False,cuartos de final
+768,Crvena zvezda,1977/78,6,0,True,fase de grupos
+207,Crvena zvezda,1977/78,1,8,False,octavos de final
+767,Crvena zvezda,1973/74,3,1,True,fase de grupos
+206,Crvena zvezda,1973/74,4,2,True,octavos de final
+102,Crvena zvezda,1973/74,0,2,False,cuartos de final
+766,Crvena zvezda,1970/71,4,2,True,fase de grupos
+205,Crvena zvezda,1970/71,6,1,True,octavos de final
+101,Crvena zvezda,1970/71,6,3,True,cuartos de final
+63,Crvena zvezda,1970/71,4,4,False,semifinal
+765,Crvena zvezda,1969/70,12,2,True,fase de grupos
+204,Crvena zvezda,1969/70,4,4,False,octavos de final
+203,Crvena zvezda,1968/69,2,6,False,octavos de final
+202,Crvena zvezda,1959/60,1,4,False,octavos de final
+201,Crvena zvezda,1957/58,4,3,True,octavos de final
+100,Crvena zvezda,1957/58,4,5,False,cuartos de final
+200,Crvena zvezda,1956/57,6,3,True,octavos de final
+99,Crvena zvezda,1956/57,4,3,True,cuartos de final
+62,Crvena zvezda,1956/57,0,1,False,semifinal
+1542,Debrecen,2009/10,5,19,False,fase de grupos
+1471,Deportivo,2004/05,0,9,False,fase de grupos
+1470,Deportivo,2003/04,12,12,True,fase de grupos
+1096,Deportivo,2003/04,2,0,True,octavos de final
+542,Deportivo,2003/04,5,4,True,cuartos de final
+266,Deportivo,2003/04,0,1,False,semifinal
+1469,Deportivo,2002/03,11,12,True,fase de grupos
+1095,Deportivo,2002/03,7,8,False,octavos de final
+1468,Deportivo,2001/02,10,8,True,fase de grupos
+1094,Deportivo,2001/02,7,6,True,octavos de final
+541,Deportivo,2001/02,2,5,False,cuartos de final
+1467,Deportivo,2000/01,6,4,True,fase de grupos
+1093,Deportivo,2000/01,10,7,True,octavos de final
+540,Deportivo,2000/01,2,3,False,cuartos de final
+948,Derby,1975/76,3,1,True,fase de grupos
+786,Derby,1975/76,5,6,False,octavos de final
+947,Derby,1972/73,4,1,True,fase de grupos
+785,Derby,1972/73,3,0,True,octavos de final
+362,Derby,1972/73,2,1,True,cuartos de final
+178,Derby,1972/73,1,3,False,semifinal
+1350,Derry,1989/90,1,6,False,fase de grupos
+1143,Derry,1965/66,0,9,False,octavos de final
+1174,Differdange,1979/80,3,7,False,fase de grupos
+165,Dinamo Bucureşti,1992/93,2,1,True,octavos de final
+449,Dinamo Bucureşti,1992/93,0,2,False,cuartos de final
+936,Dinamo Bucureşti,1990/91,5,1,True,fase de grupos
+164,Dinamo Bucureşti,1990/91,0,4,False,octavos de final
+935,Dinamo Bucureşti,1984/85,5,3,True,fase de grupos
+163,Dinamo Bucureşti,1984/85,1,2,False,octavos de final
+934,Dinamo Bucureşti,1983/84,4,0,True,fase de grupos
+162,Dinamo Bucureşti,1983/84,5,3,True,octavos de final
+448,Dinamo Bucureşti,1983/84,2,1,True,cuartos de final
+225,Dinamo Bucureşti,1983/84,1,3,False,semifinal
+933,Dinamo Bucureşti,1982/83,3,2,True,fase de grupos
+161,Dinamo Bucureşti,1982/83,2,6,False,octavos de final
+932,Dinamo Bucureşti,1977/78,2,3,False,fase de grupos
+931,Dinamo Bucureşti,1975/76,2,4,False,fase de grupos
+930,Dinamo Bucureşti,1973/74,12,0,True,fase de grupos
+160,Dinamo Bucureşti,1973/74,2,4,False,octavos de final
+929,Dinamo Bucureşti,1971/72,2,2,True,fase de grupos
+159,Dinamo Bucureşti,1971/72,0,5,False,octavos de final
+158,Dinamo Bucureşti,1965/66,2,3,False,octavos de final
+157,Dinamo Bucureşti,1964/65,0,7,False,octavos de final
+156,Dinamo Bucureşti,1963/64,4,8,False,octavos de final
+155,Dinamo Bucureşti,1956/57,4,10,False,octavos de final
+1241,Dinamo Minsk,1993/94,3,6,False,fase de grupos
+1240,Dinamo Minsk,1983/84,3,2,True,fase de grupos
+951,Dinamo Minsk,1983/84,9,4,True,octavos de final
+450,Dinamo Minsk,1983/84,1,2,False,cuartos de final
+1171,Dinamo Tbilisi,1979/80,4,2,True,fase de grupos
+893,Dinamo Tbilisi,1979/80,3,6,False,octavos de final
+1204,Dinamo Tirana,1990/91,1,5,False,fase de grupos
+1203,Dinamo Tirana,1986/87,0,3,False,fase de grupos
+1202,Dinamo Tirana,1980/81,0,3,False,fase de grupos
+1230,Dinamo Zagreb,2022/23,4,11,False,fase de grupos
+1229,Dinamo Zagreb,2019/20,10,13,False,fase de grupos
+1228,Dinamo Zagreb,2016/17,0,15,False,fase de grupos
+1227,Dinamo Zagreb,2015/16,3,14,False,fase de grupos
+1226,Dinamo Zagreb,2012/13,1,14,False,fase de grupos
+1225,Dinamo Zagreb,2011/12,3,22,False,fase de grupos
+1224,Dinamo Zagreb,1999/00,7,7,False,fase de grupos
+1069,Dinamo Zagreb,1998/99,5,7,False,octavos de final
+1223,Dinamo Zagreb,1993/94,4,4,False,fase de grupos
+1222,Dinamo Zagreb,1982/83,1,3,False,fase de grupos
+405,Djurgården,1967/68,0,4,False,fase de grupos
+139,Djurgården,1955/56,4,1,True,octavos de final
+69,Djurgården,1955/56,1,4,False,cuartos de final
+1267,Dnipro,1989/90,3,1,True,fase de grupos
+967,Dnipro,1989/90,4,2,True,octavos de final
+456,Dnipro,1989/90,0,4,False,cuartos de final
+1266,Dnipro,1984/85,3,1,True,fase de grupos
+966,Dnipro,1984/85,3,3,True,octavos de final
+455,Dnipro,1984/85,2,2,False,cuartos de final
+1419,Dortmund,2023/24,7,4,True,fase de grupos
+197,Dortmund,2023/24,3,1,True,octavos de final
+124,Dortmund,2023/24,5,4,True,cuartos de final
+1418,Dortmund,2022/23,10,5,True,fase de grupos
+196,Dortmund,2022/23,1,2,False,octavos de final
+1417,Dortmund,2021/22,10,11,False,fase de grupos
+1416,Dortmund,2020/21,12,5,True,fase de grupos
+195,Dortmund,2020/21,5,4,True,octavos de final
+123,Dortmund,2020/21,2,4,False,cuartos de final
+1415,Dortmund,2019/20,8,8,True,fase de grupos
+194,Dortmund,2019/20,2,3,False,octavos de final
+1414,Dortmund,2018/19,10,2,True,fase de grupos
+193,Dortmund,2018/19,0,4,False,octavos de final
+1413,Dortmund,2017/18,7,13,False,fase de grupos
+1412,Dortmund,2016/17,21,9,True,fase de grupos
+192,Dortmund,2016/17,4,1,True,octavos de final
+122,Dortmund,2016/17,3,6,False,cuartos de final
+1411,Dortmund,2014/15,14,4,True,fase de grupos
+191,Dortmund,2014/15,1,5,False,octavos de final
+1410,Dortmund,2013/14,11,6,True,fase de grupos
+190,Dortmund,2013/14,5,4,True,octavos de final
+121,Dortmund,2013/14,2,3,False,cuartos de final
+1409,Dortmund,2012/13,11,5,True,fase de grupos
+189,Dortmund,2012/13,5,2,True,octavos de final
+120,Dortmund,2012/13,3,2,True,cuartos de final
+126,Dortmund,2012/13,4,3,True,semifinal
+1408,Dortmund,2011/12,6,12,False,fase de grupos
+1407,Dortmund,2002/03,8,7,True,fase de grupos
+188,Dortmund,2002/03,8,5,False,octavos de final
+1406,Dortmund,2001/02,6,7,False,fase de grupos
+1405,Dortmund,1999/00,7,9,False,fase de grupos
+187,Dortmund,1997/98,14,3,True,octavos de final
+119,Dortmund,1997/98,1,0,True,cuartos de final
+125,Dortmund,1997/98,0,2,False,semifinal
+186,Dortmund,1996/97,14,8,True,octavos de final
+118,Dortmund,1996/97,4,1,True,cuartos de final
+124,Dortmund,1996/97,2,0,True,semifinal
+185,Dortmund,1995/96,8,8,True,octavos de final
+117,Dortmund,1995/96,0,3,False,cuartos de final
+184,Dortmund,1963/64,6,2,True,octavos de final
+116,Dortmund,1963/64,5,3,True,cuartos de final
+123,Dortmund,1963/64,2,4,False,semifinal
+183,Dortmund,1957/58,8,6,True,octavos de final
+115,Dortmund,1957/58,2,5,False,cuartos de final
+182,Dortmund,1956/57,2,3,False,octavos de final
+861,Dresden,1990/91,6,1,True,fase de grupos
+831,Dresden,1990/91,2,2,True,octavos de final
+424,Dresden,1990/91,0,6,False,cuartos de final
+860,Dresden,1989/90,4,5,False,fase de grupos
+859,Dresden,1978/79,2,2,True,fase de grupos
+830,Dresden,1978/79,6,0,True,octavos de final
+423,Dresden,1978/79,2,3,False,cuartos de final
+858,Dresden,1977/78,3,2,True,fase de grupos
+829,Dresden,1977/78,3,6,False,octavos de final
+857,Dresden,1976/77,2,0,True,fase de grupos
+828,Dresden,1976/77,4,1,True,octavos de final
+422,Dresden,1976/77,4,4,False,cuartos de final
+856,Dresden,1973/74,4,3,True,fase de grupos
+827,Dresden,1973/74,6,7,False,octavos de final
+855,Dresden,1971/72,0,2,False,fase de grupos
+237,Dukla,1982/83,2,3,False,fase de grupos
+236,Dukla,1979/80,4,3,True,fase de grupos
+311,Dukla,1979/80,1,2,False,octavos de final
+235,Dukla,1977/78,1,1,False,fase de grupos
+234,Dukla,1966/67,6,0,True,fase de grupos
+310,Dukla,1966/67,6,2,True,octavos de final
+245,Dukla,1966/67,3,2,True,cuartos de final
+147,Dukla,1966/67,1,3,False,semifinal
+309,Dukla,1964/65,2,6,False,octavos de final
+308,Dukla,1963/64,4,3,True,octavos de final
+244,Dukla,1963/64,3,5,False,cuartos de final
+307,Dukla,1962/63,5,0,True,octavos de final
+243,Dukla,1962/63,1,2,False,cuartos de final
+306,Dukla,1961/62,5,4,True,octavos de final
+242,Dukla,1961/62,2,4,False,cuartos de final
+305,Dukla,1958/59,2,3,False,octavos de final
+304,Dukla,1957/58,1,3,False,octavos de final
+891,Dundalk,1991/92,1,3,False,octavos de final
+483,Dundalk,1988/89,0,8,False,fase de grupos
+482,Dundalk,1982/83,1,5,False,fase de grupos
+481,Dundalk,1979/80,2,1,True,fase de grupos
+890,Dundalk,1979/80,2,3,False,octavos de final
+480,Dundalk,1976/77,1,7,False,fase de grupos
+479,Dundalk,1967/68,1,9,False,fase de grupos
+557,Dundee,1962/63,4,2,True,octavos de final
+253,Dundee,1962/63,6,2,True,cuartos de final
+109,Dundee,1962/63,2,5,False,semifinal
+1234,Dundee United,1983/84,6,0,True,fase de grupos
+950,Dundee United,1983/84,4,0,True,octavos de final
+447,Dundee United,1983/84,2,2,True,cuartos de final
+228,Dundee United,1983/84,2,3,False,semifinal
+387,Dynamo Kyiv,2021/22,1,11,False,fase de grupos
+386,Dynamo Kyiv,2020/21,4,13,False,fase de grupos
+385,Dynamo Kyiv,2016/17,8,6,False,fase de grupos
+384,Dynamo Kyiv,2015/16,8,4,True,fase de grupos
+698,Dynamo Kyiv,2015/16,1,3,False,octavos de final
+383,Dynamo Kyiv,2012/13,6,10,False,fase de grupos
+382,Dynamo Kyiv,2009/10,7,9,False,fase de grupos
+381,Dynamo Kyiv,2008/09,4,4,False,fase de grupos
+380,Dynamo Kyiv,2007/08,4,19,False,fase de grupos
+379,Dynamo Kyiv,2006/07,5,16,False,fase de grupos
+378,Dynamo Kyiv,2004/05,11,8,False,fase de grupos
+377,Dynamo Kyiv,2003/04,8,8,False,fase de grupos
+376,Dynamo Kyiv,2002/03,6,9,False,fase de grupos
+375,Dynamo Kyiv,2001/02,5,9,False,fase de grupos
+374,Dynamo Kyiv,2000/01,7,8,False,fase de grupos
+373,Dynamo Kyiv,1999/00,8,8,True,fase de grupos
+697,Dynamo Kyiv,1999/00,10,8,False,octavos de final
+696,Dynamo Kyiv,1998/99,11,7,True,octavos de final
+405,Dynamo Kyiv,1998/99,3,1,True,cuartos de final
+211,Dynamo Kyiv,1998/99,3,4,False,semifinal
+695,Dynamo Kyiv,1997/98,13,6,True,octavos de final
+404,Dynamo Kyiv,1997/98,2,5,False,cuartos de final
+694,Dynamo Kyiv,1994/95,5,11,False,octavos de final
+372,Dynamo Kyiv,1993/94,4,5,False,fase de grupos
+693,Dynamo Kyiv,1991/92,4,0,True,octavos de final
+403,Dynamo Kyiv,1991/92,2,1,True,cuartos de final
+210,Dynamo Kyiv,1991/92,3,12,False,semifinal
+371,Dynamo Kyiv,1987/88,1,2,False,fase de grupos
+370,Dynamo Kyiv,1986/87,3,1,True,fase de grupos
+692,Dynamo Kyiv,1986/87,4,2,True,octavos de final
+402,Dynamo Kyiv,1986/87,7,0,True,cuartos de final
+209,Dynamo Kyiv,1986/87,2,4,False,semifinal
+369,Dynamo Kyiv,1982/83,4,0,False,fase de grupos
+401,Dynamo Kyiv,1982/83,2,4,False,cuartos de final
+368,Dynamo Kyiv,1981/82,2,1,True,fase de grupos
+691,Dynamo Kyiv,1981/82,2,1,True,octavos de final
+400,Dynamo Kyiv,1981/82,0,2,False,cuartos de final
+367,Dynamo Kyiv,1978/79,4,1,True,fase de grupos
+690,Dynamo Kyiv,1978/79,0,2,False,octavos de final
+366,Dynamo Kyiv,1976/77,5,0,True,fase de grupos
+689,Dynamo Kyiv,1976/77,6,0,True,octavos de final
+399,Dynamo Kyiv,1976/77,2,1,True,cuartos de final
+208,Dynamo Kyiv,1976/77,1,2,False,semifinal
+365,Dynamo Kyiv,1975/76,3,2,True,fase de grupos
+688,Dynamo Kyiv,1975/76,5,0,True,octavos de final
+398,Dynamo Kyiv,1975/76,2,3,False,cuartos de final
+364,Dynamo Kyiv,1972/73,3,0,True,fase de grupos
+687,Dynamo Kyiv,1972/73,3,2,True,octavos de final
+397,Dynamo Kyiv,1972/73,0,3,False,cuartos de final
+363,Dynamo Kyiv,1969/70,5,2,True,fase de grupos
+686,Dynamo Kyiv,1969/70,1,2,False,octavos de final
+362,Dynamo Kyiv,1967/68,3,2,True,fase de grupos
+685,Dynamo Kyiv,1967/68,2,3,False,octavos de final
+1593,Eintracht Frankfurt,2022/23,7,8,True,fase de grupos
+425,Eintracht Frankfurt,2022/23,0,5,False,octavos de final
+424,Eintracht Frankfurt,1959/60,5,2,True,octavos de final
+161,Eintracht Frankfurt,1959/60,9,3,True,cuartos de final
+279,Eintracht Frankfurt,1959/60,6,3,True,semifinal
+1282,Elbasan,1984/85,0,6,False,fase de grupos
+138,Esbjerg,1980/81,3,2,True,fase de grupos
+554,Esbjerg,1980/81,2,3,False,octavos de final
+137,Esbjerg,1966/67,0,6,False,fase de grupos
+553,Esbjerg,1962/63,0,5,False,octavos de final
+140,Essen,1955/56,1,5,False,octavos de final
+1006,Etar,1991/92,1,3,False,octavos de final
+824,Everton,1970/71,9,2,True,fase de grupos
+719,Everton,1970/71,2,2,True,octavos de final
+349,Everton,1970/71,1,1,False,cuartos de final
+1139,FC Porto,2023/24,15,8,True,fase de grupos
+921,FC Porto,2023/24,1,1,False,octavos de final
+1138,FC Porto,2022/23,12,7,True,fase de grupos
+920,FC Porto,2022/23,0,1,False,octavos de final
+1137,FC Porto,2021/22,4,11,False,fase de grupos
+1136,FC Porto,2020/21,10,3,True,fase de grupos
+919,FC Porto,2020/21,4,4,True,octavos de final
+483,FC Porto,2020/21,1,2,False,cuartos de final
+1135,FC Porto,2018/19,15,6,True,fase de grupos
+918,FC Porto,2018/19,4,3,True,octavos de final
+482,FC Porto,2018/19,1,6,False,cuartos de final
+1134,FC Porto,2017/18,15,10,True,fase de grupos
+917,FC Porto,2017/18,0,5,False,octavos de final
+1133,FC Porto,2016/17,9,3,True,fase de grupos
+916,FC Porto,2016/17,0,3,False,octavos de final
+1132,FC Porto,2015/16,9,8,False,fase de grupos
+1131,FC Porto,2014/15,16,4,True,fase de grupos
+915,FC Porto,2014/15,5,1,True,octavos de final
+481,FC Porto,2014/15,4,7,False,cuartos de final
+1130,FC Porto,2013/14,4,7,False,fase de grupos
+1129,FC Porto,2012/13,10,4,True,fase de grupos
+914,FC Porto,2012/13,1,2,False,octavos de final
+1128,FC Porto,2011/12,7,7,False,fase de grupos
+1127,FC Porto,2009/10,8,3,True,fase de grupos
+913,FC Porto,2009/10,2,6,False,octavos de final
+1126,FC Porto,2008/09,9,8,True,fase de grupos
+912,FC Porto,2008/09,2,2,True,octavos de final
+480,FC Porto,2008/09,2,3,False,cuartos de final
+1125,FC Porto,2007/08,8,7,True,fase de grupos
+911,FC Porto,2007/08,1,1,False,octavos de final
+1124,FC Porto,2006/07,9,4,True,fase de grupos
+910,FC Porto,2006/07,2,3,False,octavos de final
+1123,FC Porto,2005/06,8,9,False,fase de grupos
+1122,FC Porto,2004/05,4,6,True,fase de grupos
+909,FC Porto,2004/05,2,4,False,octavos de final
+1121,FC Porto,2003/04,9,8,True,fase de grupos
+908,FC Porto,2003/04,3,2,True,octavos de final
+479,FC Porto,2003/04,4,2,True,cuartos de final
+238,FC Porto,2003/04,1,0,True,semifinal
+1120,FC Porto,2001/02,7,5,True,fase de grupos
+907,FC Porto,2001/02,3,7,False,octavos de final
+1119,FC Porto,1999/00,9,6,True,fase de grupos
+906,FC Porto,1999/00,8,8,True,octavos de final
+478,FC Porto,1999/00,2,3,False,cuartos de final
+905,FC Porto,1998/99,11,9,False,octavos de final
+904,FC Porto,1997/98,3,11,False,octavos de final
+903,FC Porto,1996/97,12,4,True,octavos de final
+477,FC Porto,1996/97,0,4,False,cuartos de final
+902,FC Porto,1995/96,6,5,False,octavos de final
+1118,FC Porto,1993/94,2,0,True,fase de grupos
+901,FC Porto,1993/94,1,0,True,octavos de final
+476,FC Porto,1993/94,10,6,True,cuartos de final
+237,FC Porto,1993/94,0,3,False,semifinal
+900,FC Porto,1992/93,9,1,True,octavos de final
+475,FC Porto,1992/93,6,2,True,cuartos de final
+236,FC Porto,1992/93,5,5,False,semifinal
+1117,FC Porto,1990/91,13,1,True,fase de grupos
+899,FC Porto,1990/91,4,0,True,octavos de final
+474,FC Porto,1990/91,1,3,False,cuartos de final
+1116,FC Porto,1988/89,3,2,True,fase de grupos
+898,FC Porto,1988/89,2,5,False,octavos de final
+1115,FC Porto,1987/88,6,0,True,fase de grupos
+897,FC Porto,1987/88,2,4,False,octavos de final
+1114,FC Porto,1986/87,10,0,True,fase de grupos
+896,FC Porto,1986/87,3,1,True,octavos de final
+473,FC Porto,1986/87,2,1,True,cuartos de final
+235,FC Porto,1986/87,4,2,True,semifinal
+1113,FC Porto,1985/86,2,0,True,fase de grupos
+895,FC Porto,1985/86,3,3,False,octavos de final
+1112,FC Porto,1979/80,1,0,True,fase de grupos
+894,FC Porto,1979/80,2,2,False,octavos de final
+1111,FC Porto,1978/79,5,7,False,fase de grupos
+603,FCSB,2013/14,2,10,False,fase de grupos
+602,FCSB,2008/09,3,12,False,fase de grupos
+601,FCSB,2007/08,4,10,False,fase de grupos
+600,FCSB,2006/07,7,11,False,fase de grupos
+303,FCSB,1996/97,5,15,False,octavos de final
+302,FCSB,1995/96,2,5,False,octavos de final
+301,FCSB,1994/95,7,6,False,octavos de final
+599,FCSB,1993/94,4,4,True,fase de grupos
+300,FCSB,1993/94,2,4,False,octavos de final
+598,FCSB,1989/90,5,0,True,fase de grupos
+299,FCSB,1989/90,2,5,False,octavos de final
+597,FCSB,1988/89,10,3,True,fase de grupos
+298,FCSB,1988/89,2,1,True,octavos de final
+470,FCSB,1988/89,5,2,True,cuartos de final
+232,FCSB,1988/89,5,1,True,semifinal
+596,FCSB,1987/88,4,2,True,fase de grupos
+297,FCSB,1987/88,5,1,True,octavos de final
+469,FCSB,1987/88,3,2,True,cuartos de final
+231,FCSB,1987/88,0,2,False,semifinal
+296,FCSB,1986/87,1,3,False,octavos de final
+595,FCSB,1985/86,5,2,True,fase de grupos
+295,FCSB,1985/86,4,2,True,octavos de final
+468,FCSB,1985/86,1,0,True,cuartos de final
+230,FCSB,1985/86,3,1,True,semifinal
+594,FCSB,1976/77,2,3,False,fase de grupos
+593,FCSB,1968/69,3,5,False,fase de grupos
+294,FCSB,1957/58,6,8,False,octavos de final
+549,Fenerbahçe,2008/09,4,11,False,fase de grupos
+548,Fenerbahçe,2007/08,8,6,True,fase de grupos
+391,Fenerbahçe,2007/08,5,5,True,octavos de final
+551,Fenerbahçe,2007/08,2,3,False,cuartos de final
+547,Fenerbahçe,2005/06,7,14,False,fase de grupos
+546,Fenerbahçe,2004/05,10,13,False,fase de grupos
+545,Fenerbahçe,2001/02,3,12,False,fase de grupos
+390,Fenerbahçe,1996/97,3,6,False,octavos de final
+544,Fenerbahçe,1989/90,2,5,False,fase de grupos
+543,Fenerbahçe,1985/86,3,2,True,fase de grupos
+389,Fenerbahçe,1985/86,2,5,False,octavos de final
+542,Fenerbahçe,1983/84,0,5,False,fase de grupos
+541,Fenerbahçe,1978/79,3,7,False,fase de grupos
+540,Fenerbahçe,1975/76,1,7,False,fase de grupos
+539,Fenerbahçe,1974/75,5,2,True,fase de grupos
+388,Fenerbahçe,1974/75,1,4,False,octavos de final
+538,Fenerbahçe,1970/71,0,5,False,fase de grupos
+537,Fenerbahçe,1968/69,2,1,True,fase de grupos
+387,Fenerbahçe,1968/69,0,4,False,octavos de final
+386,Fenerbahçe,1961/62,1,3,False,octavos de final
+385,Fenerbahçe,1959/60,4,8,False,octavos de final
+660,Ferencváros,2020/21,5,17,False,fase de grupos
+651,Ferencváros,1995/96,9,19,False,octavos de final
+650,Ferencváros,1992/93,1,4,False,octavos de final
+659,Ferencváros,1981/82,3,5,False,fase de grupos
+658,Ferencváros,1976/77,11,3,True,fase de grupos
+649,Ferencváros,1976/77,1,4,False,octavos de final
+657,Ferencváros,1969/70,5,3,True,fase de grupos
+648,Ferencváros,1969/70,0,6,False,octavos de final
+647,Ferencváros,1965/66,3,1,True,octavos de final
+314,Ferencváros,1965/66,1,5,False,cuartos de final
+679,Feyenoord,2023/24,9,10,False,fase de grupos
+678,Feyenoord,2017/18,5,14,False,fase de grupos
+677,Feyenoord,2002/03,4,8,False,fase de grupos
+676,Feyenoord,2001/02,7,14,False,fase de grupos
+675,Feyenoord,1999/00,7,6,True,fase de grupos
+529,Feyenoord,1999/00,7,7,False,octavos de final
+528,Feyenoord,1997/98,8,10,False,octavos de final
+674,Feyenoord,1993/94,3,1,True,fase de grupos
+527,Feyenoord,1993/94,0,1,False,octavos de final
+673,Feyenoord,1984/85,1,2,False,fase de grupos
+672,Feyenoord,1974/75,11,1,True,fase de grupos
+526,Feyenoord,1974/75,0,3,False,octavos de final
+671,Feyenoord,1971/72,17,0,True,fase de grupos
+525,Feyenoord,1971/72,5,0,True,octavos de final
+252,Feyenoord,1971/72,2,5,False,cuartos de final
+670,Feyenoord,1970/71,1,1,False,fase de grupos
+669,Feyenoord,1969/70,16,2,True,fase de grupos
+524,Feyenoord,1969/70,2,1,True,octavos de final
+251,Feyenoord,1969/70,2,1,True,cuartos de final
+111,Feyenoord,1969/70,2,0,True,semifinal
+523,Feyenoord,1962/63,4,3,True,octavos de final
+250,Feyenoord,1962/63,2,1,True,cuartos de final
+110,Feyenoord,1962/63,1,3,False,semifinal
+522,Feyenoord,1961/62,2,4,False,octavos de final
+687,Fiorentina,2009/10,14,7,True,fase de grupos
+220,Fiorentina,2009/10,4,4,False,octavos de final
+686,Fiorentina,2008/09,5,8,False,fase de grupos
+685,Fiorentina,1999/00,9,7,True,fase de grupos
+219,Fiorentina,1999/00,7,8,False,octavos de final
+684,Fiorentina,1969/70,3,1,True,fase de grupos
+218,Fiorentina,1969/70,2,1,True,octavos de final
+109,Fiorentina,1969/70,1,3,False,cuartos de final
+217,Fiorentina,1956/57,2,1,True,octavos de final
+108,Fiorentina,1956/57,5,3,True,cuartos de final
+61,Fiorentina,1956/57,1,0,True,semifinal
+1007,Flamurtari,1991/92,1,1,False,octavos de final
+624,Floriana,1993/94,0,2,False,fase de grupos
+623,Floriana,1977/78,1,5,False,fase de grupos
+622,Floriana,1975/76,0,8,False,fase de grupos
+621,Floriana,1973/74,0,10,False,fase de grupos
+620,Floriana,1970/71,0,9,False,fase de grupos
+619,Floriana,1968/69,1,3,False,fase de grupos
+1013,Fram,1991/92,2,2,False,octavos de final
+990,Fram,1989/90,0,5,False,fase de grupos
+989,Fram,1987/88,0,10,False,fase de grupos
+988,Fram,1973/74,2,11,False,fase de grupos
+481,Fredrikstad,1960/61,0,4,False,octavos de final
+764,Galatasaray,2023/24,10,13,False,fase de grupos
+763,Galatasaray,2019/20,1,14,False,fase de grupos
+762,Galatasaray,2018/19,5,8,False,fase de grupos
+761,Galatasaray,2015/16,6,10,False,fase de grupos
+760,Galatasaray,2014/15,4,19,False,fase de grupos
+759,Galatasaray,2013/14,8,14,True,fase de grupos
+552,Galatasaray,2013/14,1,3,False,octavos de final
+758,Galatasaray,2012/13,7,6,True,fase de grupos
+551,Galatasaray,2012/13,4,3,True,octavos de final
+268,Galatasaray,2012/13,3,5,False,cuartos de final
+757,Galatasaray,2006/07,7,12,False,fase de grupos
+756,Galatasaray,2003/04,6,8,False,fase de grupos
+755,Galatasaray,2002/03,5,10,False,fase de grupos
+754,Galatasaray,2001/02,5,4,True,fase de grupos
+550,Galatasaray,2001/02,5,6,False,octavos de final
+753,Galatasaray,2000/01,10,13,True,fase de grupos
+549,Galatasaray,2000/01,6,6,True,octavos de final
+267,Galatasaray,2000/01,3,5,False,cuartos de final
+752,Galatasaray,1999/00,10,13,False,fase de grupos
+548,Galatasaray,1998/99,8,8,False,octavos de final
+547,Galatasaray,1997/98,4,11,False,octavos de final
+546,Galatasaray,1994/95,3,9,False,octavos de final
+751,Galatasaray,1993/94,3,1,True,fase de grupos
+545,Galatasaray,1993/94,3,3,True,octavos de final
+266,Galatasaray,1993/94,1,10,False,cuartos de final
+750,Galatasaray,1988/89,3,2,True,fase de grupos
+544,Galatasaray,1988/89,5,3,True,octavos de final
+265,Galatasaray,1988/89,2,1,True,cuartos de final
+239,Galatasaray,1988/89,1,5,False,semifinal
+749,Galatasaray,1987/88,2,3,False,fase de grupos
+748,Galatasaray,1973/74,0,1,False,fase de grupos
+747,Galatasaray,1972/73,1,7,False,fase de grupos
+746,Galatasaray,1971/72,1,4,False,fase de grupos
+745,Galatasaray,1969/70,5,2,True,fase de grupos
+543,Galatasaray,1969/70,1,1,True,octavos de final
+264,Galatasaray,1969/70,1,3,False,cuartos de final
+542,Galatasaray,1963/64,4,4,False,octavos de final
+541,Galatasaray,1962/63,4,2,True,octavos de final
+263,Galatasaray,1962/63,1,8,False,cuartos de final
+1496,Genk,2019/20,5,20,False,fase de grupos
+1495,Genk,2011/12,2,16,False,fase de grupos
+1494,Genk,2002/03,2,9,False,fase de grupos
+1568,Gent,2015/16,8,7,True,fase de grupos
+1135,Gent,2015/16,2,4,False,octavos de final
+882,Glentoran,1992/93,0,8,False,octavos de final
+531,Glentoran,1988/89,1,3,False,fase de grupos
+530,Glentoran,1981/82,5,1,True,fase de grupos
+881,Glentoran,1981/82,2,3,False,octavos de final
+529,Glentoran,1977/78,2,1,True,fase de grupos
+880,Glentoran,1977/78,0,6,False,octavos de final
+528,Glentoran,1970/71,1,4,False,fase de grupos
+527,Glentoran,1968/69,2,5,False,fase de grupos
+526,Glentoran,1967/68,1,1,False,fase de grupos
+177,Grasshoppers,1996/97,8,5,False,octavos de final
+176,Grasshoppers,1995/96,3,13,False,octavos de final
+175,Grasshoppers,1991/92,1,4,False,octavos de final
+854,Grasshoppers,1990/91,2,5,False,fase de grupos
+853,Grasshoppers,1984/85,4,3,True,fase de grupos
+174,Grasshoppers,1984/85,2,6,False,octavos de final
+852,Grasshoppers,1983/84,2,3,False,fase de grupos
+851,Grasshoppers,1982/83,0,4,False,fase de grupos
+850,Grasshoppers,1978/79,13,3,True,fase de grupos
+173,Grasshoppers,1978/79,3,3,True,octavos de final
+73,Grasshoppers,1978/79,2,5,False,cuartos de final
+849,Grasshoppers,1971/72,9,1,True,fase de grupos
+172,Grasshoppers,1971/72,0,5,False,octavos de final
+171,Grasshoppers,1956/57,2,1,True,octavos de final
+72,Grasshoppers,1956/57,3,5,False,cuartos de final
+40,Gwardia,1955/56,1,4,False,octavos de final
+1219,Győr,1983/84,4,1,True,fase de grupos
+623,Győr,1983/84,4,9,False,octavos de final
+1218,Győr,1982/83,3,5,False,fase de grupos
+622,Győr,1964/65,8,7,True,octavos de final
+310,Győr,1964/65,2,1,True,cuartos de final
+139,Győr,1964/65,0,5,False,semifinal
+70,Górnik Zabrze,1988/89,7,1,True,fase de grupos
+594,Górnik Zabrze,1988/89,2,4,False,octavos de final
+69,Górnik Zabrze,1987/88,3,2,True,fase de grupos
+593,Górnik Zabrze,1987/88,2,4,False,octavos de final
+68,Górnik Zabrze,1986/87,1,3,False,fase de grupos
+67,Górnik Zabrze,1985/86,2,6,False,fase de grupos
+66,Górnik Zabrze,1972/73,10,0,True,fase de grupos
+592,Górnik Zabrze,1972/73,2,3,False,octavos de final
+65,Górnik Zabrze,1971/72,2,3,False,fase de grupos
+64,Górnik Zabrze,1967/68,4,0,True,fase de grupos
+591,Górnik Zabrze,1967/68,3,2,True,octavos de final
+328,Górnik Zabrze,1967/68,1,2,False,cuartos de final
+63,Górnik Zabrze,1966/67,6,4,True,fase de grupos
+590,Górnik Zabrze,1966/67,3,4,False,octavos de final
+589,Górnik Zabrze,1965/66,1,5,False,octavos de final
+588,Górnik Zabrze,1963/64,3,4,False,octavos de final
+361,Göteborg,1997/98,4,9,False,octavos de final
+360,Göteborg,1996/97,7,13,False,octavos de final
+359,Göteborg,1994/95,10,7,True,octavos de final
+465,Göteborg,1994/95,2,2,False,cuartos de final
+358,Göteborg,1992/93,3,2,True,octavos de final
+464,Göteborg,1992/93,4,0,True,cuartos de final
+234,Göteborg,1992/93,7,8,False,semifinal
+357,Göteborg,1991/92,1,1,True,octavos de final
+463,Göteborg,1991/92,2,4,False,cuartos de final
+823,Göteborg,1988/89,7,2,True,fase de grupos
+356,Göteborg,1988/89,4,0,True,octavos de final
+462,Göteborg,1988/89,2,5,False,cuartos de final
+822,Göteborg,1985/86,5,3,True,fase de grupos
+355,Göteborg,1985/86,5,2,True,octavos de final
+461,Göteborg,1985/86,2,2,True,cuartos de final
+233,Göteborg,1985/86,3,3,False,semifinal
+821,Göteborg,1984/85,17,0,True,fase de grupos
+354,Göteborg,1984/85,2,2,True,octavos de final
+460,Göteborg,1984/85,2,3,False,cuartos de final
+820,Göteborg,1983/84,2,4,False,fase de grupos
+819,Göteborg,1970/71,1,6,False,fase de grupos
+353,Göteborg,1959/60,5,7,False,octavos de final
+352,Göteborg,1958/59,2,6,False,octavos de final
+1548,H. Tel Aviv,2010/11,7,10,False,fase de grupos
+856,HJK,1998/99,8,12,False,octavos de final
+1029,HJK,1993/94,0,6,False,fase de grupos
+855,HJK,1991/92,0,4,False,octavos de final
+1028,HJK,1989/90,0,5,False,fase de grupos
+1027,HJK,1988/89,2,3,False,fase de grupos
+1026,HJK,1986/87,3,3,False,fase de grupos
+1025,HJK,1982/83,3,2,True,fase de grupos
+854,HJK,1982/83,1,5,False,octavos de final
+1024,HJK,1979/80,2,16,False,fase de grupos
+1023,HJK,1974/75,4,2,True,fase de grupos
+853,HJK,1974/75,0,4,False,octavos de final
+364,HPS,1958/59,0,7,False,octavos de final
+862,Hajduk Split,1994/95,5,7,True,octavos de final
+418,Hajduk Split,1994/95,0,3,False,cuartos de final
+865,Hajduk Split,1979/80,2,0,True,fase de grupos
+861,Hajduk Split,1979/80,4,2,True,octavos de final
+417,Hajduk Split,1979/80,3,3,False,cuartos de final
+864,Hajduk Split,1975/76,8,0,True,fase de grupos
+860,Hajduk Split,1975/76,7,2,True,octavos de final
+416,Hajduk Split,1975/76,2,3,False,cuartos de final
+863,Hajduk Split,1974/75,9,1,True,fase de grupos
+859,Hajduk Split,1974/75,5,6,False,octavos de final
+862,Hajduk Split,1971/72,1,1,False,fase de grupos
+141,Haka,1978/79,1,4,False,fase de grupos
+140,Haka,1966/67,1,12,False,fase de grupos
+518,Haka,1961/62,1,7,False,octavos de final
+1104,Halmstad,1980/81,2,3,False,fase de grupos
+1103,Halmstad,1977/78,2,3,False,fase de grupos
+1170,Hamburg,2006/07,7,15,False,fase de grupos
+1169,Hamburg,2000/01,9,9,False,fase de grupos
+480,Hamburg,1983/84,3,5,False,octavos de final
+1168,Hamburg,1982/83,3,1,True,fase de grupos
+479,Hamburg,1982/83,5,0,True,octavos de final
+200,Hamburg,1982/83,4,2,True,cuartos de final
+96,Hamburg,1982/83,3,2,True,semifinal
+1167,Hamburg,1979/80,5,1,True,fase de grupos
+478,Hamburg,1979/80,6,3,True,octavos de final
+199,Hamburg,1979/80,3,3,True,cuartos de final
+95,Hamburg,1979/80,5,3,True,semifinal
+477,Hamburg,1960/61,8,3,True,octavos de final
+198,Hamburg,1960/61,5,4,True,cuartos de final
+94,Hamburg,1960/61,2,3,False,semifinal
+1014,Hamrun Spartans,1991/92,0,10,False,octavos de final
+1244,Hamrun Spartans,1988/89,2,3,False,fase de grupos
+1243,Hamrun Spartans,1987/88,0,7,False,fase de grupos
+1242,Hamrun Spartans,1983/84,0,6,False,fase de grupos
+1005,Hansa,1991/92,1,3,False,octavos de final
+1466,Heerenveen,2000/01,3,9,False,fase de grupos
+1431,Helsingborg,2000/01,6,14,False,fase de grupos
+1430,Hertha,1999/00,7,10,True,fase de grupos
+1088,Hertha,1999/00,3,8,False,octavos de final
+39,Hibernian,1955/56,5,1,True,octavos de final
+22,Hibernian,1955/56,4,1,True,cuartos de final
+14,Hibernian,1955/56,0,3,False,semifinal
+453,Hibernians,1982/83,2,7,False,fase de grupos
+452,Hibernians,1981/82,2,10,False,fase de grupos
+451,Hibernians,1979/80,1,2,False,fase de grupos
+450,Hibernians,1969/70,2,6,False,fase de grupos
+449,Hibernians,1967/68,0,4,False,fase de grupos
+1579,Hoffenheim,2018/19,11,14,False,fase de grupos
+1193,Honvéd,1993/94,3,5,False,fase de grupos
+170,Honvéd,1991/92,3,1,True,octavos de final
+503,Honvéd,1991/92,3,4,False,cuartos de final
+1192,Honvéd,1989/90,2,2,True,fase de grupos
+169,Honvéd,1989/90,0,9,False,octavos de final
+1191,Honvéd,1988/89,1,4,False,fase de grupos
+1190,Honvéd,1986/87,3,6,False,fase de grupos
+1189,Honvéd,1985/86,5,1,True,fase de grupos
+168,Honvéd,1985/86,2,4,False,octavos de final
+1188,Honvéd,1984/85,3,4,False,fase de grupos
+1187,Honvéd,1980/81,3,0,True,fase de grupos
+167,Honvéd,1980/81,0,3,False,octavos de final
+166,Honvéd,1956/57,5,6,False,octavos de final
+457,Hradec Králové,1960/61,1,0,True,octavos de final
+201,Hradec Králové,1960/61,1,5,False,cuartos de final
+290,Hvidovre,1982/83,4,7,False,fase de grupos
+289,Hvidovre,1974/75,1,2,False,fase de grupos
+288,Hvidovre,1967/68,5,4,True,fase de grupos
+700,Hvidovre,1967/68,3,6,False,octavos de final
+458,IFK Malmö,1960/61,2,1,True,octavos de final
+196,IFK Malmö,1960/61,0,4,False,cuartos de final
+62,Inter,2023/24,8,5,True,fase de grupos
+586,Inter,2023/24,2,2,False,octavos de final
+61,Inter,2022/23,10,7,True,fase de grupos
+585,Inter,2022/23,1,0,True,octavos de final
+283,Inter,2022/23,5,3,True,cuartos de final
+120,Inter,2022/23,3,0,True,semifinal
+60,Inter,2021/22,8,5,True,fase de grupos
+584,Inter,2021/22,1,2,False,octavos de final
+59,Inter,2020/21,7,9,False,fase de grupos
+58,Inter,2019/20,10,9,False,fase de grupos
+57,Inter,2018/19,6,7,False,fase de grupos
+56,Inter,2011/12,8,7,True,fase de grupos
+583,Inter,2011/12,2,2,False,octavos de final
+55,Inter,2010/11,12,11,True,fase de grupos
+582,Inter,2010/11,3,3,True,octavos de final
+282,Inter,2010/11,3,7,False,cuartos de final
+54,Inter,2009/10,7,6,True,fase de grupos
+581,Inter,2009/10,3,1,True,octavos de final
+281,Inter,2009/10,2,0,True,cuartos de final
+119,Inter,2009/10,3,2,True,semifinal
+53,Inter,2008/09,8,7,True,fase de grupos
+580,Inter,2008/09,0,2,False,octavos de final
+52,Inter,2007/08,12,4,True,fase de grupos
+579,Inter,2007/08,0,3,False,octavos de final
+51,Inter,2006/07,5,5,True,fase de grupos
+578,Inter,2006/07,2,2,False,octavos de final
+50,Inter,2005/06,9,4,True,fase de grupos
+577,Inter,2005/06,3,2,True,octavos de final
+280,Inter,2005/06,2,2,False,cuartos de final
+49,Inter,2004/05,14,3,True,fase de grupos
+576,Inter,2004/05,4,2,True,octavos de final
+279,Inter,2004/05,0,5,False,cuartos de final
+48,Inter,2003/04,8,11,False,fase de grupos
+47,Inter,2002/03,12,8,True,fase de grupos
+575,Inter,2002/03,11,8,True,octavos de final
+278,Inter,2002/03,2,2,True,cuartos de final
+118,Inter,2002/03,1,1,False,semifinal
+574,Inter,1998/99,9,5,True,octavos de final
+277,Inter,1998/99,1,3,False,cuartos de final
+46,Inter,1989/90,1,2,False,fase de grupos
+45,Inter,1980/81,3,1,True,fase de grupos
+573,Inter,1980/81,3,2,True,octavos de final
+276,Inter,1980/81,2,1,True,cuartos de final
+117,Inter,1980/81,1,2,False,semifinal
+44,Inter,1971/72,6,4,True,fase de grupos
+572,Inter,1971/72,4,2,True,octavos de final
+275,Inter,1971/72,2,2,True,cuartos de final
+116,Inter,1971/72,0,0,True,semifinal
+43,Inter,1966/67,1,0,True,fase de grupos
+571,Inter,1966/67,4,1,True,octavos de final
+274,Inter,1966/67,3,0,True,cuartos de final
+115,Inter,1966/67,3,2,True,semifinal
+570,Inter,1965/66,3,2,True,octavos de final
+273,Inter,1965/66,5,1,True,cuartos de final
+114,Inter,1965/66,1,2,False,semifinal
+569,Inter,1964/65,7,0,True,octavos de final
+272,Inter,1964/65,3,2,True,cuartos de final
+113,Inter,1964/65,4,3,True,semifinal
+568,Inter,1963/64,4,1,True,octavos de final
+271,Inter,1963/64,4,1,True,cuartos de final
+112,Inter,1963/64,4,2,True,semifinal
+555,Ipswich,1962/63,2,4,False,octavos de final
+781,Jena,1970/71,5,0,True,fase de grupos
+736,Jena,1970/71,4,2,True,octavos de final
+348,Jena,1970/71,3,6,False,cuartos de final
+448,Jeunesse Esch,1988/89,1,7,False,fase de grupos
+447,Jeunesse Esch,1987/88,2,4,False,fase de grupos
+446,Jeunesse Esch,1985/86,1,9,False,fase de grupos
+445,Jeunesse Esch,1983/84,1,6,False,fase de grupos
+444,Jeunesse Esch,1980/81,0,9,False,fase de grupos
+443,Jeunesse Esch,1977/78,1,11,False,fase de grupos
+442,Jeunesse Esch,1976/77,3,11,False,fase de grupos
+441,Jeunesse Esch,1975/76,1,8,False,fase de grupos
+440,Jeunesse Esch,1974/75,2,5,False,fase de grupos
+439,Jeunesse Esch,1973/74,1,3,False,fase de grupos
+438,Jeunesse Esch,1970/71,1,7,False,fase de grupos
+437,Jeunesse Esch,1968/69,3,5,False,fase de grupos
+436,Jeunesse Esch,1967/68,4,4,False,fase de grupos
+428,Jeunesse Esch,1963/64,4,7,False,octavos de final
+427,Jeunesse Esch,1959/60,2,12,False,octavos de final
+361,Juventus,2022/23,9,13,False,fase de grupos
+360,Juventus,2021/22,10,6,True,fase de grupos
+517,Juventus,2021/22,1,4,False,octavos de final
+359,Juventus,2020/21,14,4,True,fase de grupos
+516,Juventus,2020/21,4,4,False,octavos de final
+358,Juventus,2019/20,12,4,True,fase de grupos
+515,Juventus,2019/20,2,2,False,octavos de final
+357,Juventus,2018/19,9,4,True,fase de grupos
+514,Juventus,2018/19,3,2,True,octavos de final
+241,Juventus,2018/19,2,3,False,cuartos de final
+356,Juventus,2017/18,7,5,True,fase de grupos
+513,Juventus,2017/18,4,3,True,octavos de final
+240,Juventus,2017/18,3,4,False,cuartos de final
+355,Juventus,2016/17,11,2,True,fase de grupos
+512,Juventus,2016/17,3,0,True,octavos de final
+239,Juventus,2016/17,3,0,True,cuartos de final
+159,Juventus,2016/17,4,1,True,semifinal
+354,Juventus,2015/16,6,3,True,fase de grupos
+511,Juventus,2015/16,4,6,False,octavos de final
+353,Juventus,2014/15,7,4,True,fase de grupos
+510,Juventus,2014/15,5,1,True,octavos de final
+238,Juventus,2014/15,1,0,True,cuartos de final
+158,Juventus,2014/15,3,2,True,semifinal
+352,Juventus,2013/14,9,9,False,fase de grupos
+351,Juventus,2012/13,12,4,True,fase de grupos
+509,Juventus,2012/13,5,0,True,octavos de final
+237,Juventus,2012/13,0,4,False,cuartos de final
+350,Juventus,2009/10,4,7,False,fase de grupos
+349,Juventus,2008/09,7,3,True,fase de grupos
+508,Juventus,2008/09,2,3,False,octavos de final
+348,Juventus,2005/06,12,5,True,fase de grupos
+507,Juventus,2005/06,4,4,True,octavos de final
+236,Juventus,2005/06,0,2,False,cuartos de final
+347,Juventus,2004/05,6,1,True,fase de grupos
+506,Juventus,2004/05,2,1,True,octavos de final
+235,Juventus,2004/05,1,2,False,cuartos de final
+346,Juventus,2003/04,15,6,True,fase de grupos
+505,Juventus,2003/04,0,2,False,octavos de final
+345,Juventus,2002/03,12,3,True,fase de grupos
+504,Juventus,2002/03,11,11,True,octavos de final
+234,Juventus,2002/03,3,2,True,cuartos de final
+157,Juventus,2002/03,4,3,True,semifinal
+344,Juventus,2001/02,11,8,True,fase de grupos
+503,Juventus,2001/02,7,8,False,octavos de final
+343,Juventus,2000/01,9,12,False,fase de grupos
+502,Juventus,1998/99,7,5,True,octavos de final
+233,Juventus,1998/99,3,2,True,cuartos de final
+156,Juventus,1998/99,3,4,False,semifinal
+501,Juventus,1997/98,12,8,True,octavos de final
+232,Juventus,1997/98,5,2,True,cuartos de final
+155,Juventus,1997/98,6,4,True,semifinal
+500,Juventus,1996/97,11,1,True,octavos de final
+231,Juventus,1996/97,3,1,True,cuartos de final
+154,Juventus,1996/97,6,2,True,semifinal
+499,Juventus,1995/96,15,4,True,octavos de final
+230,Juventus,1995/96,2,1,True,cuartos de final
+153,Juventus,1995/96,4,3,True,semifinal
+342,Juventus,1986/87,11,0,True,fase de grupos
+498,Juventus,1986/87,1,1,False,octavos de final
+341,Juventus,1985/86,9,1,True,fase de grupos
+497,Juventus,1985/86,2,0,True,octavos de final
+229,Juventus,1985/86,1,2,False,cuartos de final
+340,Juventus,1984/85,6,1,True,fase de grupos
+496,Juventus,1984/85,6,2,True,octavos de final
+228,Juventus,1984/85,3,1,True,cuartos de final
+152,Juventus,1984/85,3,2,True,semifinal
+339,Juventus,1982/83,7,4,True,fase de grupos
+495,Juventus,1982/83,3,1,True,octavos de final
+227,Juventus,1982/83,5,2,True,cuartos de final
+151,Juventus,1982/83,4,2,True,semifinal
+338,Juventus,1981/82,2,1,True,fase de grupos
+494,Juventus,1981/82,2,4,False,octavos de final
+337,Juventus,1978/79,1,2,False,fase de grupos
+336,Juventus,1977/78,5,0,True,fase de grupos
+493,Juventus,1977/78,6,0,True,octavos de final
+226,Juventus,1977/78,2,2,True,cuartos de final
+150,Juventus,1977/78,1,2,False,semifinal
+335,Juventus,1975/76,3,2,True,fase de grupos
+492,Juventus,1975/76,2,4,False,octavos de final
+334,Juventus,1973/74,3,4,False,fase de grupos
+333,Juventus,1972/73,3,1,True,fase de grupos
+491,Juventus,1972/73,2,0,True,octavos de final
+225,Juventus,1972/73,2,2,True,cuartos de final
+149,Juventus,1972/73,3,1,True,semifinal
+332,Juventus,1967/68,2,0,True,fase de grupos
+490,Juventus,1967/68,1,0,True,octavos de final
+224,Juventus,1967/68,4,3,True,cuartos de final
+148,Juventus,1967/68,0,3,False,semifinal
+489,Juventus,1961/62,7,1,True,octavos de final
+223,Juventus,1961/62,2,4,False,cuartos de final
+1353,KA,1990/91,1,3,False,fase de grupos
+655,KB,1981/82,3,3,True,fase de grupos
+944,KB,1981/82,2,4,False,octavos de final
+654,KB,1975/76,1,5,False,fase de grupos
+653,KB,1969/70,2,5,False,fase de grupos
+780,KPV,1970/71,0,14,False,fase de grupos
+143,KR Reykjavik,1969/70,2,16,False,fase de grupos
+142,KR Reykjavik,1966/67,4,8,False,fase de grupos
+1016,Kaiserslautern,1998/99,12,6,True,octavos de final
+501,Kaiserslautern,1998/99,0,6,False,cuartos de final
+1015,Kaiserslautern,1991/92,3,1,True,octavos de final
+500,Kaiserslautern,1991/92,3,3,False,cuartos de final
+1296,Karviná,1986/87,3,2,True,fase de grupos
+989,Karviná,1986/87,1,3,False,octavos de final
+784,Keflavík,1974/75,1,9,False,fase de grupos
+783,Keflavík,1972/73,0,4,False,fase de grupos
+782,Keflavík,1970/71,2,9,False,fase de grupos
+642,Kilmarnock,1965/66,3,7,False,octavos de final
+1063,Košice,1997/98,2,13,False,octavos de final
+1591,Krasnodar,2020/21,6,11,False,fase de grupos
+390,KuPS,1977/78,2,9,False,fase de grupos
+389,KuPS,1975/76,2,7,False,fase de grupos
+388,KuPS,1967/68,0,5,False,fase de grupos
+1161,Köln,1978/79,5,2,True,fase de grupos
+598,Köln,1978/79,5,0,True,octavos de final
+313,Köln,1978/79,2,1,True,cuartos de final
+214,Köln,1978/79,3,4,False,semifinal
+597,Köln,1964/65,3,2,True,octavos de final
+312,Köln,1964/65,2,2,False,cuartos de final
+1102,Køge,1976/77,1,7,False,fase de grupos
+973,Lahti,1992/93,1,2,False,octavos de final
+1248,Lahti,1990/91,1,7,False,fase de grupos
+1247,Lahti,1987/88,2,6,False,fase de grupos
+1246,Lahti,1985/86,4,2,True,fase de grupos
+972,Lahti,1985/86,4,3,True,octavos de final
+466,Lahti,1985/86,0,1,False,cuartos de final
+1245,Lahti,1983/84,0,4,False,fase de grupos
+1346,Larissa,1988/89,3,3,False,fase de grupos
+1429,Lazio,2023/24,7,7,True,fase de grupos
+1092,Lazio,2023/24,1,3,False,octavos de final
+1428,Lazio,2020/21,11,7,True,fase de grupos
+1091,Lazio,2020/21,2,6,False,octavos de final
+1427,Lazio,2007/08,8,11,False,fase de grupos
+1426,Lazio,2003/04,6,10,False,fase de grupos
+1425,Lazio,2001/02,4,7,False,fase de grupos
+1424,Lazio,2000/01,13,4,True,fase de grupos
+1090,Lazio,2000/01,9,11,False,octavos de final
+1423,Lazio,1999/00,13,3,True,fase de grupos
+1089,Lazio,1999/00,10,4,True,octavos de final
+523,Lazio,1999/00,3,5,False,cuartos de final
+1239,Lech Poznań,1993/94,7,2,True,fase de grupos
+997,Lech Poznań,1993/94,2,7,False,octavos de final
+996,Lech Poznań,1992/93,2,0,True,octavos de final
+504,Lech Poznań,1992/93,0,4,False,cuartos de final
+1238,Lech Poznań,1990/91,5,1,True,fase de grupos
+995,Lech Poznań,1990/91,4,8,False,octavos de final
+1237,Lech Poznań,1984/85,0,5,False,fase de grupos
+1236,Lech Poznań,1983/84,2,4,False,fase de grupos
+690,Leeds,2000/01,9,6,True,fase de grupos
+715,Leeds,2000/01,12,10,True,octavos de final
+338,Leeds,2000/01,3,2,True,cuartos de final
+172,Leeds,2000/01,0,3,False,semifinal
+714,Leeds,1992/93,5,4,True,octavos de final
+337,Leeds,1992/93,2,4,False,cuartos de final
+689,Leeds,1974/75,5,3,True,fase de grupos
+713,Leeds,1974/75,5,1,True,octavos de final
+336,Leeds,1974/75,4,0,True,cuartos de final
+171,Leeds,1974/75,3,2,True,semifinal
+688,Leeds,1969/70,16,0,True,fase de grupos
+712,Leeds,1969/70,6,0,True,octavos de final
+335,Leeds,1969/70,2,0,True,cuartos de final
+170,Leeds,1969/70,1,3,False,semifinal
+663,Legia,2016/17,9,24,False,fase de grupos
+718,Legia,1995/96,5,8,True,octavos de final
+341,Legia,1995/96,0,3,False,cuartos de final
+662,Legia,1970/71,6,1,True,fase de grupos
+717,Legia,1970/71,2,1,True,octavos de final
+340,Legia,1970/71,2,2,False,cuartos de final
+661,Legia,1969/70,10,1,True,fase de grupos
+716,Legia,1969/70,3,1,True,octavos de final
+339,Legia,1969/70,3,1,True,cuartos de final
+173,Legia,1969/70,0,2,False,semifinal
+1571,Leicester,2016/17,7,6,True,fase de grupos
+1136,Leicester,2016/17,3,2,True,octavos de final
+564,Leicester,2016/17,1,2,False,cuartos de final
+1577,Leipzig,2023/24,13,10,True,fase de grupos
+1140,Leipzig,2023/24,1,2,False,octavos de final
+1576,Leipzig,2022/23,13,9,True,fase de grupos
+1139,Leipzig,2022/23,1,8,False,octavos de final
+1575,Leipzig,2021/22,15,14,False,fase de grupos
+1574,Leipzig,2020/21,11,12,True,fase de grupos
+1138,Leipzig,2020/21,0,4,False,octavos de final
+1573,Leipzig,2019/20,10,8,True,fase de grupos
+1137,Leipzig,2019/20,4,0,True,octavos de final
+565,Leipzig,2019/20,2,1,True,cuartos de final
+278,Leipzig,2019/20,0,3,False,semifinal
+1572,Leipzig,2017/18,10,11,False,fase de grupos
+1502,Lens,2023/24,6,11,False,fase de grupos
+1501,Lens,2002/03,11,11,False,fase de grupos
+1066,Lens,1998/99,5,6,False,octavos de final
+1402,Leverkusen,2022/23,4,8,False,fase de grupos
+1401,Leverkusen,2019/20,5,9,False,fase de grupos
+1400,Leverkusen,2016/17,8,4,True,fase de grupos
+1060,Leverkusen,2016/17,2,4,False,octavos de final
+1399,Leverkusen,2015/16,13,12,False,fase de grupos
+1398,Leverkusen,2014/15,7,4,True,fase de grupos
+1059,Leverkusen,2014/15,1,1,False,octavos de final
+1397,Leverkusen,2013/14,9,10,True,fase de grupos
+1058,Leverkusen,2013/14,1,6,False,octavos de final
+1396,Leverkusen,2011/12,8,8,True,fase de grupos
+1057,Leverkusen,2011/12,2,10,False,octavos de final
+1395,Leverkusen,2004/05,13,7,True,fase de grupos
+1056,Leverkusen,2004/05,2,6,False,octavos de final
+1394,Leverkusen,2002/03,9,11,True,fase de grupos
+1055,Leverkusen,2002/03,5,15,False,octavos de final
+1393,Leverkusen,2001/02,10,9,True,fase de grupos
+1054,Leverkusen,2001/02,11,11,True,octavos de final
+521,Leverkusen,2001/02,4,3,True,cuartos de final
+257,Leverkusen,2001/02,3,3,True,semifinal
+1392,Leverkusen,2000/01,9,12,False,fase de grupos
+1391,Leverkusen,1999/00,7,7,False,fase de grupos
+1053,Leverkusen,1997/98,11,7,True,octavos de final
+520,Leverkusen,1997/98,1,4,False,cuartos de final
+1042,Levski,2006/07,1,17,False,fase de grupos
+1041,Levski,1993/94,4,4,True,fase de grupos
+646,Levski,1993/94,2,3,False,octavos de final
+1040,Levski,1988/89,2,7,False,fase de grupos
+1039,Levski,1984/85,3,3,True,fase de grupos
+645,Levski,1984/85,3,3,False,octavos de final
+1038,Levski,1979/80,0,3,False,fase de grupos
+1037,Levski,1977/78,5,2,True,fase de grupos
+644,Levski,1977/78,2,4,False,octavos de final
+1036,Levski,1974/75,1,7,False,fase de grupos
+643,Levski,1965/66,4,5,False,octavos de final
+1065,Lierse,1997/98,3,12,False,octavos de final
+1478,Lille,2021/22,7,4,True,fase de grupos
+1117,Lille,2021/22,1,4,False,octavos de final
+1477,Lille,2019/20,4,14,False,fase de grupos
+1476,Lille,2012/13,4,13,False,fase de grupos
+1475,Lille,2011/12,6,6,False,fase de grupos
+1474,Lille,2006/07,8,5,True,fase de grupos
+1116,Lille,2006/07,0,2,False,octavos de final
+1473,Lille,2005/06,1,2,False,fase de grupos
+1472,Lille,2001/02,7,7,False,fase de grupos
+1110,Lillestrøm,1990/91,1,3,False,fase de grupos
+1109,Lillestrøm,1987/88,5,3,True,fase de grupos
+886,Lillestrøm,1987/88,0,1,False,octavos de final
+1108,Lillestrøm,1978/79,1,0,True,fase de grupos
+885,Lillestrøm,1978/79,1,4,False,octavos de final
+1107,Lillestrøm,1977/78,2,4,False,fase de grupos
+1199,Limerick,1980/81,2,7,False,fase de grupos
+286,Linfield,1993/94,3,4,False,fase de grupos
+285,Linfield,1989/90,1,3,False,fase de grupos
+284,Linfield,1987/88,3,5,False,fase de grupos
+283,Linfield,1986/87,1,2,False,fase de grupos
+282,Linfield,1985/86,3,4,False,fase de grupos
+281,Linfield,1984/85,1,1,True,fase de grupos
+676,Linfield,1984/85,4,5,False,octavos de final
+280,Linfield,1983/84,2,6,False,fase de grupos
+279,Linfield,1982/83,2,2,False,fase de grupos
+278,Linfield,1980/81,0,3,False,fase de grupos
+277,Linfield,1978/79,0,1,False,fase de grupos
+276,Linfield,1975/76,1,10,False,fase de grupos
+275,Linfield,1971/72,2,5,False,fase de grupos
+274,Linfield,1969/70,2,12,False,fase de grupos
+273,Linfield,1966/67,9,4,True,fase de grupos
+675,Linfield,1966/67,5,2,True,octavos de final
+326,Linfield,1966/67,2,3,False,cuartos de final
+1031,Linz,1974/75,0,5,False,fase de grupos
+26,Liverpool,2022/23,17,6,True,fase de grupos
+621,Liverpool,2022/23,2,6,False,octavos de final
+25,Liverpool,2021/22,17,6,True,fase de grupos
+620,Liverpool,2021/22,2,1,True,octavos de final
+309,Liverpool,2021/22,6,4,True,cuartos de final
+138,Liverpool,2021/22,5,2,True,semifinal
+24,Liverpool,2020/21,10,3,True,fase de grupos
+619,Liverpool,2020/21,4,0,True,octavos de final
+308,Liverpool,2020/21,1,3,False,cuartos de final
+23,Liverpool,2019/20,13,8,True,fase de grupos
+618,Liverpool,2019/20,2,4,False,octavos de final
+22,Liverpool,2018/19,9,7,True,fase de grupos
+617,Liverpool,2018/19,3,1,True,octavos de final
+307,Liverpool,2018/19,6,1,True,cuartos de final
+137,Liverpool,2018/19,4,3,True,semifinal
+21,Liverpool,2017/18,23,6,True,fase de grupos
+616,Liverpool,2017/18,5,0,True,octavos de final
+306,Liverpool,2017/18,5,1,True,cuartos de final
+136,Liverpool,2017/18,7,6,True,semifinal
+20,Liverpool,2014/15,5,9,False,fase de grupos
+19,Liverpool,2009/10,5,7,False,fase de grupos
+18,Liverpool,2008/09,11,5,True,fase de grupos
+615,Liverpool,2008/09,5,0,True,octavos de final
+305,Liverpool,2008/09,5,7,False,cuartos de final
+17,Liverpool,2007/08,18,5,True,fase de grupos
+614,Liverpool,2007/08,3,0,True,octavos de final
+304,Liverpool,2007/08,5,3,True,cuartos de final
+135,Liverpool,2007/08,3,4,False,semifinal
+16,Liverpool,2006/07,11,5,True,fase de grupos
+613,Liverpool,2006/07,2,2,True,octavos de final
+303,Liverpool,2006/07,4,0,True,cuartos de final
+134,Liverpool,2006/07,1,1,True,semifinal
+15,Liverpool,2005/06,6,1,True,fase de grupos
+612,Liverpool,2005/06,0,3,False,octavos de final
+14,Liverpool,2004/05,6,3,True,fase de grupos
+611,Liverpool,2004/05,6,2,True,octavos de final
+302,Liverpool,2004/05,2,1,True,cuartos de final
+133,Liverpool,2004/05,1,0,True,semifinal
+13,Liverpool,2002/03,12,8,False,fase de grupos
+12,Liverpool,2001/02,7,3,True,fase de grupos
+610,Liverpool,2001/02,4,4,True,octavos de final
+301,Liverpool,2001/02,3,4,False,cuartos de final
+11,Liverpool,1984/85,5,0,True,fase de grupos
+609,Liverpool,1984/85,3,2,True,octavos de final
+300,Liverpool,1984/85,5,2,True,cuartos de final
+132,Liverpool,1984/85,5,0,True,semifinal
+10,Liverpool,1983/84,6,0,True,fase de grupos
+608,Liverpool,1983/84,1,0,True,octavos de final
+299,Liverpool,1983/84,5,1,True,cuartos de final
+131,Liverpool,1983/84,3,1,True,semifinal
+9,Liverpool,1982/83,5,1,True,fase de grupos
+607,Liverpool,1982/83,5,1,True,octavos de final
+298,Liverpool,1982/83,3,4,False,cuartos de final
+8,Liverpool,1981/82,8,0,True,fase de grupos
+606,Liverpool,1981/82,5,4,True,octavos de final
+297,Liverpool,1981/82,1,2,False,cuartos de final
+7,Liverpool,1980/81,11,2,True,fase de grupos
+605,Liverpool,1980/81,5,0,True,octavos de final
+296,Liverpool,1980/81,6,1,True,cuartos de final
+130,Liverpool,1980/81,1,1,True,semifinal
+6,Liverpool,1979/80,2,4,False,fase de grupos
+5,Liverpool,1978/79,0,2,False,fase de grupos
+604,Liverpool,1977/78,6,3,True,octavos de final
+295,Liverpool,1977/78,6,2,True,cuartos de final
+129,Liverpool,1977/78,4,2,True,semifinal
+4,Liverpool,1976/77,7,0,True,fase de grupos
+603,Liverpool,1976/77,3,1,True,octavos de final
+294,Liverpool,1976/77,3,2,True,cuartos de final
+128,Liverpool,1976/77,6,1,True,semifinal
+3,Liverpool,1973/74,3,1,True,fase de grupos
+602,Liverpool,1973/74,2,4,False,octavos de final
+2,Liverpool,1966/67,5,3,True,fase de grupos
+601,Liverpool,1966/67,3,7,False,octavos de final
+600,Liverpool,1964/65,4,0,True,octavos de final
+293,Liverpool,1964/65,2,2,True,cuartos de final
+127,Liverpool,1964/65,3,4,False,semifinal
+1493,Lokomotiv Moskva,2020/21,5,10,False,fase de grupos
+1492,Lokomotiv Moskva,2019/20,4,11,False,fase de grupos
+1491,Lokomotiv Moskva,2018/19,4,12,False,fase de grupos
+1490,Lokomotiv Moskva,2003/04,7,7,True,fase de grupos
+1111,Lokomotiv Moskva,2003/04,2,2,False,octavos de final
+1489,Lokomotiv Moskva,2002/03,5,7,True,fase de grupos
+1110,Lokomotiv Moskva,2002/03,3,10,False,octavos de final
+1488,Lokomotiv Moskva,2001/02,9,9,False,fase de grupos
+1153,Lokomotiv Sofia,1978/79,4,3,True,fase de grupos
+596,Lokomotiv Sofia,1978/79,0,5,False,octavos de final
+595,Lokomotiv Sofia,1964/65,7,8,False,octavos de final
+1567,Ludogorets,2016/17,6,15,False,fase de grupos
+1566,Ludogorets,2014/15,5,14,False,fase de grupos
+1348,Luzern,1989/90,0,5,False,fase de grupos
+656,Lyn,1969/70,0,16,False,fase de grupos
+599,Lyn,1964/65,1,8,False,octavos de final
+965,Lyngby,1992/93,0,3,False,octavos de final
+1265,Lyngby,1984/85,6,0,True,fase de grupos
+964,Lyngby,1984/85,1,2,False,octavos de final
+1447,Lyon,2019/20,9,8,True,fase de grupos
+1108,Lyon,2019/20,2,2,True,octavos de final
+547,Lyon,2019/20,3,1,True,cuartos de final
+272,Lyon,2019/20,0,3,False,semifinal
+1446,Lyon,2018/19,12,11,True,fase de grupos
+1107,Lyon,2018/19,1,5,False,octavos de final
+1445,Lyon,2016/17,5,3,False,fase de grupos
+1444,Lyon,2015/16,5,9,False,fase de grupos
+1443,Lyon,2011/12,9,7,True,fase de grupos
+1106,Lyon,2011/12,1,1,False,octavos de final
+1442,Lyon,2010/11,11,10,True,fase de grupos
+1105,Lyon,2010/11,1,4,False,octavos de final
+1441,Lyon,2009/10,12,3,True,fase de grupos
+1104,Lyon,2009/10,2,1,True,octavos de final
+546,Lyon,2009/10,3,2,True,cuartos de final
+271,Lyon,2009/10,0,4,False,semifinal
+1440,Lyon,2008/09,14,10,True,fase de grupos
+1103,Lyon,2008/09,3,6,False,octavos de final
+1439,Lyon,2007/08,11,10,True,fase de grupos
+1102,Lyon,2007/08,1,2,False,octavos de final
+1438,Lyon,2006/07,12,3,True,fase de grupos
+1101,Lyon,2006/07,0,2,False,octavos de final
+1437,Lyon,2005/06,13,4,True,fase de grupos
+1100,Lyon,2005/06,5,0,True,octavos de final
+545,Lyon,2005/06,1,3,False,cuartos de final
+1436,Lyon,2004/05,17,8,True,fase de grupos
+1099,Lyon,2004/05,10,2,True,octavos de final
+544,Lyon,2004/05,2,2,False,cuartos de final
+1435,Lyon,2003/04,7,7,True,fase de grupos
+1098,Lyon,2003/04,2,0,True,octavos de final
+543,Lyon,2003/04,2,4,False,cuartos de final
+1434,Lyon,2002/03,12,9,False,fase de grupos
+1433,Lyon,2001/02,10,9,False,fase de grupos
+1432,Lyon,2000/01,8,6,True,fase de grupos
+1097,Lyon,2000/01,8,4,False,octavos de final
+1331,MTK,1987/88,2,4,False,fase de grupos
+146,MTK,1958/59,2,6,False,octavos de final
+145,MTK,1955/56,10,4,True,octavos de final
+21,MTK,1955/56,6,8,False,cuartos de final
+1505,Maccabi Haifa,2022/23,7,21,False,fase de grupos
+1504,Maccabi Haifa,2009/10,0,8,False,fase de grupos
+1503,Maccabi Haifa,2002/03,12,12,False,fase de grupos
+1508,Maccabi Tel Aviv,2015/16,1,16,False,fase de grupos
+1507,Maccabi Tel Aviv,2004/05,4,12,False,fase de grupos
+1029,Maccabi Tel Aviv,1992/93,0,4,False,octavos de final
+950,Magdeburg,1975/76,3,3,False,fase de grupos
+780,Magdeburg,1974/75,3,5,False,octavos de final
+949,Magdeburg,1972/73,9,1,True,fase de grupos
+779,Magdeburg,1972/73,0,2,False,octavos de final
+1479,Mallorca,2001/02,4,9,False,fase de grupos
+42,Malmö,2021/22,1,14,False,fase de grupos
+41,Malmö,2015/16,1,21,False,fase de grupos
+40,Malmö,2014/15,4,15,False,fase de grupos
+39,Malmö,1990/91,5,4,True,fase de grupos
+868,Malmö,1990/91,2,2,False,octavos de final
+38,Malmö,1989/90,2,1,True,fase de grupos
+867,Malmö,1989/90,1,4,False,octavos de final
+37,Malmö,1987/88,1,2,False,fase de grupos
+36,Malmö,1978/79,1,0,True,fase de grupos
+866,Malmö,1978/79,2,0,True,octavos de final
+426,Malmö,1978/79,5,3,True,cuartos de final
+215,Malmö,1978/79,1,0,True,semifinal
+35,Malmö,1976/77,2,3,False,fase de grupos
+34,Malmö,1975/76,3,3,True,fase de grupos
+865,Malmö,1975/76,1,2,False,octavos de final
+33,Malmö,1972/73,2,4,False,fase de grupos
+32,Malmö,1971/72,1,4,False,fase de grupos
+31,Malmö,1968/69,3,5,False,fase de grupos
+30,Malmö,1966/67,1,5,False,fase de grupos
+618,Man City,2023/24,18,7,True,fase de grupos
+1133,Man City,2023/24,6,2,True,octavos de final
+562,Man City,2023/24,4,4,False,cuartos de final
+617,Man City,2022/23,14,2,True,fase de grupos
+1132,Man City,2022/23,8,1,True,octavos de final
+561,Man City,2022/23,4,1,True,cuartos de final
+277,Man City,2022/23,5,1,True,semifinal
+616,Man City,2021/22,18,10,True,fase de grupos
+1131,Man City,2021/22,5,0,True,octavos de final
+560,Man City,2021/22,1,0,True,cuartos de final
+276,Man City,2021/22,5,6,False,semifinal
+615,Man City,2020/21,13,1,True,fase de grupos
+1130,Man City,2020/21,4,0,True,octavos de final
+559,Man City,2020/21,4,2,True,cuartos de final
+275,Man City,2020/21,4,1,True,semifinal
+614,Man City,2019/20,16,4,True,fase de grupos
+1129,Man City,2019/20,4,2,True,octavos de final
+558,Man City,2019/20,1,3,False,cuartos de final
+613,Man City,2018/19,16,6,True,fase de grupos
+1128,Man City,2018/19,10,2,True,octavos de final
+557,Man City,2018/19,4,4,False,cuartos de final
+612,Man City,2017/18,14,5,True,fase de grupos
+1127,Man City,2017/18,5,2,True,octavos de final
+556,Man City,2017/18,1,5,False,cuartos de final
+611,Man City,2016/17,12,10,True,fase de grupos
+1126,Man City,2016/17,6,6,False,octavos de final
+610,Man City,2015/16,12,8,True,fase de grupos
+1125,Man City,2015/16,3,1,True,octavos de final
+555,Man City,2015/16,3,2,True,cuartos de final
+274,Man City,2015/16,0,1,False,semifinal
+609,Man City,2014/15,9,8,True,fase de grupos
+1124,Man City,2014/15,1,3,False,octavos de final
+608,Man City,2013/14,18,10,True,fase de grupos
+1123,Man City,2013/14,1,4,False,octavos de final
+607,Man City,2012/13,7,11,False,fase de grupos
+606,Man City,2011/12,9,6,False,fase de grupos
+605,Man City,1968/69,1,2,False,fase de grupos
+518,Man United,2023/24,12,15,False,fase de grupos
+517,Man United,2021/22,11,8,True,fase de grupos
+279,Man United,2021/22,1,2,False,octavos de final
+516,Man United,2020/21,15,10,False,fase de grupos
+515,Man United,2018/19,7,4,True,fase de grupos
+278,Man United,2018/19,3,3,True,octavos de final
+98,Man United,2018/19,0,4,False,cuartos de final
+514,Man United,2017/18,12,3,True,fase de grupos
+277,Man United,2017/18,1,2,False,octavos de final
+513,Man United,2015/16,7,7,False,fase de grupos
+512,Man United,2013/14,12,3,True,fase de grupos
+276,Man United,2013/14,3,2,True,octavos de final
+97,Man United,2013/14,2,4,False,cuartos de final
+511,Man United,2012/13,9,6,True,fase de grupos
+275,Man United,2012/13,2,3,False,octavos de final
+510,Man United,2011/12,11,8,False,fase de grupos
+509,Man United,2010/11,7,1,True,fase de grupos
+274,Man United,2010/11,2,1,True,octavos de final
+96,Man United,2010/11,3,1,True,cuartos de final
+60,Man United,2010/11,6,1,True,semifinal
+508,Man United,2009/10,10,6,True,fase de grupos
+273,Man United,2009/10,7,2,True,octavos de final
+95,Man United,2009/10,4,4,False,cuartos de final
+507,Man United,2008/09,9,3,True,fase de grupos
+272,Man United,2008/09,2,0,True,octavos de final
+94,Man United,2008/09,3,2,True,cuartos de final
+59,Man United,2008/09,4,1,True,semifinal
+506,Man United,2007/08,13,4,True,fase de grupos
+271,Man United,2007/08,2,1,True,octavos de final
+93,Man United,2007/08,3,0,True,cuartos de final
+58,Man United,2007/08,1,0,True,semifinal
+505,Man United,2006/07,10,5,True,fase de grupos
+270,Man United,2006/07,2,0,True,octavos de final
+92,Man United,2006/07,8,3,True,cuartos de final
+57,Man United,2006/07,3,5,False,semifinal
+504,Man United,2005/06,3,4,False,fase de grupos
+503,Man United,2004/05,14,9,True,fase de grupos
+269,Man United,2004/05,0,2,False,octavos de final
+502,Man United,2003/04,13,2,True,fase de grupos
+268,Man United,2003/04,2,3,False,octavos de final
+501,Man United,2002/03,16,8,True,fase de grupos
+267,Man United,2002/03,11,5,True,octavos de final
+91,Man United,2002/03,5,6,False,cuartos de final
+500,Man United,2001/02,10,6,True,fase de grupos
+266,Man United,2001/02,13,3,True,octavos de final
+90,Man United,2001/02,5,2,True,cuartos de final
+56,Man United,2001/02,3,3,False,semifinal
+499,Man United,2000/01,11,7,True,fase de grupos
+265,Man United,2000/01,10,3,True,octavos de final
+89,Man United,2000/01,1,3,False,cuartos de final
+498,Man United,1999/00,9,4,True,fase de grupos
+264,Man United,1999/00,10,4,True,octavos de final
+88,Man United,1999/00,2,3,False,cuartos de final
+263,Man United,1998/99,20,11,True,octavos de final
+87,Man United,1998/99,3,1,True,cuartos de final
+55,Man United,1998/99,4,3,True,semifinal
+262,Man United,1997/98,14,5,True,octavos de final
+86,Man United,1997/98,1,1,False,cuartos de final
+261,Man United,1996/97,6,3,True,octavos de final
+85,Man United,1996/97,4,0,True,cuartos de final
+54,Man United,1996/97,0,2,False,semifinal
+260,Man United,1994/95,11,11,False,octavos de final
+497,Man United,1993/94,5,3,True,fase de grupos
+259,Man United,1993/94,3,3,False,octavos de final
+496,Man United,1968/69,10,2,True,fase de grupos
+258,Man United,1968/69,4,3,True,octavos de final
+84,Man United,1968/69,3,0,True,cuartos de final
+53,Man United,1968/69,1,2,False,semifinal
+495,Man United,1967/68,4,0,True,fase de grupos
+257,Man United,1967/68,2,1,True,octavos de final
+83,Man United,1967/68,2,1,True,cuartos de final
+52,Man United,1967/68,4,3,True,semifinal
+256,Man United,1965/66,5,1,True,octavos de final
+82,Man United,1965/66,8,3,True,cuartos de final
+51,Man United,1965/66,1,2,False,semifinal
+255,Man United,1957/58,3,1,True,octavos de final
+81,Man United,1957/58,5,4,True,cuartos de final
+50,Man United,1957/58,2,5,False,semifinal
+254,Man United,1956/57,3,2,True,octavos de final
+80,Man United,1956/57,6,5,True,cuartos de final
+49,Man United,1956/57,3,5,False,semifinal
+1422,Maribor,2017/18,3,16,False,fase de grupos
+1421,Maribor,2014/15,4,13,False,fase de grupos
+1420,Maribor,1999/00,2,12,False,fase de grupos
+919,Marseille,2022/23,8,8,False,fase de grupos
+918,Marseille,2020/21,2,13,False,fase de grupos
+917,Marseille,2013/14,5,14,False,fase de grupos
+916,Marseille,2011/12,7,4,True,fase de grupos
+774,Marseille,2011/12,2,2,True,octavos de final
+497,Marseille,2011/12,0,4,False,cuartos de final
+915,Marseille,2010/11,12,3,True,fase de grupos
+773,Marseille,2010/11,1,2,False,octavos de final
+914,Marseille,2009/10,10,10,False,fase de grupos
+913,Marseille,2008/09,5,7,False,fase de grupos
+912,Marseille,2007/08,6,9,False,fase de grupos
+911,Marseille,2003/04,9,11,False,fase de grupos
+910,Marseille,1999/00,10,8,True,fase de grupos
+772,Marseille,1999/00,2,11,False,octavos de final
+771,Marseille,1992/93,8,0,True,octavos de final
+496,Marseille,1992/93,2,0,True,cuartos de final
+242,Marseille,1992/93,14,4,True,semifinal
+770,Marseille,1991/92,10,0,True,octavos de final
+495,Marseille,1991/92,4,4,False,cuartos de final
+909,Marseille,1990/91,5,1,True,fase de grupos
+769,Marseille,1990/91,8,4,True,octavos de final
+494,Marseille,1990/91,2,1,True,cuartos de final
+241,Marseille,1990/91,5,2,True,semifinal
+908,Marseille,1989/90,4,1,True,fase de grupos
+768,Marseille,1989/90,3,1,True,octavos de final
+493,Marseille,1989/90,4,1,True,cuartos de final
+240,Marseille,1989/90,2,2,False,semifinal
+907,Marseille,1972/73,1,3,False,fase de grupos
+906,Marseille,1971/72,3,2,True,fase de grupos
+767,Marseille,1971/72,2,6,False,octavos de final
+1347,Mechelen,1989/90,5,0,True,fase de grupos
+994,Mechelen,1989/90,4,1,True,octavos de final
+498,Mechelen,1989/90,0,2,False,cuartos de final
+1588,Midtjylland,2020/21,4,13,False,fase de grupos
+571,Milan,2023/24,5,8,False,fase de grupos
+570,Milan,2022/23,12,7,True,fase de grupos
+124,Milan,2022/23,1,0,True,octavos de final
+17,Milan,2022/23,2,1,True,cuartos de final
+13,Milan,2022/23,0,3,False,semifinal
+569,Milan,2021/22,6,9,False,fase de grupos
+568,Milan,2013/14,8,5,True,fase de grupos
+123,Milan,2013/14,1,5,False,octavos de final
+567,Milan,2012/13,7,6,True,fase de grupos
+122,Milan,2012/13,2,4,False,octavos de final
+566,Milan,2011/12,11,8,True,fase de grupos
+121,Milan,2011/12,4,3,True,octavos de final
+16,Milan,2011/12,1,3,False,cuartos de final
+565,Milan,2010/11,7,7,True,fase de grupos
+120,Milan,2010/11,0,1,False,octavos de final
+564,Milan,2009/10,8,7,True,fase de grupos
+119,Milan,2009/10,2,7,False,octavos de final
+563,Milan,2007/08,12,5,True,fase de grupos
+118,Milan,2007/08,0,2,False,octavos de final
+562,Milan,2006/07,8,4,True,fase de grupos
+117,Milan,2006/07,1,0,True,octavos de final
+15,Milan,2006/07,4,2,True,cuartos de final
+12,Milan,2006/07,5,3,True,semifinal
+561,Milan,2005/06,12,6,True,fase de grupos
+116,Milan,2005/06,5,2,True,octavos de final
+14,Milan,2005/06,3,1,True,cuartos de final
+11,Milan,2005/06,0,1,False,semifinal
+560,Milan,2004/05,10,3,True,fase de grupos
+115,Milan,2004/05,2,0,True,octavos de final
+13,Milan,2004/05,5,0,True,cuartos de final
+10,Milan,2004/05,3,3,True,semifinal
+559,Milan,2003/04,4,3,True,fase de grupos
+114,Milan,2003/04,4,1,True,octavos de final
+12,Milan,2003/04,4,5,False,cuartos de final
+558,Milan,2002/03,12,7,True,fase de grupos
+113,Milan,2002/03,5,4,True,octavos de final
+11,Milan,2002/03,3,2,True,cuartos de final
+9,Milan,2002/03,1,1,True,semifinal
+557,Milan,2000/01,12,6,True,fase de grupos
+112,Milan,2000/01,6,7,False,octavos de final
+556,Milan,1999/00,6,7,False,fase de grupos
+111,Milan,1996/97,13,11,False,octavos de final
+110,Milan,1994/95,6,5,True,octavos de final
+10,Milan,1994/95,2,0,True,cuartos de final
+8,Milan,1994/95,3,0,True,semifinal
+555,Milan,1993/94,1,0,True,fase de grupos
+109,Milan,1993/94,7,0,True,octavos de final
+9,Milan,1993/94,6,2,True,cuartos de final
+7,Milan,1993/94,3,0,True,semifinal
+108,Milan,1992/93,7,0,True,octavos de final
+8,Milan,1992/93,5,0,True,cuartos de final
+6,Milan,1992/93,11,1,True,semifinal
+107,Milan,1990/91,1,0,True,octavos de final
+7,Milan,1990/91,1,2,False,cuartos de final
+554,Milan,1989/90,5,0,True,fase de grupos
+106,Milan,1989/90,2,1,True,octavos de final
+6,Milan,1989/90,2,0,True,cuartos de final
+5,Milan,1989/90,2,2,True,semifinal
+553,Milan,1988/89,7,2,True,fase de grupos
+105,Milan,1988/89,2,2,True,octavos de final
+5,Milan,1988/89,1,0,True,cuartos de final
+4,Milan,1988/89,6,1,True,semifinal
+552,Milan,1979/80,0,1,False,fase de grupos
+551,Milan,1969/70,8,0,True,fase de grupos
+104,Milan,1969/70,1,2,False,octavos de final
+550,Milan,1968/69,5,3,False,fase de grupos
+4,Milan,1968/69,1,0,True,cuartos de final
+3,Milan,1968/69,2,1,True,semifinal
+103,Milan,1963/64,6,3,True,octavos de final
+3,Milan,1963/64,3,4,False,cuartos de final
+102,Milan,1962/63,4,2,True,octavos de final
+2,Milan,1962/63,8,1,True,cuartos de final
+2,Milan,1962/63,5,2,True,semifinal
+101,Milan,1959/60,1,7,False,octavos de final
+100,Milan,1957/58,6,1,True,octavos de final
+1,Milan,1957/58,5,2,True,cuartos de final
+1,Milan,1957/58,5,2,True,semifinal
+99,Milan,1955/56,7,5,True,octavos de final
+0,Milan,1955/56,8,3,True,cuartos de final
+0,Milan,1955/56,4,5,False,semifinal
+1388,Molde,1999/00,6,14,False,fase de grupos
+1150,Monaco,2018/19,2,14,False,fase de grupos
+1149,Monaco,2017/18,6,16,False,fase de grupos
+1148,Monaco,2016/17,9,7,True,fase de grupos
+565,Monaco,2016/17,6,6,True,octavos de final
+490,Monaco,2016/17,6,3,True,cuartos de final
+254,Monaco,2016/17,1,4,False,semifinal
+1147,Monaco,2014/15,4,1,True,fase de grupos
+564,Monaco,2014/15,3,3,True,octavos de final
+489,Monaco,2014/15,0,1,False,cuartos de final
+1146,Monaco,2004/05,10,4,True,fase de grupos
+563,Monaco,2004/05,0,3,False,octavos de final
+1145,Monaco,2003/04,15,6,True,fase de grupos
+562,Monaco,2003/04,2,2,True,octavos de final
+488,Monaco,2003/04,5,5,True,cuartos de final
+253,Monaco,2003/04,5,3,True,semifinal
+1144,Monaco,2000/01,13,10,False,fase de grupos
+561,Monaco,1997/98,15,8,True,octavos de final
+487,Monaco,1997/98,1,1,True,cuartos de final
+252,Monaco,1997/98,4,6,False,semifinal
+1143,Monaco,1993/94,2,1,True,fase de grupos
+560,Monaco,1993/94,4,2,True,octavos de final
+486,Monaco,1993/94,9,4,True,cuartos de final
+251,Monaco,1993/94,0,3,False,semifinal
+1142,Monaco,1988/89,2,1,True,fase de grupos
+559,Monaco,1988/89,6,2,True,octavos de final
+485,Monaco,1988/89,1,2,False,cuartos de final
+1141,Monaco,1982/83,0,2,False,fase de grupos
+1140,Monaco,1978/79,0,1,False,fase de grupos
+558,Monaco,1963/64,1,4,False,octavos de final
+1564,Montpellier,2012/13,6,12,False,fase de grupos
+1344,Moss,1988/89,0,4,False,fase de grupos
+1563,Málaga,2012/13,12,5,True,fase de grupos
+1122,Málaga,2012/13,2,1,True,octavos de final
+554,Málaga,2012/13,2,3,False,cuartos de final
+795,Mönchengladbach,2020/21,16,9,True,fase de grupos
+734,Mönchengladbach,2020/21,0,4,False,octavos de final
+794,Mönchengladbach,2016/17,5,12,False,fase de grupos
+793,Mönchengladbach,2015/16,8,12,False,fase de grupos
+792,Mönchengladbach,1977/78,4,1,True,fase de grupos
+733,Mönchengladbach,1977/78,8,1,True,octavos de final
+415,Mönchengladbach,1977/78,3,3,True,cuartos de final
+207,Mönchengladbach,1977/78,2,4,False,semifinal
+791,Mönchengladbach,1976/77,3,1,True,fase de grupos
+732,Mönchengladbach,1976/77,2,1,True,octavos de final
+414,Mönchengladbach,1976/77,3,2,True,cuartos de final
+206,Mönchengladbach,1976/77,2,1,True,semifinal
+790,Mönchengladbach,1975/76,7,2,True,fase de grupos
+731,Mönchengladbach,1975/76,4,2,True,octavos de final
+413,Mönchengladbach,1975/76,3,3,False,cuartos de final
+789,Mönchengladbach,1971/72,7,1,True,fase de grupos
+730,Mönchengladbach,1971/72,2,4,False,octavos de final
+788,Mönchengladbach,1970/71,16,0,True,fase de grupos
+729,Mönchengladbach,1970/71,2,2,False,octavos de final
+233,Nantes,2001/02,8,3,True,fase de grupos
+656,Nantes,2001/02,4,11,False,octavos de final
+655,Nantes,1995/96,8,6,True,octavos de final
+517,Nantes,1995/96,4,2,True,cuartos de final
+250,Nantes,1995/96,3,4,False,semifinal
+232,Nantes,1983/84,3,4,False,fase de grupos
+231,Nantes,1980/81,3,0,True,fase de grupos
+654,Nantes,1980/81,2,3,False,octavos de final
+230,Nantes,1977/78,1,1,True,fase de grupos
+653,Nantes,1977/78,2,3,False,octavos de final
+229,Nantes,1973/74,2,3,False,fase de grupos
+228,Nantes,1966/67,8,4,True,fase de grupos
+652,Nantes,1966/67,2,6,False,octavos de final
+1330,Napoli,2023/24,10,9,True,fase de grupos
+1003,Napoli,2023/24,2,4,False,octavos de final
+1329,Napoli,2022/23,20,6,True,fase de grupos
+1002,Napoli,2022/23,5,0,True,octavos de final
+567,Napoli,2022/23,1,2,False,cuartos de final
+1328,Napoli,2019/20,11,4,True,fase de grupos
+1001,Napoli,2019/20,2,4,False,octavos de final
+1327,Napoli,2018/19,7,5,False,fase de grupos
+1326,Napoli,2017/18,11,11,False,fase de grupos
+1325,Napoli,2016/17,11,8,True,fase de grupos
+1000,Napoli,2016/17,2,6,False,octavos de final
+1324,Napoli,2013/14,10,9,False,fase de grupos
+1323,Napoli,2011/12,10,6,True,fase de grupos
+999,Napoli,2011/12,4,5,False,octavos de final
+1322,Napoli,1990/91,5,0,True,fase de grupos
+998,Napoli,1990/91,0,0,False,octavos de final
+1321,Napoli,1987/88,1,3,False,fase de grupos
+1500,Newcastle,2023/24,6,7,False,fase de grupos
+1499,Newcastle,2002/03,6,8,True,fase de grupos
+1062,Newcastle,2002/03,10,13,False,octavos de final
+1061,Newcastle,1997/98,7,8,False,octavos de final
+199,Nice,1959/60,8,4,True,octavos de final
+71,Nice,1959/60,3,6,False,cuartos de final
+198,Nice,1956/57,6,4,True,octavos de final
+70,Nice,1956/57,2,6,False,cuartos de final
+1565,Nordsjælland,2012/13,4,22,False,fase de grupos
+181,Norrköping,1963/64,3,6,False,octavos de final
+180,Norrköping,1962/63,2,6,False,octavos de final
+179,Norrköping,1957/58,3,4,False,octavos de final
+178,Norrköping,1956/57,1,2,False,octavos de final
+1157,Nottm Forest,1980/81,0,2,False,fase de grupos
+1156,Nottm Forest,1979/80,3,1,True,fase de grupos
+884,Nottm Forest,1979/80,4,1,True,octavos de final
+428,Nottm Forest,1979/80,3,2,True,cuartos de final
+217,Nottm Forest,1979/80,2,1,True,semifinal
+1155,Nottm Forest,1978/79,2,0,True,fase de grupos
+883,Nottm Forest,1978/79,7,2,True,octavos de final
+427,Nottm Forest,1978/79,5,2,True,cuartos de final
+216,Nottm Forest,1978/79,4,3,True,semifinal
+604,Nürnberg,1968/69,1,5,False,fase de grupos
+482,Nürnberg,1961/62,3,1,True,octavos de final
+246,Nürnberg,1961/62,3,7,False,cuartos de final
+1160,OB,1990/91,1,10,False,fase de grupos
+1159,OB,1983/84,0,6,False,fase de grupos
+1158,OB,1978/79,3,4,False,fase de grupos
+1020,Olimpija Ljubljana,1992/93,0,7,False,octavos de final
+208,Olympiacos,2020/21,2,10,False,fase de grupos
+207,Olympiacos,2019/20,8,14,False,fase de grupos
+206,Olympiacos,2017/18,4,13,False,fase de grupos
+205,Olympiacos,2015/16,6,13,False,fase de grupos
+204,Olympiacos,2014/15,10,13,False,fase de grupos
+203,Olympiacos,2013/14,10,8,True,fase de grupos
+851,Olympiacos,2013/14,2,3,False,octavos de final
+202,Olympiacos,2012/13,9,9,False,fase de grupos
+201,Olympiacos,2011/12,8,6,False,fase de grupos
+200,Olympiacos,2009/10,4,5,True,fase de grupos
+850,Olympiacos,2009/10,1,3,False,octavos de final
+199,Olympiacos,2007/08,11,7,True,fase de grupos
+849,Olympiacos,2007/08,0,3,False,octavos de final
+198,Olympiacos,2006/07,6,11,False,fase de grupos
+197,Olympiacos,2005/06,7,13,False,fase de grupos
+196,Olympiacos,2004/05,5,5,False,fase de grupos
+195,Olympiacos,2003/04,6,13,False,fase de grupos
+194,Olympiacos,2002/03,11,17,False,fase de grupos
+193,Olympiacos,2001/02,6,12,False,fase de grupos
+192,Olympiacos,2000/01,6,5,False,fase de grupos
+191,Olympiacos,1999/00,9,12,False,fase de grupos
+848,Olympiacos,1998/99,8,6,True,octavos de final
+522,Olympiacos,1998/99,2,3,False,cuartos de final
+847,Olympiacos,1997/98,6,14,False,octavos de final
+190,Olympiacos,1987/88,2,3,False,fase de grupos
+189,Olympiacos,1983/84,2,0,True,fase de grupos
+846,Olympiacos,1983/84,1,3,False,octavos de final
+188,Olympiacos,1982/83,2,1,True,fase de grupos
+845,Olympiacos,1982/83,0,5,False,octavos de final
+187,Olympiacos,1981/82,2,3,False,fase de grupos
+186,Olympiacos,1980/81,2,7,False,fase de grupos
+185,Olympiacos,1975/76,2,3,False,fase de grupos
+184,Olympiacos,1974/75,3,1,True,fase de grupos
+844,Olympiacos,1974/75,4,5,False,octavos de final
+183,Olympiacos,1973/74,0,2,False,fase de grupos
+182,Olympiacos,1967/68,0,2,False,fase de grupos
+181,Olympiacos,1966/67,2,3,False,fase de grupos
+486,Olympiakos,1971/72,0,17,False,fase de grupos
+485,Olympiakos,1969/70,1,14,False,fase de grupos
+484,Olympiakos,1967/68,3,5,False,fase de grupos
+270,Omonoia,1989/90,2,9,False,fase de grupos
+269,Omonoia,1987/88,1,0,True,fase de grupos
+784,Omonoia,1987/88,1,5,False,octavos de final
+268,Omonoia,1985/86,10,0,True,fase de grupos
+783,Omonoia,1985/86,1,4,False,octavos de final
+267,Omonoia,1984/85,3,5,False,fase de grupos
+266,Omonoia,1983/84,4,4,False,fase de grupos
+265,Omonoia,1982/83,2,3,False,fase de grupos
+264,Omonoia,1981/82,0,4,False,fase de grupos
+263,Omonoia,1979/80,7,3,True,fase de grupos
+782,Omonoia,1979/80,4,10,False,octavos de final
+262,Omonoia,1978/79,2,2,False,fase de grupos
+261,Omonoia,1977/78,0,5,False,fase de grupos
+260,Omonoia,1976/77,1,3,False,fase de grupos
+259,Omonoia,1975/76,2,5,False,fase de grupos
+258,Omonoia,1972/73,3,2,True,fase de grupos
+781,Omonoia,1972/73,0,13,False,octavos de final
+257,Omonoia,1966/67,1,10,False,fase de grupos
+1201,Oulu,1981/82,0,8,False,fase de grupos
+1200,Oulu,1980/81,2,11,False,fase de grupos
+1562,Oţelul,2011/12,3,11,False,fase de grupos
+1085,PAOK,1985/86,2,5,False,fase de grupos
+1084,PAOK,1976/77,3,1,True,fase de grupos
+869,PAOK,1976/77,0,6,False,octavos de final
+1067,PSV,2023/24,8,10,True,fase de grupos
+17,PSV,2023/24,1,3,False,octavos de final
+1066,PSV,2018/19,6,13,False,fase de grupos
+1065,PSV,2016/17,4,11,False,fase de grupos
+1064,PSV,2015/16,8,7,True,fase de grupos
+16,PSV,2015/16,0,0,False,octavos de final
+1063,PSV,2008/09,5,14,False,fase de grupos
+1062,PSV,2007/08,3,6,False,fase de grupos
+1061,PSV,2006/07,6,6,True,fase de grupos
+15,PSV,2006/07,2,1,True,octavos de final
+292,PSV,2006/07,0,4,False,cuartos de final
+1060,PSV,2005/06,4,6,True,fase de grupos
+14,PSV,2005/06,0,5,False,octavos de final
+1059,PSV,2004/05,6,7,True,fase de grupos
+13,PSV,2004/05,3,0,True,octavos de final
+291,PSV,2004/05,2,2,True,cuartos de final
+205,PSV,2004/05,3,3,False,semifinal
+1058,PSV,2003/04,8,7,False,fase de grupos
+1057,PSV,2002/03,5,8,False,fase de grupos
+1056,PSV,2001/02,6,9,False,fase de grupos
+1055,PSV,2000/01,9,9,False,fase de grupos
+1054,PSV,1999/00,5,10,False,fase de grupos
+12,PSV,1998/99,10,11,False,octavos de final
+11,PSV,1997/98,9,8,False,octavos de final
+10,PSV,1992/93,8,0,True,octavos de final
+290,PSV,1992/93,3,1,True,cuartos de final
+204,PSV,1992/93,4,13,False,semifinal
+9,PSV,1991/92,3,2,True,octavos de final
+289,PSV,1991/92,0,2,False,cuartos de final
+1053,PSV,1989/90,5,0,True,fase de grupos
+8,PSV,1989/90,5,2,True,octavos de final
+288,PSV,1989/90,1,3,False,cuartos de final
+7,PSV,1988/89,5,2,True,octavos de final
+287,PSV,1988/89,2,3,False,cuartos de final
+1052,PSV,1987/88,3,2,True,fase de grupos
+6,PSV,1987/88,4,1,True,octavos de final
+286,PSV,1987/88,1,1,True,cuartos de final
+203,PSV,1987/88,1,1,True,semifinal
+1051,PSV,1986/87,0,2,False,fase de grupos
+1050,PSV,1978/79,7,3,True,fase de grupos
+5,PSV,1978/79,2,3,False,octavos de final
+1049,PSV,1976/77,7,1,True,fase de grupos
+4,PSV,1976/77,0,1,False,octavos de final
+1048,PSV,1975/76,10,1,True,fase de grupos
+3,PSV,1975/76,7,1,True,octavos de final
+285,PSV,1975/76,3,2,True,cuartos de final
+202,PSV,1975/76,0,1,False,semifinal
+2,PSV,1963/64,1,0,True,octavos de final
+284,PSV,1963/64,2,3,False,cuartos de final
+1,PSV,1955/56,2,6,False,octavos de final
+648,Panathinaikos,2010/11,2,13,False,fase de grupos
+647,Panathinaikos,2008/09,8,7,True,fase de grupos
+470,Panathinaikos,2008/09,2,3,False,octavos de final
+646,Panathinaikos,2005/06,4,16,False,fase de grupos
+645,Panathinaikos,2004/05,11,8,False,fase de grupos
+644,Panathinaikos,2003/04,5,13,False,fase de grupos
+643,Panathinaikos,2001/02,8,3,True,fase de grupos
+469,Panathinaikos,2001/02,7,8,True,octavos de final
+347,Panathinaikos,2001/02,2,3,False,cuartos de final
+642,Panathinaikos,2000/01,6,5,True,fase de grupos
+468,Panathinaikos,2000/01,4,10,False,octavos de final
+467,Panathinaikos,1998/99,6,9,False,octavos de final
+466,Panathinaikos,1995/96,7,3,True,octavos de final
+346,Panathinaikos,1995/96,3,0,True,cuartos de final
+177,Panathinaikos,1995/96,1,3,False,semifinal
+465,Panathinaikos,1991/92,2,2,True,octavos de final
+345,Panathinaikos,1991/92,4,2,True,cuartos de final
+176,Panathinaikos,1991/92,1,4,False,semifinal
+641,Panathinaikos,1990/91,1,5,False,fase de grupos
+640,Panathinaikos,1986/87,2,4,False,fase de grupos
+639,Panathinaikos,1984/85,2,1,True,fase de grupos
+464,Panathinaikos,1984/85,5,4,True,octavos de final
+344,Panathinaikos,1984/85,3,2,True,cuartos de final
+175,Panathinaikos,1984/85,0,5,False,semifinal
+638,Panathinaikos,1977/78,5,1,True,fase de grupos
+463,Panathinaikos,1977/78,1,2,False,octavos de final
+637,Panathinaikos,1972/73,1,4,False,fase de grupos
+636,Panathinaikos,1970/71,7,1,True,fase de grupos
+462,Panathinaikos,1970/71,4,2,True,octavos de final
+343,Panathinaikos,1970/71,1,1,True,cuartos de final
+174,Panathinaikos,1970/71,4,4,True,semifinal
+635,Panathinaikos,1969/70,1,3,False,fase de grupos
+461,Panathinaikos,1965/66,1,3,False,octavos de final
+460,Panathinaikos,1964/65,2,3,False,octavos de final
+459,Panathinaikos,1960/61,0,1,False,octavos de final
+1311,Paris,2023/24,9,8,True,fase de grupos
+1049,Paris,2023/24,4,1,True,octavos de final
+516,Paris,2023/24,6,4,True,cuartos de final
+1310,Paris,2022/23,16,7,True,fase de grupos
+1048,Paris,2022/23,0,3,False,octavos de final
+1309,Paris,2021/22,13,8,True,fase de grupos
+1047,Paris,2021/22,2,3,False,octavos de final
+1308,Paris,2020/21,13,6,True,fase de grupos
+1046,Paris,2020/21,5,2,True,octavos de final
+515,Paris,2020/21,3,3,True,cuartos de final
+249,Paris,2020/21,1,4,False,semifinal
+1307,Paris,2019/20,17,2,True,fase de grupos
+1045,Paris,2019/20,3,2,True,octavos de final
+514,Paris,2019/20,2,1,True,cuartos de final
+248,Paris,2019/20,3,0,True,semifinal
+1306,Paris,2018/19,17,9,True,fase de grupos
+1044,Paris,2018/19,3,3,False,octavos de final
+1305,Paris,2017/18,25,4,True,fase de grupos
+1043,Paris,2017/18,2,5,False,octavos de final
+1304,Paris,2016/17,13,7,True,fase de grupos
+1042,Paris,2016/17,5,6,False,octavos de final
+1303,Paris,2015/16,12,1,True,fase de grupos
+1041,Paris,2015/16,4,2,True,octavos de final
+513,Paris,2015/16,2,3,False,cuartos de final
+1302,Paris,2014/15,10,7,True,fase de grupos
+1040,Paris,2014/15,3,3,True,octavos de final
+512,Paris,2014/15,1,5,False,cuartos de final
+1301,Paris,2013/14,16,5,True,fase de grupos
+1039,Paris,2013/14,6,1,True,octavos de final
+511,Paris,2013/14,3,3,False,cuartos de final
+1300,Paris,2012/13,14,3,True,fase de grupos
+1038,Paris,2012/13,3,2,True,octavos de final
+510,Paris,2012/13,3,3,False,cuartos de final
+1299,Paris,2004/05,3,8,False,fase de grupos
+1298,Paris,2000/01,14,9,True,fase de grupos
+1037,Paris,2000/01,8,10,False,octavos de final
+1036,Paris,1997/98,11,10,False,octavos de final
+1035,Paris,1994/95,12,3,True,octavos de final
+509,Paris,1994/95,3,2,True,cuartos de final
+247,Paris,1994/95,0,3,False,semifinal
+1297,Paris,1986/87,2,3,False,fase de grupos
+1064,Parma,1997/98,6,5,False,octavos de final
+1090,Partizan,2010/11,2,13,False,fase de grupos
+1089,Partizan,2003/04,3,8,False,fase de grupos
+1088,Partizan,1983/84,5,1,True,fase de grupos
+98,Partizan,1983/84,1,2,False,octavos de final
+1087,Partizan,1978/79,2,2,False,fase de grupos
+1086,Partizan,1976/77,0,5,False,fase de grupos
+97,Partizan,1965/66,3,1,True,octavos de final
+20,Partizan,1965/66,6,4,True,cuartos de final
+140,Partizan,1965/66,2,1,True,semifinal
+96,Partizan,1963/64,7,4,True,octavos de final
+19,Partizan,1963/64,1,4,False,cuartos de final
+95,Partizan,1961/62,1,7,False,octavos de final
+94,Partizan,1955/56,8,5,True,octavos de final
+18,Partizan,1955/56,3,4,False,cuartos de final
+881,Partizani,1987/88,0,7,False,fase de grupos
+880,Partizani,1981/82,2,3,False,fase de grupos
+879,Partizani,1979/80,2,4,False,fase de grupos
+878,Partizani,1971/72,0,4,False,fase de grupos
+178,Petrolul,1966/67,3,5,False,fase de grupos
+1514,Petržalka,2005/06,5,9,False,fase de grupos
+1345,Pezoporikos,1988/89,2,7,False,fase de grupos
+828,Pezoporikou,1970/71,0,16,False,fase de grupos
+556,Polonia Bytom,1962/63,2,4,False,octavos de final
+1004,Portadown,1991/92,0,8,False,octavos de final
+1351,Portadown,1990/91,1,13,False,fase de grupos
+1152,Progrès,1981/82,1,5,False,fase de grupos
+1151,Progrès,1978/79,0,12,False,fase de grupos
+1578,Qarabağ,2017/18,2,14,False,fase de grupos
+1295,Rabat,1986/87,0,10,False,fase de grupos
+1294,Rabat,1985/86,0,10,False,fase de grupos
+1082,Rangers,2022/23,2,22,False,fase de grupos
+1081,Rangers,2010/11,3,6,False,fase de grupos
+1080,Rangers,2009/10,4,13,False,fase de grupos
+1079,Rangers,2007/08,7,9,False,fase de grupos
+1078,Rangers,2005/06,7,7,True,fase de grupos
+235,Rangers,2005/06,3,3,False,octavos de final
+1077,Rangers,2003/04,4,10,False,fase de grupos
+1076,Rangers,2000/01,10,7,False,fase de grupos
+1075,Rangers,1999/00,7,7,False,fase de grupos
+234,Rangers,1996/97,5,13,False,octavos de final
+233,Rangers,1995/96,6,14,False,octavos de final
+1074,Rangers,1993/94,4,4,False,fase de grupos
+232,Rangers,1992/93,3,0,True,octavos de final
+167,Rangers,1992/93,4,2,True,cuartos de final
+75,Rangers,1992/93,7,5,False,semifinal
+231,Rangers,1991/92,2,2,False,octavos de final
+1073,Rangers,1990/91,10,0,True,fase de grupos
+230,Rangers,1990/91,1,4,False,octavos de final
+1072,Rangers,1989/90,1,3,False,fase de grupos
+1071,Rangers,1987/88,2,1,True,fase de grupos
+229,Rangers,1987/88,4,2,True,octavos de final
+166,Rangers,1987/88,2,3,False,cuartos de final
+1070,Rangers,1978/79,2,1,True,fase de grupos
+228,Rangers,1978/79,3,2,True,octavos de final
+165,Rangers,1978/79,1,2,False,cuartos de final
+1069,Rangers,1976/77,1,2,False,fase de grupos
+1068,Rangers,1975/76,5,2,True,fase de grupos
+227,Rangers,1975/76,1,4,False,octavos de final
+226,Rangers,1964/65,3,0,True,octavos de final
+164,Rangers,1964/65,2,3,False,cuartos de final
+225,Rangers,1961/62,6,2,True,octavos de final
+163,Rangers,1961/62,3,4,False,cuartos de final
+224,Rangers,1959/60,5,4,True,octavos de final
+162,Rangers,1959/60,7,11,True,cuartos de final
+74,Rangers,1959/60,3,6,False,semifinal
+223,Rangers,1957/58,1,6,False,octavos de final
+222,Rangers,1956/57,4,6,False,octavos de final
+221,Rapid,1956/57,3,6,False,octavos de final
+287,Rapid Bucureşti,1967/68,3,2,True,fase de grupos
+677,Rapid Bucureşti,1967/68,0,1,False,octavos de final
+460,Rapid Wien,2005/06,3,15,False,fase de grupos
+138,Rapid Wien,1996/97,2,12,False,octavos de final
+459,Rapid Wien,1988/89,2,3,False,fase de grupos
+458,Rapid Wien,1987/88,7,0,True,fase de grupos
+137,Rapid Wien,1987/88,1,4,False,octavos de final
+457,Rapid Wien,1983/84,4,3,True,fase de grupos
+136,Rapid Wien,1983/84,2,2,True,octavos de final
+26,Rapid Wien,1983/84,2,2,False,cuartos de final
+456,Rapid Wien,1982/83,13,0,True,fase de grupos
+135,Rapid Wien,1982/83,5,6,False,octavos de final
+455,Rapid Wien,1968/69,6,4,True,fase de grupos
+134,Rapid Wien,1968/69,2,2,True,octavos de final
+25,Rapid Wien,1968/69,0,3,False,cuartos de final
+454,Rapid Wien,1967/68,4,0,True,fase de grupos
+133,Rapid Wien,1967/68,1,2,False,octavos de final
+132,Rapid Wien,1964/65,0,3,False,octavos de final
+131,Rapid Wien,1960/61,4,3,True,octavos de final
+24,Rapid Wien,1960/61,4,0,True,cuartos de final
+93,Rapid Wien,1960/61,1,4,False,semifinal
+130,Rapid Wien,1956/57,5,7,False,octavos de final
+129,Rapid Wien,1955/56,6,2,True,octavos de final
+23,Rapid Wien,1955/56,3,8,False,cuartos de final
+1515,Real Betis,2005/06,3,7,False,fase de grupos
+331,Real Madrid,2023/24,16,7,True,fase de grupos
+93,Real Madrid,2023/24,2,1,True,octavos de final
+65,Real Madrid,2023/24,4,4,True,cuartos de final
+330,Real Madrid,2022/23,15,6,True,fase de grupos
+92,Real Madrid,2022/23,6,2,True,octavos de final
+64,Real Madrid,2022/23,4,0,True,cuartos de final
+46,Real Madrid,2022/23,1,5,False,semifinal
+329,Real Madrid,2021/22,14,3,True,fase de grupos
+91,Real Madrid,2021/22,3,2,True,octavos de final
+63,Real Madrid,2021/22,5,4,True,cuartos de final
+45,Real Madrid,2021/22,6,5,True,semifinal
+328,Real Madrid,2020/21,11,9,True,fase de grupos
+90,Real Madrid,2020/21,4,1,True,octavos de final
+62,Real Madrid,2020/21,3,1,True,cuartos de final
+44,Real Madrid,2020/21,1,3,False,semifinal
+327,Real Madrid,2019/20,14,8,True,fase de grupos
+89,Real Madrid,2019/20,2,4,False,octavos de final
+326,Real Madrid,2018/19,12,5,True,fase de grupos
+88,Real Madrid,2018/19,3,5,False,octavos de final
+325,Real Madrid,2017/18,17,7,True,fase de grupos
+87,Real Madrid,2017/18,5,2,True,octavos de final
+61,Real Madrid,2017/18,4,3,True,cuartos de final
+43,Real Madrid,2017/18,4,3,True,semifinal
+324,Real Madrid,2016/17,16,10,True,fase de grupos
+86,Real Madrid,2016/17,6,2,True,octavos de final
+60,Real Madrid,2016/17,6,3,True,cuartos de final
+42,Real Madrid,2016/17,4,2,True,semifinal
+323,Real Madrid,2015/16,19,3,True,fase de grupos
+85,Real Madrid,2015/16,4,0,True,octavos de final
+59,Real Madrid,2015/16,3,2,True,cuartos de final
+41,Real Madrid,2015/16,1,0,True,semifinal
+322,Real Madrid,2014/15,16,2,True,fase de grupos
+84,Real Madrid,2014/15,5,4,True,octavos de final
+58,Real Madrid,2014/15,1,0,True,cuartos de final
+40,Real Madrid,2014/15,2,3,False,semifinal
+321,Real Madrid,2013/14,20,5,True,fase de grupos
+83,Real Madrid,2013/14,9,2,True,octavos de final
+57,Real Madrid,2013/14,3,2,True,cuartos de final
+39,Real Madrid,2013/14,5,0,True,semifinal
+320,Real Madrid,2012/13,15,9,True,fase de grupos
+82,Real Madrid,2012/13,3,2,True,octavos de final
+56,Real Madrid,2012/13,5,3,True,cuartos de final
+38,Real Madrid,2012/13,3,4,False,semifinal
+319,Real Madrid,2011/12,19,2,True,fase de grupos
+81,Real Madrid,2011/12,5,2,True,octavos de final
+55,Real Madrid,2011/12,8,2,True,cuartos de final
+37,Real Madrid,2011/12,3,3,False,semifinal
+318,Real Madrid,2010/11,15,2,True,fase de grupos
+80,Real Madrid,2010/11,4,1,True,octavos de final
+54,Real Madrid,2010/11,5,0,True,cuartos de final
+36,Real Madrid,2010/11,1,3,False,semifinal
+317,Real Madrid,2009/10,15,7,True,fase de grupos
+79,Real Madrid,2009/10,1,2,False,octavos de final
+316,Real Madrid,2008/09,9,5,True,fase de grupos
+78,Real Madrid,2008/09,0,5,False,octavos de final
+315,Real Madrid,2007/08,13,9,True,fase de grupos
+77,Real Madrid,2007/08,2,4,False,octavos de final
+314,Real Madrid,2006/07,14,8,True,fase de grupos
+76,Real Madrid,2006/07,4,4,False,octavos de final
+313,Real Madrid,2005/06,10,8,True,fase de grupos
+75,Real Madrid,2005/06,0,1,False,octavos de final
+312,Real Madrid,2004/05,11,8,True,fase de grupos
+74,Real Madrid,2004/05,1,2,False,octavos de final
+311,Real Madrid,2003/04,11,5,True,fase de grupos
+73,Real Madrid,2003/04,2,1,True,octavos de final
+53,Real Madrid,2003/04,5,5,False,cuartos de final
+310,Real Madrid,2002/03,15,7,True,fase de grupos
+72,Real Madrid,2002/03,9,6,True,octavos de final
+52,Real Madrid,2002/03,6,5,True,cuartos de final
+35,Real Madrid,2002/03,3,4,False,semifinal
+309,Real Madrid,2001/02,13,5,True,fase de grupos
+71,Real Madrid,2001/02,14,5,True,octavos de final
+51,Real Madrid,2001/02,3,2,True,cuartos de final
+34,Real Madrid,2001/02,3,1,True,semifinal
+308,Real Madrid,2000/01,15,8,True,fase de grupos
+70,Real Madrid,2000/01,14,9,True,octavos de final
+50,Real Madrid,2000/01,5,3,True,cuartos de final
+33,Real Madrid,2000/01,1,3,False,semifinal
+307,Real Madrid,1999/00,15,7,True,fase de grupos
+69,Real Madrid,1999/00,11,12,True,octavos de final
+49,Real Madrid,1999/00,3,2,True,cuartos de final
+32,Real Madrid,1999/00,3,2,True,semifinal
+68,Real Madrid,1998/99,17,8,True,octavos de final
+48,Real Madrid,1998/99,1,3,False,cuartos de final
+67,Real Madrid,1997/98,15,4,True,octavos de final
+47,Real Madrid,1997/98,4,1,True,cuartos de final
+31,Real Madrid,1997/98,2,0,True,semifinal
+66,Real Madrid,1995/96,11,5,True,octavos de final
+46,Real Madrid,1995/96,1,2,False,cuartos de final
+306,Real Madrid,1990/91,10,1,True,fase de grupos
+65,Real Madrid,1990/91,11,3,True,octavos de final
+45,Real Madrid,1990/91,1,3,False,cuartos de final
+305,Real Madrid,1989/90,9,0,True,fase de grupos
+64,Real Madrid,1989/90,1,2,False,octavos de final
+304,Real Madrid,1988/89,4,0,True,fase de grupos
+63,Real Madrid,1988/89,4,2,True,octavos de final
+44,Real Madrid,1988/89,3,2,True,cuartos de final
+30,Real Madrid,1988/89,1,6,False,semifinal
+303,Real Madrid,1987/88,3,1,True,fase de grupos
+62,Real Madrid,1987/88,4,2,True,octavos de final
+43,Real Madrid,1987/88,4,3,True,cuartos de final
+29,Real Madrid,1987/88,1,1,False,semifinal
+302,Real Madrid,1986/87,5,1,True,fase de grupos
+61,Real Madrid,1986/87,1,1,True,octavos de final
+42,Real Madrid,1986/87,4,4,True,cuartos de final
+28,Real Madrid,1986/87,2,4,False,semifinal
+301,Real Madrid,1980/81,7,2,True,fase de grupos
+60,Real Madrid,1980/81,3,0,True,octavos de final
+41,Real Madrid,1980/81,2,0,True,cuartos de final
+27,Real Madrid,1980/81,2,1,True,semifinal
+300,Real Madrid,1979/80,3,0,True,fase de grupos
+59,Real Madrid,1979/80,2,2,True,octavos de final
+40,Real Madrid,1979/80,3,2,True,cuartos de final
+26,Real Madrid,1979/80,3,5,False,semifinal
+299,Real Madrid,1978/79,12,0,True,fase de grupos
+58,Real Madrid,1978/79,3,3,False,octavos de final
+298,Real Madrid,1976/77,3,1,True,fase de grupos
+57,Real Madrid,1976/77,0,2,False,octavos de final
+297,Real Madrid,1975/76,4,2,True,fase de grupos
+56,Real Madrid,1975/76,6,5,True,octavos de final
+39,Real Madrid,1975/76,3,3,True,cuartos de final
+25,Real Madrid,1975/76,1,3,False,semifinal
+296,Real Madrid,1972/73,4,0,True,fase de grupos
+55,Real Madrid,1972/73,4,3,True,octavos de final
+38,Real Madrid,1972/73,3,0,True,cuartos de final
+24,Real Madrid,1972/73,1,3,False,semifinal
+295,Real Madrid,1969/70,14,1,True,fase de grupos
+54,Real Madrid,1969/70,2,4,False,octavos de final
+294,Real Madrid,1968/69,12,0,True,fase de grupos
+53,Real Madrid,1968/69,2,2,False,octavos de final
+293,Real Madrid,1967/68,3,2,True,fase de grupos
+52,Real Madrid,1967/68,6,3,True,octavos de final
+37,Real Madrid,1967/68,4,2,True,cuartos de final
+23,Real Madrid,1967/68,3,4,False,semifinal
+51,Real Madrid,1966/67,3,2,True,octavos de final
+36,Real Madrid,1966/67,0,3,False,cuartos de final
+50,Real Madrid,1965/66,7,3,True,octavos de final
+35,Real Madrid,1965/66,4,3,True,cuartos de final
+22,Real Madrid,1965/66,2,1,True,semifinal
+49,Real Madrid,1964/65,6,2,True,octavos de final
+34,Real Madrid,1964/65,3,6,False,cuartos de final
+48,Real Madrid,1963/64,8,4,True,octavos de final
+33,Real Madrid,1963/64,4,3,True,cuartos de final
+21,Real Madrid,1963/64,8,1,True,semifinal
+47,Real Madrid,1961/62,12,0,True,octavos de final
+32,Real Madrid,1961/62,4,2,True,cuartos de final
+20,Real Madrid,1961/62,6,0,True,semifinal
+46,Real Madrid,1960/61,3,4,False,octavos de final
+45,Real Madrid,1959/60,12,2,True,octavos de final
+31,Real Madrid,1959/60,9,4,True,cuartos de final
+19,Real Madrid,1959/60,3,1,True,semifinal
+44,Real Madrid,1958/59,3,1,True,octavos de final
+30,Real Madrid,1958/59,7,1,True,cuartos de final
+18,Real Madrid,1958/59,4,3,True,semifinal
+43,Real Madrid,1957/58,8,1,True,octavos de final
+29,Real Madrid,1957/58,10,2,True,cuartos de final
+17,Real Madrid,1957/58,4,2,True,semifinal
+42,Real Madrid,1956/57,7,5,True,octavos de final
+28,Real Madrid,1956/57,6,2,True,cuartos de final
+16,Real Madrid,1956/57,5,3,True,semifinal
+41,Real Madrid,1955/56,7,0,True,octavos de final
+27,Real Madrid,1955/56,4,3,True,cuartos de final
+15,Real Madrid,1955/56,5,4,True,semifinal
+1211,Real Sociedad,2023/24,7,2,True,fase de grupos
+949,Real Sociedad,2023/24,1,4,False,octavos de final
+1210,Real Sociedad,2013/14,1,10,False,fase de grupos
+1209,Real Sociedad,2003/04,8,8,True,fase de grupos
+948,Real Sociedad,2003/04,0,2,False,octavos de final
+1208,Real Sociedad,1982/83,4,2,True,fase de grupos
+947,Real Sociedad,1982/83,3,2,True,octavos de final
+444,Real Sociedad,1982/83,2,1,True,cuartos de final
+224,Real Sociedad,1982/83,2,3,False,semifinal
+1207,Real Sociedad,1981/82,0,1,False,fase de grupos
+21,Reims,1962/63,7,3,True,octavos de final
+68,Reims,1962/63,1,2,False,cuartos de final
+20,Reims,1960/61,3,4,False,octavos de final
+19,Reims,1958/59,7,0,True,octavos de final
+67,Reims,1958/59,3,2,True,cuartos de final
+48,Reims,1958/59,3,1,True,semifinal
+18,Reims,1955/56,4,2,True,octavos de final
+66,Reims,1955/56,8,6,True,cuartos de final
+47,Reims,1955/56,3,0,True,semifinal
+573,Reipas,1971/72,1,9,False,fase de grupos
+572,Reipas,1968/69,3,1,True,fase de grupos
+706,Reipas,1968/69,2,16,False,octavos de final
+1589,Rennes,2020/21,3,11,False,fase de grupos
+1260,Roma,2018/19,11,8,True,fase de grupos
+961,Roma,2018/19,3,4,False,octavos de final
+1259,Roma,2017/18,9,6,True,fase de grupos
+960,Roma,2017/18,2,2,True,octavos de final
+454,Roma,2017/18,4,4,True,cuartos de final
+227,Roma,2017/18,6,7,False,semifinal
+1258,Roma,2015/16,11,16,True,fase de grupos
+959,Roma,2015/16,0,4,False,octavos de final
+1257,Roma,2014/15,8,14,False,fase de grupos
+1256,Roma,2010/11,10,11,True,fase de grupos
+958,Roma,2010/11,2,6,False,octavos de final
+1255,Roma,2008/09,12,6,True,fase de grupos
+957,Roma,2008/09,1,1,False,octavos de final
+1254,Roma,2007/08,11,6,True,fase de grupos
+956,Roma,2007/08,4,2,True,octavos de final
+453,Roma,2007/08,0,3,False,cuartos de final
+1253,Roma,2006/07,8,4,True,fase de grupos
+955,Roma,2006/07,2,0,True,octavos de final
+452,Roma,2006/07,3,8,False,cuartos de final
+1252,Roma,2004/05,4,16,False,fase de grupos
+1251,Roma,2002/03,3,4,True,fase de grupos
+954,Roma,2002/03,7,8,False,octavos de final
+1250,Roma,2001/02,6,5,True,fase de grupos
+953,Roma,2001/02,6,5,False,octavos de final
+1249,Roma,1983/84,4,2,True,fase de grupos
+952,Roma,1983/84,2,0,True,octavos de final
+451,Roma,1983/84,4,2,True,cuartos de final
+226,Roma,1983/84,3,2,True,semifinal
+592,Rosenborg,2007/08,6,10,False,fase de grupos
+591,Rosenborg,2005/06,6,11,False,fase de grupos
+590,Rosenborg,2004/05,6,13,False,fase de grupos
+589,Rosenborg,2002/03,4,12,False,fase de grupos
+588,Rosenborg,2001/02,4,6,False,fase de grupos
+587,Rosenborg,2000/01,13,15,False,fase de grupos
+586,Rosenborg,1999/00,12,5,True,fase de grupos
+985,Rosenborg,1999/00,5,11,False,octavos de final
+984,Rosenborg,1998/99,7,8,False,octavos de final
+983,Rosenborg,1997/98,13,8,False,octavos de final
+982,Rosenborg,1996/97,7,11,True,octavos de final
+519,Rosenborg,1996/97,1,3,False,cuartos de final
+981,Rosenborg,1995/96,11,16,False,octavos de final
+585,Rosenborg,1993/94,4,5,False,fase de grupos
+980,Rosenborg,1991/92,1,7,False,octavos de final
+584,Rosenborg,1989/90,0,5,False,fase de grupos
+583,Rosenborg,1986/87,2,1,True,fase de grupos
+979,Rosenborg,1986/87,1,7,False,octavos de final
+582,Rosenborg,1972/73,2,5,False,fase de grupos
+581,Rosenborg,1970/71,0,7,False,fase de grupos
+580,Rosenborg,1968/69,4,6,False,fase de grupos
+1570,Rostov,2016/17,6,12,False,fase de grupos
+1544,Rubin,2010/11,2,4,False,fase de grupos
+1543,Rubin,2009/10,4,7,False,fase de grupos
+1022,Ruch,1989/90,2,6,False,fase de grupos
+1021,Ruch,1979/80,1,4,False,fase de grupos
+1020,Ruch,1975/76,7,2,True,fase de grupos
+858,Ruch,1975/76,1,7,False,octavos de final
+1019,Ruch,1974/75,2,1,True,fase de grupos
+857,Ruch,1974/75,4,1,True,octavos de final
+412,Ruch,1974/75,3,4,False,cuartos de final
+0,Saarbrücken,1955/56,5,7,False,octavos de final
+1584,Salzburg,2023/24,4,8,False,fase de grupos
+1583,Salzburg,2022/23,5,9,False,fase de grupos
+1582,Salzburg,2021/22,8,6,True,fase de grupos
+1034,Salzburg,2021/22,2,8,False,octavos de final
+1581,Salzburg,2020/21,10,17,False,fase de grupos
+1580,Salzburg,2019/20,16,13,False,fase de grupos
+1033,Salzburg,1994/95,4,6,False,octavos de final
+1010,Sampdoria,1991/92,7,1,True,octavos de final
+499,Sampdoria,1991/92,4,3,True,cuartos de final
+244,Sampdoria,1991/92,10,5,True,semifinal
+292,Sarajevo,1985/86,2,4,False,fase de grupos
+291,Sarajevo,1967/68,5,3,True,fase de grupos
+699,Sarajevo,1967/68,1,2,False,octavos de final
+1487,Schalke,2018/19,6,4,True,fase de grupos
+376,Schalke,2018/19,2,10,False,octavos de final
+1486,Schalke,2014/15,9,14,True,fase de grupos
+375,Schalke,2014/15,4,5,False,octavos de final
+1485,Schalke,2013/14,6,6,True,fase de grupos
+374,Schalke,2013/14,2,9,False,octavos de final
+1484,Schalke,2012/13,10,6,True,fase de grupos
+373,Schalke,2012/13,3,4,False,octavos de final
+1483,Schalke,2010/11,10,3,True,fase de grupos
+372,Schalke,2010/11,4,2,True,octavos de final
+160,Schalke,2010/11,7,3,True,cuartos de final
+273,Schalke,2010/11,1,6,False,semifinal
+1482,Schalke,2007/08,5,4,True,fase de grupos
+371,Schalke,2007/08,1,1,True,octavos de final
+159,Schalke,2007/08,0,2,False,cuartos de final
+1481,Schalke,2005/06,12,9,False,fase de grupos
+1480,Schalke,2001/02,9,9,False,fase de grupos
+370,Schalke,1958/59,4,3,True,octavos de final
+158,Schalke,1958/59,1,4,False,cuartos de final
+426,Senica,1959/60,4,5,False,octavos de final
+1173,Servette,1985/86,4,3,True,fase de grupos
+144,Servette,1985/86,0,1,False,octavos de final
+1172,Servette,1979/80,4,2,True,fase de grupos
+143,Servette,1979/80,3,4,False,octavos de final
+142,Servette,1961/62,4,5,False,octavos de final
+141,Servette,1955/56,0,7,False,octavos de final
+1527,Sevilla,2023/24,7,12,False,fase de grupos
+1526,Sevilla,2022/23,6,12,False,fase de grupos
+1525,Sevilla,2021/22,5,5,False,fase de grupos
+1524,Sevilla,2020/21,9,8,True,fase de grupos
+285,Sevilla,2020/21,4,5,False,octavos de final
+1523,Sevilla,2017/18,12,12,True,fase de grupos
+284,Sevilla,2017/18,2,1,True,octavos de final
+114,Sevilla,2017/18,1,2,False,cuartos de final
+1522,Sevilla,2016/17,7,3,True,fase de grupos
+283,Sevilla,2016/17,2,3,False,octavos de final
+1521,Sevilla,2015/16,8,11,False,fase de grupos
+1520,Sevilla,2009/10,11,4,True,fase de grupos
+282,Sevilla,2009/10,2,3,False,octavos de final
+1519,Sevilla,2007/08,14,7,True,fase de grupos
+281,Sevilla,2007/08,5,5,False,octavos de final
+280,Sevilla,1957/58,4,2,True,octavos de final
+113,Sevilla,1957/58,2,10,False,cuartos de final
+1465,Shakhtar Donetsk,2023/24,10,12,False,fase de grupos
+1464,Shakhtar Donetsk,2022/23,8,10,False,fase de grupos
+1463,Shakhtar Donetsk,2021/22,2,12,False,fase de grupos
+1462,Shakhtar Donetsk,2020/21,5,12,False,fase de grupos
+1461,Shakhtar Donetsk,2019/20,8,13,False,fase de grupos
+1460,Shakhtar Donetsk,2018/19,8,16,False,fase de grupos
+1459,Shakhtar Donetsk,2017/18,9,9,True,fase de grupos
+1121,Shakhtar Donetsk,2017/18,2,2,False,octavos de final
+1458,Shakhtar Donetsk,2015/16,7,14,False,fase de grupos
+1457,Shakhtar Donetsk,2014/15,15,4,True,fase de grupos
+1120,Shakhtar Donetsk,2014/15,0,7,False,octavos de final
+1456,Shakhtar Donetsk,2013/14,7,6,False,fase de grupos
+1455,Shakhtar Donetsk,2012/13,12,8,True,fase de grupos
+1119,Shakhtar Donetsk,2012/13,2,5,False,octavos de final
+1454,Shakhtar Donetsk,2011/12,6,8,False,fase de grupos
+1453,Shakhtar Donetsk,2010/11,12,6,True,fase de grupos
+1118,Shakhtar Donetsk,2010/11,6,2,True,octavos de final
+552,Shakhtar Donetsk,2010/11,1,6,False,cuartos de final
+1452,Shakhtar Donetsk,2008/09,11,7,False,fase de grupos
+1451,Shakhtar Donetsk,2007/08,6,11,False,fase de grupos
+1450,Shakhtar Donetsk,2006/07,6,11,False,fase de grupos
+1449,Shakhtar Donetsk,2004/05,5,9,False,fase de grupos
+1448,Shakhtar Donetsk,2000/01,10,15,False,fase de grupos
+1271,Shamrock Rovers,1987/88,0,1,False,fase de grupos
+1270,Shamrock Rovers,1986/87,0,3,False,fase de grupos
+1269,Shamrock Rovers,1985/86,1,5,False,fase de grupos
+1268,Shamrock Rovers,1984/85,1,1,False,fase de grupos
+1592,Sheriff,2021/22,7,11,False,fase de grupos
+1027,Sion,1992/93,7,2,True,octavos de final
+505,Sion,1992/93,2,6,False,cuartos de final
+494,Skeid,1967/68,1,2,False,fase de grupos
+1367,Skonto,1993/94,0,9,False,fase de grupos
+1026,Skonto,1992/93,0,2,False,octavos de final
+1518,Slavia Praha,2019/20,4,10,False,fase de grupos
+1517,Slavia Praha,2007/08,5,16,False,fase de grupos
+885,Sliema,1989/90,1,5,False,fase de grupos
+884,Sliema,1976/77,2,2,False,fase de grupos
+883,Sliema,1972/73,0,10,False,fase de grupos
+882,Sliema,1971/72,4,0,True,fase de grupos
+758,Sliema,1971/72,1,7,False,octavos de final
+1105,Sligo,1977/78,0,6,False,fase de grupos
+238,Slovan Bratislava,1992/93,4,1,True,octavos de final
+506,Slovan Bratislava,1992/93,0,5,False,cuartos de final
+827,Slovan Bratislava,1975/76,1,3,False,fase de grupos
+826,Slovan Bratislava,1974/75,5,5,False,fase de grupos
+825,Slovan Bratislava,1970/71,4,3,True,fase de grupos
+237,Slovan Bratislava,1970/71,2,4,False,octavos de final
+236,Slovan Bratislava,1956/57,1,2,False,octavos de final
+384,Sparta,1959/60,7,5,True,octavos de final
+168,Sparta,1959/60,5,6,False,cuartos de final
+404,Sparta Praha,2005/06,2,9,False,fase de grupos
+403,Sparta Praha,2004/05,2,13,False,fase de grupos
+402,Sparta Praha,2003/04,5,5,True,fase de grupos
+641,Sparta Praha,2003/04,1,4,False,octavos de final
+401,Sparta Praha,2001/02,10,3,True,fase de grupos
+640,Sparta Praha,2001/02,6,10,False,octavos de final
+400,Sparta Praha,2000/01,6,13,False,fase de grupos
+399,Sparta Praha,1999/00,14,6,True,fase de grupos
+639,Sparta Praha,1999/00,5,12,False,octavos de final
+638,Sparta Praha,1997/98,6,11,False,octavos de final
+398,Sparta Praha,1993/94,2,1,True,fase de grupos
+637,Sparta Praha,1993/94,2,5,False,octavos de final
+636,Sparta Praha,1991/92,2,2,True,octavos de final
+318,Sparta Praha,1991/92,4,4,True,cuartos de final
+245,Sparta Praha,1991/92,7,7,False,semifinal
+397,Sparta Praha,1990/91,0,4,False,fase de grupos
+396,Sparta Praha,1989/90,5,2,True,fase de grupos
+635,Sparta Praha,1989/90,2,5,False,octavos de final
+395,Sparta Praha,1988/89,3,7,False,fase de grupos
+394,Sparta Praha,1987/88,10,0,True,fase de grupos
+634,Sparta Praha,1987/88,1,3,False,octavos de final
+393,Sparta Praha,1985/86,2,2,False,fase de grupos
+392,Sparta Praha,1984/85,5,3,True,fase de grupos
+633,Sparta Praha,1984/85,2,1,True,octavos de final
+317,Sparta Praha,1984/85,1,3,False,cuartos de final
+391,Sparta Praha,1967/68,2,1,True,fase de grupos
+632,Sparta Praha,1967/68,6,5,True,octavos de final
+316,Sparta Praha,1967/68,2,4,False,cuartos de final
+631,Sparta Praha,1965/66,5,1,True,octavos de final
+315,Sparta Praha,1965/66,4,6,False,cuartos de final
+818,Spartak Moskva,2017/18,9,13,False,fase de grupos
+817,Spartak Moskva,2012/13,7,14,False,fase de grupos
+816,Spartak Moskva,2010/11,7,10,False,fase de grupos
+815,Spartak Moskva,2006/07,7,11,False,fase de grupos
+814,Spartak Moskva,2002/03,1,18,False,fase de grupos
+813,Spartak Moskva,2001/02,7,16,False,fase de grupos
+812,Spartak Moskva,2000/01,9,3,True,fase de grupos
+938,Spartak Moskva,2000/01,5,10,False,octavos de final
+811,Spartak Moskva,1999/00,9,12,False,fase de grupos
+937,Spartak Moskva,1998/99,7,6,False,octavos de final
+936,Spartak Moskva,1995/96,15,4,True,octavos de final
+440,Spartak Moskva,1995/96,2,4,False,cuartos de final
+935,Spartak Moskva,1994/95,8,12,False,octavos de final
+810,Spartak Moskva,1993/94,9,0,True,fase de grupos
+934,Spartak Moskva,1993/94,7,2,True,octavos de final
+439,Spartak Moskva,1993/94,6,12,False,cuartos de final
+809,Spartak Moskva,1990/91,4,0,True,fase de grupos
+933,Spartak Moskva,1990/91,0,0,True,octavos de final
+438,Spartak Moskva,1990/91,3,1,True,cuartos de final
+243,Spartak Moskva,1990/91,2,5,False,semifinal
+808,Spartak Moskva,1988/89,3,4,True,fase de grupos
+932,Spartak Moskva,1988/89,1,2,False,octavos de final
+807,Spartak Moskva,1980/81,9,0,True,fase de grupos
+931,Spartak Moskva,1980/81,3,2,True,octavos de final
+437,Spartak Moskva,1980/81,0,2,False,cuartos de final
+806,Spartak Moskva,1970/71,4,4,False,fase de grupos
+587,Spartak Plovdiv,1963/64,0,1,False,octavos de final
+536,Spartak Trnava,1973/74,3,1,True,fase de grupos
+704,Spartak Trnava,1973/74,1,0,True,octavos de final
+334,Spartak Trnava,1973/74,2,2,False,cuartos de final
+703,Spartak Trnava,1972/73,2,0,True,octavos de final
+333,Spartak Trnava,1972/73,1,2,False,cuartos de final
+535,Spartak Trnava,1971/72,2,2,False,fase de grupos
+534,Spartak Trnava,1969/70,6,2,True,fase de grupos
+702,Spartak Trnava,1969/70,1,1,False,octavos de final
+533,Spartak Trnava,1968/69,5,3,True,fase de grupos
+701,Spartak Trnava,1968/69,16,2,True,octavos de final
+332,Spartak Trnava,1968/69,3,2,True,cuartos de final
+160,Spartak Trnava,1968/69,2,3,False,semifinal
+1349,Spora,1989/90,0,9,False,fase de grupos
+160,Sporting CP,2022/23,8,9,False,fase de grupos
+159,Sporting CP,2021/22,14,12,True,fase de grupos
+154,Sporting CP,2021/22,0,5,False,octavos de final
+158,Sporting CP,2017/18,8,9,False,fase de grupos
+157,Sporting CP,2016/17,5,8,False,fase de grupos
+156,Sporting CP,2014/15,12,12,False,fase de grupos
+155,Sporting CP,2008/09,8,8,True,fase de grupos
+153,Sporting CP,2008/09,1,12,False,octavos de final
+154,Sporting CP,2007/08,9,8,False,fase de grupos
+153,Sporting CP,2006/07,3,6,False,fase de grupos
+152,Sporting CP,2000/01,5,15,False,fase de grupos
+152,Sporting CP,1997/98,9,11,False,octavos de final
+151,Sporting CP,1982/83,3,1,True,fase de grupos
+151,Sporting CP,1982/83,2,2,True,octavos de final
+445,Sporting CP,1982/83,1,2,False,cuartos de final
+150,Sporting CP,1980/81,0,3,False,fase de grupos
+149,Sporting CP,1974/75,1,3,False,fase de grupos
+148,Sporting CP,1970/71,9,0,True,fase de grupos
+150,Sporting CP,1970/71,2,4,False,octavos de final
+147,Sporting CP,1966/67,0,7,False,fase de grupos
+149,Sporting CP,1962/63,2,4,False,octavos de final
+148,Sporting CP,1958/59,2,6,False,octavos de final
+147,Sporting CP,1955/56,5,8,False,octavos de final
+1352,St Patrick's,1990/91,1,5,False,fase de grupos
+493,St-Étienne,1976/77,1,0,True,fase de grupos
+682,St-Étienne,1976/77,1,0,True,octavos de final
+409,St-Étienne,1976/77,2,3,False,cuartos de final
+492,St-Étienne,1975/76,5,1,True,fase de grupos
+681,St-Étienne,1975/76,4,1,True,octavos de final
+408,St-Étienne,1975/76,3,2,True,cuartos de final
+201,St-Étienne,1975/76,1,0,True,semifinal
+491,St-Étienne,1974/75,3,1,True,fase de grupos
+680,St-Étienne,1974/75,6,5,True,octavos de final
+407,St-Étienne,1974/75,4,3,True,cuartos de final
+200,St-Étienne,1974/75,0,2,False,semifinal
+490,St-Étienne,1970/71,1,3,False,fase de grupos
+489,St-Étienne,1969/70,3,2,True,fase de grupos
+679,St-Étienne,1969/70,1,3,False,octavos de final
+488,St-Étienne,1968/69,2,4,False,fase de grupos
+487,St-Étienne,1967/68,5,0,True,fase de grupos
+678,St-Étienne,1967/68,1,2,False,octavos de final
+954,Stal,1976/77,1,3,False,fase de grupos
+953,Stal,1973/74,1,3,False,fase de grupos
+744,Standard Liège,2009/10,7,9,False,fase de grupos
+743,Standard Liège,1983/84,11,4,True,fase de grupos
+383,Standard Liège,1983/84,0,4,False,octavos de final
+742,Standard Liège,1982/83,5,3,True,fase de grupos
+382,Standard Liège,1982/83,1,3,False,octavos de final
+741,Standard Liège,1971/72,5,2,True,fase de grupos
+381,Standard Liège,1971/72,2,1,True,octavos de final
+156,Standard Liège,1971/72,2,2,False,cuartos de final
+740,Standard Liège,1970/71,7,0,True,fase de grupos
+380,Standard Liège,1970/71,1,2,False,octavos de final
+739,Standard Liège,1969/70,4,1,True,fase de grupos
+379,Standard Liège,1969/70,4,2,True,octavos de final
+155,Standard Liège,1969/70,0,2,False,cuartos de final
+378,Standard Liège,1961/62,7,1,True,octavos de final
+154,Standard Liège,1961/62,4,3,True,cuartos de final
+106,Standard Liège,1961/62,0,6,False,semifinal
+377,Standard Liège,1958/59,6,2,True,octavos de final
+153,Standard Liège,1958/59,2,3,False,cuartos de final
+1186,Start,1981/82,1,4,False,fase de grupos
+1185,Start,1979/80,1,6,False,fase de grupos
+1164,Strasbourg,1979/80,6,1,True,fase de grupos
+892,Strasbourg,1979/80,2,1,True,octavos de final
+435,Strasbourg,1979/80,0,4,False,cuartos de final
+927,Strømsgodset,1971/72,1,7,False,fase de grupos
+1404,Sturm Graz,2000/01,9,12,True,fase de grupos
+1068,Sturm Graz,2000/01,4,13,False,octavos de final
+1403,Sturm Graz,1999/00,5,12,False,fase de grupos
+1067,Sturm Graz,1998/99,2,16,False,octavos de final
+1264,Stuttgart,2009/10,9,7,True,fase de grupos
+1019,Stuttgart,2009/10,1,5,False,octavos de final
+1263,Stuttgart,2007/08,7,15,False,fase de grupos
+1262,Stuttgart,2003/04,9,6,True,fase de grupos
+1018,Stuttgart,2003/04,0,1,False,octavos de final
+1017,Stuttgart,1992/93,4,5,False,octavos de final
+1261,Stuttgart,1984/85,3,3,False,fase de grupos
+1194,Szombierki,1980/81,4,2,True,fase de grupos
+928,Szombierki,1980/81,0,5,False,octavos de final
+944,TPS,1976/77,2,2,True,fase de grupos
+870,TPS,1976/77,0,3,False,octavos de final
+943,TPS,1973/74,1,9,False,fase de grupos
+942,TPS,1972/73,1,9,False,fase de grupos
+1279,Tampere United,1984/85,1,6,False,fase de grupos
+1024,Tavriya,1992/93,2,7,False,octavos de final
+1516,Thun,2005/06,4,9,False,fase de grupos
+668,Tirana,1989/90,5,1,True,fase de grupos
+993,Tirana,1989/90,1,6,False,octavos de final
+667,Tirana,1988/89,3,2,True,fase de grupos
+992,Tirana,1988/89,0,4,False,octavos de final
+666,Tirana,1982/83,2,2,False,fase de grupos
+665,Tirana,1970/71,2,4,False,fase de grupos
+664,Tirana,1969/70,1,4,False,fase de grupos
+1101,Torino,1976/77,3,2,True,fase de grupos
+871,Torino,1976/77,1,2,False,octavos de final
+180,Torpedo Moskva,1977/78,0,0,False,fase de grupos
+179,Torpedo Moskva,1966/67,0,1,False,fase de grupos
+1554,Tottenham,2022/23,8,6,True,fase de grupos
+488,Tottenham,2022/23,0,1,False,octavos de final
+1553,Tottenham,2019/20,18,14,True,fase de grupos
+487,Tottenham,2019/20,0,4,False,octavos de final
+1552,Tottenham,2018/19,9,10,True,fase de grupos
+486,Tottenham,2018/19,4,0,True,octavos de final
+249,Tottenham,2018/19,4,4,True,cuartos de final
+108,Tottenham,2018/19,3,3,True,semifinal
+1551,Tottenham,2017/18,15,4,True,fase de grupos
+485,Tottenham,2017/18,3,4,False,octavos de final
+1550,Tottenham,2016/17,6,6,False,fase de grupos
+1549,Tottenham,2010/11,18,11,True,fase de grupos
+484,Tottenham,2010/11,1,0,True,octavos de final
+248,Tottenham,2010/11,0,5,False,cuartos de final
+483,Tottenham,1961/62,4,2,True,octavos de final
+247,Tottenham,1961/62,4,2,True,cuartos de final
+107,Tottenham,1961/62,3,4,False,semifinal
+1100,Trabzonspor,2011/12,3,5,False,fase de grupos
+1099,Trabzonspor,1984/85,1,3,False,fase de grupos
+1098,Trabzonspor,1981/82,1,2,False,fase de grupos
+1097,Trabzonspor,1980/81,2,4,False,fase de grupos
+1096,Trabzonspor,1979/80,0,2,False,fase de grupos
+1095,Trabzonspor,1977/78,1,2,False,fase de grupos
+1094,Trabzonspor,1976/77,6,3,True,fase de grupos
+875,Trabzonspor,1976/77,1,3,False,octavos de final
+1547,Twente,2010/11,9,11,False,fase de grupos
+942,U Craiova,1991/92,2,3,False,octavos de final
+1045,U Craiova,1981/82,3,2,True,fase de grupos
+941,U Craiova,1981/82,4,2,True,octavos de final
+443,U Craiova,1981/82,1,3,False,cuartos de final
+1044,U Craiova,1980/81,1,3,False,fase de grupos
+1043,U Craiova,1974/75,3,4,False,fase de grupos
+1012,US Luxembourg,1992/93,1,9,False,octavos de final
+1011,US Luxembourg,1991/92,0,10,False,octavos de final
+1354,US Luxembourg,1990/91,1,6,False,fase de grupos
+779,UTA,1970/71,1,1,True,fase de grupos
+727,UTA,1970/71,1,6,False,octavos de final
+778,UTA,1969/70,1,10,False,fase de grupos
+1513,Udinese,2005/06,10,12,False,fase de grupos
+1594,Union Berlin,2023/24,6,10,False,fase de grupos
+1541,Unirea Urziceni,2009/10,8,8,False,fase de grupos
+940,VB,1985/86,2,5,False,fase de grupos
+939,VB,1979/80,4,3,True,fase de grupos
+834,VB,1979/80,2,4,False,octavos de final
+938,VB,1973/74,3,2,True,fase de grupos
+833,VB,1973/74,0,1,False,octavos de final
+937,VB,1972/73,2,7,False,fase de grupos
+905,Valencia,2019/20,9,7,True,fase de grupos
+766,Valencia,2019/20,4,8,False,octavos de final
+904,Valencia,2018/19,6,6,False,fase de grupos
+903,Valencia,2015/16,5,9,False,fase de grupos
+902,Valencia,2012/13,12,5,True,fase de grupos
+765,Valencia,2012/13,2,3,False,octavos de final
+901,Valencia,2011/12,12,7,False,fase de grupos
+900,Valencia,2010/11,15,4,True,fase de grupos
+764,Valencia,2010/11,2,4,False,octavos de final
+899,Valencia,2007/08,2,6,False,fase de grupos
+898,Valencia,2006/07,12,6,True,fase de grupos
+763,Valencia,2006/07,2,2,True,octavos de final
+527,Valencia,2006/07,2,3,False,cuartos de final
+897,Valencia,2004/05,6,10,False,fase de grupos
+896,Valencia,2002/03,17,4,True,fase de grupos
+762,Valencia,2002/03,5,6,True,octavos de final
+526,Valencia,2002/03,2,2,False,cuartos de final
+895,Valencia,2000/01,7,4,True,fase de grupos
+761,Valencia,2000/01,10,2,True,octavos de final
+525,Valencia,2000/01,2,2,True,cuartos de final
+256,Valencia,2000/01,3,0,True,semifinal
+894,Valencia,1999/00,8,4,True,fase de grupos
+760,Valencia,1999/00,9,5,True,octavos de final
+524,Valencia,1999/00,5,3,True,cuartos de final
+255,Valencia,1999/00,5,3,True,semifinal
+893,Valencia,1971/72,1,1,True,fase de grupos
+759,Valencia,1971/72,1,3,False,octavos de final
+1035,Valletta,1990/91,0,10,False,fase de grupos
+1034,Valletta,1984/85,0,8,False,fase de grupos
+1033,Valletta,1978/79,3,13,False,fase de grupos
+1032,Valletta,1974/75,2,4,False,fase de grupos
+525,Valur,1988/89,1,2,False,fase de grupos
+524,Valur,1986/87,0,11,False,fase de grupos
+523,Valur,1981/82,0,7,False,fase de grupos
+522,Valur,1979/80,1,5,False,fase de grupos
+521,Valur,1977/78,1,2,False,fase de grupos
+520,Valur,1968/69,1,8,False,fase de grupos
+519,Valur,1967/68,4,4,True,fase de grupos
+684,Valur,1967/68,1,11,False,octavos de final
+1332,Vardar,1987/88,0,6,False,fase de grupos
+29,Vasas,1977/78,1,4,False,fase de grupos
+28,Vasas,1967/68,9,1,True,fase de grupos
+315,Vasas,1967/68,11,1,True,octavos de final
+112,Vasas,1967/68,0,3,False,cuartos de final
+27,Vasas,1966/67,7,0,True,fase de grupos
+314,Vasas,1966/67,1,4,False,octavos de final
+313,Vasas,1962/63,3,4,False,octavos de final
+312,Vasas,1957/58,3,2,True,octavos de final
+111,Vasas,1957/58,6,2,True,cuartos de final
+66,Vasas,1957/58,2,4,False,semifinal
+1283,Verona,1985/86,5,2,True,fase de grupos
+974,Verona,1985/86,0,2,False,octavos de final
+1021,Viking,1992/93,0,1,False,octavos de final
+984,Viking,1983/84,1,5,False,fase de grupos
+983,Viking,1980/81,3,7,False,fase de grupos
+982,Viking,1976/77,2,3,False,fase de grupos
+981,Viking,1975/76,2,4,False,fase de grupos
+980,Viking,1974/75,2,6,False,fase de grupos
+979,Viking,1973/74,1,3,False,fase de grupos
+1561,Viktoria Plzeň,2022/23,5,24,False,fase de grupos
+1560,Viktoria Plzeň,2018/19,7,16,False,fase de grupos
+1559,Viktoria Plzeň,2013/14,6,17,False,fase de grupos
+1558,Viktoria Plzeň,2011/12,4,11,False,fase de grupos
+1512,Villarreal,2021/22,12,9,True,fase de grupos
+1115,Villarreal,2021/22,4,1,True,octavos de final
+550,Villarreal,2021/22,2,1,True,cuartos de final
+268,Villarreal,2021/22,2,5,False,semifinal
+1511,Villarreal,2011/12,2,14,False,fase de grupos
+1510,Villarreal,2008/09,9,7,True,fase de grupos
+1114,Villarreal,2008/09,3,2,True,octavos de final
+549,Villarreal,2008/09,1,4,False,cuartos de final
+1509,Villarreal,2005/06,3,1,True,fase de grupos
+1113,Villarreal,2005/06,3,3,True,octavos de final
+548,Villarreal,2005/06,2,2,True,cuartos de final
+267,Villarreal,2005/06,0,1,False,semifinal
+1162,Vllaznia,1978/79,3,4,False,fase de grupos
+272,Vojvodina,1989/90,2,2,False,fase de grupos
+271,Vojvodina,1966/67,1,0,True,fase de grupos
+658,Vojvodina,1966/67,6,5,True,octavos de final
+327,Vojvodina,1966/67,1,2,False,cuartos de final
+1,Vorwärts,1969/70,3,1,True,fase de grupos
+521,Vorwärts,1969/70,4,4,True,octavos de final
+342,Vorwärts,1969/70,1,2,False,cuartos de final
+0,Vorwärts,1966/67,4,6,False,fase de grupos
+520,Vorwärts,1965/66,1,5,False,octavos de final
+519,Vorwärts,1961/62,2,6,False,octavos de final
+1281,Vålerenga,1985/86,0,4,False,fase de grupos
+1280,Vålerenga,1984/85,3,5,False,fase de grupos
+659,Vålerenga,1966/67,2,5,False,octavos de final
+1028,Víkingur Reykjavík,1992/93,2,5,False,octavos de final
+1221,Víkingur Reykjavík,1983/84,1,4,False,fase de grupos
+1220,Víkingur Reykjavík,1982/83,2,4,False,fase de grupos
+926,Wacker,1990/91,7,1,True,fase de grupos
+879,Wacker,1990/91,3,11,False,octavos de final
+925,Wacker,1989/90,9,2,True,fase de grupos
+878,Wacker,1989/90,2,4,False,octavos de final
+924,Wacker,1977/78,3,2,True,fase de grupos
+877,Wacker,1977/78,4,2,True,octavos de final
+425,Wacker,1977/78,3,3,False,cuartos de final
+923,Wacker,1975/76,2,7,False,fase de grupos
+922,Wacker,1973/74,0,4,False,fase de grupos
+921,Wacker,1972/73,0,3,False,fase de grupos
+920,Wacker,1971/72,1,7,False,fase de grupos
+579,Waterford,1973/74,2,6,False,fase de grupos
+578,Waterford,1972/73,2,3,False,fase de grupos
+577,Waterford,1970/71,4,1,True,fase de grupos
+735,Waterford,1970/71,2,10,False,octavos de final
+576,Waterford,1969/70,2,5,False,fase de grupos
+575,Waterford,1968/69,2,10,False,fase de grupos
+946,Widzew,1996/97,6,10,False,octavos de final
+1217,Widzew,1982/83,7,2,True,fase de grupos
+945,Widzew,1982/83,6,5,True,octavos de final
+446,Widzew,1982/83,4,3,True,cuartos de final
+223,Widzew,1982/83,2,4,False,semifinal
+1216,Widzew,1981/82,2,6,False,fase de grupos
+363,Wiener SC,1959/60,5,2,True,octavos de final
+152,Wiener SC,1959/60,2,3,False,cuartos de final
+362,Wiener SC,1958/59,3,2,True,octavos de final
+151,Wiener SC,1958/59,1,7,False,cuartos de final
+1387,Willem II,1999/00,7,15,False,fase de grupos
+1154,Wisła Kraków,1978/79,4,3,True,fase de grupos
+887,Wisła Kraków,1978/79,3,3,True,octavos de final
+432,Wisła Kraków,1978/79,3,5,False,cuartos de final
+1540,Wolfsburg,2021/22,5,10,False,fase de grupos
+1539,Wolfsburg,2015/16,9,6,True,fase de grupos
+1134,Wolfsburg,2015/16,4,2,True,octavos de final
+563,Wolfsburg,2015/16,2,3,False,cuartos de final
+1538,Wolfsburg,2009/10,9,8,False,fase de grupos
+351,Wolves,1959/60,4,1,True,octavos de final
+195,Wolves,1959/60,2,9,False,cuartos de final
+350,Wolves,1958/59,3,4,False,octavos de final
+1334,Xamax,1988/89,3,3,True,fase de grupos
+991,Xamax,1988/89,3,5,False,octavos de final
+1333,Xamax,1987/88,6,2,True,fase de grupos
+990,Xamax,1987/88,2,3,False,octavos de final
+1315,Young Boys,2023/24,7,13,False,fase de grupos
+1314,Young Boys,2021/22,7,12,False,fase de grupos
+1313,Young Boys,2018/19,4,12,False,fase de grupos
+1312,Young Boys,1986/87,1,5,False,fase de grupos
+289,Young Boys,1960/61,3,8,False,octavos de final
+288,Young Boys,1959/60,2,5,False,octavos de final
+287,Young Boys,1958/59,6,2,True,octavos de final
+138,Young Boys,1958/59,4,3,True,cuartos de final
+73,Young Boys,1958/59,1,3,False,semifinal
+286,Young Boys,1957/58,2,3,False,octavos de final
+1009,Zagłębie,1991/92,2,4,False,octavos de final
+1293,Zenit,2021/22,10,10,False,fase de grupos
+1292,Zenit,2020/21,4,13,False,fase de grupos
+1291,Zenit,2019/20,7,9,False,fase de grupos
+1290,Zenit,2015/16,13,6,True,fase de grupos
+978,Zenit,2015/16,1,3,False,octavos de final
+1289,Zenit,2014/15,4,6,False,fase de grupos
+1288,Zenit,2013/14,5,9,True,fase de grupos
+977,Zenit,2013/14,4,5,False,octavos de final
+1287,Zenit,2012/13,6,9,False,fase de grupos
+1286,Zenit,2011/12,7,5,True,fase de grupos
+976,Zenit,2011/12,3,4,False,octavos de final
+1285,Zenit,2008/09,4,7,False,fase de grupos
+1284,Zenit,1985/86,4,0,True,fase de grupos
+975,Zenit,1985/86,3,4,False,octavos de final
+985,Zorya Luhansk,1973/74,3,0,True,fase de grupos
+832,Zorya Luhansk,1973/74,0,1,False,octavos de final
+215,Zürich,2009/10,5,14,False,fase de grupos
+214,Zürich,1981/82,3,3,False,fase de grupos
+213,Zürich,1976/77,2,1,True,fase de grupos
+567,Zürich,1976/77,3,0,True,octavos de final
+270,Zürich,1976/77,4,4,True,cuartos de final
+122,Zürich,1976/77,1,6,False,semifinal
+212,Zürich,1975/76,5,5,False,fase de grupos
+211,Zürich,1974/75,3,5,False,fase de grupos
+210,Zürich,1968/69,3,4,False,fase de grupos
+209,Zürich,1966/67,0,5,False,fase de grupos
+566,Zürich,1963/64,4,4,True,octavos de final
+269,Zürich,1963/64,3,2,True,cuartos de final
+121,Zürich,1963/64,1,8,False,semifinal
+952,Åtvidaberg,1974/75,4,3,True,fase de grupos
+842,Åtvidaberg,1974/75,4,0,True,octavos de final
+411,Åtvidaberg,1974/75,0,5,False,cuartos de final
+951,Åtvidaberg,1973/74,4,4,False,fase de grupos
+892,ÍA,1993/94,1,3,False,fase de grupos
+891,ÍA,1985/86,2,7,False,fase de grupos
+890,ÍA,1984/85,2,7,False,fase de grupos
+889,ÍA,1978/79,2,5,False,fase de grupos
+888,ÍA,1976/77,3,6,False,fase de grupos
+887,ÍA,1975/76,5,2,True,fase de grupos
+863,ÍA,1975/76,0,5,False,octavos de final
+886,ÍA,1971/72,0,4,False,fase de grupos
+1198,ÍBV,1980/81,1,2,False,fase de grupos
+1316,Örgryte,1986/87,3,7,False,fase de grupos
+652,Öster,1982/83,1,2,False,fase de grupos
+651,Öster,1981/82,0,6,False,fase de grupos
+650,Öster,1979/80,1,3,False,fase de grupos
+649,Öster,1969/70,1,3,False,fase de grupos
+805,Újpest,1990/91,0,5,False,fase de grupos
+804,Újpest,1979/80,3,4,False,fase de grupos
+803,Újpest,1978/79,2,4,False,fase de grupos
+802,Újpest,1975/76,5,5,True,fase de grupos
+476,Újpest,1975/76,5,6,False,octavos de final
+801,Újpest,1974/75,7,1,True,fase de grupos
+475,Újpest,1974/75,1,5,False,octavos de final
+800,Újpest,1973/74,6,2,True,fase de grupos
+474,Újpest,1973/74,3,1,True,octavos de final
+361,Újpest,1973/74,2,2,True,cuartos de final
+199,Újpest,1973/74,1,4,False,semifinal
+799,Újpest,1972/73,4,3,True,fase de grupos
+473,Újpest,1972/73,4,2,True,octavos de final
+360,Újpest,1972/73,2,2,False,cuartos de final
+798,Újpest,1971/72,4,1,True,fase de grupos
+472,Újpest,1971/72,3,1,True,octavos de final
+359,Újpest,1971/72,2,3,False,cuartos de final
+797,Újpest,1970/71,2,4,False,fase de grupos
+471,Újpest,1960/61,4,7,False,octavos de final
+1590,İstanbul Başakşehir,2020/21,7,18,False,fase de grupos
+1106,Śląsk,1977/78,2,5,False,fase de grupos
+1025,Žalgiris Vilnius,1992/93,0,8,False,octavos de final
+941,Željezničar,1972/73,1,4,False,fase de grupos
+1545,Žilina,2010/11,3,19,False,fase de grupos

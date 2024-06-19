@@ -1,0 +1,40 @@
+_id,home,away,goalHome,goalAway,season,round,winner
+639,Everton,Mönchengladbach,4,3,1970/71,octavos de final,Everton
+701,Celtic,Inter,4,5,1971/72,semifinal,Inter
+819,Újpest,Spartak Trnava,4,3,1973/74,cuartos de final,Újpest
+820,Åtvidaberg,Bayern,3,4,1973/74,fase de grupos,Bayern
+939,Magdeburg,Malmö,1,2,1975/76,fase de grupos,Malmö
+1060,Juventus,Ajax,3,0,1977/78,cuartos de final,Juventus
+1061,Torpedo Moskva,Benfica,1,4,1977/78,fase de grupos,Benfica
+1123,Dresden,Partizan,5,4,1978/79,fase de grupos,Dresden
+1427,Roma,Liverpool,2,4,1983/84,final,Liverpool
+1489,Dnipro,Bordeaux,3,5,1984/85,cuartos de final,Bordeaux
+1490,Berlin,Aberdeen,5,4,1984/85,fase de grupos,Berlin
+1550,FCSB,Barcelona,2,0,1985/86,final,FCSB
+1551,Barcelona,Göteborg,5,4,1985/86,semifinal,Barcelona
+1611,Juventus,Real Madrid,1,3,1986/87,octavos de final,Real Madrid
+1673,PSV,Benfica,6,5,1987/88,final,PSV
+1734,Crvena zvezda,Milan,2,4,1988/89,octavos de final,Milan
+1735,Xamax,Larissa,3,0,1988/89,fase de grupos,Xamax
+1856,Crvena zvezda,Marseille,5,3,1990/91,final,Crvena zvezda
+1857,Malmö,Dresden,4,5,1990/91,octavos de final,Dresden
+1858,Spartak Moskva,Napoli,5,3,1990/91,octavos de final,Spartak Moskva
+2203,Ajax,Juventus,2,4,1995/96,final,Juventus
+2749,Bayern,Valencia,5,4,2000/01,final,Bayern
+3064,Juventus,Milan,2,3,2002/03,final,Milan
+3315,Milan,Liverpool,2,3,2004/05,final,Liverpool
+3316,PSV,Lyon,4,2,2004/05,cuartos de final,PSV
+3567,Liverpool,Chelsea,4,1,2006/07,semifinal,Liverpool
+3693,Man United,Chelsea,6,5,2007/08,final,Man United
+3694,FC Porto,Schalke,1,4,2007/08,octavos de final,Schalke
+3695,Sevilla,Fenerbahçe,2,3,2007/08,octavos de final,Fenerbahçe
+3821,Roma,Arsenal,6,7,2008/09,octavos de final,Arsenal
+4197,Bayern,Chelsea,3,4,2011/12,final,Chelsea
+4198,Real Madrid,Bayern,1,3,2011/12,semifinal,Bayern
+4199,APOEL,Lyon,4,3,2011/12,octavos de final,APOEL
+4575,Atlético de Madrid,Leverkusen,3,2,2014/15,octavos de final,Atlético de Madrid
+4701,Real Madrid,Atlético de Madrid,5,3,2015/16,final,Real Madrid
+4702,Atlético de Madrid,PSV,8,7,2015/16,octavos de final,Atlético de Madrid
+5684,Atlético de Madrid,Inter,3,2,2023/24,octavos de final,Atlético de Madrid
+5685,Arsenal,FC Porto,4,2,2023/24,octavos de final,Arsenal
+5694,Man City,Real Madrid,3,4,2023/24,cuartos de final,Real Madrid

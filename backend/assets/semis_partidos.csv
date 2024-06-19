@@ -1,0 +1,311 @@
+_id,home,away,goalHome,goalAway,season,round,winner
+1,Milan,Real Madrid,2,1,1956,semifinal,Milan
+2,Hibernian,Reims,0,1,1956,semifinal,Reims
+3,Real Madrid,Milan,4,2,1956,semifinal,Real Madrid
+4,Reims,Hibernian,2,0,1956,semifinal,Reims
+30,Man United,Real Madrid,2,2,1957,semifinal,empate
+31,Fiorentina,Crvena zvezda,0,0,1957,semifinal,empate
+32,Real Madrid,Man United,3,1,1957,semifinal,Real Madrid
+33,Crvena zvezda,Fiorentina,0,1,1957,semifinal,Fiorentina
+61,Milan,Man United,4,0,1958,semifinal,Milan
+62,Vasas,Real Madrid,2,0,1958,semifinal,Vasas
+63,Man United,Milan,2,1,1958,semifinal,Man United
+64,Real Madrid,Vasas,4,0,1958,semifinal,Real Madrid
+91,Reims,Young Boys,3,0,1959,semifinal,Reims
+92,Atlético de Madrid,Real Madrid,1,0,1959,semifinal,Atlético de Madrid
+93,Real Madrid,Atlético de Madrid,2,1,1959,semifinal,Real Madrid
+94,Real Madrid,Atlético de Madrid,2,1,1959,semifinal,Real Madrid
+95,Young Boys,Reims,1,0,1959,semifinal,Young Boys
+123,Rangers,Eintracht Frankfurt,3,6,1960,semifinal,Eintracht Frankfurt
+124,Barcelona,Real Madrid,1,3,1960,semifinal,Real Madrid
+155,Rapid Wien,Benfica,1,1,1961,semifinal,empate
+156,Barcelona,Hamburg,1,0,1961,semifinal,Barcelona
+157,Hamburg,Barcelona,2,1,1961,semifinal,Hamburg
+158,Benfica,Rapid Wien,3,0,1961,semifinal,Benfica
+159,Barcelona,Hamburg,1,0,1961,semifinal,Barcelona
+186,Standard Liège,Real Madrid,0,2,1962,semifinal,Real Madrid
+187,Tottenham,Benfica,2,1,1962,semifinal,Tottenham
+188,Real Madrid,Standard Liège,4,0,1962,semifinal,Real Madrid
+189,Benfica,Tottenham,3,1,1962,semifinal,Benfica
+216,Benfica,Feyenoord,3,1,1963,semifinal,Benfica
+217,Dundee,Milan,1,0,1963,semifinal,Dundee
+218,Milan,Dundee,5,1,1963,semifinal,Milan
+219,Feyenoord,Benfica,0,0,1963,semifinal,empate
+246,Real Madrid,Zürich,6,0,1964,semifinal,Real Madrid
+247,Inter,Dortmund,2,0,1964,semifinal,Inter
+248,Zürich,Real Madrid,1,2,1964,semifinal,Real Madrid
+249,Dortmund,Inter,2,2,1964,semifinal,empate
+276,Inter,Liverpool,3,0,1965,semifinal,Inter
+277,Benfica,Győr,4,0,1965,semifinal,Benfica
+278,Liverpool,Inter,3,1,1965,semifinal,Liverpool
+279,Győr,Benfica,0,1,1965,semifinal,Benfica
+306,Inter,Real Madrid,1,1,1966,semifinal,empate
+307,Man United,Partizan,1,0,1966,semifinal,Man United
+308,Real Madrid,Inter,1,0,1966,semifinal,Real Madrid
+309,Partizan,Man United,2,0,1966,semifinal,Partizan
+335,Inter,CSKA Sofia,1,0,1967,semifinal,Inter
+336,Inter,CSKA Sofia,1,1,1967,semifinal,empate
+337,Celtic,Dukla,3,1,1967,semifinal,Celtic
+338,CSKA Sofia,Inter,1,1,1967,semifinal,empate
+339,Dukla,Celtic,0,0,1967,semifinal,empate
+398,Juventus,Benfica,0,1,1968,semifinal,Benfica
+399,Real Madrid,Man United,3,3,1968,semifinal,empate
+400,Benfica,Juventus,2,0,1968,semifinal,Benfica
+401,Man United,Real Madrid,1,0,1968,semifinal,Man United
+460,Man United,Milan,1,0,1969,semifinal,Man United
+461,Spartak Trnava,Ajax,2,0,1969,semifinal,Spartak Trnava
+462,Milan,Man United,2,0,1969,semifinal,Milan
+463,Ajax,Spartak Trnava,3,0,1969,semifinal,Ajax
+518,Celtic,Leeds,2,1,1970,semifinal,Celtic
+519,Feyenoord,Legia,2,0,1970,semifinal,Feyenoord
+520,Leeds,Celtic,0,1,1970,semifinal,Celtic
+521,Legia,Feyenoord,0,0,1970,semifinal,empate
+579,Ajax,Atlético de Madrid,3,0,1971,semifinal,Ajax
+580,Panathinaikos,Crvena zvezda,3,0,1971,semifinal,Panathinaikos
+581,Atlético de Madrid,Ajax,1,0,1971,semifinal,Atlético de Madrid
+582,Crvena zvezda,Panathinaikos,4,1,1971,semifinal,Crvena zvezda
+641,Benfica,Ajax,0,0,1972,semifinal,empate
+642,Celtic,Inter,0,0,1972,semifinal,empate
+643,Inter,Celtic,0,0,1972,semifinal,empate
+644,Ajax,Benfica,1,0,1972,semifinal,Ajax
+703,Real Madrid,Ajax,0,1,1973,semifinal,Ajax
+704,Derby,Juventus,0,0,1973,semifinal,empate
+705,Ajax,Real Madrid,2,1,1973,semifinal,Ajax
+706,Juventus,Derby,3,1,1973,semifinal,Juventus
+761,Atlético de Madrid,Celtic,2,0,1974,semifinal,Atlético de Madrid
+762,Bayern,Újpest,3,0,1974,semifinal,Bayern
+763,Celtic,Atlético de Madrid,0,0,1974,semifinal,empate
+764,Újpest,Bayern,1,1,1974,semifinal,empate
+822,Barcelona,Leeds,1,1,1975,semifinal,empate
+823,Bayern,St-Étienne,2,0,1975,semifinal,Bayern
+824,St-Étienne,Bayern,0,0,1975,semifinal,empate
+825,Leeds,Barcelona,2,1,1975,semifinal,Leeds
+879,PSV,St-Étienne,0,0,1976,semifinal,empate
+880,Bayern,Real Madrid,2,0,1976,semifinal,Bayern
+881,Real Madrid,Bayern,1,1,1976,semifinal,empate
+882,St-Étienne,PSV,1,0,1976,semifinal,St-Étienne
+941,Liverpool,Zürich,3,0,1977,semifinal,Liverpool
+942,Mönchengladbach,Dynamo Kyiv,2,0,1977,semifinal,Mönchengladbach
+943,Dynamo Kyiv,Mönchengladbach,1,0,1977,semifinal,Dynamo Kyiv
+944,Zürich,Liverpool,1,3,1977,semifinal,Liverpool
+1002,Liverpool,Mönchengladbach,3,0,1978,semifinal,Liverpool
+1003,Club Brugge,Juventus,2,0,1978,semifinal,Club Brugge
+1004,Juventus,Club Brugge,1,0,1978,semifinal,Juventus
+1005,Mönchengladbach,Liverpool,2,1,1978,semifinal,Mönchengladbach
+1063,Köln,Nottm Forest,0,1,1979,semifinal,Nottm Forest
+1064,Malmö,Austria Wien,1,0,1979,semifinal,Malmö
+1065,Nottm Forest,Köln,3,3,1979,semifinal,empate
+1066,Austria Wien,Malmö,0,0,1979,semifinal,empate
+1125,Hamburg,Real Madrid,5,1,1980,semifinal,Hamburg
+1126,Ajax,Nottm Forest,1,0,1980,semifinal,Ajax
+1127,Real Madrid,Hamburg,2,0,1980,semifinal,Real Madrid
+1128,Nottm Forest,Ajax,2,0,1980,semifinal,Nottm Forest
+1186,Inter,Real Madrid,1,0,1981,semifinal,Inter
+1187,Bayern,Liverpool,1,1,1981,semifinal,empate
+1188,Real Madrid,Inter,2,0,1981,semifinal,Real Madrid
+1189,Liverpool,Bayern,0,0,1981,semifinal,empate
+1247,Anderlecht,Aston Villa,0,0,1982,semifinal,empate
+1248,Bayern,CSKA Sofia,4,0,1982,semifinal,Bayern
+1249,Aston Villa,Anderlecht,1,0,1982,semifinal,Aston Villa
+1250,CSKA Sofia,Bayern,4,3,1982,semifinal,CSKA Sofia
+1308,Hamburg,Real Sociedad,2,1,1983,semifinal,Hamburg
+1309,Widzew,Juventus,2,2,1983,semifinal,empate
+1310,Real Sociedad,Hamburg,1,1,1983,semifinal,empate
+1311,Juventus,Widzew,2,0,1983,semifinal,Juventus
+1369,Dinamo Bucureşti,Liverpool,1,2,1984,semifinal,Liverpool
+1370,Roma,Dundee United,3,0,1984,semifinal,Roma
+1371,Dundee United,Roma,2,0,1984,semifinal,Dundee United
+1372,Liverpool,Dinamo Bucureşti,1,0,1984,semifinal,Liverpool
+1429,Panathinaikos,Liverpool,0,1,1985,semifinal,Liverpool
+1430,Bordeaux,Juventus,2,0,1985,semifinal,Bordeaux
+1431,Liverpool,Panathinaikos,4,0,1985,semifinal,Liverpool
+1432,Juventus,Bordeaux,3,0,1985,semifinal,Juventus
+1492,FCSB,Anderlecht,3,0,1986,semifinal,FCSB
+1493,Barcelona,Göteborg,3,0,1986,semifinal,Barcelona
+1494,Anderlecht,FCSB,1,0,1986,semifinal,Anderlecht
+1495,Göteborg,Barcelona,3,0,1986,semifinal,Göteborg
+1553,Real Madrid,Bayern,1,0,1987,semifinal,Real Madrid
+1554,Dynamo Kyiv,FC Porto,1,2,1987,semifinal,FC Porto
+1555,FC Porto,Dynamo Kyiv,2,1,1987,semifinal,FC Porto
+1556,Bayern,Real Madrid,4,1,1987,semifinal,Bayern
+1613,Benfica,FCSB,2,0,1988,semifinal,Benfica
+1614,PSV,Real Madrid,0,0,1988,semifinal,empate
+1615,Real Madrid,PSV,1,1,1988,semifinal,empate
+1616,FCSB,Benfica,0,0,1988,semifinal,empate
+1675,Milan,Real Madrid,5,0,1989,semifinal,Milan
+1676,Galatasaray,FCSB,1,1,1989,semifinal,empate
+1677,Real Madrid,Milan,1,1,1989,semifinal,empate
+1678,FCSB,Galatasaray,4,0,1989,semifinal,FCSB
+1737,Benfica,Marseille,1,0,1990,semifinal,Benfica
+1738,Bayern,Milan,2,1,1990,semifinal,Bayern
+1739,Milan,Bayern,1,0,1990,semifinal,Milan
+1740,Marseille,Benfica,2,1,1990,semifinal,Marseille
+1798,Marseille,Spartak Moskva,2,1,1991,semifinal,Marseille
+1799,Crvena zvezda,Bayern,2,2,1991,semifinal,empate
+1800,Bayern,Crvena zvezda,1,2,1991,semifinal,Crvena zvezda
+1801,Spartak Moskva,Marseille,1,3,1991,semifinal,Marseille
+1860,Sampdoria,Panathinaikos,1,1,1992,semifinal,empate
+1861,Anderlecht,Crvena zvezda,3,2,1992,semifinal,Anderlecht
+1862,Barcelona,Benfica,2,1,1992,semifinal,Barcelona
+1863,Dynamo Kyiv,Sparta Praha,1,0,1992,semifinal,Dynamo Kyiv
+1864,Benfica,Dynamo Kyiv,5,0,1992,semifinal,Benfica
+1865,Crvena zvezda,Sampdoria,1,3,1992,semifinal,Sampdoria
+1866,Panathinaikos,Anderlecht,0,0,1992,semifinal,empate
+1867,Sparta Praha,Barcelona,1,0,1992,semifinal,Sparta Praha
+1868,Barcelona,Dynamo Kyiv,3,0,1992,semifinal,Barcelona
+1869,Sampdoria,Anderlecht,2,0,1992,semifinal,Sampdoria
+1870,Crvena zvezda,Panathinaikos,1,0,1992,semifinal,Crvena zvezda
+1871,Sparta Praha,Benfica,1,1,1992,semifinal,empate
+1872,Benfica,Sparta Praha,1,1,1992,semifinal,empate
+1873,Anderlecht,Sampdoria,3,2,1992,semifinal,Anderlecht
+1874,Dynamo Kyiv,Barcelona,0,2,1992,semifinal,Barcelona
+1875,Panathinaikos,Crvena zvezda,0,2,1992,semifinal,Crvena zvezda
+1876,Crvena zvezda,Anderlecht,3,2,1992,semifinal,Crvena zvezda
+1877,Benfica,Barcelona,0,0,1992,semifinal,empate
+1878,Panathinaikos,Sampdoria,0,0,1992,semifinal,empate
+1879,Sparta Praha,Dynamo Kyiv,2,1,1992,semifinal,Sparta Praha
+1880,Barcelona,Sparta Praha,3,2,1992,semifinal,Barcelona
+1881,Sampdoria,Crvena zvezda,2,0,1992,semifinal,Sampdoria
+1882,Anderlecht,Panathinaikos,0,0,1992,semifinal,empate
+1883,Dynamo Kyiv,Benfica,1,0,1992,semifinal,Dynamo Kyiv
+1933,FC Porto,Göteborg,2,0,1993,semifinal,FC Porto
+1934,Rangers,CSKA Moskva,0,0,1993,semifinal,empate
+1935,Milan,PSV,2,0,1993,semifinal,Milan
+1936,Club Brugge,Marseille,0,1,1993,semifinal,Marseille
+1937,PSV,FC Porto,0,1,1993,semifinal,FC Porto
+1938,Göteborg,Milan,0,1,1993,semifinal,Milan
+1939,CSKA Moskva,Club Brugge,1,2,1993,semifinal,Club Brugge
+1940,Marseille,Rangers,1,1,1993,semifinal,empate
+1941,Rangers,Club Brugge,2,1,1993,semifinal,Rangers
+1942,Milan,FC Porto,1,0,1993,semifinal,Milan
+1943,Göteborg,PSV,3,0,1993,semifinal,Göteborg
+1944,Marseille,CSKA Moskva,6,0,1993,semifinal,Marseille
+1945,FC Porto,Milan,0,1,1993,semifinal,Milan
+1946,PSV,Göteborg,1,3,1993,semifinal,Göteborg
+1947,CSKA Moskva,Marseille,1,1,1993,semifinal,empate
+1948,Club Brugge,Rangers,1,1,1993,semifinal,empate
+1949,PSV,Milan,1,2,1993,semifinal,Milan
+1950,Göteborg,FC Porto,1,0,1993,semifinal,Göteborg
+1951,CSKA Moskva,Rangers,0,1,1993,semifinal,Rangers
+1952,Marseille,Club Brugge,3,0,1993,semifinal,Marseille
+1953,Rangers,Marseille,2,2,1993,semifinal,empate
+1954,FC Porto,PSV,2,2,1993,semifinal,empate
+1955,Milan,Göteborg,4,0,1993,semifinal,Milan
+1956,Club Brugge,CSKA Moskva,1,0,1993,semifinal,Club Brugge
+2007,Milan,Monaco,3,0,1994,semifinal,Milan
+2008,Barcelona,FC Porto,3,0,1994,semifinal,Barcelona
+2082,Milan,Paris,2,0,1995,semifinal,Milan
+2083,Ajax,Bayern,5,2,1995,semifinal,Ajax
+2084,Paris,Milan,0,1,1995,semifinal,Milan
+2085,Bayern,Ajax,0,0,1995,semifinal,empate
+2143,Nantes,Juventus,3,2,1996,semifinal,Nantes
+2144,Panathinaikos,Ajax,0,3,1996,semifinal,Ajax
+2145,Juventus,Nantes,2,0,1996,semifinal,Juventus
+2146,Ajax,Panathinaikos,0,1,1996,semifinal,Panathinaikos
+2205,Man United,Dortmund,0,1,1997,semifinal,Dortmund
+2206,Juventus,Ajax,4,1,1997,semifinal,Juventus
+2207,Ajax,Juventus,1,2,1997,semifinal,Juventus
+2208,Dortmund,Man United,1,0,1997,semifinal,Dortmund
+2266,Dortmund,Real Madrid,0,0,1998,semifinal,empate
+2267,Monaco,Juventus,3,2,1998,semifinal,Monaco
+2268,Real Madrid,Dortmund,2,0,1998,semifinal,Real Madrid
+2269,Juventus,Monaco,4,1,1998,semifinal,Juventus
+2351,Bayern,Dynamo Kyiv,1,0,1999,semifinal,Bayern
+2352,Juventus,Man United,2,3,1999,semifinal,Man United
+2353,Dynamo Kyiv,Bayern,3,3,1999,semifinal,empate
+2354,Man United,Juventus,1,1,1999,semifinal,empate
+2436,Barcelona,Valencia,2,1,2000,semifinal,Barcelona
+2437,Bayern,Real Madrid,2,1,2000,semifinal,Bayern
+2438,Real Madrid,Bayern,2,0,2000,semifinal,Real Madrid
+2439,Valencia,Barcelona,4,1,2000,semifinal,Valencia
+2593,Bayern,Real Madrid,2,1,2001,semifinal,Bayern
+2594,Valencia,Leeds,3,0,2001,semifinal,Valencia
+2595,Leeds,Valencia,0,0,2001,semifinal,empate
+2596,Real Madrid,Bayern,0,1,2001,semifinal,Bayern
+2751,Real Madrid,Barcelona,1,1,2002,semifinal,empate
+2752,Leverkusen,Man United,1,1,2002,semifinal,empate
+2753,Man United,Leverkusen,2,2,2002,semifinal,empate
+2754,Barcelona,Real Madrid,0,2,2002,semifinal,Real Madrid
+2908,Juventus,Real Madrid,3,1,2003,semifinal,Juventus
+2909,Inter,Milan,1,1,2003,semifinal,empate
+2910,Milan,Inter,0,0,2003,semifinal,empate
+2911,Real Madrid,Juventus,2,1,2003,semifinal,Real Madrid
+3066,Chelsea,Monaco,2,2,2004,semifinal,empate
+3067,Deportivo,FC Porto,0,1,2004,semifinal,FC Porto
+3068,FC Porto,Deportivo,0,0,2004,semifinal,empate
+3069,Monaco,Chelsea,3,1,2004,semifinal,Monaco
+3191,PSV,Milan,3,1,2005,semifinal,PSV
+3192,Liverpool,Chelsea,1,0,2005,semifinal,Liverpool
+3193,Chelsea,Liverpool,0,0,2005,semifinal,empate
+3194,Milan,PSV,2,0,2005,semifinal,Milan
+3318,Barcelona,Milan,0,0,2006,semifinal,empate
+3319,Villarreal,Arsenal,0,0,2006,semifinal,empate
+3320,Arsenal,Villarreal,1,0,2006,semifinal,Arsenal
+3321,Milan,Barcelona,0,1,2006,semifinal,Barcelona
+3443,Milan,Man United,3,0,2007,semifinal,Milan
+3444,Liverpool,Chelsea,1,0,2007,semifinal,Liverpool
+3445,Chelsea,Liverpool,1,0,2007,semifinal,Chelsea
+3446,Man United,Milan,3,2,2007,semifinal,Man United
+3569,Chelsea,Liverpool,3,2,2008,semifinal,Chelsea
+3570,Man United,Barcelona,1,0,2008,semifinal,Man United
+3571,Barcelona,Man United,0,0,2008,semifinal,empate
+3572,Liverpool,Chelsea,1,1,2008,semifinal,empate
+3697,Chelsea,Barcelona,1,1,2009,semifinal,empate
+3698,Arsenal,Man United,1,3,2009,semifinal,Man United
+3699,Man United,Arsenal,1,0,2009,semifinal,Man United
+3700,Barcelona,Chelsea,0,0,2009,semifinal,empate
+3823,Barcelona,Inter,1,0,2010,semifinal,Barcelona
+3824,Lyon,Bayern,0,3,2010,semifinal,Bayern
+3825,Bayern,Lyon,1,0,2010,semifinal,Bayern
+3826,Inter,Barcelona,3,1,2010,semifinal,Inter
+3948,Man United,Schalke,4,1,2011,semifinal,Man United
+3949,Barcelona,Real Madrid,1,1,2011,semifinal,empate
+3950,Real Madrid,Barcelona,0,2,2011,semifinal,Barcelona
+3951,Schalke,Man United,0,2,2011,semifinal,Man United
+4073,Real Madrid,Bayern,2,1,2012,semifinal,Real Madrid
+4074,Barcelona,Chelsea,2,2,2012,semifinal,empate
+4075,Chelsea,Barcelona,1,0,2012,semifinal,Chelsea
+4076,Bayern,Real Madrid,2,1,2012,semifinal,Bayern
+4201,Barcelona,Bayern,0,3,2013,semifinal,Bayern
+4202,Real Madrid,Dortmund,2,0,2013,semifinal,Real Madrid
+4203,Dortmund,Real Madrid,4,1,2013,semifinal,Dortmund
+4204,Bayern,Barcelona,4,0,2013,semifinal,Bayern
+4326,Chelsea,Atlético de Madrid,1,3,2014,semifinal,Atlético de Madrid
+4327,Bayern,Real Madrid,0,4,2014,semifinal,Real Madrid
+4328,Real Madrid,Bayern,1,0,2014,semifinal,Real Madrid
+4329,Atlético de Madrid,Chelsea,0,0,2014,semifinal,empate
+4451,Real Madrid,Juventus,1,1,2015,semifinal,empate
+4452,Bayern,Barcelona,3,2,2015,semifinal,Bayern
+4453,Barcelona,Bayern,3,0,2015,semifinal,Barcelona
+4454,Juventus,Real Madrid,2,1,2015,semifinal,Juventus
+4577,Real Madrid,Man City,1,0,2016,semifinal,Real Madrid
+4578,Bayern,Atlético de Madrid,2,1,2016,semifinal,Bayern
+4579,Atlético de Madrid,Bayern,1,0,2016,semifinal,Atlético de Madrid
+4580,Man City,Real Madrid,0,0,2016,semifinal,empate
+4704,Atlético de Madrid,Real Madrid,2,1,2017,semifinal,Atlético de Madrid
+4705,Juventus,Monaco,2,1,2017,semifinal,Juventus
+4706,Monaco,Juventus,0,2,2017,semifinal,Juventus
+4707,Real Madrid,Atlético de Madrid,3,0,2017,semifinal,Real Madrid
+4829,Roma,Liverpool,4,2,2018,semifinal,Roma
+4830,Real Madrid,Bayern,2,2,2018,semifinal,empate
+4831,Bayern,Real Madrid,1,2,2018,semifinal,Real Madrid
+4832,Liverpool,Roma,5,2,2018,semifinal,Liverpool
+4954,Ajax,Tottenham,2,3,2019,semifinal,Tottenham
+4955,Liverpool,Barcelona,4,0,2019,semifinal,Liverpool
+4956,Barcelona,Liverpool,3,0,2019,semifinal,Barcelona
+4957,Tottenham,Ajax,0,1,2019,semifinal,Ajax
+5079,Lyon,Bayern,0,3,2020,semifinal,Bayern
+5080,Leipzig,Paris,0,3,2020,semifinal,Paris
+5198,Chelsea,Real Madrid,2,0,2021,semifinal,Chelsea
+5199,Man City,Paris,2,0,2021,semifinal,Man City
+5200,Paris,Man City,1,2,2021,semifinal,Man City
+5201,Real Madrid,Chelsea,1,1,2021,semifinal,empate
+5323,Real Madrid,Man City,3,1,2022,semifinal,Real Madrid
+5324,Villarreal,Liverpool,2,3,2022,semifinal,Liverpool
+5325,Liverpool,Villarreal,2,0,2022,semifinal,Liverpool
+5326,Man City,Real Madrid,4,3,2022,semifinal,Man City
+5448,Man City,Real Madrid,4,0,2023,semifinal,Man City
+5449,Inter,Milan,1,0,2023,semifinal,Inter
+5450,Milan,Inter,0,2,2023,semifinal,Inter
+5451,Real Madrid,Man City,1,1,2023,semifinal,empate
+5695,Dortmund,Paris,,,2024,semifinal,
