@@ -1,0 +1,60 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>match-list</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">match-list</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <!--<ion-toolbar>
+    <ion-button (click)="previousPage()" [disabled]="currentPage === 1">
+      <ion-icon name="arrow-back"></ion-icon>
+    </ion-button>
+    <ion-label>Page {{currentPage}} of {{totalPages}}</ion-label>
+    <ion-button (click)="nextPage()" [disabled]="currentPage === totalPages">
+      <ion-icon name="arrow-forward"></ion-icon>
+    </ion-button>
+  </ion-toolbar>
+  <ion-list>
+    <ion-item *ngFor="let match of paginatedMatches">
+      <ion-label>
+        <p>{{ match.home }}  {{match.goalHome}} - {{match.goalAway}}  {{match.away}}  Season: {{match.season}}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>-->
+  <ion-toolbar>
+    <ion-label>Season:</ion-label>
+    <ion-select (ionChange)="onSeasonChange($event)" [value]="selectedSeason">
+      <ion-select-option *ngFor="let season of seasons" [value]="season">
+        {{ season }}
+      </ion-select-option>
+    </ion-select>
+  </ion-toolbar>
+
+  <ion-list>
+    <ion-item *ngFor="let match of displayedMatches">
+      <ion-label>
+        <p>{{ match.home }} vs {{ match.away }}</p>
+        <p>Score: {{ match.goalHome }} - {{ match.goalAway }}</p>
+        <p>Season: {{ match.season }}</p>
+        <p>Round: {{ match.round }}</p>
+        <p>Winner: {{ match.winner }}</p>
+        <br/>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+  <ion-toolbar>
+    <ion-button (click)="previousPage()" [disabled]="currentPage === 1">
+      <ion-icon name="arrow-back"></ion-icon>
+    </ion-button>
+    <ion-label>Página {{currentPage}} de {{totalPages}}</ion-label>
+    <ion-button (click)="nextPage()" [disabled]="currentPage === totalPages">
+      <ion-icon name="arrow-forward"></ion-icon>
+    </ion-button>
+  </ion-toolbar>
+</ion-content>
+

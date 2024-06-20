@@ -5517,128 +5517,128 @@ _id,home,away,goalHome,goalAway,season,round,winner
 5569,Salzburg,Milan,1,1,2022/23,fase de grupos,empate
 5570,Dortmund,Copenhagen,3,0,2022/23,fase de grupos,Dortmund
 5571,Dinamo Zagreb,Chelsea,1,0,2022/23,fase de grupos,Dinamo Zagreb
-5572,Milan,Newcastle,0,0,2023/24,fase de grupos,empate
-5573,Young Boys,Leipzig,1,3,2023/24,fase de grupos,Leipzig
-5574,Feyenoord,Celtic,2,0,2023/24,fase de grupos,Feyenoord
-5575,Lazio,Atlético de Madrid,1,1,2023/24,fase de grupos,empate
-5576,Paris,Dortmund,2,0,2023/24,fase de grupos,Paris
-5577,Man City,Crvena zvezda,3,1,2023/24,fase de grupos,Man City
-5578,Barcelona,Antwerp,5,0,2023/24,fase de grupos,Barcelona
-5579,Shakhtar Donetsk,FC Porto,1,3,2023/24,fase de grupos,FC Porto
-5580,Galatasaray,Copenhagen,2,2,2023/24,fase de grupos,empate
-5581,Real Madrid,Union Berlin,1,0,2023/24,fase de grupos,Real Madrid
-5582,Bayern,Man United,4,3,2023/24,fase de grupos,Bayern
-5583,Sevilla,Lens,1,1,2023/24,fase de grupos,empate
-5584,Arsenal,PSV,4,0,2023/24,fase de grupos,Arsenal
-5585,Braga,Napoli,1,2,2023/24,fase de grupos,Napoli
-5586,Real Sociedad,Inter,1,1,2023/24,fase de grupos,empate
-5587,Benfica,Salzburg,0,2,2023/24,fase de grupos,Salzburg
-5588,Union Berlin,Braga,2,3,2023/24,fase de grupos,Braga
-5589,Salzburg,Real Sociedad,0,2,2023/24,fase de grupos,Real Sociedad
-5590,Man United,Galatasaray,2,3,2023/24,fase de grupos,Galatasaray
-5591,Copenhagen,Bayern,1,2,2023/24,fase de grupos,Bayern
-5592,Lens,Arsenal,2,1,2023/24,fase de grupos,Lens
-5593,PSV,Sevilla,2,2,2023/24,fase de grupos,empate
-5594,Napoli,Real Madrid,2,3,2023/24,fase de grupos,Real Madrid
-5595,Inter,Benfica,1,0,2023/24,fase de grupos,Inter
-5596,Atlético de Madrid,Feyenoord,3,2,2023/24,fase de grupos,Atlético de Madrid
-5597,Antwerp,Shakhtar Donetsk,2,3,2023/24,fase de grupos,Shakhtar Donetsk
-5598,Celtic,Lazio,1,2,2023/24,fase de grupos,Lazio
-5599,Dortmund,Milan,0,0,2023/24,fase de grupos,empate
-5600,Newcastle,Paris,4,1,2023/24,fase de grupos,Newcastle
-5601,Leipzig,Man City,1,3,2023/24,fase de grupos,Man City
-5602,Crvena zvezda,Young Boys,2,2,2023/24,fase de grupos,empate
-5603,FC Porto,Barcelona,0,1,2023/24,fase de grupos,Barcelona
-5604,Galatasaray,Bayern,1,3,2023/24,fase de grupos,Bayern
-5605,Inter,Salzburg,2,1,2023/24,fase de grupos,Inter
-5606,Man United,Copenhagen,1,0,2023/24,fase de grupos,Man United
-5607,Sevilla,Arsenal,1,2,2023/24,fase de grupos,Arsenal
-5608,Lens,PSV,1,1,2023/24,fase de grupos,empate
-5609,Braga,Real Madrid,1,2,2023/24,fase de grupos,Real Madrid
-5610,Union Berlin,Napoli,0,1,2023/24,fase de grupos,Napoli
-5611,Benfica,Real Sociedad,0,1,2023/24,fase de grupos,Real Sociedad
-5612,Feyenoord,Lazio,3,1,2023/24,fase de grupos,Feyenoord
-5613,Barcelona,Shakhtar Donetsk,2,1,2023/24,fase de grupos,Barcelona
-5614,Celtic,Atlético de Madrid,2,2,2023/24,fase de grupos,empate
-5615,Paris,Milan,3,0,2023/24,fase de grupos,Paris
-5616,Newcastle,Dortmund,0,1,2023/24,fase de grupos,Dortmund
-5617,Leipzig,Crvena zvezda,3,1,2023/24,fase de grupos,Leipzig
-5618,Young Boys,Man City,1,3,2023/24,fase de grupos,Man City
-5619,Antwerp,FC Porto,1,4,2023/24,fase de grupos,FC Porto
-5620,Dortmund,Newcastle,2,0,2023/24,fase de grupos,Dortmund
-5621,Shakhtar Donetsk,Barcelona,1,0,2023/24,fase de grupos,Shakhtar Donetsk
-5622,Atlético de Madrid,Celtic,6,0,2023/24,fase de grupos,Atlético de Madrid
-5623,Lazio,Feyenoord,1,0,2023/24,fase de grupos,Lazio
-5624,Milan,Paris,2,1,2023/24,fase de grupos,Milan
-5625,Man City,Young Boys,3,0,2023/24,fase de grupos,Man City
-5626,Crvena zvezda,Leipzig,1,2,2023/24,fase de grupos,Leipzig
-5627,FC Porto,Antwerp,2,0,2023/24,fase de grupos,FC Porto
-5628,Napoli,Union Berlin,1,1,2023/24,fase de grupos,empate
-5629,Real Sociedad,Benfica,3,1,2023/24,fase de grupos,Real Sociedad
-5630,Bayern,Galatasaray,2,1,2023/24,fase de grupos,Bayern
-5631,Copenhagen,Man United,4,3,2023/24,fase de grupos,Copenhagen
-5632,Arsenal,Sevilla,2,0,2023/24,fase de grupos,Arsenal
-5633,PSV,Lens,1,0,2023/24,fase de grupos,PSV
+5572,Dortmund,Real Madrid,0,2,2023/24,final,Real Madrid
+5573,Real Madrid,Bayern,2,1,2023/24,semifinal,Real Madrid
+5574,Paris,Dortmund,0,1,2023/24,semifinal,Dortmund
+5575,Dortmund,Paris,1,0,2023/24,semifinal,Dortmund
+5576,Bayern,Real Madrid,2,2,2023/24,semifinal,empate
+5577,Bayern,Arsenal,1,0,2023/24,cuartos de final,Bayern
+5578,Man City,Real Madrid,1,1,2023/24,cuartos de final,empate
+5579,Dortmund,Atlético de Madrid,4,2,2023/24,cuartos de final,Dortmund
+5580,Barcelona,Paris,1,4,2023/24,cuartos de final,Paris
+5581,Paris,Barcelona,2,3,2023/24,cuartos de final,Barcelona
+5582,Atlético de Madrid,Dortmund,2,1,2023/24,cuartos de final,Atlético de Madrid
+5583,Real Madrid,Man City,3,3,2023/24,cuartos de final,empate
+5584,Arsenal,Bayern,2,2,2023/24,cuartos de final,empate
+5585,Dortmund,PSV,2,0,2023/24,octavos de final,Dortmund
+5586,Atlético de Madrid,Inter,2,1,2023/24,octavos de final,Atlético de Madrid
+5587,Barcelona,Napoli,3,1,2023/24,octavos de final,Barcelona
+5588,Arsenal,FC Porto,1,0,2023/24,octavos de final,Arsenal
+5589,Man City,Copenhagen,3,1,2023/24,octavos de final,Man City
+5590,Real Madrid,Leipzig,1,1,2023/24,octavos de final,empate
+5591,Real Sociedad,Paris,1,2,2023/24,octavos de final,Paris
+5592,Bayern,Lazio,3,0,2023/24,octavos de final,Bayern
+5593,Napoli,Barcelona,1,1,2023/24,octavos de final,empate
+5594,FC Porto,Arsenal,1,0,2023/24,octavos de final,FC Porto
+5595,PSV,Dortmund,1,1,2023/24,octavos de final,empate
+5596,Inter,Atlético de Madrid,1,0,2023/24,octavos de final,Inter
+5597,Paris,Real Sociedad,2,0,2023/24,octavos de final,Paris
+5598,Lazio,Bayern,1,0,2023/24,octavos de final,Lazio
+5599,Copenhagen,Man City,1,3,2023/24,octavos de final,Man City
+5600,Leipzig,Real Madrid,0,1,2023/24,octavos de final,Real Madrid
+5601,Antwerp,Barcelona,3,2,2023/24,fase de grupos,Antwerp
+5602,FC Porto,Shakhtar Donetsk,5,3,2023/24,fase de grupos,FC Porto
+5603,Newcastle,Milan,1,2,2023/24,fase de grupos,Milan
+5604,Dortmund,Paris,1,1,2023/24,fase de grupos,empate
+5605,Celtic,Feyenoord,2,1,2023/24,fase de grupos,Celtic
+5606,Atlético de Madrid,Lazio,2,0,2023/24,fase de grupos,Atlético de Madrid
+5607,Crvena zvezda,Man City,2,3,2023/24,fase de grupos,Man City
+5608,Leipzig,Young Boys,2,1,2023/24,fase de grupos,Leipzig
+5609,Salzburg,Benfica,1,3,2023/24,fase de grupos,Benfica
+5610,Inter,Real Sociedad,0,0,2023/24,fase de grupos,empate
+5611,Union Berlin,Real Madrid,2,3,2023/24,fase de grupos,Real Madrid
+5612,Napoli,Braga,2,0,2023/24,fase de grupos,Napoli
+5613,Copenhagen,Galatasaray,1,0,2023/24,fase de grupos,Copenhagen
+5614,Man United,Bayern,0,1,2023/24,fase de grupos,Bayern
+5615,PSV,Arsenal,1,1,2023/24,fase de grupos,empate
+5616,Lens,Sevilla,2,1,2023/24,fase de grupos,Lens
+5617,Real Sociedad,Salzburg,0,0,2023/24,fase de grupos,empate
+5618,Benfica,Inter,3,3,2023/24,fase de grupos,empate
+5619,Braga,Union Berlin,1,1,2023/24,fase de grupos,empate
+5620,Real Madrid,Napoli,4,2,2023/24,fase de grupos,Real Madrid
+5621,Arsenal,Lens,6,0,2023/24,fase de grupos,Arsenal
+5622,Bayern,Copenhagen,0,0,2023/24,fase de grupos,empate
+5623,Sevilla,PSV,2,3,2023/24,fase de grupos,PSV
+5624,Galatasaray,Man United,3,3,2023/24,fase de grupos,empate
+5625,Barcelona,FC Porto,2,1,2023/24,fase de grupos,Barcelona
+5626,Young Boys,Crvena zvezda,2,0,2023/24,fase de grupos,Young Boys
+5627,Man City,Leipzig,3,2,2023/24,fase de grupos,Man City
+5628,Milan,Dortmund,1,3,2023/24,fase de grupos,Dortmund
+5629,Paris,Newcastle,1,1,2023/24,fase de grupos,empate
+5630,Feyenoord,Atlético de Madrid,1,3,2023/24,fase de grupos,Atlético de Madrid
+5631,Shakhtar Donetsk,Antwerp,1,0,2023/24,fase de grupos,Shakhtar Donetsk
+5632,Lazio,Celtic,2,0,2023/24,fase de grupos,Lazio
+5633,Salzburg,Inter,0,1,2023/24,fase de grupos,Inter
 5634,Real Madrid,Braga,3,0,2023/24,fase de grupos,Real Madrid
-5635,Salzburg,Inter,0,1,2023/24,fase de grupos,Inter
-5636,Lazio,Celtic,2,0,2023/24,fase de grupos,Lazio
-5637,Shakhtar Donetsk,Antwerp,1,0,2023/24,fase de grupos,Shakhtar Donetsk
-5638,Feyenoord,Atlético de Madrid,1,3,2023/24,fase de grupos,Atlético de Madrid
-5639,Paris,Newcastle,1,1,2023/24,fase de grupos,empate
-5640,Milan,Dortmund,1,3,2023/24,fase de grupos,Dortmund
-5641,Man City,Leipzig,3,2,2023/24,fase de grupos,Man City
-5642,Young Boys,Crvena zvezda,2,0,2023/24,fase de grupos,Young Boys
-5643,Barcelona,FC Porto,2,1,2023/24,fase de grupos,Barcelona
-5644,Galatasaray,Man United,3,3,2023/24,fase de grupos,empate
-5645,Sevilla,PSV,2,3,2023/24,fase de grupos,PSV
-5646,Bayern,Copenhagen,0,0,2023/24,fase de grupos,empate
-5647,Arsenal,Lens,6,0,2023/24,fase de grupos,Arsenal
-5648,Real Madrid,Napoli,4,2,2023/24,fase de grupos,Real Madrid
-5649,Braga,Union Berlin,1,1,2023/24,fase de grupos,empate
-5650,Benfica,Inter,3,3,2023/24,fase de grupos,empate
-5651,Real Sociedad,Salzburg,0,0,2023/24,fase de grupos,empate
-5652,Lens,Sevilla,2,1,2023/24,fase de grupos,Lens
-5653,PSV,Arsenal,1,1,2023/24,fase de grupos,empate
-5654,Man United,Bayern,0,1,2023/24,fase de grupos,Bayern
-5655,Copenhagen,Galatasaray,1,0,2023/24,fase de grupos,Copenhagen
-5656,Napoli,Braga,2,0,2023/24,fase de grupos,Napoli
-5657,Union Berlin,Real Madrid,2,3,2023/24,fase de grupos,Real Madrid
-5658,Inter,Real Sociedad,0,0,2023/24,fase de grupos,empate
-5659,Salzburg,Benfica,1,3,2023/24,fase de grupos,Benfica
-5660,Leipzig,Young Boys,2,1,2023/24,fase de grupos,Leipzig
-5661,Crvena zvezda,Man City,2,3,2023/24,fase de grupos,Man City
-5662,Atlético de Madrid,Lazio,2,0,2023/24,fase de grupos,Atlético de Madrid
-5663,Celtic,Feyenoord,2,1,2023/24,fase de grupos,Celtic
-5664,Dortmund,Paris,1,1,2023/24,fase de grupos,empate
-5665,Newcastle,Milan,1,2,2023/24,fase de grupos,Milan
-5666,FC Porto,Shakhtar Donetsk,5,3,2023/24,fase de grupos,FC Porto
-5667,Antwerp,Barcelona,3,2,2023/24,fase de grupos,Antwerp
-5668,Leipzig,Real Madrid,0,1,2023/24,octavos de final,Real Madrid
-5669,Copenhagen,Man City,1,3,2023/24,octavos de final,Man City
-5670,Lazio,Bayern,1,0,2023/24,octavos de final,Lazio
-5671,Paris,Real Sociedad,2,0,2023/24,octavos de final,Paris
-5672,Inter,Atlético de Madrid,1,0,2023/24,octavos de final,Inter
-5673,PSV,Dortmund,1,1,2023/24,octavos de final,empate
-5674,FC Porto,Arsenal,1,0,2023/24,octavos de final,FC Porto
-5675,Napoli,Barcelona,1,1,2023/24,octavos de final,empate
-5676,Bayern,Lazio,3,0,2023/24,octavos de final,Bayern
-5677,Real Sociedad,Paris,1,2,2023/24,octavos de final,Paris
-5678,Real Madrid,Leipzig,1,1,2023/24,octavos de final,empate
-5679,Man City,Copenhagen,3,1,2023/24,octavos de final,Man City
-5680,Arsenal,FC Porto,1,0,2023/24,octavos de final,Arsenal
-5681,Barcelona,Napoli,3,1,2023/24,octavos de final,Barcelona
-5682,Atlético de Madrid,Inter,2,1,2023/24,octavos de final,Atlético de Madrid
-5683,Dortmund,PSV,2,0,2023/24,octavos de final,Dortmund
-5686,Arsenal,Bayern,2,2,2023/24,cuartos de final,empate
-5687,Real Madrid,Man City,3,3,2023/24,cuartos de final,empate
-5688,Paris,Barcelona,2,3,2023/24,cuartos de final,Barcelona
-5689,Atlético de Madrid,Dortmund,2,1,2023/24,cuartos de final,Atlético de Madrid
-5690,Barcelona,Paris,1,4,2023/24,cuartos de final,Paris
-5691,Dortmund,Atlético de Madrid,4,2,2023/24,cuartos de final,Dortmund
-5692,Man City,Real Madrid,1,1,2023/24,cuartos de final,empate
-5693,Bayern,Arsenal,1,0,2023/24,cuartos de final,Bayern
-5694,Bayern,Real Madrid,2,2,2023/24,semifinal,empate
-5695,Dortmund,Paris,1,0,2023/24,semifinal,Dortmund
-5696,Real Madrid,Bayern,2,1,2023/24,semifinal,Real Madrid
-5697,Paris,Dortmund,0,1,2023/24,semifinal,Dortmund
-5698,Dortmund,Real Madrid,0,2,2023/24,final,Real Madrid
+5635,PSV,Lens,1,0,2023/24,fase de grupos,PSV
+5636,Arsenal,Sevilla,2,0,2023/24,fase de grupos,Arsenal
+5637,Copenhagen,Man United,4,3,2023/24,fase de grupos,Copenhagen
+5638,Bayern,Galatasaray,2,1,2023/24,fase de grupos,Bayern
+5639,Real Sociedad,Benfica,3,1,2023/24,fase de grupos,Real Sociedad
+5640,Napoli,Union Berlin,1,1,2023/24,fase de grupos,empate
+5641,FC Porto,Antwerp,2,0,2023/24,fase de grupos,FC Porto
+5642,Crvena zvezda,Leipzig,1,2,2023/24,fase de grupos,Leipzig
+5643,Man City,Young Boys,3,0,2023/24,fase de grupos,Man City
+5644,Milan,Paris,2,1,2023/24,fase de grupos,Milan
+5645,Lazio,Feyenoord,1,0,2023/24,fase de grupos,Lazio
+5646,Atlético de Madrid,Celtic,6,0,2023/24,fase de grupos,Atlético de Madrid
+5647,Shakhtar Donetsk,Barcelona,1,0,2023/24,fase de grupos,Shakhtar Donetsk
+5648,Dortmund,Newcastle,2,0,2023/24,fase de grupos,Dortmund
+5649,Antwerp,FC Porto,1,4,2023/24,fase de grupos,FC Porto
+5650,Young Boys,Man City,1,3,2023/24,fase de grupos,Man City
+5651,Leipzig,Crvena zvezda,3,1,2023/24,fase de grupos,Leipzig
+5652,Newcastle,Dortmund,0,1,2023/24,fase de grupos,Dortmund
+5653,Paris,Milan,3,0,2023/24,fase de grupos,Paris
+5654,Celtic,Atlético de Madrid,2,2,2023/24,fase de grupos,empate
+5655,Barcelona,Shakhtar Donetsk,2,1,2023/24,fase de grupos,Barcelona
+5656,Feyenoord,Lazio,3,1,2023/24,fase de grupos,Feyenoord
+5657,Benfica,Real Sociedad,0,1,2023/24,fase de grupos,Real Sociedad
+5658,Union Berlin,Napoli,0,1,2023/24,fase de grupos,Napoli
+5659,Braga,Real Madrid,1,2,2023/24,fase de grupos,Real Madrid
+5660,Lens,PSV,1,1,2023/24,fase de grupos,empate
+5661,Sevilla,Arsenal,1,2,2023/24,fase de grupos,Arsenal
+5662,Man United,Copenhagen,1,0,2023/24,fase de grupos,Man United
+5663,Inter,Salzburg,2,1,2023/24,fase de grupos,Inter
+5664,Galatasaray,Bayern,1,3,2023/24,fase de grupos,Bayern
+5665,FC Porto,Barcelona,0,1,2023/24,fase de grupos,Barcelona
+5666,Crvena zvezda,Young Boys,2,2,2023/24,fase de grupos,empate
+5667,Leipzig,Man City,1,3,2023/24,fase de grupos,Man City
+5668,Newcastle,Paris,4,1,2023/24,fase de grupos,Newcastle
+5669,Dortmund,Milan,0,0,2023/24,fase de grupos,empate
+5670,Celtic,Lazio,1,2,2023/24,fase de grupos,Lazio
+5671,Antwerp,Shakhtar Donetsk,2,3,2023/24,fase de grupos,Shakhtar Donetsk
+5672,Atlético de Madrid,Feyenoord,3,2,2023/24,fase de grupos,Atlético de Madrid
+5673,Inter,Benfica,1,0,2023/24,fase de grupos,Inter
+5674,Napoli,Real Madrid,2,3,2023/24,fase de grupos,Real Madrid
+5675,PSV,Sevilla,2,2,2023/24,fase de grupos,empate
+5676,Lens,Arsenal,2,1,2023/24,fase de grupos,Lens
+5677,Copenhagen,Bayern,1,2,2023/24,fase de grupos,Bayern
+5678,Man United,Galatasaray,2,3,2023/24,fase de grupos,Galatasaray
+5679,Salzburg,Real Sociedad,0,2,2023/24,fase de grupos,Real Sociedad
+5680,Union Berlin,Braga,2,3,2023/24,fase de grupos,Braga
+5681,Benfica,Salzburg,0,2,2023/24,fase de grupos,Salzburg
+5682,Real Sociedad,Inter,1,1,2023/24,fase de grupos,empate
+5683,Braga,Napoli,1,2,2023/24,fase de grupos,Napoli
+5684,Arsenal,PSV,4,0,2023/24,fase de grupos,Arsenal
+5685,Sevilla,Lens,1,1,2023/24,fase de grupos,empate
+5686,Bayern,Man United,4,3,2023/24,fase de grupos,Bayern
+5687,Real Madrid,Union Berlin,1,0,2023/24,fase de grupos,Real Madrid
+5688,Galatasaray,Copenhagen,2,2,2023/24,fase de grupos,empate
+5689,Shakhtar Donetsk,FC Porto,1,3,2023/24,fase de grupos,FC Porto
+5690,Barcelona,Antwerp,5,0,2023/24,fase de grupos,Barcelona
+5691,Man City,Crvena zvezda,3,1,2023/24,fase de grupos,Man City
+5692,Paris,Dortmund,2,0,2023/24,fase de grupos,Paris
+5693,Lazio,Atlético de Madrid,1,1,2023/24,fase de grupos,empate
+5694,Feyenoord,Celtic,2,0,2023/24,fase de grupos,Feyenoord
+5695,Young Boys,Leipzig,1,3,2023/24,fase de grupos,Leipzig
+5696,Milan,Newcastle,0,0,2023/24,fase de grupos,empate
