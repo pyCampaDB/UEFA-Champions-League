@@ -1,6 +1,6 @@
 from rest_framework.serializers import ModelSerializer
 from django.contrib.auth.models import User
-from .models import Team, Round, Match, Stadistic
+from .models import Team, Round, Match, Stadistic,Penalty
 class TeamSerializer(ModelSerializer):
     class Meta:
         model=Team
@@ -16,6 +16,10 @@ class MatchSerializer(ModelSerializer):
 class StadisticSerializer(ModelSerializer):
     class Meta:
         model=Stadistic
+        fields='__all__'
+class PenaltySerializer(ModelSerializer):
+    class Meta:
+        model=Penalty
         fields='__all__'
 class UserSerializer(ModelSerializer):
     class Meta:

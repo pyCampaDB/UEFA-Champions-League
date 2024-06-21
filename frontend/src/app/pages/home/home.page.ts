@@ -1,7 +1,7 @@
 import { Component, OnInit, inject } from '@angular/core';
 //import { IonSelect, IonSelectOption } from '@ionic/angular';
 import { IonHeader, IonToolbar, IonTitle, IonContent, IonListHeader, IonList, IonItem, IonLabel, IonButton, IonIcon } from '@ionic/angular/standalone';
-import {Team, TeamService} from '../services/team.service'
+import {Team, TeamService} from '../../services/team.service'
 import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-home',

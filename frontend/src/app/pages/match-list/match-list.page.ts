@@ -2,7 +2,7 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonList, IonItem, IonLabel,LoadingController, IonButton, IonSelect, IonSelectOption, IonLoading } from '@ionic/angular/standalone';
-import {Match, MatchService} from '../services/match.service'
+import {Match, MatchService} from '../../services/match.service'
 
 @Component({
   selector: 'app-match-list',

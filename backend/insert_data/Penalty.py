@@ -22,7 +22,7 @@ with open(CSV_FILE_PATH, 'r', newline='', encoding='utf-8') as f:
     next(reader)  
     for row in reader:
         # insert each line of csv file
-        cur.execute("INSERT INTO api_penalty (home, away, goalHome, goalAway, season, round, winner) VALUES (%s,%s,%s,%s,%s,%s,%s)",(row[1],row[2],row[3],row[4],row[5],row[6],row[7]))
+        cur.execute("INSERT INTO api_penalty (id,home, away, goalHome, goalAway, season, round, winner) VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7]))
         # Confirms the transaction and closes the connection
 conn.commit()
 cur.close()
