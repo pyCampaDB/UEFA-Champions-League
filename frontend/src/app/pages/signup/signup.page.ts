@@ -1,4 +1,5 @@
-import { Component/*, OnInit*/ } from '@angular/core';
+import { Component,/*, OnInit*/ 
+inject} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormControl, FormGroup,ReactiveFormsModule,/*, FormsModule*/ 
 Validators} from '@angular/forms';
@@ -14,7 +15,8 @@ import { User,SignupService } from 'src/app/services/signup.service';
 })
 export class SignupPage /*implements OnInit*/ {
   signupForm: FormGroup;
-  constructor(private signupService: SignupService) { 
+  signupService = inject(SignupService);
+  constructor() { 
     this.signupForm = new FormGroup({
       username: new FormControl('', Validators.required),
       password: new FormControl('', Validators.required)

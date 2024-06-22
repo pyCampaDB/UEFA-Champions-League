@@ -1,4 +1,5 @@
-import { Component/*, OnInit*/ } from '@angular/core';
+import { Component,/*, OnInit*/ 
+inject} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormGroup, FormsModule, Validators, ReactiveFormsModule } from '@angular/forms';
 import { IonContent, IonHeader, IonTitle, IonToolbar, IonLabel, IonItem, IonButton, IonInput, IonButtons, IonMenuButton } from '@ionic/angular/standalone';
@@ -13,9 +14,10 @@ import { AuthService } from 'src/app/services/auth.service';
 })
 export class LoginPage /*implements OnInit*/ {
   loginForm: FormGroup;
+  authService = inject(AuthService);
   usernameError: string = '';
   passwordError: string = '';
-  constructor(private fb: FormBuilder, private authService: AuthService) {
+constructor(private fb: FormBuilder) {
     this.loginForm = this.fb.group({
       username: ['', Validators.required],
       password: ['', Validators.required]
