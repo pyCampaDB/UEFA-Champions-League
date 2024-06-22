@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Estadísticas por equipos</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="dismiss()">
+        <ion-icon name="close-circle"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let stadistic of stadistics">
+      <ion-label>
+        <h1>{{ stadistic.team }}</h1>
+        <br/>
+        <h2>Partidos jugados: {{ stadistic.amountMatches }}</h2>
+        <h2>Partidos ganados: {{ stadistic.win }}</h2>
+        <h2>Partidos empatados: {{ stadistic.tie }}</h2>
+        <h2>Partidos perdidos: {{ stadistic.lose }}</h2>
+        <h2>Goles anotados: {{ stadistic.goals }}</h2>
+        <h2>Goles encajados: {{ stadistic.goalsAgainst }}</h2>
+        <br />
+        <h2>Tandas de penaltis disputadas: {{ stadistic.penaltisShootout }}</h2>
+        <h2>Tandas de penaltis ganadas: {{ stadistic.penaltisWinner }}</h2>
+        <h2>Tandas de penaltis perdidas: {{ stadistic.penaltisLoser }}</h2>
+        <h2>Goles anotados en tandas de penaltis: {{ stadistic.penaltisGoals }}</h2>
+        <h2>Goles encajados en tandas de penaltis: {{ stadistic.penaltisGoalsAgainst }}</h2>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

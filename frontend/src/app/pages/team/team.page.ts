@@ -1,28 +1,27 @@
 import { Component, OnInit, inject } from '@angular/core';
 import { IonHeader, IonToolbar, IonTitle, IonContent, IonListHeader, IonList, IonItem, IonLabel, IonButton, IonIcon } from '@ionic/angular/standalone';
 import {Team, TeamService} from '../../services/team.service'
-import { StadisticComponent } from 'src/app/components/stadistic/stadistic.component';
 import { StadisticService } from 'src/app/services/stadistic.service';
 import { ModalController } from '@ionic/angular';
+import { StadisticComponent } from 'src/app/components/stadistic/stadistic.component';
 import { CommonModule } from '@angular/common';
 @Component({
-  selector: 'app-home',
-  templateUrl: 'home.page.html',
-  styleUrls: ['home.page.scss'],
+  selector: 'app-team',
+  templateUrl: 'team.page.html',
+  styleUrls: ['team.page.scss'],
   standalone: true,
   imports: [CommonModule,IonList, IonHeader, IonToolbar, IonTitle, IonContent, IonItem, IonLabel, IonListHeader, IonButton, IonIcon],
   providers: [ModalController]
 })
-
-export class HomePage implements OnInit {
+export class TeamPage implements OnInit {
   teams: Team[] = [];
   paginatedTeams: Team[] = [];
+  stadisticService = inject(StadisticService);
+  modalController = inject(ModalController);
   currentPage: number = 1;
   pageSize: number = 50;
   totalPages: number = 0;
   teamService = inject(TeamService);
-  stadisticService = inject(StadisticService);
-  modalController = inject(ModalController);
 
   async ngOnInit() {
     try {

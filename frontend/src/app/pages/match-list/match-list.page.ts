@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonList, IonItem, IonLabel,LoadingController, IonButton, IonSelect, IonSelectOption, IonLoading } from '@ionic/angular/standalone';
 import {Match, MatchService} from '../../services/match.service'
 
+
 @Component({
   selector: 'app-match-list',
   templateUrl: './match-list.page.html',
@@ -83,41 +84,3 @@ export class MatchListPage implements OnInit {
     await this.loadingController.dismiss();
   }
 }
-
-
-/*matches: Match[] = [];
-  paginatedMatches: Match[] = [];
-  currentPage: number = 1;
-  pageSize: number = 50;
-  totalPages: number = 0;
-  matchService = inject(MatchService);
-
-  async ngOnInit() {
-    try {
-      const matches = await this.matchService.getAll();
-      this.matches = matches;
-      this.totalPages = Math.ceil(this.matches.length / this.pageSize);
-      this.loadPage(this.currentPage);
-    } catch (error) {
-      console.error('Error fetching matches:', error);
-    }
-  }
-
-  loadPage(page: number) {
-    this.currentPage = page;
-    const start = (page - 1) * this.pageSize;
-    const end = start + this.pageSize;
-    this.paginatedMatches = this.matches.slice(start, end);
-  }
-
-  nextPage() {
-    if (this.currentPage < this.totalPages) {
-      this.loadPage(this.currentPage + 1);
-    }
-  }
-
-  previousPage() {
-    if (this.currentPage > 1) {
-      this.loadPage(this.currentPage - 1);
-    }
-  }*/

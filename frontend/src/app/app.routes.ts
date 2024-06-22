@@ -18,4 +18,16 @@ export const routes: Routes = [
     path: 'penalty',
     loadComponent: () => import('./pages/penalty/penalty.page').then( m => m.PenaltyPage)
   },
+  {
+    path: 'team',
+    loadComponent: () => import('./pages/team/team.page').then( m => m.TeamPage)
+  },
+  {
+    path: 'signup',
+    loadComponent: () => import('./pages/signup/signup.page').then( m => m.SignupPage)
+  },
+  {
+    path: 'login',
+    loadComponent: () => import('./pages/login/login.page').then( m => m.LoginPage)
+  },
 ];

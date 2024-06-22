@@ -1,6 +1,6 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-from .views import TeamViewSet, RoundViewSet, MatchViewSet, StadisticViewSet, UserViewSet, PenaltyViewSet
+from .views import TeamViewSet, RoundViewSet, MatchViewSet, StadisticViewSet, UserViewSet, PenaltyViewSet,Register
 router=DefaultRouter()
 router.register(r'teams', TeamViewSet)
 router.register(r'rounds', RoundViewSet)
@@ -10,4 +10,5 @@ router.register(r'users', UserViewSet)
 router.register(r'penaltis', PenaltyViewSet)
 urlpatterns = [
     path('', include(router.urls)),
+    path('signup/', Register.as_view(), name="signup"),
 ]

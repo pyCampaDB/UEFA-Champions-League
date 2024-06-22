@@ -5763,9 +5763,9 @@ INSERT INTO `api_penalty` VALUES
 (34,3,2,'2014/15','Atlético de Madrid','Leverkusen','Atlético de Madrid','octavos de final'),
 (35,5,3,'2015/16','Real Madrid','Atlético de Madrid','Real Madrid','final'),
 (36,8,7,'2015/16','Atlético de Madrid','PSV','Atlético de Madrid','octavos de final'),
-(37,3,2,'2023/24','Atlético de Madrid','Inter','Atlético de Madrid','octavos de final'),
-(38,4,2,'2023/24','Arsenal','FC Porto','Arsenal','octavos de final'),
-(39,3,4,'2023/24','Real Madrid','Real Madrid','Man City','cuartos de final');
+(37,3,4,'2023/24','Real Madrid','Real Madrid','Man City','cuartos de final'),
+(38,3,2,'2023/24','Atlético de Madrid','Inter','Atlético de Madrid','octavos de final'),
+(39,4,2,'2023/24','Arsenal','FC Porto','Arsenal','octavos de final');
 /*!40000 ALTER TABLE `api_penalty` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -6903,4 +6903,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-06-20 21:12:51
+-- Dump completed on 2024-06-22  9:13:52

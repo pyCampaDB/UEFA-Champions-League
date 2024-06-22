@@ -1,0 +1,56 @@
+import { Component/*, OnInit*/ } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { FormBuilder, FormGroup, FormsModule, Validators, ReactiveFormsModule } from '@angular/forms';
+import { IonContent, IonHeader, IonTitle, IonToolbar, IonLabel, IonItem, IonButton, IonInput } from '@ionic/angular/standalone';
+import { AuthService } from 'src/app/services/auth.service';
+
+@Component({
+  selector: 'app-login',
+  templateUrl: './login.page.html',
+  styleUrls: ['./login.page.scss'],
+  standalone: true,
+  imports: [IonLabel, IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, IonItem, IonButton, IonInput, ReactiveFormsModule, FormsModule]
+})
+export class LoginPage /*implements OnInit*/ {
+  loginForm: FormGroup;
+  usernameError: string = '';
+  passwordError: string = '';
+  constructor(private fb: FormBuilder, private authService: AuthService) {
+    this.loginForm = this.fb.group({
+      username: ['', Validators.required],
+      password: ['', Validators.required]
+    });
+  } 
+
+  /*ngOnInit() {
+  }*/
+
+
+  async login() {
+    this.usernameError = '';
+    this.passwordError = '';
+
+    const { username, password } = this.loginForm.value;
+
+    try {
+      const response = await this.authService.login(username, password);
+      this.authService.setSession(response, username);
+    } catch (error: any) {
+      if (error && error.error) {
+        const errorMsg = error.error.detail || 'Invalid credentials';
+        const errorField = error.error.field || 'general';
+
+        if (errorField === 'username') {
+          this.usernameError = errorMsg;
+        } else if (errorField === 'password') {
+          this.passwordError = errorMsg;
+        } else {
+          this.usernameError = errorMsg;
+          this.passwordError = errorMsg;
+        }
+      } else {
+        console.error(error);
+      }
+    }
+  }
+}
