@@ -1,5 +1,5 @@
 import { Component, OnInit, inject } from '@angular/core';
-import { IonHeader, IonToolbar, IonTitle, IonContent, IonListHeader, IonList, IonItem, IonLabel, IonButton, IonIcon } from '@ionic/angular/standalone';
+import { IonButtons, IonMenuButton,IonHeader, IonToolbar, IonTitle, IonContent, IonListHeader, IonList, IonItem, IonLabel, IonButton, IonIcon } from '@ionic/angular/standalone';
 import {Team, TeamService} from '../../services/team.service'
 import { StadisticService } from 'src/app/services/stadistic.service';
 import { ModalController } from '@ionic/angular';
@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   templateUrl: 'team.page.html',
   styleUrls: ['team.page.scss'],
   standalone: true,
-  imports: [CommonModule,IonList, IonHeader, IonToolbar, IonTitle, IonContent, IonItem, IonLabel, IonListHeader, IonButton, IonIcon],
+  imports: [CommonModule, IonButtons, IonMenuButton,IonList, IonHeader, IonToolbar, IonTitle, IonContent, IonItem, IonLabel, IonListHeader, IonButton, IonIcon],
   providers: [ModalController]
 })
 export class TeamPage implements OnInit {

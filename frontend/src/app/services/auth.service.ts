@@ -26,7 +26,7 @@ export class AuthService {
     localStorage.setItem('refresh_token', authResult.refresh);
     this.isAuthenticated.next(true);
     this.username.next(username);
-    this.router.navigate(['/home']);
+    this.router.navigate(['/team']);
   }
 
   logout(): void {

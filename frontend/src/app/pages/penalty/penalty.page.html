@@ -1,23 +1,35 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>penalty</ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button menu="m1"> <!-- menuId -->
+      </ion-menu-button>
+    </ion-buttons>
+    <ion-title>Penaltis</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
+  <!--<ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">penalty</ion-title>
+      <ion-title size="large">Tandas de Penaltis</ion-title>
     </ion-toolbar>
-  </ion-header>
+  </ion-header>-->
+  <ion-toolbar>
+    <ion-label slot="end">Temporada: </ion-label>
+    <ion-select (ionChange)="onSeasonChange($event)" [value]="selectedSeason" slot="end">
+      <ion-select-option *ngFor="let season of seasons" [value]="season">
+        {{ season }}
+      </ion-select-option>
+    </ion-select>
+  </ion-toolbar>
   <ion-list>
-    <ion-item *ngFor="let penalty of penaltis">
+    <ion-item *ngFor="let penalty of filteredPenaltis">
       <ion-label>
-        <p>{{ penalty.home }} vs {{ penalty.away }}</p>
-        <p>Score: {{ penalty.goalHome }} - {{ penalty.goalAway }}</p>
-        <p>Season: {{ penalty.season }}</p>
-        <p>Round: {{ penalty.round }}</p>
-        <p>Winner: {{ penalty.winner }}</p>
+        <h1>{{ penalty.home }} vs {{ penalty.away }}</h1>
+        <h2>Resultado: {{ penalty.goalHome }} - {{ penalty.goalAway }}</h2>
+        <h2>Temporada: {{ penalty.season }}</h2>
+        <h2>Fase eliminatoria: {{ penalty.round }}</h2>
+        <h2>Ganador: {{ penalty.winner }}</h2>
         <br/>
       </ion-label>
     </ion-item>

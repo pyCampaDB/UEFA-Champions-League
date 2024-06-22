@@ -1,7 +1,7 @@
 import { Component/*, OnInit*/ } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormBuilder, FormGroup, FormsModule, Validators, ReactiveFormsModule } from '@angular/forms';
-import { IonContent, IonHeader, IonTitle, IonToolbar, IonLabel, IonItem, IonButton, IonInput } from '@ionic/angular/standalone';
+import { IonContent, IonHeader, IonTitle, IonToolbar, IonLabel, IonItem, IonButton, IonInput, IonButtons, IonMenuButton } from '@ionic/angular/standalone';
 import { AuthService } from 'src/app/services/auth.service';
 
 @Component({
@@ -9,7 +9,7 @@ import { AuthService } from 'src/app/services/auth.service';
   templateUrl: './login.page.html',
   styleUrls: ['./login.page.scss'],
   standalone: true,
-  imports: [IonLabel, IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, IonItem, IonButton, IonInput, ReactiveFormsModule, FormsModule]
+  imports: [IonButtons, IonMenuButton,IonLabel, IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, IonItem, IonButton, IonInput, ReactiveFormsModule, FormsModule]
 })
 export class LoginPage /*implements OnInit*/ {
   loginForm: FormGroup;

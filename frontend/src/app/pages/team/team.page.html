@@ -1,20 +1,19 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>Teams</ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button menu="m1"> <!-- menuId -->
+      </ion-menu-button>
+    </ion-buttons>
+    <ion-title>Equipos</ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-header>
-    <ion-toolbar>
-      <ion-title size="large">Team List</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content [fullscreen]="true">
   <ion-toolbar>
     <ion-button (click)="previousPage()" [disabled]="currentPage === 1">
       <ion-icon name="arrow-back"></ion-icon>
     </ion-button>
-    <ion-label>Page {{currentPage}} of {{totalPages}}</ion-label>
+    <ion-label>Página {{currentPage}} de {{totalPages}}</ion-label>
     <ion-button (click)="nextPage()" [disabled]="currentPage === totalPages">
       <ion-icon name="arrow-forward"></ion-icon>
     </ion-button>
@@ -22,7 +21,7 @@
   <ion-list>
     <ion-item *ngFor="let team of paginatedTeams" (click)="showStadistics(team.team)">
       <ion-label>
-        <p>{{ team.team }}</p>
+        <h2>{{ team.team }}</h2>
       </ion-label>
     </ion-item>
   </ion-list>

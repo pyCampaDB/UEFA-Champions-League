@@ -1,7 +1,7 @@
 import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonList, IonItem, IonLabel,LoadingController, IonButton, IonSelect, IonSelectOption, IonLoading } from '@ionic/angular/standalone';
+import { IonButtons, IonMenuButton,IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonList, IonItem, IonLabel,LoadingController, IonButton, IonSelect, IonSelectOption, IonLoading } from '@ionic/angular/standalone';
 import {Match, MatchService} from '../../services/match.service'
 
 
@@ -10,7 +10,7 @@ import {Match, MatchService} from '../../services/match.service'
   templateUrl: './match-list.page.html',
   styleUrls: ['./match-list.page.scss'],
   standalone: true,
-  imports: [IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonItem, IonList, IonLabel,IonButton,IonSelect, IonSelectOption, IonLoading, CommonModule, FormsModule]
+  imports: [IonButtons, IonMenuButton,IonContent, IonHeader, IonTitle, IonToolbar, IonIcon, IonItem, IonList, IonLabel,IonButton,IonSelect, IonSelectOption, IonLoading, CommonModule, FormsModule]
 })
 export class MatchListPage implements OnInit {
   matches: Match[] = [];
@@ -49,6 +49,11 @@ export class MatchListPage implements OnInit {
     this.loadPage(1);
   }
 
+  onSeasonChange(event: any) {
+    this.selectedSeason = event.target.value;
+    this.filterMatches();
+  }
+
   loadPage(page: number){
     this.currentPage = page;
     const start = (page-1)*this.pageSize;
@@ -66,11 +71,6 @@ export class MatchListPage implements OnInit {
     if (this.currentPage > 1) {
       this.loadPage(this.currentPage - 1);
     }
-  }
-
-  onSeasonChange(event: any) {
-    this.selectedSeason = event.target.value;
-    this.filterMatches();
   }
 
   async presentLoading() {

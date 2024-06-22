@@ -2,7 +2,7 @@ import { Component/*, OnInit*/ } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormControl, FormGroup,ReactiveFormsModule,/*, FormsModule*/ 
 Validators} from '@angular/forms';
-import { IonContent, IonHeader, IonTitle, IonToolbar, IonItem, IonLabel, IonButton, IonInput } from '@ionic/angular/standalone';
+import { IonContent, IonHeader, IonTitle, IonToolbar, IonItem, IonLabel, IonButton, IonInput, IonButtons, IonMenuButton } from '@ionic/angular/standalone';
 import { User,SignupService } from 'src/app/services/signup.service';
 
 @Component({
@@ -10,7 +10,7 @@ import { User,SignupService } from 'src/app/services/signup.service';
   templateUrl: './signup.page.html',
   styleUrls: ['./signup.page.scss'],
   standalone: true,
-  imports: [ReactiveFormsModule, IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, IonButton, IonItem, IonLabel, IonInput/*, FormsModule*/]
+  imports: [ReactiveFormsModule, IonContent, IonHeader, IonTitle, IonToolbar, CommonModule, IonButton, IonItem, IonLabel, IonInput, IonButtons, IonMenuButton/*, FormsModule*/]
 })
 export class SignupPage /*implements OnInit*/ {
   signupForm: FormGroup;
