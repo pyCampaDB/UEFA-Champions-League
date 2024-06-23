@@ -38,18 +38,10 @@ constructor(private fb: FormBuilder) {
       const response = await this.authService.login(username, password);
       this.authService.setSession(response, username);
     } catch (error: any) {
-      if (error && error.error) {
+      if (error.error) {
         const errorMsg = error.error.detail || 'Invalid credentials';
-        const errorField = error.error.field || 'general';
-
-        if (errorField === 'username') {
-          this.usernameError = errorMsg;
-        } else if (errorField === 'password') {
-          this.passwordError = errorMsg;
-        } else {
-          this.usernameError = errorMsg;
-          this.passwordError = errorMsg;
-        }
+        this.usernameError = errorMsg;
+        this.passwordError = errorMsg;
       } else {
         console.error(error);
       }

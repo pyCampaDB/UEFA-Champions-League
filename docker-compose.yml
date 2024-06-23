@@ -4,7 +4,7 @@ services:
   db: 
     image: mysql:latest
     restart: always
-    container_name: mysql-champions
+    container_name: mysqlchampions
     volumes:
       - mysql-db:/var/lib/mysql
       - ./backend/mysqldata:/docker-entrypoint-initdb.d
@@ -16,11 +16,11 @@ services:
     ports:
       - "3306:3306"
     networks:
-      - champions-network
+      - championsnetwork
 
   backend:
     build: ./backend
-    container_name: django-champions
+    container_name: djangochampions
     command: ["sh", "-c", "python wait_for_mysql.py && python manage.py makemigrations api && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"]
     volumes:
       - ./backend:/code
@@ -32,18 +32,18 @@ services:
       - MYSQL_PASSWORD=admin
       - MYSQL_HOST=db
     networks:
-      - champions-network
+      - championsnetwork
     depends_on:
       - db
 
   frontend:
     build: ./frontend
-    container_name: ionic-champions
+    container_name: ionicchampions
     ports:
       - "8100:8100"
     networks:
-      - champions-network
+      - championsnetwork
 volumes:
   mysql-db:
 networks:
-  champions-network:
+  championsnetwork:

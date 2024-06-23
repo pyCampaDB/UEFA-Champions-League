@@ -14,12 +14,13 @@
       <ion-label position="floating">Usuario</ion-label>
       <ion-input formControlName="username" type="text"></ion-input>
     </ion-item>
+    <p *ngIf="usernameError" class="error">{{usernameError}}</p>
 
     <ion-item>
       <ion-label position="floating">Contraseña</ion-label>
       <ion-input formControlName="password" type="password"></ion-input>
     </ion-item>
-
+    <p *ngIf="passwordError" class="error">{{passwordError}}</p>
     <ion-button expand="full" type="submit" [disabled]="!signupForm.valid">Registro</ion-button>
   </form>
 </ion-content>

@@ -16,6 +16,8 @@ import { User,SignupService } from 'src/app/services/signup.service';
 export class SignupPage /*implements OnInit*/ {
   signupForm: FormGroup;
   signupService = inject(SignupService);
+  usernameError: string = '';
+  passwordError: string = '';
   constructor() { 
     this.signupForm = new FormGroup({
       username: new FormControl('', Validators.required),
@@ -24,15 +26,31 @@ export class SignupPage /*implements OnInit*/ {
   }
 
   async onSignup() {
+    this.usernameError = '';
+    this.passwordError = '';
+
     if (this.signupForm.valid) {
-      const user: User = this.signupForm.value;
-      try{
-        const result = await this.signupService.signUp(user);
-        console.log('Oleeee');
-      } catch(error) {
-        console.error('Penalty');
+      const { username, password } = this.signupForm.value;
+
+      try {
+        const result = await this.signupService.signUp({ username, password });
+
+        if (result.success) {
+          console.log('Oleee');
+        } else {
+          throw result;
+        }
+      } catch (error: any) {
+        console.log('Signup error:', error);
+        if (error.error) {
+          const errorMsg = error.error.detail || 'Ya existe este usuario';
+          this.usernameError = errorMsg;
+          this.passwordError = errorMsg;
+        } else {
+          console.error(error);
+        }
       }
     }
-  }  
+  }
 
 }

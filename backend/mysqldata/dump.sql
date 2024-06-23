@@ -6684,7 +6684,7 @@ CREATE TABLE `auth_user` (
   `date_joined` datetime(6) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `username` (`username`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -6693,6 +6693,13 @@ CREATE TABLE `auth_user` (
 
 LOCK TABLES `auth_user` WRITE;
 /*!40000 ALTER TABLE `auth_user` DISABLE KEYS */;
+INSERT INTO `auth_user` VALUES
+(1,'pbkdf2_sha256$720000$3GPUEg8qJQIzD8MaQ1NQxd$F67QsiLO/WN4U3Q2jnkzR3rutSdIT1tc5H5I05Ulzcs=',NULL,0,'kenpachi','','','',0,1,'2024-06-22 10:27:56.806182'),
+(2,'pbkdf2_sha256$720000$KjnUOWbnz63vRO8KoqQLUZ$LXW3gowmpT0Ntbu4wkAQJC7lby0hnCQLLedF7rxVbRk=','2024-06-22 10:29:28.236439',1,'admin','','','admin@admin.admin',1,1,'2024-06-22 10:29:05.233533'),
+(3,'pbkdf2_sha256$720000$wSzY72fPJlbYOxvook5rmC$M4rvw1yBaStYNLR+BnO70TwVKgUHeyvkIuop0MQHZK8=',NULL,0,'dukhadam','','','',0,1,'2024-06-22 12:05:07.354152'),
+(4,'pbkdf2_sha256$720000$RwsWZ9XxaBQHZTXueDAYGT$2RZJ+Vw6Dp+6L2yK61TyGT/1D//LTZr3wHmwR1ng2ME=',NULL,0,'silivina','','','',0,1,'2024-06-22 19:57:14.795179'),
+(5,'pbkdf2_sha256$720000$3NGT2O04OkN8SDS2rlghUj$noY18dRKN4Gw3Klb2YzEpcZ0afEOOIA3anqGEX9yd8Q=',NULL,0,'khedira','','','',0,1,'2024-06-22 20:24:37.112686'),
+(6,'pbkdf2_sha256$720000$uUkOCZ4UrCOl7dwTlkMkjf$CHDItkqvTOOd2DJXoHOPwaG3zPM297GuivhXV0+jJXs=',NULL,0,'naruto','','','',0,1,'2024-06-22 22:22:14.661140');
 /*!40000 ALTER TABLE `auth_user` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -6891,6 +6898,8 @@ CREATE TABLE `django_session` (
 
 LOCK TABLES `django_session` WRITE;
 /*!40000 ALTER TABLE `django_session` DISABLE KEYS */;
+INSERT INTO `django_session` VALUES
+('7ti4fp413dh68299x7p22bhjxzxivvo7','.eJxVjMsOwiAQRf-FtSHI8Cgu3fsNZJgBqRqalHZl_HfbpAvd3nPOfYuI61Lj2vMcRxYXocXpd0tIz9x2wA9s90nS1JZ5THJX5EG7vE2cX9fD_Tuo2OtWKwUpARQKnphVctrAAMUGbYhdIQ9nZGIDio23OrghecsbVcp4RC0-X99uN2Y:1sKxzs:XthO8JCXd6EaEx4san2u4cV6-J9Y3aybXL9PHPnoPyg','2024-07-06 10:29:28.253308');
 /*!40000 ALTER TABLE `django_session` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -6903,4 +6912,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-06-22  9:13:52
+-- Dump completed on 2024-06-23  8:24:19
