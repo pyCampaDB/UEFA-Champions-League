@@ -18,7 +18,7 @@ Si no queremos instalar Docker Desktop, para que funcione en local:
 - En la misma sección del archivo `settings.py`, cambiar el valor de `HOST` de `'db'` a `'localhost'`.
 
 Para disponer de todos los datos, hay varias opciones:
-- En el directorio insert_data, cambiar también el valor de `HOST_NAME` de `'db'` a `'localhost'` y configurar la ruta hacia los CSV en función del directorio desde el que se ataque el intérprete. Una vez hecho esto, ejecutar cada uno de los archivos insert_data.
+- En el directorio insert_data, cambiar el valor de `HOST_NAME` de `'db'` a `'localhost'` en cada uno de los archivos y configurar la ruta hacia los CSV en función del directorio desde el que se ataque el intérprete. Una vez hecho esto, ejecutar cada uno de los archivos insert_data.
 - La otra opción sería volcar el archivo dump.sql sobre la base de datos local MySQL. Para ello, ejecutar el comando `mysql -p championsleague < dump.sql`, ó `mysql -h localhost -p championsleague < dump.sql`, sobre el directorio `mysqldata` de `backend`, que es donde se encuentra el archivo (si el ejecutable de mysql está dentro de las variables de entorno y lo podemos ejecutar desde cualquier directorio, en caso contrario, mover el archivo dump.sql al directorio donde tengamos el ejecutable y, tras realizar el volcado, eliminarlo de ese directorio, ya que no nos interesa que se quede ahí).
 
 
